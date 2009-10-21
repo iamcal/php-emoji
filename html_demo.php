@@ -16,6 +16,7 @@
 	<tr>
 		<th>Unified</th>
 		<th>Name</th>
+		<th>Unified Text</th>
 		<th>HTML</th>
 	</tr>
 <?
@@ -26,6 +27,7 @@
 		echo "<tr>\n";
 		echo "<td>".sprintf('U+%04X', $unified)."</td>\n";
 		echo "<td>".HtmlSpecialChars(emoji_get_name($unified))."</td>\n";
+		echo "<td>$bytes</td>\n";
 		echo "<td>".emoji_unified_to_html($bytes)."</td>\n";
 		echo "</tr>\n";
 	}
