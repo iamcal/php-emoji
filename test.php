@@ -19,7 +19,7 @@
 	$test_html	= "Hello <span class=\"emoji emoji1f610\"></span>";
 
 
-	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified (bad test!)");
+	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
 	is(emoji_kddi_to_unified($test_kddi),		$test_unified, "KDDI -> Unified");
 	is(emoji_softbank_to_unified($test_iphone),	$test_unified, "Softbank -> Unified");
 	is(emoji_google_to_unified($test_google),	$test_unified, "Google -> Unified");
