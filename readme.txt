@@ -1,4 +1,12 @@
 
+This is a PHP library for dealing with mobile device Emoji.
+
+It is based on a Ruby library here:
+http://www.bitcontrol.org/2009/10/18/emoji-rubygem-for-iphone-softbank-ntt-docomo-kddi/
+
+And data from Unicode here:
+http://www.unicode.org/~scherer/emoji4unicode/20090804/utc.html
+
 
 USAGE
 -----
@@ -33,4 +41,16 @@ USAGE
 
 ?>
 
-When using the HTML format, you'll also need to include the emoji.css file, which points to
+When using the HTML format, you'll also need to include the emoji.css file, which points 
+to the iphone_emoji.png image. These images come from the iPhone, so don't cover every
+DoCoMo/KDDI/Google emoji (they fall back to a question mark).
+
+
+CREDITS
+-------
+
+By Cal Henderson <cal@iamcal.com>
+
+This work is licensed under the GPL v3
+
+Version 1 released on 2009-10-20
