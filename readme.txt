@@ -12,7 +12,6 @@ USAGE
 -----
 
 <?php
-
 	include('emoji.php');
 
 
@@ -38,12 +37,14 @@ USAGE
 	# to format the emoji.
 
 	$data = emoji_unified_to_html($data);
-
 ?>
 
 When using the HTML format, you'll also need to include the emoji.css file, which points 
 to the iphone_emoji.png image. These images come from the iPhone, so don't cover every
 DoCoMo/KDDI/Google emoji (they fall back to a question mark).
+
+IMPORTANT NOTE: This library currently only deals with UTF-8. If your source data is JIS
+or Shift-JIS, you're out of luck for the moment.
 
 
 CREDITS
