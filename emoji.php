@@ -927,7 +927,6 @@
 	function emoji_unified_to_html(		$text){ return emoji_convert_html($text); }
 
 
-
 	function emoji_convert_incoming($text, $index){
 
 		#
@@ -1007,6 +1006,14 @@
 		return str_replace(array_keys($GLOBALS['emoji_cache']["html"]), $GLOBALS['emoji_cache']["html"], $text);
 	}
 
+	function emoji_get_name($unified_cp){
+
+		foreach ($GLOBALS[emoji_map] as $list){
+			if ($unified_cp == $list[1]) return $list[2];
+		}
+
+		return '?';
+	}
 
 	function emoji_utf8_bytes($cp){
 
