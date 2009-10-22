@@ -2,7 +2,7 @@
 	$cp = hexdec($_GET[cp]);
 
 
-	if ($cp > 0x10000){
+	if ($cp >= 0x10000){
 		# 4 bytes
 		$bytes = array(
 			0xF0 | (($cp & 0x1C0000) >> 18),
@@ -10,14 +10,14 @@
 			0x80 | (($cp & 0xFC0) >> 6),
 			0x80 | ($cp & 0x3F),
 		);
-	}else if ($cp > 0x800){
+	}else if ($cp >= 0x800){
 		# 3 bytes
 		$bytes = array(
 			0xE0 | (($cp & 0xF000) >> 12),
 			0x80 | (($cp & 0xFC0) >> 6),
 			0x80 | ($cp & 0x3F),
 		);
-	}else if ($cp > 0x80){
+	}else if ($cp >= 0x80){
 		# 2 bytes
 		$bytes = array(
 			0xC0 | (($cp & 0x7C0) >> 6),
