@@ -1,0 +1,5 @@
+
+wget http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html
+patch < source_html.patch
+php parse.php full.html > ../emoji_map.php
+
