@@ -25,11 +25,11 @@
 
 	foreach ($all_trs as $item){
 
-		if (!cond_attr_not($item, 'class', 'not_in_proposal')){
+		if ($item->getAttribute('class') == 'not_in_proposal'){
 			continue;
 		}
 
-		if (!cond_attr_match($item, 'id', '/^e-\w{3}$/')){
+		if (!preg_match('/^e-\w{3}$/', $item->getAttribute('id'))){
 			continue;
 		}
 
@@ -114,29 +114,17 @@ echo ";\n";
 
 //-----  functions ------------------
 
+function get_elts_by_tag($root, $tagname){
 
-function cond_attr_not($item, $name, $value) {
-	$attr = $item->getAttribute($name);
-	return $attr != $value;
-}
-
-function cond_attr_match($item, $name, $regex) {
-	$attr = $item->getAttribute($name);
-	return preg_match($regex, $attr) ;
-}
-
-function node_list_to_arr($nodelist) {
+	$nodelist = $root->getElementsByTagName($tagname);
 	$result = array();
+
 	$len = $nodelist->length;
 	for($i=0; $i<$len; $i++) {
 		$result[] = $nodelist->item($i);
 	}
-	return $result;
-}
 
-function get_elts_by_tag($root, $tagname) {
-	return node_list_to_arr(
-		$root->getElementsByTagName($tagname));
+	return $result;
 }
 
 function parse_mapid($elt) {
