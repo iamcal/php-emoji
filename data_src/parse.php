@@ -19,9 +19,26 @@
 	# get an array of <tr>'s we care about
 	#
 
-	$trs = get_elts_by_tag($doc, 'tr');
+	$all_trs = get_elts_by_tag($doc, 'tr');
 
-	$trs = filter_els($trs);
+	$trs = array();
+
+	foreach ($all_trs as $item){
+
+		if (!cond_attr_not($item, 'class', 'not_in_proposal')){
+			continue;
+		}
+
+		if (!cond_attr_match($item, 'id', '/^e-\w{3}$/')){
+			continue;
+		}
+
+		if (!(7 === count(get_elts_by_tag($item, 'td')))){
+			continue;
+		}
+
+		$trs[] = $item;
+	}
 
 	fprintf(STDERR, "trs count:" . count($trs)."\n");
 
@@ -97,29 +114,6 @@ echo ";\n";
 
 //-----  functions ------------------
 
-	function filter_els($items){
-
-		$out = array();
-
-		foreach ($items as $item){
-
-			if (!cond_attr_not($item, 'class', 'not_in_proposal')){
-				continue;
-			}
-
-			if (!cond_attr_match($item, 'id', '/^e-\w{3}$/')){
-				continue;
-			}
-
-			if (!(7 === count(get_elts_by_tag($item, 'td')))){
-				continue;
-			}
-
-			$out[] = $item;
-		}
-
-		return $out;
-	}
 
 function cond_attr_not($item, $name, $value) {
 	$attr = $item->getAttribute($name);
