@@ -86,20 +86,21 @@
 
 	$emoji_maps = array();
 
+	#$emoji_maps['names'] = get_names_map($mapping);
 	$emoji_maps['kaomoji'] = get_all_kaomoji($mapping);
 
 	#fprintf(STDERR, "fix Geta Mark ()  '〓' (U+3013)\n");
 	#$mapping = fix_geta_mark($mapping);
 
-	$emoji_maps["unified_to_docomo"]	= make_mapping($mapping, 'unicode', 'docomo');
-	$emoji_maps["unified_to_kddi"]		= make_mapping($mapping, 'unicode', 'au');
-	$emoji_maps["unified_to_softbank"]	= make_mapping($mapping, 'unicode', 'softbank');
-	$emoji_maps["unified_to_google"]	= make_mapping($mapping, 'unicode', 'google');
+	$emoji_maps["unified_to_docomo"]	= make_mapping($mapping, 'docomo');
+	$emoji_maps["unified_to_kddi"]		= make_mapping($mapping, 'au');
+	$emoji_maps["unified_to_softbank"]	= make_mapping($mapping, 'softbank');
+	$emoji_maps["unified_to_google"]	= make_mapping($mapping, 'google');
 
-	$emoji_maps["docomo_to_unified"]	= make_mapping_flip($mapping, 'unicode', 'docomo');
-	$emoji_maps["kddi_to_unified"]		= make_mapping_flip($mapping, 'unicode', 'au');
-	$emoji_maps["softbank_to_unified"]	= make_mapping_flip($mapping, 'unicode', 'softbank');
-	$emoji_maps["google_to_unified"]	= make_mapping_flip($mapping, 'unicode', 'google');
+	$emoji_maps["docomo_to_unified"]	= make_mapping_flip($mapping, 'docomo');
+	$emoji_maps["kddi_to_unified"]		= make_mapping_flip($mapping, 'au');
+	$emoji_maps["softbank_to_unified"]	= make_mapping_flip($mapping, 'softbank');
+	$emoji_maps["google_to_unified"]	= make_mapping_flip($mapping, 'google');
 
 
 	#
@@ -283,17 +284,25 @@ function get_all_kaomoji($mapping) {
 	return array_keys($arr);
 }
 
-function make_mapping($mapping, $unicode_key, $dest) {
+	function make_names_map($map){
+
+		$out = array();
+		foreach ($map as $row){
+		}
+
+	}
+
+function make_mapping($mapping, $dest) {
 	
 	$result = array();
 
 	foreach($mapping as $map) {
-		$src_code = intval($map[$unicode_key] , 16);
+		$src_code = intval($map['unicode'] , 16);
 		$src_char = int2utf8($src_code);
 		//debug end
 
 		//debug
-//		$src_char = $map[$unicode_key];
+//		$src_char = $map['unicode'];
 
 		if(!empty( $map[$dest]['unicode'] )) {
 			$dest_code = intval($map[$dest]['unicode'], 16);
@@ -312,8 +321,8 @@ function make_mapping($mapping, $unicode_key, $dest) {
 	return $result;
 }
 
-function make_mapping_flip($mapping, $unicode_key, $src) {
-	$result = make_mapping($mapping, $unicode_key, $src);
+function make_mapping_flip($mapping, $src) {
+	$result = make_mapping($mapping, $src);
 	$result = array_flip($result);
 	unset($result[""]);
 	return $result;
