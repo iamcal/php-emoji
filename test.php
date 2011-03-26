@@ -35,6 +35,12 @@
 
 	is(emoji_unified_to_html($test_unified),	$test_html,	"Unified -> HTML");
 
+	echo "#------------------\n";
+
+	is(emoji_get_name(9728),	'BLACK SUN WITH RAYS',		"name 9728");
+	is(emoji_get_name(128128),	'INFORMATION DESK PERSON',	"name 128128");
+	is(emoji_get_name(128080),	'OPEN HANDS',			"name 128080");
+
 
 	#
 	# below here are the test helper functions
