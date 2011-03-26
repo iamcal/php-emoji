@@ -102,6 +102,8 @@
 	$emoji_maps["softbank_to_unified"]	= make_mapping_flip($mapping, 'softbank');
 	$emoji_maps["google_to_unified"]	= make_mapping_flip($mapping, 'google');
 
+	$emoji_maps["unified_to_html"]		= make_html_map($mapping);
+
 
 	#
 	# output
@@ -180,7 +182,7 @@ function has_image($elt) {
 }
 
 function get_unicode_char($elt) {
-	$r = preg_match('/U\+(\w{4,5})/u', $elt->textContent, $match);
+	$r = preg_match('/(?:.*)U\+(\w{4,5})/u', $elt->textContent, $match);
 	return $r ? intval($match[1], 16) : null;
 }
 
@@ -289,6 +291,20 @@ function get_all_kaomoji($mapping) {
 		$out = array();
 		foreach ($map as $row){
 			$out[$row['unicode']] = $row['char_name']['title'];
+		}
+
+		return $out;
+	}
+
+	function make_html_map($map){
+
+		$out = array();
+		foreach ($map as $row){
+
+			$hex = sprintf('%x', $row['unicode']);
+			$bytes = int2utf8($row['unicode']);
+
+			$out[$bytes] = "<span class=\"emoji emoji$hex\"></span>";
 		}
 
 		return $out;
