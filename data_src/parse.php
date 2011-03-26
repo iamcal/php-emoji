@@ -294,41 +294,33 @@ function get_all_kaomoji($mapping) {
 		return $out;
 	}
 
-function make_mapping($mapping, $dest) {
-	
-	$result = array();
+	function make_mapping($mapping, $dest){
 
-	foreach($mapping as $map) {
-		$src_code = $map['unicode'];
-		$src_char = int2utf8($src_code);
-		//debug end
+		$result = array();
 
-		//debug
-//		$src_char = $map['unicode'];
+		foreach ($mapping as $map){
 
-		if(!empty( $map[$dest]['unicode'] )) {
-			$dest_code = $map[$dest]['unicode'];
-			$dest_char = int2utf8($dest_code);
+			$src_char = int2utf8($map['unicode']);
 
-			//debug
-//			$dest_char = $map[$dest]['unicode'];
-		}
-		else {
-			$dest_char = $map[$dest]['kaomoji'];
+			if (!empty($map[$dest]['unicode'])){
+
+				$dest_char = int2utf8($map[$dest]['unicode']);
+			}else{
+				$dest_char = $map[$dest]['kaomoji'];
+			}
+
+			$result[$src_char] = $dest_char;
 		}
 
-		$result[$src_char] = $dest_char ;
+		return $result;
 	}
 
-	return $result;
-}
-
-function make_mapping_flip($mapping, $src) {
-	$result = make_mapping($mapping, $src);
-	$result = array_flip($result);
-	unset($result[""]);
-	return $result;
-}
+	function make_mapping_flip($mapping, $src){
+		$result = make_mapping($mapping, $src);
+		$result = array_flip($result);
+		unset($result[""]);
+		return $result;
+	}
 
 function int2utf8($code) {
 	$iByte = 0;
