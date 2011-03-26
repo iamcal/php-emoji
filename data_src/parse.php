@@ -47,13 +47,13 @@
 	# iterate over the <tr>'s, extracting the data we need
 	#
 
-	$mapping = array();
+	$items = array();
 
 	foreach ($trs as $tr){
 
 		$tds = get_elts_by_tag($tr, 'td');
 
-		$mapping[] = array(
+		$items[] = array(
 			'mapid'		=> parse_mapid($tds[0]),
 			'unicode'	=> parse_unicode($tds[1]),
 			'char_name'	=> parse_char_name($tds[2]),
@@ -64,55 +64,92 @@
 		);
 	}
 
-	fprintf(STDERR, "mapping count:" . count($mapping)."\n");
+	fprintf(STDERR, "codepoint count:".count($items)."\n");
 
 
 	#
-	# filter invalid mappings
+	# filter invalid codepoints
 	#
 
 	fprintf(STDERR, "filter only_kaomoji ; like e-554 -> [A] -> [A] -> [A] -> [A]\n");
-	$mapping = filter_only_kaomoji($mapping);
-	fprintf(STDERR, "mapping count:" . count($mapping)."\n");
+	$items = filter_only_kaomoji($items);
+	fprintf(STDERR, "codepoint count:".count($items)."\n");
 
 	fprintf(STDERR, "filter chars-group ; like #44+#139\n");
-	$mapping = filter_chars_group($mapping);
-	fprintf(STDERR, "mapping count:" . count($mapping)."\n");
+	$items = filter_chars_group($items);
+	fprintf(STDERR, "codepoint count:".count($items)."\n");
 
 
 	#
 	# build the final maps
 	#
 
-	$emoji_maps = array();
+	$maps = array();
 
-	$emoji_maps['names'] = make_names_map($mapping);
-	$emoji_maps['kaomoji'] = get_all_kaomoji($mapping);
+	$maps['names']		= make_names_map($items);
+	$maps['kaomoji']	= get_all_kaomoji($items);
 
 	#fprintf(STDERR, "fix Geta Mark ()  '〓' (U+3013)\n");
-	#$mapping = fix_geta_mark($mapping);
+	#$items = fix_geta_mark($items);
 
-	$emoji_maps["unified_to_docomo"]	= make_mapping($mapping, 'docomo');
-	$emoji_maps["unified_to_kddi"]		= make_mapping($mapping, 'au');
-	$emoji_maps["unified_to_softbank"]	= make_mapping($mapping, 'softbank');
-	$emoji_maps["unified_to_google"]	= make_mapping($mapping, 'google');
+	$maps["unified_to_docomo"]	= make_mapping($items, 'docomo');
+	$maps["unified_to_kddi"]	= make_mapping($items, 'au');
+	$maps["unified_to_softbank"]	= make_mapping($items, 'softbank');
+	$maps["unified_to_google"]	= make_mapping($items, 'google');
 
-	$emoji_maps["docomo_to_unified"]	= make_mapping_flip($mapping, 'docomo');
-	$emoji_maps["kddi_to_unified"]		= make_mapping_flip($mapping, 'au');
-	$emoji_maps["softbank_to_unified"]	= make_mapping_flip($mapping, 'softbank');
-	$emoji_maps["google_to_unified"]	= make_mapping_flip($mapping, 'google');
+	$maps["docomo_to_unified"]	= make_mapping_flip($items, 'docomo');
+	$maps["kddi_to_unified"]	= make_mapping_flip($items, 'au');
+	$maps["softbank_to_unified"]	= make_mapping_flip($items, 'softbank');
+	$maps["google_to_unified"]	= make_mapping_flip($items, 'google');
 
-	$emoji_maps["unified_to_html"]		= make_html_map($mapping);
+	$maps["unified_to_html"]	= make_html_map($items);
 
 
 	#
 	# output
+	# we could just use var_dump, but we get 'better' output this way
 	#
 
-echo '<'.'?'.'php'."\n";
-echo '$GLOBALS["emoji_maps"] = ';
-echo	my_var_export($emoji_maps);
-echo ";\n";
+	echo "<"."?php\n";
+
+	echo "\n";
+	echo "\t#\n";
+	echo "\t# WARNING:\n";
+	echo "\t# This code is auto-generated. Do not modify it manually.\n";
+	echo "\t#\n";
+	echo "\n";
+
+	echo "\t\$GLOBALS['emoji_maps'] = array(\n";
+
+	echo "\t\t'names' => array(\n";
+
+	foreach ($maps[names] as $k => $v){
+
+		$name_enc = "'".AddSlashes($v)."'";
+		echo "\t\t\t$k => $name_enc,\n";
+	}
+
+	echo "\t\t),\n";
+
+	foreach ($maps as $k => $v){
+
+		if ($k == 'names') continue;
+
+		echo "\t\t'$k' => array(\n";
+
+		$count = 0;
+		echo "\t\t\t";
+		foreach ($v as $k2 => $v2){
+			$count++;
+			if ($count % 10 == 0) echo "\n\t\t\t";
+			echo format_string($k2).'=>'.format_string($v2).', ';
+		}
+		echo "\n";
+
+		echo "\t\t),\n";
+	}
+
+	echo "\t);\n";
 
 
 //-----  functions ------------------
@@ -302,7 +339,7 @@ function get_all_kaomoji($mapping) {
 		foreach ($map as $row){
 
 			$hex = sprintf('%x', $row['unicode']);
-			$bytes = int2utf8($row['unicode']);
+			$bytes = emoji_utf8_bytes($row['unicode']);
 
 			$out[$bytes] = "<span class=\"emoji emoji$hex\"></span>";
 		}
@@ -316,11 +353,11 @@ function get_all_kaomoji($mapping) {
 
 		foreach ($mapping as $map){
 
-			$src_char = int2utf8($map['unicode']);
+			$src_char = emoji_utf8_bytes($map['unicode']);
 
 			if (!empty($map[$dest]['unicode'])){
 
-				$dest_char = int2utf8($map[$dest]['unicode']);
+				$dest_char = emoji_utf8_bytes($map[$dest]['unicode']);
 			}else{
 				$dest_char = $map[$dest]['kaomoji'];
 			}
@@ -338,60 +375,39 @@ function get_all_kaomoji($mapping) {
 		return $result;
 	}
 
-function int2utf8($code) {
-	$iByte = 0;
-	$i = 0;
-	$result = "";
+	function emoji_utf8_bytes($cp){
 
-	while($code > 0x7f)	{
-		$iByte = $code % 0x40;
-		$code = ($code - $iByte)/0x40;
-		$result =  chr($iByte|0x80) . $result;
-		$i++;
-	}
-
-	$prefix_arr = array(0x0, 0xc0, 0xe0, 0xf0, 0xf8, 0xfc);
-
-	if($i > count($prefix_arr))	{
-		$i = 5;
-	}
-
-	$result= chr($code|$prefix_arr[$i]) . $result;
-	return $result;
-}
-
-
-function format_string($s){
-	$out = ''; 
-	for ($i=0; $i<strlen($s); $i++){
-		$c = ord(substr($s,$i,1));
-		if ($c >= 0x20 && $c < 0x80 && !in_array($c, array(34, 39, 92))){
-			$out .= chr($c);
+		if ($cp > 0x10000){
+			# 4 bytes
+			return	chr(0xF0 | (($cp & 0x1C0000) >> 18)).
+				chr(0x80 | (($cp & 0x3F000) >> 12)).
+				chr(0x80 | (($cp & 0xFC0) >> 6)).
+				chr(0x80 | ($cp & 0x3F));
+		}else if ($cp > 0x800){
+			# 3 bytes
+			return	chr(0xE0 | (($cp & 0xF000) >> 12)).
+				chr(0x80 | (($cp & 0xFC0) >> 6)).
+				chr(0x80 | ($cp & 0x3F));
+		}else if ($cp > 0x80){
+			# 2 bytes
+			return	chr(0xC0 | (($cp & 0x7C0) >> 6)).
+				chr(0x80 | ($cp & 0x3F));
 		}else{
-			$out .= sprintf('\\x%02x', $c);
-		}   
-	}   
-	return '"'.$out.'"';
-}   
-
-function my_var_export($arr) {
-	$tab = "\t\t";
-	$str = "array(\n";
-	foreach($arr as $name => $value) {
-		$str .= $tab ;
-		$str .= format_string($name). "\t=>\t" ;
-		if(is_array($value)) {
-			$exp = my_var_export($value) ;
-			$str .= preg_replace('/^/', $tab, $exp) ."\t,\n";
-		}
-		elseif(is_object($value)) {
-			$exp = var_export($value, true) . "\t,\n";
-			$str .= preg_replace('/^/', $tab, $exp);
-		}
-		else {
-			$str .= format_string($value). "\t,\n" ;
+			# 1 byte
+			return chr($cp);
 		}
 	}
-	$str .= "\t)\n";
-	return $str;
-}
+
+	function format_string($s){
+		$out = ''; 
+		for ($i=0; $i<strlen($s); $i++){
+			$c = ord(substr($s,$i,1));
+			if ($c >= 0x20 && $c < 0x80 && !in_array($c, array(34, 39, 92))){
+				$out .= chr($c);
+			}else{
+				$out .= sprintf('\\x%02x', $c);
+			}   
+		}   
+		return '"'.$out.'"';
+	}   
+
