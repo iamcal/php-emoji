@@ -86,7 +86,7 @@
 
 	$emoji_maps = array();
 
-	#$emoji_maps['names'] = get_names_map($mapping);
+	$emoji_maps['names'] = make_names_map($mapping);
 	$emoji_maps['kaomoji'] = get_all_kaomoji($mapping);
 
 	#fprintf(STDERR, "fix Geta Mark ()  '〓' (U+3013)\n");
@@ -288,8 +288,10 @@ function get_all_kaomoji($mapping) {
 
 		$out = array();
 		foreach ($map as $row){
+			$out[intval($row['unicode'] , 16)] = $row['char_name']['title'];
 		}
 
+		return $out;
 	}
 
 function make_mapping($mapping, $dest) {
