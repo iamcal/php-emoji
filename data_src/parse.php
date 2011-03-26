@@ -181,7 +181,7 @@ function has_image($elt) {
 
 function get_unicode_char($elt) {
 	$r = preg_match('/U\+(\w{4,5})/u', $elt->textContent, $match);
-	return $r ? $match[1] : null;
+	return $r ? intval($match[1], 16) : null;
 }
 
 function get_sjis_char($elt) {
@@ -288,7 +288,7 @@ function get_all_kaomoji($mapping) {
 
 		$out = array();
 		foreach ($map as $row){
-			$out[intval($row['unicode'] , 16)] = $row['char_name']['title'];
+			$out[$row['unicode']] = $row['char_name']['title'];
 		}
 
 		return $out;
@@ -299,7 +299,7 @@ function make_mapping($mapping, $dest) {
 	$result = array();
 
 	foreach($mapping as $map) {
-		$src_code = intval($map['unicode'] , 16);
+		$src_code = $map['unicode'];
 		$src_char = int2utf8($src_code);
 		//debug end
 
@@ -307,7 +307,7 @@ function make_mapping($mapping, $dest) {
 //		$src_char = $map['unicode'];
 
 		if(!empty( $map[$dest]['unicode'] )) {
-			$dest_code = intval($map[$dest]['unicode'], 16);
+			$dest_code = $map[$dest]['unicode'];
 			$dest_char = int2utf8($dest_code);
 
 			//debug
