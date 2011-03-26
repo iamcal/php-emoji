@@ -1,72 +1,93 @@
 <?php
+	#
+	# requires php 5.2+
+	#
 
-//require php 5.3.0+
 
-$doc = new DOMDocument();
-@$doc->loadHTML(str_ireplace(
-					array('<br>', '<br/>', '<br />'),
-					"\n",
-					file_get_contents($argv[1])));
+	#
+	# open and parse html
+	#
 
-$trs = get_elts_by_tag($doc, 'tr');
+	$html = file_get_contents($argv[1]);
+	$html = str_ireplace(array('<br>', '<br/>', '<br />'), "\n", $html);
 
-$trs = filter_els($trs, array(
-		function ($item){
-			return cond_attr_not($item, 'class', 'not_in_proposal');
-		} ,
-		function ($item){
-			return cond_attr_match($item, 'id', '/^e-\w{3}$/');
-		} ,
-		function ($item){
-			return 7 === count(get_elts_by_tag($item, 'td')) ;
-		} ,
-	));
+	$doc = new DOMDocument();
+	@$doc->loadHTML($html);
 
-fprintf(STDERR, "trs count:" . count($trs)."\n");
 
-$mapping = array();
+	#
+	# get an array of <tr>'s we care about
+	#
 
-foreach($trs as $tr) {
-	$map = array();
+	$trs = get_elts_by_tag($doc, 'tr');
 
-	$tds = get_elts_by_tag($tr, 'td');
+	$trs = filter_els($trs);
 
-	$map['mapid'] = parse_mapid($tds[0]);
-	$map['unicode'] = parse_unicode($tds[1]);
-	$map['char_name'] = parse_char_name($tds[2]);
-	$map['docomo'] = parse_mobile($tds[3]);
-	$map['au'] = parse_mobile($tds[4]);
-	$map['softbank'] = parse_mobile($tds[5]);
-	$map['google'] = parse_google($tds[6]);
+	fprintf(STDERR, "trs count:" . count($trs)."\n");
 
-	$mapping[] = $map;
-}
 
-fprintf(STDERR, "mapping count:" . count($mapping)."\n");
+	#
+	# iterate over the <tr>'s, extracting the data we need
+	#
 
-//filter invalid mapping
-fprintf(STDERR, "filter only_kaomoji ; like e-554 -> [A] -> [A] -> [A] -> [A]\n");
-$mapping = filter_only_kaomoji($mapping);
-fprintf(STDERR, "mapping count:" . count($mapping)."\n");
+	$mapping = array();
 
-fprintf(STDERR, "filter chars-group ; like #44+#139\n");
-$mapping = filter_chars_group($mapping);
-fprintf(STDERR, "mapping count:" . count($mapping)."\n");
+	foreach ($trs as $tr){
 
-$emoji_maps['kaomoji'] = get_all_kaomoji($mapping);
+		$tds = get_elts_by_tag($tr, 'td');
 
-#fprintf(STDERR, "fix Geta Mark ()  '〓' (U+3013)\n");
-#$mapping = fix_geta_mark($mapping);
+		$mapping[] = array(
+			'mapid'		=> parse_mapid($tds[0]),
+			'unicode'	=> parse_unicode($tds[1]),
+			'char_name'	=> parse_char_name($tds[2]),
+			'docomo'	=> parse_mobile($tds[3]),
+			'au'		=> parse_mobile($tds[4]),
+			'softbank'	=> parse_mobile($tds[5]),
+			'google'	=> parse_google($tds[6]),
+		);
+	}
 
-//export mapping array
-$emoji_maps["unified_to_docomo"] = make_mapping($mapping, 'unicode', 'docomo');
-$emoji_maps["unified_to_kddi"] = make_mapping($mapping, 'unicode', 'au');
-$emoji_maps["unified_to_softbank"] = make_mapping($mapping, 'unicode', 'softbank');
-$emoji_maps["unified_to_google"] = make_mapping($mapping, 'unicode', 'google');
-$emoji_maps["docomo_to_unified"] = make_mapping_flip($mapping, 'unicode', 'docomo');
-$emoji_maps["kddi_to_unified"] = make_mapping_flip($mapping, 'unicode', 'au');
-$emoji_maps["softbank_to_unified"] = make_mapping_flip($mapping, 'unicode', 'softbank');
-$emoji_maps["google_to_unified"] = make_mapping_flip($mapping, 'unicode', 'google');
+	fprintf(STDERR, "mapping count:" . count($mapping)."\n");
+
+
+	#
+	# filter invalid mappings
+	#
+
+	fprintf(STDERR, "filter only_kaomoji ; like e-554 -> [A] -> [A] -> [A] -> [A]\n");
+	$mapping = filter_only_kaomoji($mapping);
+	fprintf(STDERR, "mapping count:" . count($mapping)."\n");
+
+	fprintf(STDERR, "filter chars-group ; like #44+#139\n");
+	$mapping = filter_chars_group($mapping);
+	fprintf(STDERR, "mapping count:" . count($mapping)."\n");
+
+
+	#
+	# build the final maps
+	#
+
+	$emoji_maps = array();
+
+	$emoji_maps['kaomoji'] = get_all_kaomoji($mapping);
+
+	#fprintf(STDERR, "fix Geta Mark ()  '〓' (U+3013)\n");
+	#$mapping = fix_geta_mark($mapping);
+
+	$emoji_maps["unified_to_docomo"]	= make_mapping($mapping, 'unicode', 'docomo');
+	$emoji_maps["unified_to_kddi"]		= make_mapping($mapping, 'unicode', 'au');
+	$emoji_maps["unified_to_softbank"]	= make_mapping($mapping, 'unicode', 'softbank');
+	$emoji_maps["unified_to_google"]	= make_mapping($mapping, 'unicode', 'google');
+
+	$emoji_maps["docomo_to_unified"]	= make_mapping_flip($mapping, 'unicode', 'docomo');
+	$emoji_maps["kddi_to_unified"]		= make_mapping_flip($mapping, 'unicode', 'au');
+	$emoji_maps["softbank_to_unified"]	= make_mapping_flip($mapping, 'unicode', 'softbank');
+	$emoji_maps["google_to_unified"]	= make_mapping_flip($mapping, 'unicode', 'google');
+
+
+	#
+	# output
+	#
 
 echo '<'.'?'.'php'."\n";
 echo '$GLOBALS["emoji_maps"] = ';
@@ -76,23 +97,29 @@ echo ";\n";
 
 //-----  functions ------------------
 
-function filter_els($elts, $conds) {
-	$result = array();
-	foreach($elts as $elt) {
-		$bl = true;
+	function filter_els($items){
 
-		foreach($conds as $func) 
-				if(! $func($elt) ) {
-					$bl = false;
-					break;
-				}
+		$out = array();
 
-		if($bl) {
-			$result[] = $elt;
+		foreach ($items as $item){
+
+			if (!cond_attr_not($item, 'class', 'not_in_proposal')){
+				continue;
+			}
+
+			if (!cond_attr_match($item, 'id', '/^e-\w{3}$/')){
+				continue;
+			}
+
+			if (!(7 === count(get_elts_by_tag($item, 'td')))){
+				continue;
+			}
+
+			$out[] = $item;
 		}
+
+		return $out;
 	}
-	return $result;
-}
 
 function cond_attr_not($item, $name, $value) {
 	$attr = $item->getAttribute($name);
