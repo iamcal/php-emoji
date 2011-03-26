@@ -37,9 +37,11 @@
 
 	echo "#------------------\n";
 
-	is(emoji_get_name(9728),	'BLACK SUN WITH RAYS',		"name 9728");
-	is(emoji_get_name(128128),	'INFORMATION DESK PERSON',	"name 128128");
-	is(emoji_get_name(128080),	'OPEN HANDS',			"name 128080");
+	is(emoji_get_name(9728),	'BLACK SUN WITH RAYS',		"name U+2600");
+	is(emoji_get_name(9962),	'CHURCH',			"name U+26EA");
+	is(emoji_get_name(128128),	'SKULL',			"name U+1F480");
+	is(emoji_get_name(128080),	'OPEN HANDS SIGN',		"name U+1F450");
+	is(emoji_get_name(128299),	'PISTOL',			"name U+1F52B");
 
 
 	#
