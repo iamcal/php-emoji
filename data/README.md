@@ -1,13 +1,13 @@
 Just looking for the library?
 =============================
 
-You don't need to worry about the contents of this directory - just use emoji.php and emoji.css in the parent directory.
+You don't need to worry about the contents of this directory - just use <code>emoji.php</code> and <code>emoji.css</code> in the parent directory.
 
 
 I'm a developer, tell me more...
 ================================
 
-The scripts in this folder aloow you to build the library from the unicode.org source materials.
+The scripts in this directory allow you to build the library from the unicode.org source materials.
 
 The catalog contains an array of Emoji, each record containing the different codepoints, names, etc.
 
