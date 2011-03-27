@@ -1,11 +1,11 @@
 
 This is a PHP library for dealing with mobile device Emoji.
 
-It is based on a Ruby library here:
-http://www.bitcontrol.org/2009/10/18/emoji-rubygem-for-iphone-softbank-ntt-docomo-kddi/
+It is based on a Ruby library here:<br>
+<a href="http://www.bitcontrol.org/2009/10/18/emoji-rubygem-for-iphone-softbank-ntt-docomo-kddi/">http://www.bitcontrol.org/2009/10/18/emoji-rubygem-for-iphone-softbank-ntt-docomo-kddi/</a>
 
-And data from Unicode here:
-http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html
+And data from Unicode here:<br>
+<a href="http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html">http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html</a>
 
 
 USAGE
@@ -39,8 +39,8 @@ USAGE
         $data = emoji_unified_to_html($data);
     ?>
 
-When using the HTML format, you'll also need to include the emoji.css file, which points 
-to the iphone_emoji.png image. These images come from the iPhone, so don't cover every
+When using the HTML format, you'll also need to include the <code>emoji.css</code> file, which points 
+to the <code>iphone_emoji.png</code> image. These images come from the iPhone, so don't cover every
 DoCoMo/KDDI/Google emoji (they fall back to a question mark).
 
 IMPORTANT NOTE: This library currently only deals with UTF-8. If your source data is JIS
