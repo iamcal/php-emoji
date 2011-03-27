@@ -22,14 +22,31 @@
 		);
 	}
 
+?>
 
-	echo "<table>\n";
+<link rel="stylesheet" type="text/css" media="all" href="emoji.css" />
 
+<table border="1">
+	<tr>
+		<th colspan="2">Name</th>
+		<th>Unified</th>
+		<th>DoCoMo</th>
+		<th>KDDI</th>
+		<th>Softbank</th>
+		<th>Google</th>
+	</tr>
+
+<?
 	foreach ($out as $row){
 
 		echo "\t<tr>\n";
-		echo "\t\t<td></td>\n";
-
+		echo "\t\t<td>$row[html]</td>\n";
+		echo "\t\t<td>".HtmlSpecialChars(StrToLower($row['name']))."</td>\n";
+		echo "\t\t<td>".format_codepoint($row['unified'])."</td>\n";
+		echo "\t\t<td>".format_codepoint($row['docomo'])."</td>\n";
+		echo "\t\t<td>".format_codepoint($row['kddi'])."</td>\n";
+		echo "\t\t<td>".format_codepoint($row['softbank'])."</td>\n";
+		echo "\t\t<td>".format_codepoint($row['google'])."</td>\n";
 		echo "\t</tr>\n";
 	}
 	echo "</table>\n";
@@ -40,6 +57,12 @@
 
 
 
+	function format_codepoint($u){
+
+		if ($u) return 'U+'.sprintf('%04X', $u);
+
+		return '-';
+	}
 
 	function utf8_code_to_bytes($cp){
 
