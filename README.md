@@ -52,6 +52,8 @@ CREDITS
 
 By Cal Henderson <cal@iamcal.com>
 
+Parser rewrite based on a fork by <a href="https://github.com/dulao5">&#26460;&#24535;&#21018;</a>
+
 This work is licensed under the GPL v3
 
 Version 1 released on 2009-10-20
