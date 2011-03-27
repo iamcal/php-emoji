@@ -1,11 +1,10 @@
-To rebuild the catalog and map from the original dtables
+To rebuild the catalog from the original data tables:
 
     wget http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html
     patch < source_html.patch
     php parse.php full.html > catalog.php
-    php build.php > ../emoji_map.php
 
-Then you'll want to rebuild the CSS
+You can then use the catalog to build the PHP map and the CSS file:
 
-    cd ../css_data
-    php parse.php > ../emoji.css
+    php build_map.php > ../emoji_map.php
+    php build_css.php > ../emoji.css
