@@ -5,8 +5,7 @@ It is based on a Ruby library here:
 http://www.bitcontrol.org/2009/10/18/emoji-rubygem-for-iphone-softbank-ntt-docomo-kddi/
 
 And data from Unicode here:
-http://www.unicode.org/~scherer/emoji4unicode/20090804/utc.html
-
+http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html
 
 USAGE
 -----
