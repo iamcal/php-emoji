@@ -28,8 +28,6 @@
 
 	$maps["unified_to_html"]	= make_html_map($items);
 
-	$maps["catalog"] = $items;
-
 
 	#
 	# output
@@ -67,7 +65,7 @@
 		echo "\t\t\t";
 		foreach ($v as $k2 => $v2){
 			$count++;
-			if ($count % 10 == 0) echo "\n\t\t\t";
+			if ($count % 5 == 0) echo "\n\t\t\t";
 			echo format_string($k2).'=>'.format_string($v2).', ';
 		}
 		echo "\n";
