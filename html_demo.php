@@ -20,7 +20,13 @@
 		<th>HTML</th>
 	</tr>
 <?
-	foreach (array(0x2600, 0x1F493, 0x1F502) as $unified){
+	$src = array(
+		0x2600,		# BLACK SUN WITH RAYS
+		0x1F494,	# BROKEN HEART (was U+1F493)
+		0x1F197,	# OK SIGN (was U+1F502)
+	);
+
+	foreach ($src as $unified){
 
 		$bytes = "Hello ".emoji_utf8_bytes($unified)." World";
 
