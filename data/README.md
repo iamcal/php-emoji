@@ -6,5 +6,5 @@ To rebuild the catalog from the original data tables:
 
 You can then use the catalog to build the PHP map and the CSS file:
 
-    php build_map.php > ../emoji_map.php
+    php build_map.php > ../emoji.php
     php build_css.php > ../emoji.css
