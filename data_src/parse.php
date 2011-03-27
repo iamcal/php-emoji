@@ -81,78 +81,13 @@
 
 
 	#
-	# build the final maps
+	# export the catalog
 	#
 
-	$maps = array();
+	echo "<"."?php \$catalog = ";
+	var_export($items);
+	echo "; ?".">";
 
-	$maps['names']		= make_names_map($items);
-	$maps['kaomoji']	= get_all_kaomoji($items);
-
-	#fprintf(STDERR, "fix Geta Mark ()  '〓' (U+3013)\n");
-	#$items = fix_geta_mark($items);
-
-	$maps["unified_to_docomo"]	= make_mapping($items, 'docomo');
-	$maps["unified_to_kddi"]	= make_mapping($items, 'au');
-	$maps["unified_to_softbank"]	= make_mapping($items, 'softbank');
-	$maps["unified_to_google"]	= make_mapping($items, 'google');
-
-	$maps["docomo_to_unified"]	= make_mapping_flip($items, 'docomo');
-	$maps["kddi_to_unified"]	= make_mapping_flip($items, 'au');
-	$maps["softbank_to_unified"]	= make_mapping_flip($items, 'softbank');
-	$maps["google_to_unified"]	= make_mapping_flip($items, 'google');
-
-	$maps["unified_to_html"]	= make_html_map($items);
-
-
-	#
-	# output
-	# we could just use var_dump, but we get 'better' output this way
-	#
-
-	echo "<"."?php\n";
-
-	echo "\n";
-	echo "\t#\n";
-	echo "\t# WARNING:\n";
-	echo "\t# This code is auto-generated. Do not modify it manually.\n";
-	echo "\t#\n";
-	echo "\n";
-
-	echo "\t\$GLOBALS['emoji_maps'] = array(\n";
-
-	echo "\t\t'names' => array(\n";
-
-	foreach ($maps[names] as $k => $v){
-
-		$name_enc = "'".AddSlashes($v)."'";
-		echo "\t\t\t$k => $name_enc,\n";
-	}
-
-	echo "\t\t),\n";
-
-	foreach ($maps as $k => $v){
-
-		if ($k == 'names') continue;
-
-		echo "\t\t'$k' => array(\n";
-
-		$count = 0;
-		echo "\t\t\t";
-		foreach ($v as $k2 => $v2){
-			$count++;
-			if ($count % 10 == 0) echo "\n\t\t\t";
-			echo format_string($k2).'=>'.format_string($v2).', ';
-		}
-		echo "\n";
-
-		echo "\t\t),\n";
-	}
-
-	echo "\t);\n";
-
-
-//-----  functions ------------------
 
 function get_elts_by_tag($root, $tagname){
 
@@ -322,92 +257,3 @@ function get_all_kaomoji($mapping) {
 
 	return array_keys($arr);
 }
-
-	function make_names_map($map){
-
-		$out = array();
-		foreach ($map as $row){
-			$out[$row['unicode']] = $row['char_name']['title'];
-		}
-
-		return $out;
-	}
-
-	function make_html_map($map){
-
-		$out = array();
-		foreach ($map as $row){
-
-			$hex = sprintf('%x', $row['unicode']);
-			$bytes = emoji_utf8_bytes($row['unicode']);
-
-			$out[$bytes] = "<span class=\"emoji emoji$hex\"></span>";
-		}
-
-		return $out;
-	}
-
-	function make_mapping($mapping, $dest){
-
-		$result = array();
-
-		foreach ($mapping as $map){
-
-			$src_char = emoji_utf8_bytes($map['unicode']);
-
-			if (!empty($map[$dest]['unicode'])){
-
-				$dest_char = emoji_utf8_bytes($map[$dest]['unicode']);
-			}else{
-				$dest_char = $map[$dest]['kaomoji'];
-			}
-
-			$result[$src_char] = $dest_char;
-		}
-
-		return $result;
-	}
-
-	function make_mapping_flip($mapping, $src){
-		$result = make_mapping($mapping, $src);
-		$result = array_flip($result);
-		unset($result[""]);
-		return $result;
-	}
-
-	function emoji_utf8_bytes($cp){
-
-		if ($cp > 0x10000){
-			# 4 bytes
-			return	chr(0xF0 | (($cp & 0x1C0000) >> 18)).
-				chr(0x80 | (($cp & 0x3F000) >> 12)).
-				chr(0x80 | (($cp & 0xFC0) >> 6)).
-				chr(0x80 | ($cp & 0x3F));
-		}else if ($cp > 0x800){
-			# 3 bytes
-			return	chr(0xE0 | (($cp & 0xF000) >> 12)).
-				chr(0x80 | (($cp & 0xFC0) >> 6)).
-				chr(0x80 | ($cp & 0x3F));
-		}else if ($cp > 0x80){
-			# 2 bytes
-			return	chr(0xC0 | (($cp & 0x7C0) >> 6)).
-				chr(0x80 | ($cp & 0x3F));
-		}else{
-			# 1 byte
-			return chr($cp);
-		}
-	}
-
-	function format_string($s){
-		$out = ''; 
-		for ($i=0; $i<strlen($s); $i++){
-			$c = ord(substr($s,$i,1));
-			if ($c >= 0x20 && $c < 0x80 && !in_array($c, array(34, 39, 92))){
-				$out .= chr($c);
-			}else{
-				$out .= sprintf('\\x%02x', $c);
-			}   
-		}   
-		return '"'.$out.'"';
-	}   
-
