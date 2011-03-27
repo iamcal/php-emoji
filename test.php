@@ -6,17 +6,24 @@
 
 	#
 	# this code point was picked on purpose. the conversion from unified to
-	# various types is roundtrip-capable, but the same codepoint in e.g.
-	# DoCoMo is also used for other unified characters.
+	# various types is roundtrip-capable and the verious code points are
+	# unique across all types (i.e. there are no other unified symbols using
+	# the same kddi code).
+	#
+	# the codepoint is also in the unicode standard, so should not change
+	# in future revisions, breaking the test (i'm looking at you HAPPY FACE
+	# WITH OPEN MOUTH U+1F603).
+	#
+	# this test uses unified U+2649 - TAURUS
 	#
 
-	$test_iphone	= "Hello \xee\x81\x97"; # U+E057
-	$test_docomo	= "Hello \xee\x9b\xb0"; # U+E6F0
-	$test_kddi	= "Hello \xee\x91\xb1"; # U+E471
-	$test_google	= "Hello \xf3\xbe\x8c\xb0"; # U+FE330
-	$test_unified	= "Hello \xf0\x9f\x98\x90"; # U+1F610
+	$test_iphone	= "Hello \xEE\x89\x80"; # U+E240
+	$test_docomo	= "Hello \xEE\x99\x87"; # U+E647
+	$test_kddi	= "Hello \xEE\x92\x90"; # U+E490
+	$test_google	= "Hello \xF3\xBE\x80\xAC"; # U+FE02C
+	$test_unified	= "Hello \xE2\x99\x89"; # U+2649
 
-	$test_html	= "Hello <span class=\"emoji emoji1f610\"></span>";
+	$test_html	= "Hello <span class=\"emoji emoji2649\"></span>";
 
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
@@ -37,9 +44,11 @@
 
 	echo "#------------------\n";
 
-	is(emoji_get_name(9728),	'BLACK SUN WITH RAYS',		"name 9728");
-	is(emoji_get_name(128128),	'INFORMATION DESK PERSON',	"name 128128");
-	is(emoji_get_name(128080),	'OPEN HANDS',			"name 128080");
+	is(emoji_get_name(9728),	'BLACK SUN WITH RAYS',		"name U+2600");
+	is(emoji_get_name(9962),	'CHURCH',			"name U+26EA");
+	is(emoji_get_name(128128),	'SKULL',			"name U+1F480");
+	is(emoji_get_name(128080),	'OPEN HANDS SIGN',		"name U+1F450");
+	is(emoji_get_name(128299),	'PISTOL',			"name U+1F52B");
 
 
 	#
