@@ -17,11 +17,11 @@
 	# this test uses unified U+2649 - TAURUS
 	#
 
-	$test_iphone	= "Hello \xEE\x89\x80"; # U+E240
-	$test_docomo	= "Hello \xEE\x99\x87"; # U+E647
-	$test_kddi	= "Hello \xEE\x92\x90"; # U+E490
-	$test_google	= "Hello \xF3\xBE\x80\xAC"; # U+FE02C
-	$test_unified	= "Hello \xE2\x99\x89"; # U+2649
+	$test_unified	= "Hello ".utf8_bytes(0x2649);
+	$test_iphone	= "Hello ".utf8_bytes(0xE240);
+	$test_docomo	= "Hello ".utf8_bytes(0xE647);
+	$test_kddi	= "Hello ".utf8_bytes(0xE490);
+	$test_google	= "Hello ".utf8_bytes(0xFE02C);
 
 	$test_html	= "Hello <span class=\"emoji emoji2649\"></span>";
 
@@ -81,4 +81,26 @@
 		return trim($out);
 	}
 
+	function utf8_bytes($cp){
+
+		if ($cp > 0x10000){
+			# 4 bytes
+			return	chr(0xF0 | (($cp & 0x1C0000) >> 18)).
+				chr(0x80 | (($cp & 0x3F000) >> 12)).
+				chr(0x80 | (($cp & 0xFC0) >> 6)).
+				chr(0x80 | ($cp & 0x3F));
+		}else if ($cp > 0x800){
+			# 3 bytes
+			return	chr(0xE0 | (($cp & 0xF000) >> 12)).
+				chr(0x80 | (($cp & 0xFC0) >> 6)).
+				chr(0x80 | ($cp & 0x3F));
+		}else if ($cp > 0x80){
+			# 2 bytes
+			return	chr(0xC0 | (($cp & 0x7C0) >> 6)).
+				chr(0x80 | ($cp & 0x3F));
+		}else{
+			# 1 byte
+			return chr($cp);
+		}
+	}
 ?>
