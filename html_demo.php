@@ -21,9 +21,10 @@
 	</tr>
 <?
 	$src = array(
-		0x2600,		# BLACK SUN WITH RAYS
-		0x1F494,	# BROKEN HEART (was U+1F493)
-		0x1F197,	# OK SIGN (was U+1F502)
+		array(0x2600),		# BLACK SUN WITH RAYS
+		array(0x1F494),		# BROKEN HEART (was U+1F493)
+		array(0x1F197),		# OK SIGN (was U+1F502)
+		array(0x32, 0x20E3),	# KEYCAP 2
 	);
 
 	function utf8_bytes($cp){
@@ -51,11 +52,19 @@
 
 	foreach ($src as $unified){
 
-		$bytes = utf8_bytes($unified);
+		$bytes = '';
+		$hex = array();
+
+		foreach ($unified as $cp){
+			$bytes .= utf8_bytes($cp);
+			$hex[] = sprintf('U+%04X', $cp);
+
+		}
+
 		$str = "Hello $bytes World";
 
 		echo "<tr>\n";
-		echo "<td>".sprintf('U+%04X', $unified)."</td>\n";
+		echo "<td>".implode(' ', $hex)."</td>\n";
 		echo "<td>".HtmlSpecialChars(emoji_get_name($bytes))."</td>\n";
 		echo "<td>$str</td>\n";
 		echo "<td>".emoji_unified_to_html($str)."</td>\n";
