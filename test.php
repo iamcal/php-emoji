@@ -45,8 +45,9 @@
 
 
 	#
-	# some emoji (e-82C thru e-837) use 2 codepoints in the unified mode, but just
-	# one in phone modes. test that it works as expected
+	# some emoji (e-82C thru e-837 and others) use 2 codepoints in the
+	# unified mode, but just one in phone modes. test that it works as
+	# expected
 	#
 
 	$test_unified	= "Hello ".utf8_bytes(0x36).utf8_bytes(0x20E3);
@@ -54,6 +55,9 @@
 	$test_docomo	= "Hello ".utf8_bytes(0xE6E7);
 	$test_kddi	= "Hello ".utf8_bytes(0xE527);
 	$test_google	= "Hello ".utf8_bytes(0xFE833);
+
+	$test_html	= "Hello <span class=\"emoji emoji3620e3\"></span>";
+
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
 	is(emoji_kddi_to_unified($test_kddi),		$test_unified, "KDDI -> Unified");
@@ -68,6 +72,10 @@
 	is(emoji_unified_to_google($test_unified),	$test_google,	"Unified -> Google");
 
 	echo "#------------------\n";
+
+	is(emoji_unified_to_html($test_unified),	$test_html,	"Unified -> HTML");
+
+	echo "#------------------\n";
 	
 
 	#
@@ -79,6 +87,7 @@
 	is(emoji_get_name(utf8_bytes(0x1F480)),	'SKULL',			"name U+1F480");
 	is(emoji_get_name(utf8_bytes(0x1F450)),	'OPEN HANDS SIGN',		"name U+1F450");
 	is(emoji_get_name(utf8_bytes(0x1F52B)),	'PISTOL',			"name U+1F52B");
+	is(emoji_get_name(utf8_bytes(0x36).utf8_bytes(0x20E3)),	'KEYCAP 6',	"name U+36 U+20E3");
 
 
 	#
