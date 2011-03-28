@@ -7,7 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	<title>EMoji HTML Test</title>
+	<title>Emoji HTML Test</title>
 	<link href="emoji.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -26,15 +26,39 @@
 		0x1F197,	# OK SIGN (was U+1F502)
 	);
 
+	function utf8_bytes($cp){
+
+		if ($cp > 0x10000){
+			# 4 bytes
+			return	chr(0xF0 | (($cp & 0x1C0000) >> 18)).
+				chr(0x80 | (($cp & 0x3F000) >> 12)).
+				chr(0x80 | (($cp & 0xFC0) >> 6)).
+				chr(0x80 | ($cp & 0x3F));
+		}else if ($cp > 0x800){
+			# 3 bytes
+			return	chr(0xE0 | (($cp & 0xF000) >> 12)).
+				chr(0x80 | (($cp & 0xFC0) >> 6)).
+				chr(0x80 | ($cp & 0x3F));
+		}else if ($cp > 0x80){
+			# 2 bytes
+			return	chr(0xC0 | (($cp & 0x7C0) >> 6)).
+				chr(0x80 | ($cp & 0x3F));
+		}else{
+			# 1 byte
+			return chr($cp);
+		}
+	}
+
 	foreach ($src as $unified){
 
-		$bytes = "Hello ".emoji_utf8_bytes($unified)." World";
+		$bytes = utf8_bytes($unified);
+		$str = "Hello $bytes World";
 
 		echo "<tr>\n";
 		echo "<td>".sprintf('U+%04X', $unified)."</td>\n";
-		echo "<td>".HtmlSpecialChars(emoji_get_name($unified))."</td>\n";
-		echo "<td>$bytes</td>\n";
-		echo "<td>".emoji_unified_to_html($bytes)."</td>\n";
+		echo "<td>".HtmlSpecialChars(emoji_get_name($bytes))."</td>\n";
+		echo "<td>$str</td>\n";
+		echo "<td>".emoji_unified_to_html($str)."</td>\n";
 		echo "</tr>\n";
 	}
 ?>
