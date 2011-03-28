@@ -23,11 +23,62 @@
 		);
 	}
 
+	function format_codepoint($u){
+
+		if ($u) return 'U+'.sprintf('%04X', $u);
+
+		return '-';
+	}
+
 ?>
+<html>
+<head>
 
-<link rel="stylesheet" type="text/css" media="all" href="../emoji.css" />
+<title>Emoji Catalog</title>
+<link rel="stylesheet" type="text/css" media="all" href="emoji.css" />
+<style type="text/css">
 
-<table border="1">
+body {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    -webkit-border-radius: 0.41em;
+    -moz-border-radius: 0.41em;
+    border: 1px solid #999;
+    font-size: 12px;
+}
+
+table td {
+    padding-left: 0.41em;
+    padding-right: 0.41em;
+}
+
+table th {
+    font-weight: bold;
+    text-align: left;
+    background: #BBB;
+    color: #333;
+    font-size: 14px;
+    padding: 0.41em;
+}
+
+table tbody tr:nth-child(even) {
+    background: #dedede;
+}
+
+table tbody td {
+    padding: 0.41em;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Emoji Catalog</h1>
+
+<table cellspacing="0" cellpadding="0">
 	<tr>
 		<th colspan="2">Name</th>
 		<th>Unified</th>
@@ -36,6 +87,7 @@
 		<th>Softbank</th>
 		<th>Google</th>
 	</tr>
+	<tbody>
 
 <?
 	foreach ($out as $row){
@@ -50,17 +102,9 @@
 		echo "\t\t<td>".format_codepoint($row['google'])."</td>\n";
 		echo "\t</tr>\n";
 	}
-	echo "</table>\n";
-	exit;	
-
-
-
-	###############################################################
-
-	function format_codepoint($u){
-
-		if ($u) return 'U+'.sprintf('%04X', $u);
-
-		return '-';
-	}
 ?>
+	</tbody>
+</table>
+
+</body>
+<html>
