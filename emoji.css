@@ -1,4 +1,4 @@
-.emoji { float:left; background: url("iphone_emoji.png") top left no-repeat; width: 20px; height: 20px }
+.emoji { background: url("iphone_emoji.png") top left no-repeat; width: 20px; height: 20px; display: -moz-inline-stack; display: inline-block; vertical-align: top; zoom: 1; *display: inline; }
 .emoji2600 { background-position: 0px -260px; }
 .emoji2601 { background-position: 0px -20px; }
 .emoji2614 { background-position: 0px -40px; }
