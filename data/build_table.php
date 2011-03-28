@@ -6,7 +6,9 @@
 
 	foreach ($catalog as $row){
 
-		$hex = sprintf('%x', $row['unicode']);
+		$hex = '';
+		foreach ($row['unicode'] as $cp) $hex .= sprintf('%x', $cp);
+
 		$html = "<span class=\"emoji emoji$hex\"></span>";
 
 
@@ -23,11 +25,17 @@
 		);
 	}
 
-	function format_codepoint($u){
+	function format_codepoints($us){
 
-		if ($u) return 'U+'.sprintf('%04X', $u);
+		if (!count($us)) return '-';
 
-		return '-';
+		$out = array();
+
+		foreach ($us as $u){
+			$out[] = 'U+'.sprintf('%04X', $u);
+		}
+
+		return implode(' ', $out);
 	}
 
 ?>
@@ -95,11 +103,11 @@ table tbody td {
 		echo "\t<tr>\n";
 		echo "\t\t<td>$row[html]</td>\n";
 		echo "\t\t<td>".HtmlSpecialChars(StrToLower($row['name']))."</td>\n";
-		echo "\t\t<td>".format_codepoint($row['unified'])."</td>\n";
-		echo "\t\t<td>".format_codepoint($row['docomo'])."</td>\n";
-		echo "\t\t<td>".format_codepoint($row['kddi'])."</td>\n";
-		echo "\t\t<td>".format_codepoint($row['softbank'])."</td>\n";
-		echo "\t\t<td>".format_codepoint($row['google'])."</td>\n";
+		echo "\t\t<td>".format_codepoints($row['unified'])."</td>\n";
+		echo "\t\t<td>".format_codepoints($row['docomo'])."</td>\n";
+		echo "\t\t<td>".format_codepoints($row['kddi'])."</td>\n";
+		echo "\t\t<td>".format_codepoints($row['softbank'])."</td>\n";
+		echo "\t\t<td>".format_codepoints($row['google'])."</td>\n";
 		echo "\t</tr>\n";
 	}
 ?>

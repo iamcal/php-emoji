@@ -49,8 +49,9 @@
 
 	foreach ($maps[names] as $k => $v){
 
+		$key_enc = format_string($k);
 		$name_enc = "'".AddSlashes($v)."'";
-		echo "\t\t\t$k => $name_enc,\n";
+		echo "\t\t\t$key_enc => $name_enc,\n";
 	}
 
 	echo "\t\t),\n";
@@ -106,7 +107,10 @@
 
 		$out = array();
 		foreach ($map as $row){
-			$out[$row['unicode']] = $row['char_name']['title'];
+
+			$bytes = unicode_bytes($row['unicode']);
+
+			$out[$bytes] = $row['char_name']['title'];
 		}
 
 		return $out;
@@ -117,8 +121,10 @@
 		$out = array();
 		foreach ($map as $row){
 
-			$hex = sprintf('%x', $row['unicode']);
-			$bytes = emoji_utf8_bytes($row['unicode']);
+			$hex = '';
+			foreach ($row['unicode'] as $cp) $hex .= sprintf('%x', $cp);
+
+			$bytes = unicode_bytes($row['unicode']);
 
 			$out[$bytes] = "<span class=\"emoji emoji$hex\"></span>";
 		}
@@ -132,11 +138,11 @@
 
 		foreach ($mapping as $map){
 
-			$src_char = emoji_utf8_bytes($map['unicode']);
+			$src_char = unicode_bytes($map['unicode']);
 
-			if (!empty($map[$dest]['unicode'])){
+			if (is_array($map[$dest]['unicode']) && count($map[$dest]['unicode'])){
 
-				$dest_char = emoji_utf8_bytes($map[$dest]['unicode']);
+				$dest_char = unicode_bytes($map[$dest]['unicode']);
 			}else{
 				$dest_char = $map[$dest]['kaomoji'];
 			}
@@ -152,6 +158,17 @@
 		$result = array_flip($result);
 		unset($result[""]);
 		return $result;
+	}
+
+	function unicode_bytes($cps){
+
+		$out = '';
+
+		foreach ($cps as $cp){
+			$out .= emoji_utf8_bytes($cp);
+		}
+
+		return $out;
 	}
 
 	function emoji_utf8_bytes($cp){

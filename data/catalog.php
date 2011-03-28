@@ -2,7 +2,10 @@
   0 => 
   array (
     'mapid' => '#e-000',
-    'unicode' => 9728,
+    'unicode' => 
+    array (
+      0 => 9728,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK SUN WITH RAYS',
@@ -12,33 +15,48 @@ Temporary Notes: clear weather for Japanese mobile carriers, usually in red colo
     'docomo' => 
     array (
       'number' => '1',
-      'unicode' => 58942,
+      'unicode' => 
+      array (
+        0 => 58942,
+      ),
       'sjis' => 'F89F',
       'jis' => '7541',
     ),
     'au' => 
     array (
       'number' => '44',
-      'unicode' => 58504,
+      'unicode' => 
+      array (
+        0 => 58504,
+      ),
       'sjis' => 'F660',
       'jis' => '7541',
     ),
     'softbank' => 
     array (
       'number' => '81',
-      'unicode' => 57418,
+      'unicode' => 
+      array (
+        0 => 57418,
+      ),
       'sjis' => 'F98B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040384,
+      'unicode' => 
+      array (
+        0 => 1040384,
+      ),
     ),
   ),
   1 => 
   array (
     'mapid' => '#e-001',
-    'unicode' => 9729,
+    'unicode' => 
+    array (
+      0 => 9729,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOUD',
@@ -47,33 +65,48 @@ Temporary Notes: clear weather for Japanese mobile carriers, usually in red colo
     'docomo' => 
     array (
       'number' => '2',
-      'unicode' => 58943,
+      'unicode' => 
+      array (
+        0 => 58943,
+      ),
       'sjis' => 'F8A0',
       'jis' => '7546',
     ),
     'au' => 
     array (
       'number' => '107',
-      'unicode' => 58509,
+      'unicode' => 
+      array (
+        0 => 58509,
+      ),
       'sjis' => 'F665',
       'jis' => '7546',
     ),
     'softbank' => 
     array (
       'number' => '83',
-      'unicode' => 57417,
+      'unicode' => 
+      array (
+        0 => 57417,
+      ),
       'sjis' => 'F98A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040385,
+      'unicode' => 
+      array (
+        0 => 1040385,
+      ),
     ),
   ),
   2 => 
   array (
     'mapid' => '#e-002',
-    'unicode' => 9748,
+    'unicode' => 
+    array (
+      0 => 9748,
+    ),
     'char_name' => 
     array (
       'title' => 'UMBRELLA WITH RAIN DROPS',
@@ -82,33 +115,48 @@ Temporary Notes: clear weather for Japanese mobile carriers, usually in red colo
     'docomo' => 
     array (
       'number' => '3',
-      'unicode' => 58944,
+      'unicode' => 
+      array (
+        0 => 58944,
+      ),
       'sjis' => 'F8A1',
       'jis' => '7545',
     ),
     'au' => 
     array (
       'number' => '95',
-      'unicode' => 58508,
+      'unicode' => 
+      array (
+        0 => 58508,
+      ),
       'sjis' => 'F664',
       'jis' => '7545',
     ),
     'softbank' => 
     array (
       'number' => '82',
-      'unicode' => 57419,
+      'unicode' => 
+      array (
+        0 => 57419,
+      ),
       'sjis' => 'F98C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040386,
+      'unicode' => 
+      array (
+        0 => 1040386,
+      ),
     ),
   ),
   3 => 
   array (
     'mapid' => '#e-003',
-    'unicode' => 9924,
+    'unicode' => 
+    array (
+      0 => 9924,
+    ),
     'char_name' => 
     array (
       'title' => 'SNOWMAN WITHOUT SNOW',
@@ -117,33 +165,48 @@ Temporary Notes: clear weather for Japanese mobile carriers, usually in red colo
     'docomo' => 
     array (
       'number' => '4',
-      'unicode' => 58945,
+      'unicode' => 
+      array (
+        0 => 58945,
+      ),
       'sjis' => 'F8A2',
       'jis' => '753E',
     ),
     'au' => 
     array (
       'number' => '191',
-      'unicode' => 58501,
+      'unicode' => 
+      array (
+        0 => 58501,
+      ),
       'sjis' => 'F65D',
       'jis' => '753E',
     ),
     'softbank' => 
     array (
       'number' => '84',
-      'unicode' => 57416,
+      'unicode' => 
+      array (
+        0 => 57416,
+      ),
       'sjis' => 'F989',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040387,
+      'unicode' => 
+      array (
+        0 => 1040387,
+      ),
     ),
   ),
   4 => 
   array (
     'mapid' => '#e-004',
-    'unicode' => 9889,
+    'unicode' => 
+    array (
+      0 => 9889,
+    ),
     'char_name' => 
     array (
       'title' => 'HIGH VOLTAGE SIGN',
@@ -155,33 +218,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '5',
-      'unicode' => 58946,
+      'unicode' => 
+      array (
+        0 => 58946,
+      ),
       'sjis' => 'F8A3',
       'jis' => '7540',
     ),
     'au' => 
     array (
       'number' => '16',
-      'unicode' => 58503,
+      'unicode' => 
+      array (
+        0 => 58503,
+      ),
       'sjis' => 'F65F',
       'jis' => '7540',
     ),
     'softbank' => 
     array (
       'number' => '86',
-      'unicode' => 57661,
+      'unicode' => 
+      array (
+        0 => 57661,
+      ),
       'sjis' => 'F77D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040388,
+      'unicode' => 
+      array (
+        0 => 1040388,
+      ),
     ),
   ),
   5 => 
   array (
     'mapid' => '#e-005',
-    'unicode' => 127744,
+    'unicode' => 
+    array (
+      0 => 127744,
+    ),
     'char_name' => 
     array (
       'title' => 'CYCLONE',
@@ -190,33 +268,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '6',
-      'unicode' => 58947,
+      'unicode' => 
+      array (
+        0 => 58947,
+      ),
       'sjis' => 'F8A4',
       'jis' => '7522',
     ),
     'au' => 
     array (
       'number' => '190',
-      'unicode' => 58473,
+      'unicode' => 
+      array (
+        0 => 58473,
+      ),
       'sjis' => 'F641',
       'jis' => '7522',
     ),
     'softbank' => 
     array (
       'number' => '87',
-      'unicode' => 58435,
+      'unicode' => 
+      array (
+        0 => 58435,
+      ),
       'sjis' => 'FB84',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040389,
+      'unicode' => 
+      array (
+        0 => 1040389,
+      ),
     ),
   ),
   6 => 
   array (
     'mapid' => '#e-006',
-    'unicode' => 127745,
+    'unicode' => 
+    array (
+      0 => 127745,
+    ),
     'char_name' => 
     array (
       'title' => 'FOGGY',
@@ -225,14 +318,20 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '7',
-      'unicode' => 58948,
+      'unicode' => 
+      array (
+        0 => 58948,
+      ),
       'sjis' => 'F8A5',
       'jis' => '7837',
     ),
     'au' => 
     array (
       'number' => '305',
-      'unicode' => 58776,
+      'unicode' => 
+      array (
+        0 => 58776,
+      ),
       'sjis' => 'F7B5',
       'jis' => '7837',
     ),
@@ -242,13 +341,19 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     ),
     'google' => 
     array (
-      'unicode' => 1040390,
+      'unicode' => 
+      array (
+        0 => 1040390,
+      ),
     ),
   ),
   7 => 
   array (
     'mapid' => '#e-007',
-    'unicode' => 127746,
+    'unicode' => 
+    array (
+      0 => 127746,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOSED UMBRELLA',
@@ -257,33 +362,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '8',
-      'unicode' => 58949,
+      'unicode' => 
+      array (
+        0 => 58949,
+      ),
       'sjis' => 'F8A6',
       'jis' => '7A3E',
     ),
     'au' => 
     array (
       'number' => '481',
-      'unicode' => 60136,
+      'unicode' => 
+      array (
+        0 => 60136,
+      ),
       'sjis' => 'F3BC',
       'jis' => '7A3E',
     ),
     'softbank' => 
     array (
       'number' => '228',
-      'unicode' => 58428,
+      'unicode' => 
+      array (
+        0 => 58428,
+      ),
       'sjis' => 'FB7C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040391,
+      'unicode' => 
+      array (
+        0 => 1040391,
+      ),
     ),
   ),
   8 => 
   array (
     'mapid' => '#e-008',
-    'unicode' => 127747,
+    'unicode' => 
+    array (
+      0 => 127747,
+    ),
     'char_name' => 
     array (
       'title' => 'NIGHT WITH STARS',
@@ -292,33 +412,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '172',
-      'unicode' => 59059,
+      'unicode' => 
+      array (
+        0 => 59059,
+      ),
       'sjis' => 'F957',
       'jis' => '7A47',
     ),
     'au' => 
     array (
       'number' => '490',
-      'unicode' => 60145,
+      'unicode' => 
+      array (
+        0 => 60145,
+      ),
       'sjis' => 'F3C5',
       'jis' => '7A47',
     ),
     'softbank' => 
     array (
       'number' => '307',
-      'unicode' => 58443,
+      'unicode' => 
+      array (
+        0 => 58443,
+      ),
       'sjis' => 'FB8C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040392,
+      'unicode' => 
+      array (
+        0 => 1040392,
+      ),
     ),
   ),
   9 => 
   array (
     'mapid' => '#e-009',
-    'unicode' => 127748,
+    'unicode' => 
+    array (
+      0 => 127748,
+    ),
     'char_name' => 
     array (
       'title' => 'SUNRISE OVER MOUNTAINS',
@@ -327,33 +462,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '1',
-      'unicode' => 58942,
+      'unicode' => 
+      array (
+        0 => 58942,
+      ),
       'sjis' => 'F89F',
       'jis' => '7541',
     ),
     'au' => 
     array (
       'number' => '493',
-      'unicode' => 60148,
+      'unicode' => 
+      array (
+        0 => 60148,
+      ),
       'sjis' => 'F3C8',
       'jis' => '7A4A',
     ),
     'softbank' => 
     array (
       'number' => '303',
-      'unicode' => 57421,
+      'unicode' => 
+      array (
+        0 => 57421,
+      ),
       'sjis' => 'F98E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040393,
+      'unicode' => 
+      array (
+        0 => 1040393,
+      ),
     ),
   ),
   10 => 
   array (
     'mapid' => '#e-00A',
-    'unicode' => 127749,
+    'unicode' => 
+    array (
+      0 => 127749,
+    ),
     'char_name' => 
     array (
       'title' => 'SUNRISE',
@@ -362,33 +512,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '1',
-      'unicode' => 58942,
+      'unicode' => 
+      array (
+        0 => 58942,
+      ),
       'sjis' => 'F89F',
       'jis' => '7541',
     ),
     'au' => 
     array (
       'number' => '493',
-      'unicode' => 60148,
+      'unicode' => 
+      array (
+        0 => 60148,
+      ),
       'sjis' => 'F3C8',
       'jis' => '7A4A',
     ),
     'softbank' => 
     array (
       'number' => '304',
-      'unicode' => 58441,
+      'unicode' => 
+      array (
+        0 => 58441,
+      ),
       'sjis' => 'FB8A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040394,
+      'unicode' => 
+      array (
+        0 => 1040394,
+      ),
     ),
   ),
   11 => 
   array (
     'mapid' => '#e-00B',
-    'unicode' => 127750,
+    'unicode' => 
+    array (
+      0 => 127750,
+    ),
     'char_name' => 
     array (
       'title' => 'CITYSCAPE AT DUSK',
@@ -401,26 +566,38 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'au' => 
     array (
       'number' => '371',
-      'unicode' => 58842,
+      'unicode' => 
+      array (
+        0 => 58842,
+      ),
       'sjis' => 'F34D',
       'jis' => '792E',
     ),
     'softbank' => 
     array (
       'number' => '306',
-      'unicode' => 57670,
+      'unicode' => 
+      array (
+        0 => 57670,
+      ),
       'sjis' => 'F787',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040395,
+      'unicode' => 
+      array (
+        0 => 1040395,
+      ),
     ),
   ),
   12 => 
   array (
     'mapid' => '#e-00C',
-    'unicode' => 127751,
+    'unicode' => 
+    array (
+      0 => 127751,
+    ),
     'char_name' => 
     array (
       'title' => 'SUNSET OVER BUILDINGS',
@@ -429,33 +606,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '1',
-      'unicode' => 58942,
+      'unicode' => 
+      array (
+        0 => 58942,
+      ),
       'sjis' => 'F89F',
       'jis' => '7541',
     ),
     'au' => 
     array (
       'number' => '371',
-      'unicode' => 58842,
+      'unicode' => 
+      array (
+        0 => 58842,
+      ),
       'sjis' => 'F34D',
       'jis' => '792E',
     ),
     'softbank' => 
     array (
       'number' => '305',
-      'unicode' => 58442,
+      'unicode' => 
+      array (
+        0 => 58442,
+      ),
       'sjis' => 'FB8B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040396,
+      'unicode' => 
+      array (
+        0 => 1040396,
+      ),
     ),
   ),
   13 => 
   array (
     'mapid' => '#e-00D',
-    'unicode' => 127752,
+    'unicode' => 
+    array (
+      0 => 127752,
+    ),
     'char_name' => 
     array (
       'title' => 'RAINBOW',
@@ -468,26 +660,38 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'au' => 
     array (
       'number' => '491',
-      'unicode' => 60146,
+      'unicode' => 
+      array (
+        0 => 60146,
+      ),
       'sjis' => 'F3C6',
       'jis' => '7A48',
     ),
     'softbank' => 
     array (
       'number' => '89',
-      'unicode' => 58444,
+      'unicode' => 
+      array (
+        0 => 58444,
+      ),
       'sjis' => 'FB8D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040397,
+      'unicode' => 
+      array (
+        0 => 1040397,
+      ),
     ),
   ),
   14 => 
   array (
     'mapid' => '#e-00E',
-    'unicode' => 10052,
+    'unicode' => 
+    array (
+      0 => 10052,
+    ),
     'char_name' => 
     array (
       'title' => 'SNOWFLAKE',
@@ -500,7 +704,10 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'au' => 
     array (
       'number' => '60',
-      'unicode' => 58506,
+      'unicode' => 
+      array (
+        0 => 58506,
+      ),
       'sjis' => 'F662',
       'jis' => '7543',
     ),
@@ -510,13 +717,19 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     ),
     'google' => 
     array (
-      'unicode' => 1040398,
+      'unicode' => 
+      array (
+        0 => 1040398,
+      ),
     ),
   ),
   15 => 
   array (
     'mapid' => '#e-010',
-    'unicode' => 127753,
+    'unicode' => 
+    array (
+      0 => 127753,
+    ),
     'char_name' => 
     array (
       'title' => 'BRIDGE AT NIGHT',
@@ -525,33 +738,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '172',
-      'unicode' => 59059,
+      'unicode' => 
+      array (
+        0 => 59059,
+      ),
       'sjis' => 'F957',
       'jis' => '7A47',
     ),
     'au' => 
     array (
       'number' => '227',
-      'unicode' => 58559,
+      'unicode' => 
+      array (
+        0 => 58559,
+      ),
       'sjis' => 'F698',
       'jis' => '7578',
     ),
     'softbank' => 
     array (
       'number' => '307',
-      'unicode' => 58443,
+      'unicode' => 
+      array (
+        0 => 58443,
+      ),
       'sjis' => 'FB8C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040400,
+      'unicode' => 
+      array (
+        0 => 1040400,
+      ),
     ),
   ),
   16 => 
   array (
     'mapid' => '#e-038',
-    'unicode' => 127754,
+    'unicode' => 
+    array (
+      0 => 127754,
+    ),
     'char_name' => 
     array (
       'title' => 'WATER WAVE',
@@ -560,33 +788,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => 'Exp.52',
-      'unicode' => 59199,
+      'unicode' => 
+      array (
+        0 => 59199,
+      ),
       'sjis' => 'F9E4',
       'jis' => '7B61',
     ),
     'au' => 
     array (
       'number' => '810',
-      'unicode' => 60284,
+      'unicode' => 
+      array (
+        0 => 60284,
+      ),
       'sjis' => 'F481',
       'jis' => '7B61',
     ),
     'softbank' => 
     array (
       'number' => '88',
-      'unicode' => 58430,
+      'unicode' => 
+      array (
+        0 => 58430,
+      ),
       'sjis' => 'FB7E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040440,
+      'unicode' => 
+      array (
+        0 => 1040440,
+      ),
     ),
   ),
   17 => 
   array (
     'mapid' => '#e-03A',
-    'unicode' => 127755,
+    'unicode' => 
+    array (
+      0 => 127755,
+    ),
     'char_name' => 
     array (
       'title' => 'VOLCANO',
@@ -599,7 +842,10 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'au' => 
     array (
       'number' => '769',
-      'unicode' => 60243,
+      'unicode' => 
+      array (
+        0 => 60243,
+      ),
       'sjis' => 'F457',
       'jis' => '7B38',
     ),
@@ -609,13 +855,19 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     ),
     'google' => 
     array (
-      'unicode' => 1040442,
+      'unicode' => 
+      array (
+        0 => 1040442,
+      ),
     ),
   ),
   18 => 
   array (
     'mapid' => '#e-03B',
-    'unicode' => 127756,
+    'unicode' => 
+    array (
+      0 => 127756,
+    ),
     'char_name' => 
     array (
       'title' => 'MILKY WAY',
@@ -624,33 +876,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '172',
-      'unicode' => 59059,
+      'unicode' => 
+      array (
+        0 => 59059,
+      ),
       'sjis' => 'F957',
       'jis' => '7A47',
     ),
     'au' => 
     array (
       'number' => '781',
-      'unicode' => 60255,
+      'unicode' => 
+      array (
+        0 => 60255,
+      ),
       'sjis' => 'F463',
       'jis' => '7B44',
     ),
     'softbank' => 
     array (
       'number' => '307',
-      'unicode' => 58443,
+      'unicode' => 
+      array (
+        0 => 58443,
+      ),
       'sjis' => 'FB8C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040443,
+      'unicode' => 
+      array (
+        0 => 1040443,
+      ),
     ),
   ),
   19 => 
   array (
     'mapid' => '#e-039',
-    'unicode' => 127759,
+    'unicode' => 
+    array (
+      0 => 127759,
+    ),
     'char_name' => 
     array (
       'title' => 'EARTH GLOBE ASIA-AUSTRALIA',
@@ -663,7 +930,10 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'au' => 
     array (
       'number' => '332',
-      'unicode' => 58803,
+      'unicode' => 
+      array (
+        0 => 58803,
+      ),
       'sjis' => 'F7D0',
       'jis' => '7852',
     ),
@@ -673,13 +943,19 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     ),
     'google' => 
     array (
-      'unicode' => 1040441,
+      'unicode' => 
+      array (
+        0 => 1040441,
+      ),
     ),
   ),
   20 => 
   array (
     'mapid' => '#e-011',
-    'unicode' => 127761,
+    'unicode' => 
+    array (
+      0 => 127761,
+    ),
     'char_name' => 
     array (
       'title' => 'NEW MOON SYMBOL',
@@ -688,14 +964,20 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '95',
-      'unicode' => 59036,
+      'unicode' => 
+      array (
+        0 => 59036,
+      ),
       'sjis' => 'F940',
       'jis' => '7847',
     ),
     'au' => 
     array (
       'number' => '321',
-      'unicode' => 58792,
+      'unicode' => 
+      array (
+        0 => 58792,
+      ),
       'sjis' => 'F7C5',
       'jis' => '7847',
     ),
@@ -705,13 +987,19 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     ),
     'google' => 
     array (
-      'unicode' => 1040401,
+      'unicode' => 
+      array (
+        0 => 1040401,
+      ),
     ),
   ),
   21 => 
   array (
     'mapid' => '#e-012',
-    'unicode' => 127764,
+    'unicode' => 
+    array (
+      0 => 127764,
+    ),
     'char_name' => 
     array (
       'title' => 'WAXING GIBBOUS MOON SYMBOL',
@@ -720,33 +1008,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '96',
-      'unicode' => 59037,
+      'unicode' => 
+      array (
+        0 => 59037,
+      ),
       'sjis' => 'F941',
       'jis' => '7848',
     ),
     'au' => 
     array (
       'number' => '322',
-      'unicode' => 58793,
+      'unicode' => 
+      array (
+        0 => 58793,
+      ),
       'sjis' => 'F7C6',
       'jis' => '7848',
     ),
     'softbank' => 
     array (
       'number' => '85',
-      'unicode' => 57420,
+      'unicode' => 
+      array (
+        0 => 57420,
+      ),
       'sjis' => 'F98D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040402,
+      'unicode' => 
+      array (
+        0 => 1040402,
+      ),
     ),
   ),
   22 => 
   array (
     'mapid' => '#e-013',
-    'unicode' => 127763,
+    'unicode' => 
+    array (
+      0 => 127763,
+    ),
     'char_name' => 
     array (
       'title' => 'FIRST QUARTER MOON SYMBOL',
@@ -755,33 +1058,48 @@ Temporary Notes: Unified with ARIB-9385=⚡ U+26A1 HIGH VOLTAGE SIGN following t
     'docomo' => 
     array (
       'number' => '97',
-      'unicode' => 59038,
+      'unicode' => 
+      array (
+        0 => 59038,
+      ),
       'sjis' => 'F942',
       'jis' => '7849',
     ),
     'au' => 
     array (
       'number' => '323',
-      'unicode' => 58794,
+      'unicode' => 
+      array (
+        0 => 58794,
+      ),
       'sjis' => 'F7C7',
       'jis' => '7849',
     ),
     'softbank' => 
     array (
       'number' => '85',
-      'unicode' => 57420,
+      'unicode' => 
+      array (
+        0 => 57420,
+      ),
       'sjis' => 'F98D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040403,
+      'unicode' => 
+      array (
+        0 => 1040403,
+      ),
     ),
   ),
   23 => 
   array (
     'mapid' => '#e-014',
-    'unicode' => 127769,
+    'unicode' => 
+    array (
+      0 => 127769,
+    ),
     'char_name' => 
     array (
       'title' => 'CRESCENT MOON',
@@ -793,33 +1111,48 @@ Temporary Notes: Not unified with ☽ U+263D or ☾ U+263E. (Japanese carriers d
     'docomo' => 
     array (
       'number' => '98',
-      'unicode' => 59039,
+      'unicode' => 
+      array (
+        0 => 59039,
+      ),
       'sjis' => 'F943',
       'jis' => '753F',
     ),
     'au' => 
     array (
       'number' => '15',
-      'unicode' => 58502,
+      'unicode' => 
+      array (
+        0 => 58502,
+      ),
       'sjis' => 'F65E',
       'jis' => '753F',
     ),
     'softbank' => 
     array (
       'number' => '85',
-      'unicode' => 57420,
+      'unicode' => 
+      array (
+        0 => 57420,
+      ),
       'sjis' => 'F98D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040404,
+      'unicode' => 
+      array (
+        0 => 1040404,
+      ),
     ),
   ),
   24 => 
   array (
     'mapid' => '#e-015',
-    'unicode' => 127765,
+    'unicode' => 
+    array (
+      0 => 127765,
+    ),
     'char_name' => 
     array (
       'title' => 'FULL MOON SYMBOL',
@@ -828,7 +1161,10 @@ Temporary Notes: Not unified with ☽ U+263D or ☾ U+263E. (Japanese carriers d
     'docomo' => 
     array (
       'number' => '99',
-      'unicode' => 59040,
+      'unicode' => 
+      array (
+        0 => 59040,
+      ),
       'sjis' => 'F944',
       'jis' => '7E24',
     ),
@@ -842,13 +1178,19 @@ Temporary Notes: Not unified with ☽ U+263D or ☾ U+263E. (Japanese carriers d
     ),
     'google' => 
     array (
-      'unicode' => 1040405,
+      'unicode' => 
+      array (
+        0 => 1040405,
+      ),
     ),
   ),
   25 => 
   array (
     'mapid' => '#e-016',
-    'unicode' => 127771,
+    'unicode' => 
+    array (
+      0 => 127771,
+    ),
     'char_name' => 
     array (
       'title' => 'FIRST QUARTER MOON WITH FACE',
@@ -858,33 +1200,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '97',
-      'unicode' => 59038,
+      'unicode' => 
+      array (
+        0 => 59038,
+      ),
       'sjis' => 'F942',
       'jis' => '7849',
     ),
     'au' => 
     array (
       'number' => '47',
-      'unicode' => 58505,
+      'unicode' => 
+      array (
+        0 => 58505,
+      ),
       'sjis' => 'F661',
       'jis' => '7542',
     ),
     'softbank' => 
     array (
       'number' => '85',
-      'unicode' => 57420,
+      'unicode' => 
+      array (
+        0 => 57420,
+      ),
       'sjis' => 'F98D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040406,
+      'unicode' => 
+      array (
+        0 => 1040406,
+      ),
     ),
   ),
   26 => 
   array (
     'mapid' => '#e-B69',
-    'unicode' => 127775,
+    'unicode' => 
+    array (
+      0 => 127775,
+    ),
     'char_name' => 
     array (
       'title' => 'GLOWING STAR',
@@ -897,26 +1254,38 @@ Temporary Notes: (KDDI\'s with face)',
     'au' => 
     array (
       'number' => '69',
-      'unicode' => 58507,
+      'unicode' => 
+      array (
+        0 => 58507,
+      ),
       'sjis' => 'F663',
       'jis' => '7544',
     ),
     'softbank' => 
     array (
       'number' => '50',
-      'unicode' => 58165,
+      'unicode' => 
+      array (
+        0 => 58165,
+      ),
       'sjis' => 'F9D5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043305,
+      'unicode' => 
+      array (
+        0 => 1043305,
+      ),
     ),
   ),
   27 => 
   array (
     'mapid' => '#e-B6A',
-    'unicode' => 127776,
+    'unicode' => 
+    array (
+      0 => 127776,
+    ),
     'char_name' => 
     array (
       'title' => 'SHOOTING STAR',
@@ -929,7 +1298,10 @@ Temporary Notes: (KDDI\'s with face)',
     'au' => 
     array (
       'number' => '75',
-      'unicode' => 58472,
+      'unicode' => 
+      array (
+        0 => 58472,
+      ),
       'sjis' => 'F640',
       'jis' => '7521',
     ),
@@ -939,13 +1311,19 @@ Temporary Notes: (KDDI\'s with face)',
     ),
     'google' => 
     array (
-      'unicode' => 1043306,
+      'unicode' => 
+      array (
+        0 => 1043306,
+      ),
     ),
   ),
   28 => 
   array (
     'mapid' => '#e-01E',
-    'unicode' => 128336,
+    'unicode' => 
+    array (
+      0 => 128336,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE ONE OCLOCK',
@@ -954,33 +1332,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '361',
-      'unicode' => 57380,
+      'unicode' => 
+      array (
+        0 => 57380,
+      ),
       'sjis' => 'F964',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040414,
+      'unicode' => 
+      array (
+        0 => 1040414,
+      ),
     ),
   ),
   29 => 
   array (
     'mapid' => '#e-01F',
-    'unicode' => 128337,
+    'unicode' => 
+    array (
+      0 => 128337,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE TWO OCLOCK',
@@ -989,33 +1382,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '362',
-      'unicode' => 57381,
+      'unicode' => 
+      array (
+        0 => 57381,
+      ),
       'sjis' => 'F965',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040415,
+      'unicode' => 
+      array (
+        0 => 1040415,
+      ),
     ),
   ),
   30 => 
   array (
     'mapid' => '#e-020',
-    'unicode' => 128338,
+    'unicode' => 
+    array (
+      0 => 128338,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE THREE OCLOCK',
@@ -1024,33 +1432,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '363',
-      'unicode' => 57382,
+      'unicode' => 
+      array (
+        0 => 57382,
+      ),
       'sjis' => 'F966',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040416,
+      'unicode' => 
+      array (
+        0 => 1040416,
+      ),
     ),
   ),
   31 => 
   array (
     'mapid' => '#e-021',
-    'unicode' => 128339,
+    'unicode' => 
+    array (
+      0 => 128339,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE FOUR OCLOCK',
@@ -1059,33 +1482,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '364',
-      'unicode' => 57383,
+      'unicode' => 
+      array (
+        0 => 57383,
+      ),
       'sjis' => 'F967',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040417,
+      'unicode' => 
+      array (
+        0 => 1040417,
+      ),
     ),
   ),
   32 => 
   array (
     'mapid' => '#e-022',
-    'unicode' => 128340,
+    'unicode' => 
+    array (
+      0 => 128340,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE FIVE OCLOCK',
@@ -1094,33 +1532,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '365',
-      'unicode' => 57384,
+      'unicode' => 
+      array (
+        0 => 57384,
+      ),
       'sjis' => 'F968',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040418,
+      'unicode' => 
+      array (
+        0 => 1040418,
+      ),
     ),
   ),
   33 => 
   array (
     'mapid' => '#e-023',
-    'unicode' => 128341,
+    'unicode' => 
+    array (
+      0 => 128341,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE SIX OCLOCK',
@@ -1129,33 +1582,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '366',
-      'unicode' => 57385,
+      'unicode' => 
+      array (
+        0 => 57385,
+      ),
       'sjis' => 'F969',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040419,
+      'unicode' => 
+      array (
+        0 => 1040419,
+      ),
     ),
   ),
   34 => 
   array (
     'mapid' => '#e-024',
-    'unicode' => 128342,
+    'unicode' => 
+    array (
+      0 => 128342,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE SEVEN OCLOCK',
@@ -1164,33 +1632,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '367',
-      'unicode' => 57386,
+      'unicode' => 
+      array (
+        0 => 57386,
+      ),
       'sjis' => 'F96A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040420,
+      'unicode' => 
+      array (
+        0 => 1040420,
+      ),
     ),
   ),
   35 => 
   array (
     'mapid' => '#e-025',
-    'unicode' => 128343,
+    'unicode' => 
+    array (
+      0 => 128343,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE EIGHT OCLOCK',
@@ -1199,33 +1682,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '368',
-      'unicode' => 57387,
+      'unicode' => 
+      array (
+        0 => 57387,
+      ),
       'sjis' => 'F96B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040421,
+      'unicode' => 
+      array (
+        0 => 1040421,
+      ),
     ),
   ),
   36 => 
   array (
     'mapid' => '#e-026',
-    'unicode' => 128344,
+    'unicode' => 
+    array (
+      0 => 128344,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE NINE OCLOCK',
@@ -1234,33 +1732,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '369',
-      'unicode' => 57388,
+      'unicode' => 
+      array (
+        0 => 57388,
+      ),
       'sjis' => 'F96C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040422,
+      'unicode' => 
+      array (
+        0 => 1040422,
+      ),
     ),
   ),
   37 => 
   array (
     'mapid' => '#e-027',
-    'unicode' => 128345,
+    'unicode' => 
+    array (
+      0 => 128345,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE TEN OCLOCK',
@@ -1269,33 +1782,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '239',
-      'unicode' => 57389,
+      'unicode' => 
+      array (
+        0 => 57389,
+      ),
       'sjis' => 'F96D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040423,
+      'unicode' => 
+      array (
+        0 => 1040423,
+      ),
     ),
   ),
   38 => 
   array (
     'mapid' => '#e-028',
-    'unicode' => 128346,
+    'unicode' => 
+    array (
+      0 => 128346,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE ELEVEN OCLOCK',
@@ -1304,33 +1832,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '370',
-      'unicode' => 57390,
+      'unicode' => 
+      array (
+        0 => 57390,
+      ),
       'sjis' => 'F96E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040424,
+      'unicode' => 
+      array (
+        0 => 1040424,
+      ),
     ),
   ),
   39 => 
   array (
     'mapid' => '#e-029',
-    'unicode' => 128347,
+    'unicode' => 
+    array (
+      0 => 128347,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCK FACE TWELVE OCLOCK',
@@ -1339,33 +1882,48 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '360',
-      'unicode' => 57391,
+      'unicode' => 
+      array (
+        0 => 57391,
+      ),
       'sjis' => 'F96F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040425,
+      'unicode' => 
+      array (
+        0 => 1040425,
+      ),
     ),
   ),
   40 => 
   array (
     'mapid' => '#e-01D',
-    'unicode' => 8986,
+    'unicode' => 
+    array (
+      0 => 8986,
+    ),
     'char_name' => 
     array (
       'title' => 'WATCH',
@@ -1374,14 +1932,20 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => 'Exp.20',
-      'unicode' => 59167,
+      'unicode' => 
+      array (
+        0 => 59167,
+      ),
       'sjis' => 'F9C4',
       'jis' => '7777',
     ),
     'au' => 
     array (
       'number' => '25',
-      'unicode' => 58746,
+      'unicode' => 
+      array (
+        0 => 58746,
+      ),
       'sjis' => 'F797',
       'jis' => '7777',
     ),
@@ -1391,13 +1955,19 @@ Temporary Notes: (KDDI\'s with face)',
     ),
     'google' => 
     array (
-      'unicode' => 1040413,
+      'unicode' => 
+      array (
+        0 => 1040413,
+      ),
     ),
   ),
   41 => 
   array (
     'mapid' => '#e-01C',
-    'unicode' => 8987,
+    'unicode' => 
+    array (
+      0 => 8987,
+    ),
     'char_name' => 
     array (
       'title' => 'HOURGLASS',
@@ -1406,14 +1976,20 @@ Temporary Notes: (KDDI\'s with face)',
     'docomo' => 
     array (
       'number' => 'Exp.17',
-      'unicode' => 59164,
+      'unicode' => 
+      array (
+        0 => 59164,
+      ),
       'sjis' => 'F9C1',
       'jis' => '7535',
     ),
     'au' => 
     array (
       'number' => '57',
-      'unicode' => 58747,
+      'unicode' => 
+      array (
+        0 => 58747,
+      ),
       'sjis' => 'F798',
       'jis' => '7778',
     ),
@@ -1423,13 +1999,19 @@ Temporary Notes: (KDDI\'s with face)',
     ),
     'google' => 
     array (
-      'unicode' => 1040412,
+      'unicode' => 
+      array (
+        0 => 1040412,
+      ),
     ),
   ),
   42 => 
   array (
     'mapid' => '#e-02A',
-    'unicode' => 9200,
+    'unicode' => 
+    array (
+      0 => 9200,
+    ),
     'char_name' => 
     array (
       'title' => 'ALARM CLOCK',
@@ -1441,33 +2023,48 @@ Design Note: Make the glyph look like an alarm clock.',
     'docomo' => 
     array (
       'number' => '176',
-      'unicode' => 59066,
+      'unicode' => 
+      array (
+        0 => 59066,
+      ),
       'sjis' => 'F95E',
       'jis' => '7833',
     ),
     'au' => 
     array (
       'number' => '46',
-      'unicode' => 58772,
+      'unicode' => 
+      array (
+        0 => 58772,
+      ),
       'sjis' => 'F7B1',
       'jis' => '7833',
     ),
     'softbank' => 
     array (
       'number' => '239',
-      'unicode' => 57389,
+      'unicode' => 
+      array (
+        0 => 57389,
+      ),
       'sjis' => 'F96D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040426,
+      'unicode' => 
+      array (
+        0 => 1040426,
+      ),
     ),
   ),
   43 => 
   array (
     'mapid' => '#e-01B',
-    'unicode' => 9203,
+    'unicode' => 
+    array (
+      0 => 9203,
+    ),
     'char_name' => 
     array (
       'title' => 'HOURGLASS WITH FLOWING SAND',
@@ -1477,14 +2074,20 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => 'Exp.17',
-      'unicode' => 59164,
+      'unicode' => 
+      array (
+        0 => 59164,
+      ),
       'sjis' => 'F9C1',
       'jis' => '7535',
     ),
     'au' => 
     array (
       'number' => '58',
-      'unicode' => 58492,
+      'unicode' => 
+      array (
+        0 => 58492,
+      ),
       'sjis' => 'F654',
       'jis' => '7535',
     ),
@@ -1494,13 +2097,19 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     ),
     'google' => 
     array (
-      'unicode' => 1040411,
+      'unicode' => 
+      array (
+        0 => 1040411,
+      ),
     ),
   ),
   44 => 
   array (
     'mapid' => '#e-02B',
-    'unicode' => 9800,
+    'unicode' => 
+    array (
+      0 => 9800,
+    ),
     'char_name' => 
     array (
       'title' => 'ARIES',
@@ -1509,33 +2118,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '9',
-      'unicode' => 58950,
+      'unicode' => 
+      array (
+        0 => 58950,
+      ),
       'sjis' => 'F8A7',
       'jis' => '7548',
     ),
     'au' => 
     array (
       'number' => '192',
-      'unicode' => 58511,
+      'unicode' => 
+      array (
+        0 => 58511,
+      ),
       'sjis' => 'F667',
       'jis' => '7548',
     ),
     'softbank' => 
     array (
       'number' => '405',
-      'unicode' => 57919,
+      'unicode' => 
+      array (
+        0 => 57919,
+      ),
       'sjis' => 'F7DF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040427,
+      'unicode' => 
+      array (
+        0 => 1040427,
+      ),
     ),
   ),
   45 => 
   array (
     'mapid' => '#e-02C',
-    'unicode' => 9801,
+    'unicode' => 
+    array (
+      0 => 9801,
+    ),
     'char_name' => 
     array (
       'title' => 'TAURUS',
@@ -1544,33 +2168,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '10',
-      'unicode' => 58951,
+      'unicode' => 
+      array (
+        0 => 58951,
+      ),
       'sjis' => 'F8A8',
       'jis' => '7549',
     ),
     'au' => 
     array (
       'number' => '193',
-      'unicode' => 58512,
+      'unicode' => 
+      array (
+        0 => 58512,
+      ),
       'sjis' => 'F668',
       'jis' => '7549',
     ),
     'softbank' => 
     array (
       'number' => '406',
-      'unicode' => 57920,
+      'unicode' => 
+      array (
+        0 => 57920,
+      ),
       'sjis' => 'F7E0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040428,
+      'unicode' => 
+      array (
+        0 => 1040428,
+      ),
     ),
   ),
   46 => 
   array (
     'mapid' => '#e-02D',
-    'unicode' => 9802,
+    'unicode' => 
+    array (
+      0 => 9802,
+    ),
     'char_name' => 
     array (
       'title' => 'GEMINI',
@@ -1579,33 +2218,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '11',
-      'unicode' => 58952,
+      'unicode' => 
+      array (
+        0 => 58952,
+      ),
       'sjis' => 'F8A9',
       'jis' => '754A',
     ),
     'au' => 
     array (
       'number' => '194',
-      'unicode' => 58513,
+      'unicode' => 
+      array (
+        0 => 58513,
+      ),
       'sjis' => 'F669',
       'jis' => '754A',
     ),
     'softbank' => 
     array (
       'number' => '407',
-      'unicode' => 57921,
+      'unicode' => 
+      array (
+        0 => 57921,
+      ),
       'sjis' => 'F7E1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040429,
+      'unicode' => 
+      array (
+        0 => 1040429,
+      ),
     ),
   ),
   47 => 
   array (
     'mapid' => '#e-02E',
-    'unicode' => 9803,
+    'unicode' => 
+    array (
+      0 => 9803,
+    ),
     'char_name' => 
     array (
       'title' => 'CANCER',
@@ -1614,33 +2268,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '12',
-      'unicode' => 58953,
+      'unicode' => 
+      array (
+        0 => 58953,
+      ),
       'sjis' => 'F8AA',
       'jis' => '754B',
     ),
     'au' => 
     array (
       'number' => '195',
-      'unicode' => 58514,
+      'unicode' => 
+      array (
+        0 => 58514,
+      ),
       'sjis' => 'F66A',
       'jis' => '754B',
     ),
     'softbank' => 
     array (
       'number' => '408',
-      'unicode' => 57922,
+      'unicode' => 
+      array (
+        0 => 57922,
+      ),
       'sjis' => 'F7E2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040430,
+      'unicode' => 
+      array (
+        0 => 1040430,
+      ),
     ),
   ),
   48 => 
   array (
     'mapid' => '#e-02F',
-    'unicode' => 9804,
+    'unicode' => 
+    array (
+      0 => 9804,
+    ),
     'char_name' => 
     array (
       'title' => 'LEO',
@@ -1649,33 +2318,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '13',
-      'unicode' => 58954,
+      'unicode' => 
+      array (
+        0 => 58954,
+      ),
       'sjis' => 'F8AB',
       'jis' => '754C',
     ),
     'au' => 
     array (
       'number' => '196',
-      'unicode' => 58515,
+      'unicode' => 
+      array (
+        0 => 58515,
+      ),
       'sjis' => 'F66B',
       'jis' => '754C',
     ),
     'softbank' => 
     array (
       'number' => '409',
-      'unicode' => 57923,
+      'unicode' => 
+      array (
+        0 => 57923,
+      ),
       'sjis' => 'F7E3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040431,
+      'unicode' => 
+      array (
+        0 => 1040431,
+      ),
     ),
   ),
   49 => 
   array (
     'mapid' => '#e-030',
-    'unicode' => 9805,
+    'unicode' => 
+    array (
+      0 => 9805,
+    ),
     'char_name' => 
     array (
       'title' => 'VIRGO',
@@ -1684,33 +2368,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '14',
-      'unicode' => 58955,
+      'unicode' => 
+      array (
+        0 => 58955,
+      ),
       'sjis' => 'F8AC',
       'jis' => '754D',
     ),
     'au' => 
     array (
       'number' => '197',
-      'unicode' => 58516,
+      'unicode' => 
+      array (
+        0 => 58516,
+      ),
       'sjis' => 'F66C',
       'jis' => '754D',
     ),
     'softbank' => 
     array (
       'number' => '410',
-      'unicode' => 57924,
+      'unicode' => 
+      array (
+        0 => 57924,
+      ),
       'sjis' => 'F7E4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040432,
+      'unicode' => 
+      array (
+        0 => 1040432,
+      ),
     ),
   ),
   50 => 
   array (
     'mapid' => '#e-031',
-    'unicode' => 9806,
+    'unicode' => 
+    array (
+      0 => 9806,
+    ),
     'char_name' => 
     array (
       'title' => 'LIBRA',
@@ -1719,33 +2418,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '15',
-      'unicode' => 58956,
+      'unicode' => 
+      array (
+        0 => 58956,
+      ),
       'sjis' => 'F8AD',
       'jis' => '754E',
     ),
     'au' => 
     array (
       'number' => '198',
-      'unicode' => 58517,
+      'unicode' => 
+      array (
+        0 => 58517,
+      ),
       'sjis' => 'F66D',
       'jis' => '754E',
     ),
     'softbank' => 
     array (
       'number' => '411',
-      'unicode' => 57925,
+      'unicode' => 
+      array (
+        0 => 57925,
+      ),
       'sjis' => 'F7E5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040433,
+      'unicode' => 
+      array (
+        0 => 1040433,
+      ),
     ),
   ),
   51 => 
   array (
     'mapid' => '#e-032',
-    'unicode' => 9807,
+    'unicode' => 
+    array (
+      0 => 9807,
+    ),
     'char_name' => 
     array (
       'title' => 'SCORPIUS',
@@ -1754,33 +2468,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '16',
-      'unicode' => 58957,
+      'unicode' => 
+      array (
+        0 => 58957,
+      ),
       'sjis' => 'F8AE',
       'jis' => '754F',
     ),
     'au' => 
     array (
       'number' => '199',
-      'unicode' => 58518,
+      'unicode' => 
+      array (
+        0 => 58518,
+      ),
       'sjis' => 'F66E',
       'jis' => '754F',
     ),
     'softbank' => 
     array (
       'number' => '412',
-      'unicode' => 57926,
+      'unicode' => 
+      array (
+        0 => 57926,
+      ),
       'sjis' => 'F7E6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040434,
+      'unicode' => 
+      array (
+        0 => 1040434,
+      ),
     ),
   ),
   52 => 
   array (
     'mapid' => '#e-033',
-    'unicode' => 9808,
+    'unicode' => 
+    array (
+      0 => 9808,
+    ),
     'char_name' => 
     array (
       'title' => 'SAGITTARIUS',
@@ -1789,33 +2518,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '17',
-      'unicode' => 58958,
+      'unicode' => 
+      array (
+        0 => 58958,
+      ),
       'sjis' => 'F8AF',
       'jis' => '7550',
     ),
     'au' => 
     array (
       'number' => '200',
-      'unicode' => 58519,
+      'unicode' => 
+      array (
+        0 => 58519,
+      ),
       'sjis' => 'F66F',
       'jis' => '7550',
     ),
     'softbank' => 
     array (
       'number' => '413',
-      'unicode' => 57927,
+      'unicode' => 
+      array (
+        0 => 57927,
+      ),
       'sjis' => 'F7E7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040435,
+      'unicode' => 
+      array (
+        0 => 1040435,
+      ),
     ),
   ),
   53 => 
   array (
     'mapid' => '#e-034',
-    'unicode' => 9809,
+    'unicode' => 
+    array (
+      0 => 9809,
+    ),
     'char_name' => 
     array (
       'title' => 'CAPRICORN',
@@ -1824,33 +2568,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '18',
-      'unicode' => 58959,
+      'unicode' => 
+      array (
+        0 => 58959,
+      ),
       'sjis' => 'F8B0',
       'jis' => '7551',
     ),
     'au' => 
     array (
       'number' => '201',
-      'unicode' => 58520,
+      'unicode' => 
+      array (
+        0 => 58520,
+      ),
       'sjis' => 'F670',
       'jis' => '7551',
     ),
     'softbank' => 
     array (
       'number' => '414',
-      'unicode' => 57928,
+      'unicode' => 
+      array (
+        0 => 57928,
+      ),
       'sjis' => 'F7E8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040436,
+      'unicode' => 
+      array (
+        0 => 1040436,
+      ),
     ),
   ),
   54 => 
   array (
     'mapid' => '#e-035',
-    'unicode' => 9810,
+    'unicode' => 
+    array (
+      0 => 9810,
+    ),
     'char_name' => 
     array (
       'title' => 'AQUARIUS',
@@ -1859,33 +2618,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '19',
-      'unicode' => 58960,
+      'unicode' => 
+      array (
+        0 => 58960,
+      ),
       'sjis' => 'F8B1',
       'jis' => '7552',
     ),
     'au' => 
     array (
       'number' => '202',
-      'unicode' => 58521,
+      'unicode' => 
+      array (
+        0 => 58521,
+      ),
       'sjis' => 'F671',
       'jis' => '7552',
     ),
     'softbank' => 
     array (
       'number' => '415',
-      'unicode' => 57929,
+      'unicode' => 
+      array (
+        0 => 57929,
+      ),
       'sjis' => 'F7E9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040437,
+      'unicode' => 
+      array (
+        0 => 1040437,
+      ),
     ),
   ),
   55 => 
   array (
     'mapid' => '#e-036',
-    'unicode' => 9811,
+    'unicode' => 
+    array (
+      0 => 9811,
+    ),
     'char_name' => 
     array (
       'title' => 'PISCES',
@@ -1894,33 +2668,48 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'docomo' => 
     array (
       'number' => '20',
-      'unicode' => 58961,
+      'unicode' => 
+      array (
+        0 => 58961,
+      ),
       'sjis' => 'F8B2',
       'jis' => '7553',
     ),
     'au' => 
     array (
       'number' => '203',
-      'unicode' => 58522,
+      'unicode' => 
+      array (
+        0 => 58522,
+      ),
       'sjis' => 'F672',
       'jis' => '7553',
     ),
     'softbank' => 
     array (
       'number' => '416',
-      'unicode' => 57930,
+      'unicode' => 
+      array (
+        0 => 57930,
+      ),
       'sjis' => 'F7EA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040438,
+      'unicode' => 
+      array (
+        0 => 1040438,
+      ),
     ),
   ),
   56 => 
   array (
     'mapid' => '#e-037',
-    'unicode' => 9934,
+    'unicode' => 
+    array (
+      0 => 9934,
+    ),
     'char_name' => 
     array (
       'title' => 'OPHIUCHUS',
@@ -1933,26 +2722,38 @@ Temporary Notes: Sometimes animated as by KDDI/AU. Might be allocated in the U+2
     'au' => 
     array (
       'number' => '204',
-      'unicode' => 58523,
+      'unicode' => 
+      array (
+        0 => 58523,
+      ),
       'sjis' => 'F673',
       'jis' => '7554',
     ),
     'softbank' => 
     array (
       'number' => '417',
-      'unicode' => 57931,
+      'unicode' => 
+      array (
+        0 => 57931,
+      ),
       'sjis' => 'F7EB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040439,
+      'unicode' => 
+      array (
+        0 => 1040439,
+      ),
     ),
   ),
   57 => 
   array (
     'mapid' => '#e-03C',
-    'unicode' => 127808,
+    'unicode' => 
+    array (
+      0 => 127808,
+    ),
     'char_name' => 
     array (
       'title' => 'FOUR LEAF CLOVER',
@@ -1962,33 +2763,48 @@ Temporary Notes: Disunified from ☘ U+2618 SHAMROCK',
     'docomo' => 
     array (
       'number' => 'Exp.54',
-      'unicode' => 59201,
+      'unicode' => 
+      array (
+        0 => 59201,
+      ),
       'sjis' => 'F9E6',
       'jis' => '766E',
     ),
     'au' => 
     array (
       'number' => '53',
-      'unicode' => 58643,
+      'unicode' => 
+      array (
+        0 => 58643,
+      ),
       'sjis' => 'F6EC',
       'jis' => '766E',
     ),
     'softbank' => 
     array (
       'number' => '94',
-      'unicode' => 57616,
+      'unicode' => 
+      array (
+        0 => 57616,
+      ),
       'sjis' => 'F750',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040444,
+      'unicode' => 
+      array (
+        0 => 1040444,
+      ),
     ),
   ),
   58 => 
   array (
     'mapid' => '#e-03D',
-    'unicode' => 127799,
+    'unicode' => 
+    array (
+      0 => 127799,
+    ),
     'char_name' => 
     array (
       'title' => 'TULIP',
@@ -1997,33 +2813,48 @@ Temporary Notes: Disunified from ☘ U+2618 SHAMROCK',
     'docomo' => 
     array (
       'number' => 'Exp.56',
-      'unicode' => 59203,
+      'unicode' => 
+      array (
+        0 => 59203,
+      ),
       'sjis' => 'F9E8',
       'jis' => '763F',
     ),
     'au' => 
     array (
       'number' => '113',
-      'unicode' => 58596,
+      'unicode' => 
+      array (
+        0 => 58596,
+      ),
       'sjis' => 'F6BD',
       'jis' => '763F',
     ),
     'softbank' => 
     array (
       'number' => '92',
-      'unicode' => 58116,
+      'unicode' => 
+      array (
+        0 => 58116,
+      ),
       'sjis' => 'F9A4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040445,
+      'unicode' => 
+      array (
+        0 => 1040445,
+      ),
     ),
   ),
   59 => 
   array (
     'mapid' => '#e-03E',
-    'unicode' => 127793,
+    'unicode' => 
+    array (
+      0 => 127793,
+    ),
     'char_name' => 
     array (
       'title' => 'SEEDLING',
@@ -2032,33 +2863,48 @@ Temporary Notes: Disunified from ☘ U+2618 SHAMROCK',
     'docomo' => 
     array (
       'number' => 'Exp.59',
-      'unicode' => 59206,
+      'unicode' => 
+      array (
+        0 => 59206,
+      ),
       'sjis' => 'F9EB',
       'jis' => '7B62',
     ),
     'au' => 
     array (
       'number' => '811',
-      'unicode' => 60285,
+      'unicode' => 
+      array (
+        0 => 60285,
+      ),
       'sjis' => 'F482',
       'jis' => '7B62',
     ),
     'softbank' => 
     array (
       'number' => '94',
-      'unicode' => 57616,
+      'unicode' => 
+      array (
+        0 => 57616,
+      ),
       'sjis' => 'F750',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040446,
+      'unicode' => 
+      array (
+        0 => 1040446,
+      ),
     ),
   ),
   60 => 
   array (
     'mapid' => '#e-03F',
-    'unicode' => 127809,
+    'unicode' => 
+    array (
+      0 => 127809,
+    ),
     'char_name' => 
     array (
       'title' => 'MAPLE LEAF',
@@ -2067,33 +2913,48 @@ Temporary Notes: Disunified from ☘ U+2618 SHAMROCK',
     'docomo' => 
     array (
       'number' => 'Exp.60',
-      'unicode' => 59207,
+      'unicode' => 
+      array (
+        0 => 59207,
+      ),
       'sjis' => 'F9EC',
       'jis' => '7629',
     ),
     'au' => 
     array (
       'number' => '133',
-      'unicode' => 58574,
+      'unicode' => 
+      array (
+        0 => 58574,
+      ),
       'sjis' => 'F6A7',
       'jis' => '7629',
     ),
     'softbank' => 
     array (
       'number' => '93',
-      'unicode' => 57624,
+      'unicode' => 
+      array (
+        0 => 57624,
+      ),
       'sjis' => 'F758',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040447,
+      'unicode' => 
+      array (
+        0 => 1040447,
+      ),
     ),
   ),
   61 => 
   array (
     'mapid' => '#e-040',
-    'unicode' => 127800,
+    'unicode' => 
+    array (
+      0 => 127800,
+    ),
     'char_name' => 
     array (
       'title' => 'CHERRY BLOSSOM',
@@ -2102,33 +2963,48 @@ Temporary Notes: Disunified from ☘ U+2618 SHAMROCK',
     'docomo' => 
     array (
       'number' => 'Exp.61',
-      'unicode' => 59208,
+      'unicode' => 
+      array (
+        0 => 59208,
+      ),
       'sjis' => 'F9ED',
       'jis' => '7625',
     ),
     'au' => 
     array (
       'number' => '235',
-      'unicode' => 58570,
+      'unicode' => 
+      array (
+        0 => 58570,
+      ),
       'sjis' => 'F6A3',
       'jis' => '7625',
     ),
     'softbank' => 
     array (
       'number' => '91',
-      'unicode' => 57392,
+      'unicode' => 
+      array (
+        0 => 57392,
+      ),
       'sjis' => 'F970',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040448,
+      'unicode' => 
+      array (
+        0 => 1040448,
+      ),
     ),
   ),
   62 => 
   array (
     'mapid' => '#e-041',
-    'unicode' => 127801,
+    'unicode' => 
+    array (
+      0 => 127801,
+    ),
     'char_name' => 
     array (
       'title' => 'ROSE',
@@ -2141,26 +3017,38 @@ Temporary Notes: Disunified from ☘ U+2618 SHAMROCK',
     'au' => 
     array (
       'number' => '339',
-      'unicode' => 58810,
+      'unicode' => 
+      array (
+        0 => 58810,
+      ),
       'sjis' => 'F7EA',
       'jis' => '786C',
     ),
     'softbank' => 
     array (
       'number' => '95',
-      'unicode' => 57394,
+      'unicode' => 
+      array (
+        0 => 57394,
+      ),
       'sjis' => 'F972',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040449,
+      'unicode' => 
+      array (
+        0 => 1040449,
+      ),
     ),
   ),
   63 => 
   array (
     'mapid' => '#e-042',
-    'unicode' => 127810,
+    'unicode' => 
+    array (
+      0 => 127810,
+    ),
     'char_name' => 
     array (
       'title' => 'FALLEN LEAF',
@@ -2170,33 +3058,48 @@ Temporary Notes: autumn leaf',
     'docomo' => 
     array (
       'number' => 'Exp.60',
-      'unicode' => 59207,
+      'unicode' => 
+      array (
+        0 => 59207,
+      ),
       'sjis' => 'F9EC',
       'jis' => '7629',
     ),
     'au' => 
     array (
       'number' => '358',
-      'unicode' => 58829,
+      'unicode' => 
+      array (
+        0 => 58829,
+      ),
       'sjis' => 'F340',
       'jis' => '7921',
     ),
     'softbank' => 
     array (
       'number' => '103',
-      'unicode' => 57625,
+      'unicode' => 
+      array (
+        0 => 57625,
+      ),
       'sjis' => 'F759',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040450,
+      'unicode' => 
+      array (
+        0 => 1040450,
+      ),
     ),
   ),
   64 => 
   array (
     'mapid' => '#e-043',
-    'unicode' => 127811,
+    'unicode' => 
+    array (
+      0 => 127811,
+    ),
     'char_name' => 
     array (
       'title' => 'LEAF FLUTTERING IN WIND',
@@ -2209,26 +3112,38 @@ Temporary Notes: autumn leaf',
     'au' => 
     array (
       'number' => '358',
-      'unicode' => 58829,
+      'unicode' => 
+      array (
+        0 => 58829,
+      ),
       'sjis' => 'F340',
       'jis' => '7921',
     ),
     'softbank' => 
     array (
       'number' => '101',
-      'unicode' => 58439,
+      'unicode' => 
+      array (
+        0 => 58439,
+      ),
       'sjis' => 'FB88',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040451,
+      'unicode' => 
+      array (
+        0 => 1040451,
+      ),
     ),
   ),
   65 => 
   array (
     'mapid' => '#e-045',
-    'unicode' => 127802,
+    'unicode' => 
+    array (
+      0 => 127802,
+    ),
     'char_name' => 
     array (
       'title' => 'HIBISCUS',
@@ -2241,26 +3156,38 @@ Temporary Notes: autumn leaf',
     'au' => 
     array (
       'number' => '397',
-      'unicode' => 60052,
+      'unicode' => 
+      array (
+        0 => 60052,
+      ),
       'sjis' => 'F367',
       'jis' => '7948',
     ),
     'softbank' => 
     array (
       'number' => '96',
-      'unicode' => 58115,
+      'unicode' => 
+      array (
+        0 => 58115,
+      ),
       'sjis' => 'F9A3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040453,
+      'unicode' => 
+      array (
+        0 => 1040453,
+      ),
     ),
   ),
   66 => 
   array (
     'mapid' => '#e-046',
-    'unicode' => 127803,
+    'unicode' => 
+    array (
+      0 => 127803,
+    ),
     'char_name' => 
     array (
       'title' => 'SUNFLOWER',
@@ -2273,26 +3200,38 @@ Temporary Notes: autumn leaf',
     'au' => 
     array (
       'number' => '256',
-      'unicode' => 58595,
+      'unicode' => 
+      array (
+        0 => 58595,
+      ),
       'sjis' => 'F6BC',
       'jis' => '763E',
     ),
     'softbank' => 
     array (
       'number' => '97',
-      'unicode' => 58117,
+      'unicode' => 
+      array (
+        0 => 58117,
+      ),
       'sjis' => 'F9A5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040454,
+      'unicode' => 
+      array (
+        0 => 1040454,
+      ),
     ),
   ),
   67 => 
   array (
     'mapid' => '#e-047',
-    'unicode' => 127796,
+    'unicode' => 
+    array (
+      0 => 127796,
+    ),
     'char_name' => 
     array (
       'title' => 'PALM TREE',
@@ -2305,26 +3244,38 @@ Temporary Notes: autumn leaf',
     'au' => 
     array (
       'number' => '255',
-      'unicode' => 58594,
+      'unicode' => 
+      array (
+        0 => 58594,
+      ),
       'sjis' => 'F6BB',
       'jis' => '763D',
     ),
     'softbank' => 
     array (
       'number' => '99',
-      'unicode' => 58119,
+      'unicode' => 
+      array (
+        0 => 58119,
+      ),
       'sjis' => 'F9A7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040455,
+      'unicode' => 
+      array (
+        0 => 1040455,
+      ),
     ),
   ),
   68 => 
   array (
     'mapid' => '#e-048',
-    'unicode' => 127797,
+    'unicode' => 
+    array (
+      0 => 127797,
+    ),
     'char_name' => 
     array (
       'title' => 'CACTUS',
@@ -2337,26 +3288,38 @@ Temporary Notes: autumn leaf',
     'au' => 
     array (
       'number' => '399',
-      'unicode' => 60054,
+      'unicode' => 
+      array (
+        0 => 60054,
+      ),
       'sjis' => 'F369',
       'jis' => '794A',
     ),
     'softbank' => 
     array (
       'number' => '100',
-      'unicode' => 58120,
+      'unicode' => 
+      array (
+        0 => 58120,
+      ),
       'sjis' => 'F9A8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040456,
+      'unicode' => 
+      array (
+        0 => 1040456,
+      ),
     ),
   ),
   69 => 
   array (
     'mapid' => '#e-049',
-    'unicode' => 127806,
+    'unicode' => 
+    array (
+      0 => 127806,
+    ),
     'char_name' => 
     array (
       'title' => 'EAR OF RICE',
@@ -2373,19 +3336,28 @@ Temporary Notes: autumn leaf',
     'softbank' => 
     array (
       'number' => '102',
-      'unicode' => 58436,
+      'unicode' => 
+      array (
+        0 => 58436,
+      ),
       'sjis' => 'FB85',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040457,
+      'unicode' => 
+      array (
+        0 => 1040457,
+      ),
     ),
   ),
   70 => 
   array (
     'mapid' => '#e-04A',
-    'unicode' => 127805,
+    'unicode' => 
+    array (
+      0 => 127805,
+    ),
     'char_name' => 
     array (
       'title' => 'EAR OF MAIZE',
@@ -2398,7 +3370,10 @@ Temporary Notes: autumn leaf',
     'au' => 
     array (
       'number' => '740',
-      'unicode' => 60214,
+      'unicode' => 
+      array (
+        0 => 60214,
+      ),
       'sjis' => 'F3F7',
       'jis' => '7A79',
     ),
@@ -2408,13 +3383,19 @@ Temporary Notes: autumn leaf',
     ),
     'google' => 
     array (
-      'unicode' => 1040458,
+      'unicode' => 
+      array (
+        0 => 1040458,
+      ),
     ),
   ),
   71 => 
   array (
     'mapid' => '#e-04B',
-    'unicode' => 127812,
+    'unicode' => 
+    array (
+      0 => 127812,
+    ),
     'char_name' => 
     array (
       'title' => 'MUSHROOM',
@@ -2427,7 +3408,10 @@ Temporary Notes: autumn leaf',
     'au' => 
     array (
       'number' => '741',
-      'unicode' => 60215,
+      'unicode' => 
+      array (
+        0 => 60215,
+      ),
       'sjis' => 'F3F8',
       'jis' => '7A7A',
     ),
@@ -2437,13 +3421,19 @@ Temporary Notes: autumn leaf',
     ),
     'google' => 
     array (
-      'unicode' => 1040459,
+      'unicode' => 
+      array (
+        0 => 1040459,
+      ),
     ),
   ),
   72 => 
   array (
     'mapid' => '#e-04C',
-    'unicode' => 127792,
+    'unicode' => 
+    array (
+      0 => 127792,
+    ),
     'char_name' => 
     array (
       'title' => 'CHESTNUT',
@@ -2456,7 +3446,10 @@ Temporary Notes: autumn leaf',
     'au' => 
     array (
       'number' => '742',
-      'unicode' => 60216,
+      'unicode' => 
+      array (
+        0 => 60216,
+      ),
       'sjis' => 'F3F9',
       'jis' => '7A7B',
     ),
@@ -2466,13 +3459,19 @@ Temporary Notes: autumn leaf',
     ),
     'google' => 
     array (
-      'unicode' => 1040460,
+      'unicode' => 
+      array (
+        0 => 1040460,
+      ),
     ),
   ),
   73 => 
   array (
     'mapid' => '#e-04D',
-    'unicode' => 127804,
+    'unicode' => 
+    array (
+      0 => 127804,
+    ),
     'char_name' => 
     array (
       'title' => 'BLOSSOM',
@@ -2485,26 +3484,38 @@ Temporary Notes: autumn leaf',
     'au' => 
     array (
       'number' => '759',
-      'unicode' => 60233,
+      'unicode' => 
+      array (
+        0 => 60233,
+      ),
       'sjis' => 'F44D',
       'jis' => '7B2E',
     ),
     'softbank' => 
     array (
       'number' => '97',
-      'unicode' => 58117,
+      'unicode' => 
+      array (
+        0 => 58117,
+      ),
       'sjis' => 'F9A5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040461,
+      'unicode' => 
+      array (
+        0 => 1040461,
+      ),
     ),
   ),
   74 => 
   array (
     'mapid' => '#e-04E',
-    'unicode' => 127807,
+    'unicode' => 
+    array (
+      0 => 127807,
+    ),
     'char_name' => 
     array (
       'title' => 'HERB',
@@ -2513,33 +3524,48 @@ Temporary Notes: autumn leaf',
     'docomo' => 
     array (
       'number' => 'Exp.54',
-      'unicode' => 59201,
+      'unicode' => 
+      array (
+        0 => 59201,
+      ),
       'sjis' => 'F9E6',
       'jis' => '766E',
     ),
     'au' => 
     array (
       'number' => '816',
-      'unicode' => 60290,
+      'unicode' => 
+      array (
+        0 => 60290,
+      ),
       'sjis' => 'F487',
       'jis' => '7B67',
     ),
     'softbank' => 
     array (
       'number' => '94',
-      'unicode' => 57616,
+      'unicode' => 
+      array (
+        0 => 57616,
+      ),
       'sjis' => 'F750',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040462,
+      'unicode' => 
+      array (
+        0 => 1040462,
+      ),
     ),
   ),
   75 => 
   array (
     'mapid' => '#e-04F',
-    'unicode' => 127826,
+    'unicode' => 
+    array (
+      0 => 127826,
+    ),
     'char_name' => 
     array (
       'title' => 'CHERRIES',
@@ -2548,14 +3574,20 @@ Temporary Notes: autumn leaf',
     'docomo' => 
     array (
       'number' => 'Exp.55',
-      'unicode' => 59202,
+      'unicode' => 
+      array (
+        0 => 59202,
+      ),
       'sjis' => 'F9E7',
       'jis' => '762D',
     ),
     'au' => 
     array (
       'number' => '241',
-      'unicode' => 58578,
+      'unicode' => 
+      array (
+        0 => 58578,
+      ),
       'sjis' => 'F6AB',
       'jis' => '762D',
     ),
@@ -2565,13 +3597,19 @@ Temporary Notes: autumn leaf',
     ),
     'google' => 
     array (
-      'unicode' => 1040463,
+      'unicode' => 
+      array (
+        0 => 1040463,
+      ),
     ),
   ),
   76 => 
   array (
     'mapid' => '#e-050',
-    'unicode' => 127820,
+    'unicode' => 
+    array (
+      0 => 127820,
+    ),
     'char_name' => 
     array (
       'title' => 'BANANA',
@@ -2580,14 +3618,20 @@ Temporary Notes: autumn leaf',
     'docomo' => 
     array (
       'number' => 'Exp.57',
-      'unicode' => 59204,
+      'unicode' => 
+      array (
+        0 => 59204,
+      ),
       'sjis' => 'F9E9',
       'jis' => '7A78',
     ),
     'au' => 
     array (
       'number' => '739',
-      'unicode' => 60213,
+      'unicode' => 
+      array (
+        0 => 60213,
+      ),
       'sjis' => 'F3F6',
       'jis' => '7A78',
     ),
@@ -2597,13 +3641,19 @@ Temporary Notes: autumn leaf',
     ),
     'google' => 
     array (
-      'unicode' => 1040464,
+      'unicode' => 
+      array (
+        0 => 1040464,
+      ),
     ),
   ),
   77 => 
   array (
     'mapid' => '#e-051',
-    'unicode' => 127822,
+    'unicode' => 
+    array (
+      0 => 127822,
+    ),
     'char_name' => 
     array (
       'title' => 'RED APPLE',
@@ -2613,33 +3663,48 @@ Temporary Notes: Usually in red color',
     'docomo' => 
     array (
       'number' => 'Exp.58',
-      'unicode' => 59205,
+      'unicode' => 
+      array (
+        0 => 59205,
+      ),
       'sjis' => 'F9EA',
       'jis' => '796D',
     ),
     'au' => 
     array (
       'number' => '434',
-      'unicode' => 60089,
+      'unicode' => 
+      array (
+        0 => 60089,
+      ),
       'sjis' => 'F38D',
       'jis' => '796D',
     ),
     'softbank' => 
     array (
       'number' => '190',
-      'unicode' => 58181,
+      'unicode' => 
+      array (
+        0 => 58181,
+      ),
       'sjis' => 'F9E5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040465,
+      'unicode' => 
+      array (
+        0 => 1040465,
+      ),
     ),
   ),
   78 => 
   array (
     'mapid' => '#e-052',
-    'unicode' => 127818,
+    'unicode' => 
+    array (
+      0 => 127818,
+    ),
     'char_name' => 
     array (
       'title' => 'TANGERINE',
@@ -2652,26 +3717,38 @@ Temporary Notes: Usually in red color',
     'au' => 
     array (
       'number' => '435',
-      'unicode' => 60090,
+      'unicode' => 
+      array (
+        0 => 60090,
+      ),
       'sjis' => 'F38E',
       'jis' => '796E',
     ),
     'softbank' => 
     array (
       'number' => '192',
-      'unicode' => 58182,
+      'unicode' => 
+      array (
+        0 => 58182,
+      ),
       'sjis' => 'F9E6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040466,
+      'unicode' => 
+      array (
+        0 => 1040466,
+      ),
     ),
   ),
   79 => 
   array (
     'mapid' => '#e-053',
-    'unicode' => 127827,
+    'unicode' => 
+    array (
+      0 => 127827,
+    ),
     'char_name' => 
     array (
       'title' => 'STRAWBERRY',
@@ -2684,26 +3761,38 @@ Temporary Notes: Usually in red color',
     'au' => 
     array (
       'number' => '243',
-      'unicode' => 58580,
+      'unicode' => 
+      array (
+        0 => 58580,
+      ),
       'sjis' => 'F6AD',
       'jis' => '762F',
     ),
     'softbank' => 
     array (
       'number' => '191',
-      'unicode' => 58183,
+      'unicode' => 
+      array (
+        0 => 58183,
+      ),
       'sjis' => 'F9E7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040467,
+      'unicode' => 
+      array (
+        0 => 1040467,
+      ),
     ),
   ),
   80 => 
   array (
     'mapid' => '#e-054',
-    'unicode' => 127817,
+    'unicode' => 
+    array (
+      0 => 127817,
+    ),
     'char_name' => 
     array (
       'title' => 'WATERMELON',
@@ -2716,26 +3805,38 @@ Temporary Notes: Usually in red color',
     'au' => 
     array (
       'number' => '238',
-      'unicode' => 58573,
+      'unicode' => 
+      array (
+        0 => 58573,
+      ),
       'sjis' => 'F6A6',
       'jis' => '7628',
     ),
     'softbank' => 
     array (
       'number' => '193',
-      'unicode' => 58184,
+      'unicode' => 
+      array (
+        0 => 58184,
+      ),
       'sjis' => 'F9E8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040468,
+      'unicode' => 
+      array (
+        0 => 1040468,
+      ),
     ),
   ),
   81 => 
   array (
     'mapid' => '#e-055',
-    'unicode' => 127813,
+    'unicode' => 
+    array (
+      0 => 127813,
+    ),
     'char_name' => 
     array (
       'title' => 'TOMATO',
@@ -2748,26 +3849,38 @@ Temporary Notes: Usually in red color',
     'au' => 
     array (
       'number' => '436',
-      'unicode' => 60091,
+      'unicode' => 
+      array (
+        0 => 60091,
+      ),
       'sjis' => 'F38F',
       'jis' => '796F',
     ),
     'softbank' => 
     array (
       'number' => '194',
-      'unicode' => 58185,
+      'unicode' => 
+      array (
+        0 => 58185,
+      ),
       'sjis' => 'F9E9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040469,
+      'unicode' => 
+      array (
+        0 => 1040469,
+      ),
     ),
   ),
   82 => 
   array (
     'mapid' => '#e-056',
-    'unicode' => 127814,
+    'unicode' => 
+    array (
+      0 => 127814,
+    ),
     'char_name' => 
     array (
       'title' => 'AUBERGINE',
@@ -2780,26 +3893,38 @@ Temporary Notes: Usually in red color',
     'au' => 
     array (
       'number' => '437',
-      'unicode' => 60092,
+      'unicode' => 
+      array (
+        0 => 60092,
+      ),
       'sjis' => 'F390',
       'jis' => '7970',
     ),
     'softbank' => 
     array (
       'number' => '195',
-      'unicode' => 58186,
+      'unicode' => 
+      array (
+        0 => 58186,
+      ),
       'sjis' => 'F9EA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040470,
+      'unicode' => 
+      array (
+        0 => 1040470,
+      ),
     ),
   ),
   83 => 
   array (
     'mapid' => '#e-057',
-    'unicode' => 127816,
+    'unicode' => 
+    array (
+      0 => 127816,
+    ),
     'char_name' => 
     array (
       'title' => 'MELON',
@@ -2812,7 +3937,10 @@ Temporary Notes: Usually in red color',
     'au' => 
     array (
       'number' => '736',
-      'unicode' => 60210,
+      'unicode' => 
+      array (
+        0 => 60210,
+      ),
       'sjis' => 'F3F3',
       'jis' => '7A75',
     ),
@@ -2822,13 +3950,19 @@ Temporary Notes: Usually in red color',
     ),
     'google' => 
     array (
-      'unicode' => 1040471,
+      'unicode' => 
+      array (
+        0 => 1040471,
+      ),
     ),
   ),
   84 => 
   array (
     'mapid' => '#e-058',
-    'unicode' => 127821,
+    'unicode' => 
+    array (
+      0 => 127821,
+    ),
     'char_name' => 
     array (
       'title' => 'PINEAPPLE',
@@ -2841,7 +3975,10 @@ Temporary Notes: Usually in red color',
     'au' => 
     array (
       'number' => '737',
-      'unicode' => 60211,
+      'unicode' => 
+      array (
+        0 => 60211,
+      ),
       'sjis' => 'F3F4',
       'jis' => '7A76',
     ),
@@ -2851,13 +3988,19 @@ Temporary Notes: Usually in red color',
     ),
     'google' => 
     array (
-      'unicode' => 1040472,
+      'unicode' => 
+      array (
+        0 => 1040472,
+      ),
     ),
   ),
   85 => 
   array (
     'mapid' => '#e-059',
-    'unicode' => 127815,
+    'unicode' => 
+    array (
+      0 => 127815,
+    ),
     'char_name' => 
     array (
       'title' => 'GRAPES',
@@ -2870,7 +4013,10 @@ Temporary Notes: Usually in red color',
     'au' => 
     array (
       'number' => '738',
-      'unicode' => 60212,
+      'unicode' => 
+      array (
+        0 => 60212,
+      ),
       'sjis' => 'F3F5',
       'jis' => '7A77',
     ),
@@ -2880,13 +4026,19 @@ Temporary Notes: Usually in red color',
     ),
     'google' => 
     array (
-      'unicode' => 1040473,
+      'unicode' => 
+      array (
+        0 => 1040473,
+      ),
     ),
   ),
   86 => 
   array (
     'mapid' => '#e-05A',
-    'unicode' => 127825,
+    'unicode' => 
+    array (
+      0 => 127825,
+    ),
     'char_name' => 
     array (
       'title' => 'PEACH',
@@ -2899,7 +4051,10 @@ Temporary Notes: Usually in red color',
     'au' => 
     array (
       'number' => '743',
-      'unicode' => 60217,
+      'unicode' => 
+      array (
+        0 => 60217,
+      ),
       'sjis' => 'F3FA',
       'jis' => '7A7C',
     ),
@@ -2909,13 +4064,19 @@ Temporary Notes: Usually in red color',
     ),
     'google' => 
     array (
-      'unicode' => 1040474,
+      'unicode' => 
+      array (
+        0 => 1040474,
+      ),
     ),
   ),
   87 => 
   array (
     'mapid' => '#e-05B',
-    'unicode' => 127823,
+    'unicode' => 
+    array (
+      0 => 127823,
+    ),
     'char_name' => 
     array (
       'title' => 'GREEN APPLE',
@@ -2925,33 +4086,48 @@ Temporary Notes: Usually in green color',
     'docomo' => 
     array (
       'number' => 'Exp.58',
-      'unicode' => 59205,
+      'unicode' => 
+      array (
+        0 => 59205,
+      ),
       'sjis' => 'F9EA',
       'jis' => '796D',
     ),
     'au' => 
     array (
       'number' => '776',
-      'unicode' => 60250,
+      'unicode' => 
+      array (
+        0 => 60250,
+      ),
       'sjis' => 'F45E',
       'jis' => '7B3F',
     ),
     'softbank' => 
     array (
       'number' => '190',
-      'unicode' => 58181,
+      'unicode' => 
+      array (
+        0 => 58181,
+      ),
       'sjis' => 'F9E5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040475,
+      'unicode' => 
+      array (
+        0 => 1040475,
+      ),
     ),
   ),
   88 => 
   array (
     'mapid' => '#e-190',
-    'unicode' => 128064,
+    'unicode' => 
+    array (
+      0 => 128064,
+    ),
     'char_name' => 
     array (
       'title' => 'EYES',
@@ -2960,33 +4136,48 @@ Temporary Notes: Usually in green color',
     'docomo' => 
     array (
       'number' => '84',
-      'unicode' => 59025,
+      'unicode' => 
+      array (
+        0 => 59025,
+      ),
       'sjis' => 'F8F2',
       'jis' => '7843',
     ),
     'au' => 
     array (
       'number' => '317',
-      'unicode' => 58788,
+      'unicode' => 
+      array (
+        0 => 58788,
+      ),
       'sjis' => 'F7C1',
       'jis' => '7843',
     ),
     'softbank' => 
     array (
       'number' => '65',
-      'unicode' => 58393,
+      'unicode' => 
+      array (
+        0 => 58393,
+      ),
       'sjis' => 'FB59',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040784,
+      'unicode' => 
+      array (
+        0 => 1040784,
+      ),
     ),
   ),
   89 => 
   array (
     'mapid' => '#e-191',
-    'unicode' => 128066,
+    'unicode' => 
+    array (
+      0 => 128066,
+    ),
     'char_name' => 
     array (
       'title' => 'EAR',
@@ -2995,33 +4186,48 @@ Temporary Notes: Usually in green color',
     'docomo' => 
     array (
       'number' => '85',
-      'unicode' => 59026,
+      'unicode' => 
+      array (
+        0 => 59026,
+      ),
       'sjis' => 'F8F3',
       'jis' => '7844',
     ),
     'au' => 
     array (
       'number' => '318',
-      'unicode' => 58789,
+      'unicode' => 
+      array (
+        0 => 58789,
+      ),
       'sjis' => 'F7C2',
       'jis' => '7844',
     ),
     'softbank' => 
     array (
       'number' => '66',
-      'unicode' => 58395,
+      'unicode' => 
+      array (
+        0 => 58395,
+      ),
       'sjis' => 'FB5B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040785,
+      'unicode' => 
+      array (
+        0 => 1040785,
+      ),
     ),
   ),
   90 => 
   array (
     'mapid' => '#e-192',
-    'unicode' => 128067,
+    'unicode' => 
+    array (
+      0 => 128067,
+    ),
     'char_name' => 
     array (
       'title' => 'NOSE',
@@ -3034,26 +4240,38 @@ Temporary Notes: Usually in green color',
     'au' => 
     array (
       'number' => '457',
-      'unicode' => 60112,
+      'unicode' => 
+      array (
+        0 => 60112,
+      ),
       'sjis' => 'F3A4',
       'jis' => '7A26',
     ),
     'softbank' => 
     array (
       'number' => '67',
-      'unicode' => 58394,
+      'unicode' => 
+      array (
+        0 => 58394,
+      ),
       'sjis' => 'FB5A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040786,
+      'unicode' => 
+      array (
+        0 => 1040786,
+      ),
     ),
   ),
   91 => 
   array (
     'mapid' => '#e-193',
-    'unicode' => 128068,
+    'unicode' => 
+    array (
+      0 => 128068,
+    ),
     'char_name' => 
     array (
       'title' => 'MOUTH',
@@ -3062,33 +4280,48 @@ Temporary Notes: Usually in green color',
     'docomo' => 
     array (
       'number' => '149',
-      'unicode' => 59129,
+      'unicode' => 
+      array (
+        0 => 59129,
+      ),
       'sjis' => 'F99E',
       'jis' => '7646',
     ),
     'au' => 
     array (
       'number' => '458',
-      'unicode' => 60113,
+      'unicode' => 
+      array (
+        0 => 60113,
+      ),
       'sjis' => 'F3A5',
       'jis' => '7A27',
     ),
     'softbank' => 
     array (
       'number' => '64',
-      'unicode' => 58396,
+      'unicode' => 
+      array (
+        0 => 58396,
+      ),
       'sjis' => 'FB5C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040787,
+      'unicode' => 
+      array (
+        0 => 1040787,
+      ),
     ),
   ),
   92 => 
   array (
     'mapid' => '#e-194',
-    'unicode' => 128069,
+    'unicode' => 
+    array (
+      0 => 128069,
+    ),
     'char_name' => 
     array (
       'title' => 'TONGUE',
@@ -3097,33 +4330,48 @@ Temporary Notes: Usually in green color',
     'docomo' => 
     array (
       'number' => 'Exp.29',
-      'unicode' => 59176,
+      'unicode' => 
+      array (
+        0 => 59176,
+      ),
       'sjis' => 'F9CD',
       'jis' => '7642',
     ),
     'au' => 
     array (
       'number' => '757',
-      'unicode' => 60231,
+      'unicode' => 
+      array (
+        0 => 60231,
+      ),
       'sjis' => 'F44B',
       'jis' => '7B2C',
     ),
     'softbank' => 
     array (
       'number' => '13',
-      'unicode' => 58377,
+      'unicode' => 
+      array (
+        0 => 58377,
+      ),
       'sjis' => 'FB49',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040788,
+      'unicode' => 
+      array (
+        0 => 1040788,
+      ),
     ),
   ),
   93 => 
   array (
     'mapid' => '#e-195',
-    'unicode' => 128132,
+    'unicode' => 
+    array (
+      0 => 128132,
+    ),
     'char_name' => 
     array (
       'title' => 'LIPSTICK',
@@ -3132,33 +4380,48 @@ Temporary Notes: Usually in green color',
     'docomo' => 
     array (
       'number' => 'Exp.5',
-      'unicode' => 59152,
+      'unicode' => 
+      array (
+        0 => 59152,
+      ),
       'sjis' => 'F9B5',
       'jis' => '7664',
     ),
     'au' => 
     array (
       'number' => '295',
-      'unicode' => 58633,
+      'unicode' => 
+      array (
+        0 => 58633,
+      ),
       'sjis' => 'F6E2',
       'jis' => '7664',
     ),
     'softbank' => 
     array (
       'number' => '231',
-      'unicode' => 58140,
+      'unicode' => 
+      array (
+        0 => 58140,
+      ),
       'sjis' => 'F9BC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040789,
+      'unicode' => 
+      array (
+        0 => 1040789,
+      ),
     ),
   ),
   94 => 
   array (
     'mapid' => '#e-196',
-    'unicode' => 128133,
+    'unicode' => 
+    array (
+      0 => 128133,
+    ),
     'char_name' => 
     array (
       'title' => 'NAIL POLISH',
@@ -3172,26 +4435,38 @@ Temporary Notes: Usually in green color',
     'au' => 
     array (
       'number' => '409',
-      'unicode' => 60064,
+      'unicode' => 
+      array (
+        0 => 60064,
+      ),
       'sjis' => 'F373',
       'jis' => '7954',
     ),
     'softbank' => 
     array (
       'number' => '272',
-      'unicode' => 58141,
+      'unicode' => 
+      array (
+        0 => 58141,
+      ),
       'sjis' => 'F9BD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040790,
+      'unicode' => 
+      array (
+        0 => 1040790,
+      ),
     ),
   ),
   95 => 
   array (
     'mapid' => '#e-197',
-    'unicode' => 128134,
+    'unicode' => 
+    array (
+      0 => 128134,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE MASSAGE',
@@ -3204,26 +4479,38 @@ Temporary Notes: Usually in green color',
     'au' => 
     array (
       'number' => '297',
-      'unicode' => 58635,
+      'unicode' => 
+      array (
+        0 => 58635,
+      ),
       'sjis' => 'F6E4',
       'jis' => '7666',
     ),
     'softbank' => 
     array (
       'number' => '273',
-      'unicode' => 58142,
+      'unicode' => 
+      array (
+        0 => 58142,
+      ),
       'sjis' => 'F9BE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040791,
+      'unicode' => 
+      array (
+        0 => 1040791,
+      ),
     ),
   ),
   96 => 
   array (
     'mapid' => '#e-198',
-    'unicode' => 128135,
+    'unicode' => 
+    array (
+      0 => 128135,
+    ),
     'char_name' => 
     array (
       'title' => 'HAIRCUT',
@@ -3233,33 +4520,48 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     'docomo' => 
     array (
       'number' => '56',
-      'unicode' => 58997,
+      'unicode' => 
+      array (
+        0 => 58997,
+      ),
       'sjis' => 'F8D6',
       'jis' => '7671',
     ),
     'au' => 
     array (
       'number' => '410',
-      'unicode' => 60065,
+      'unicode' => 
+      array (
+        0 => 60065,
+      ),
       'sjis' => 'F374',
       'jis' => '7955',
     ),
     'softbank' => 
     array (
       'number' => '271',
-      'unicode' => 58143,
+      'unicode' => 
+      array (
+        0 => 58143,
+      ),
       'sjis' => 'F9BF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040792,
+      'unicode' => 
+      array (
+        0 => 1040792,
+      ),
     ),
   ),
   97 => 
   array (
     'mapid' => '#e-199',
-    'unicode' => 128136,
+    'unicode' => 
+    array (
+      0 => 128136,
+    ),
     'char_name' => 
     array (
       'title' => 'BARBER POLE',
@@ -3272,26 +4574,38 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     'au' => 
     array (
       'number' => '411',
-      'unicode' => 60066,
+      'unicode' => 
+      array (
+        0 => 60066,
+      ),
       'sjis' => 'F375',
       'jis' => '7956',
     ),
     'softbank' => 
     array (
       'number' => '270',
-      'unicode' => 58144,
+      'unicode' => 
+      array (
+        0 => 58144,
+      ),
       'sjis' => 'F9C0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040793,
+      'unicode' => 
+      array (
+        0 => 1040793,
+      ),
     ),
   ),
   98 => 
   array (
     'mapid' => '#e-19A',
-    'unicode' => 128100,
+    'unicode' => 
+    array (
+      0 => 128100,
+    ),
     'char_name' => 
     array (
       'title' => 'BUST IN SILHOUETTE',
@@ -3300,7 +4614,10 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     'docomo' => 
     array (
       'number' => '170',
-      'unicode' => 59057,
+      'unicode' => 
+      array (
+        0 => 59057,
+      ),
       'sjis' => 'F955',
       'jis' => '7E2C',
     ),
@@ -3314,13 +4631,19 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     ),
     'google' => 
     array (
-      'unicode' => 1040794,
+      'unicode' => 
+      array (
+        0 => 1040794,
+      ),
     ),
   ),
   99 => 
   array (
     'mapid' => '#e-19B',
-    'unicode' => 128102,
+    'unicode' => 
+    array (
+      0 => 128102,
+    ),
     'char_name' => 
     array (
       'title' => 'BOY',
@@ -3329,33 +4652,48 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     'docomo' => 
     array (
       'number' => '140',
-      'unicode' => 59120,
+      'unicode' => 
+      array (
+        0 => 59120,
+      ),
       'sjis' => 'F995',
       'jis' => '752A',
     ),
     'au' => 
     array (
       'number' => '80',
-      'unicode' => 58620,
+      'unicode' => 
+      array (
+        0 => 58620,
+      ),
       'sjis' => 'F6D5',
       'jis' => '7657',
     ),
     'softbank' => 
     array (
       'number' => '280',
-      'unicode' => 57345,
+      'unicode' => 
+      array (
+        0 => 57345,
+      ),
       'sjis' => 'F941',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040795,
+      'unicode' => 
+      array (
+        0 => 1040795,
+      ),
     ),
   ),
   100 => 
   array (
     'mapid' => '#e-19C',
-    'unicode' => 128103,
+    'unicode' => 
+    array (
+      0 => 128103,
+    ),
     'char_name' => 
     array (
       'title' => 'GIRL',
@@ -3364,33 +4702,48 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     'docomo' => 
     array (
       'number' => '140',
-      'unicode' => 59120,
+      'unicode' => 
+      array (
+        0 => 59120,
+      ),
       'sjis' => 'F995',
       'jis' => '752A',
     ),
     'au' => 
     array (
       'number' => '50',
-      'unicode' => 58618,
+      'unicode' => 
+      array (
+        0 => 58618,
+      ),
       'sjis' => 'F6D3',
       'jis' => '7655',
     ),
     'softbank' => 
     array (
       'number' => '281',
-      'unicode' => 57346,
+      'unicode' => 
+      array (
+        0 => 57346,
+      ),
       'sjis' => 'F942',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040796,
+      'unicode' => 
+      array (
+        0 => 1040796,
+      ),
     ),
   ),
   101 => 
   array (
     'mapid' => '#e-19D',
-    'unicode' => 128104,
+    'unicode' => 
+    array (
+      0 => 128104,
+    ),
     'char_name' => 
     array (
       'title' => 'MAN',
@@ -3399,33 +4752,48 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     'docomo' => 
     array (
       'number' => '140',
-      'unicode' => 59120,
+      'unicode' => 
+      array (
+        0 => 59120,
+      ),
       'sjis' => 'F995',
       'jis' => '752A',
     ),
     'au' => 
     array (
       'number' => '80',
-      'unicode' => 58620,
+      'unicode' => 
+      array (
+        0 => 58620,
+      ),
       'sjis' => 'F6D5',
       'jis' => '7657',
     ),
     'softbank' => 
     array (
       'number' => '282',
-      'unicode' => 57348,
+      'unicode' => 
+      array (
+        0 => 57348,
+      ),
       'sjis' => 'F944',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040797,
+      'unicode' => 
+      array (
+        0 => 1040797,
+      ),
     ),
   ),
   102 => 
   array (
     'mapid' => '#e-19E',
-    'unicode' => 128105,
+    'unicode' => 
+    array (
+      0 => 128105,
+    ),
     'char_name' => 
     array (
       'title' => 'WOMAN',
@@ -3434,33 +4802,48 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     'docomo' => 
     array (
       'number' => '140',
-      'unicode' => 59120,
+      'unicode' => 
+      array (
+        0 => 59120,
+      ),
       'sjis' => 'F995',
       'jis' => '752A',
     ),
     'au' => 
     array (
       'number' => '50',
-      'unicode' => 58618,
+      'unicode' => 
+      array (
+        0 => 58618,
+      ),
       'sjis' => 'F6D3',
       'jis' => '7655',
     ),
     'softbank' => 
     array (
       'number' => '283',
-      'unicode' => 57349,
+      'unicode' => 
+      array (
+        0 => 57349,
+      ),
       'sjis' => 'F945',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040798,
+      'unicode' => 
+      array (
+        0 => 1040798,
+      ),
     ),
   ),
   103 => 
   array (
     'mapid' => '#e-19F',
-    'unicode' => 128106,
+    'unicode' => 
+    array (
+      0 => 128106,
+    ),
     'char_name' => 
     array (
       'title' => 'FAMILY',
@@ -3473,7 +4856,10 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     'au' => 
     array (
       'number' => '163',
-      'unicode' => 58625,
+      'unicode' => 
+      array (
+        0 => 58625,
+      ),
       'sjis' => 'F6DA',
       'jis' => '765C',
     ),
@@ -3483,13 +4869,19 @@ Design Note: The glyph needs to represent a female as this Emoji refers to a bea
     ),
     'google' => 
     array (
-      'unicode' => 1040799,
+      'unicode' => 
+      array (
+        0 => 1040799,
+      ),
     ),
   ),
   104 => 
   array (
     'mapid' => '#e-1A0',
-    'unicode' => 128107,
+    'unicode' => 
+    array (
+      0 => 128107,
+    ),
     'char_name' => 
     array (
       'title' => 'MAN AND WOMAN HOLDING HANDS',
@@ -3507,19 +4899,28 @@ Temporary Notes: A couple holding hands',
     'softbank' => 
     array (
       'number' => '279',
-      'unicode' => 58408,
+      'unicode' => 
+      array (
+        0 => 58408,
+      ),
       'sjis' => 'FB68',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040800,
+      'unicode' => 
+      array (
+        0 => 1040800,
+      ),
     ),
   ),
   105 => 
   array (
     'mapid' => '#e-1A1',
-    'unicode' => 128110,
+    'unicode' => 
+    array (
+      0 => 128110,
+    ),
     'char_name' => 
     array (
       'title' => 'POLICE OFFICER',
@@ -3532,26 +4933,38 @@ Temporary Notes: A couple holding hands',
     'au' => 
     array (
       'number' => '374',
-      'unicode' => 58845,
+      'unicode' => 
+      array (
+        0 => 58845,
+      ),
       'sjis' => 'F350',
       'jis' => '7931',
     ),
     'softbank' => 
     array (
       'number' => '288',
-      'unicode' => 57682,
+      'unicode' => 
+      array (
+        0 => 57682,
+      ),
       'sjis' => 'F793',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040801,
+      'unicode' => 
+      array (
+        0 => 1040801,
+      ),
     ),
   ),
   106 => 
   array (
     'mapid' => '#e-1A2',
-    'unicode' => 128111,
+    'unicode' => 
+    array (
+      0 => 128111,
+    ),
     'char_name' => 
     array (
       'title' => 'WOMAN WITH BUNNY EARS',
@@ -3564,26 +4977,38 @@ Temporary Notes: A couple holding hands',
     'au' => 
     array (
       'number' => '468',
-      'unicode' => 60123,
+      'unicode' => 
+      array (
+        0 => 60123,
+      ),
       'sjis' => 'F3AF',
       'jis' => '7A31',
     ),
     'softbank' => 
     array (
       'number' => '276',
-      'unicode' => 58409,
+      'unicode' => 
+      array (
+        0 => 58409,
+      ),
       'sjis' => 'FB69',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040802,
+      'unicode' => 
+      array (
+        0 => 1040802,
+      ),
     ),
   ),
   107 => 
   array (
     'mapid' => '#e-1A3',
-    'unicode' => 128112,
+    'unicode' => 
+    array (
+      0 => 128112,
+    ),
     'char_name' => 
     array (
       'title' => 'BRIDE WITH VEIL',
@@ -3596,7 +5021,10 @@ Temporary Notes: A couple holding hands',
     'au' => 
     array (
       'number' => '482',
-      'unicode' => 60137,
+      'unicode' => 
+      array (
+        0 => 60137,
+      ),
       'sjis' => 'F3BD',
       'jis' => '7A3F',
     ),
@@ -3606,13 +5034,19 @@ Temporary Notes: A couple holding hands',
     ),
     'google' => 
     array (
-      'unicode' => 1040803,
+      'unicode' => 
+      array (
+        0 => 1040803,
+      ),
     ),
   ),
   108 => 
   array (
     'mapid' => '#e-1A4',
-    'unicode' => 128113,
+    'unicode' => 
+    array (
+      0 => 128113,
+    ),
     'char_name' => 
     array (
       'title' => 'PERSON WITH BLOND HAIR',
@@ -3626,26 +5060,38 @@ Temporary Notes: both male and female icons exist',
     'au' => 
     array (
       'number' => '705',
-      'unicode' => 60179,
+      'unicode' => 
+      array (
+        0 => 60179,
+      ),
       'sjis' => 'F3D4',
       'jis' => '7A56',
     ),
     'softbank' => 
     array (
       'number' => '290',
-      'unicode' => 58645,
+      'unicode' => 
+      array (
+        0 => 58645,
+      ),
       'sjis' => 'FBB5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040804,
+      'unicode' => 
+      array (
+        0 => 1040804,
+      ),
     ),
   ),
   109 => 
   array (
     'mapid' => '#e-1A5',
-    'unicode' => 128114,
+    'unicode' => 
+    array (
+      0 => 128114,
+    ),
     'char_name' => 
     array (
       'title' => 'MAN WITH GUA PI MAO',
@@ -3658,26 +5104,38 @@ Temporary Notes: both male and female icons exist',
     'au' => 
     array (
       'number' => '706',
-      'unicode' => 60180,
+      'unicode' => 
+      array (
+        0 => 60180,
+      ),
       'sjis' => 'F3D5',
       'jis' => '7A57',
     ),
     'softbank' => 
     array (
       'number' => '291',
-      'unicode' => 58646,
+      'unicode' => 
+      array (
+        0 => 58646,
+      ),
       'sjis' => 'FBB6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040805,
+      'unicode' => 
+      array (
+        0 => 1040805,
+      ),
     ),
   ),
   110 => 
   array (
     'mapid' => '#e-1A6',
-    'unicode' => 128115,
+    'unicode' => 
+    array (
+      0 => 128115,
+    ),
     'char_name' => 
     array (
       'title' => 'MAN WITH TURBAN',
@@ -3690,26 +5148,38 @@ Temporary Notes: both male and female icons exist',
     'au' => 
     array (
       'number' => '707',
-      'unicode' => 60181,
+      'unicode' => 
+      array (
+        0 => 60181,
+      ),
       'sjis' => 'F3D6',
       'jis' => '7A58',
     ),
     'softbank' => 
     array (
       'number' => '292',
-      'unicode' => 58647,
+      'unicode' => 
+      array (
+        0 => 58647,
+      ),
       'sjis' => 'FBB7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040806,
+      'unicode' => 
+      array (
+        0 => 1040806,
+      ),
     ),
   ),
   111 => 
   array (
     'mapid' => '#e-1A7',
-    'unicode' => 128116,
+    'unicode' => 
+    array (
+      0 => 128116,
+    ),
     'char_name' => 
     array (
       'title' => 'OLDER MAN',
@@ -3722,26 +5192,38 @@ Temporary Notes: both male and female icons exist',
     'au' => 
     array (
       'number' => '708',
-      'unicode' => 60182,
+      'unicode' => 
+      array (
+        0 => 60182,
+      ),
       'sjis' => 'F3D7',
       'jis' => '7A59',
     ),
     'softbank' => 
     array (
       'number' => '284',
-      'unicode' => 58648,
+      'unicode' => 
+      array (
+        0 => 58648,
+      ),
       'sjis' => 'FBB8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040807,
+      'unicode' => 
+      array (
+        0 => 1040807,
+      ),
     ),
   ),
   112 => 
   array (
     'mapid' => '#e-1A8',
-    'unicode' => 128117,
+    'unicode' => 
+    array (
+      0 => 128117,
+    ),
     'char_name' => 
     array (
       'title' => 'OLDER WOMAN',
@@ -3754,26 +5236,38 @@ Temporary Notes: both male and female icons exist',
     'au' => 
     array (
       'number' => '709',
-      'unicode' => 60183,
+      'unicode' => 
+      array (
+        0 => 60183,
+      ),
       'sjis' => 'F3D8',
       'jis' => '7A5A',
     ),
     'softbank' => 
     array (
       'number' => '285',
-      'unicode' => 58649,
+      'unicode' => 
+      array (
+        0 => 58649,
+      ),
       'sjis' => 'FBB9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040808,
+      'unicode' => 
+      array (
+        0 => 1040808,
+      ),
     ),
   ),
   113 => 
   array (
     'mapid' => '#e-1A9',
-    'unicode' => 128118,
+    'unicode' => 
+    array (
+      0 => 128118,
+    ),
     'char_name' => 
     array (
       'title' => 'BABY',
@@ -3786,26 +5280,38 @@ Temporary Notes: both male and female icons exist',
     'au' => 
     array (
       'number' => '710',
-      'unicode' => 60184,
+      'unicode' => 
+      array (
+        0 => 60184,
+      ),
       'sjis' => 'F3D9',
       'jis' => '7A5B',
     ),
     'softbank' => 
     array (
       'number' => '286',
-      'unicode' => 58650,
+      'unicode' => 
+      array (
+        0 => 58650,
+      ),
       'sjis' => 'FBBA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040809,
+      'unicode' => 
+      array (
+        0 => 1040809,
+      ),
     ),
   ),
   114 => 
   array (
     'mapid' => '#e-1AA',
-    'unicode' => 128119,
+    'unicode' => 
+    array (
+      0 => 128119,
+    ),
     'char_name' => 
     array (
       'title' => 'CONSTRUCTION WORKER',
@@ -3818,26 +5324,38 @@ Temporary Notes: both male and female icons exist',
     'au' => 
     array (
       'number' => '711',
-      'unicode' => 60185,
+      'unicode' => 
+      array (
+        0 => 60185,
+      ),
       'sjis' => 'F3DA',
       'jis' => '7A5C',
     ),
     'softbank' => 
     array (
       'number' => '289',
-      'unicode' => 58651,
+      'unicode' => 
+      array (
+        0 => 58651,
+      ),
       'sjis' => 'FBBB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040810,
+      'unicode' => 
+      array (
+        0 => 1040810,
+      ),
     ),
   ),
   115 => 
   array (
     'mapid' => '#e-1AB',
-    'unicode' => 128120,
+    'unicode' => 
+    array (
+      0 => 128120,
+    ),
     'char_name' => 
     array (
       'title' => 'PRINCESS',
@@ -3850,26 +5368,38 @@ Temporary Notes: both male and female icons exist',
     'au' => 
     array (
       'number' => '712',
-      'unicode' => 60186,
+      'unicode' => 
+      array (
+        0 => 60186,
+      ),
       'sjis' => 'F3DB',
       'jis' => '7A5D',
     ),
     'softbank' => 
     array (
       'number' => '295',
-      'unicode' => 58652,
+      'unicode' => 
+      array (
+        0 => 58652,
+      ),
       'sjis' => 'FBBC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040811,
+      'unicode' => 
+      array (
+        0 => 1040811,
+      ),
     ),
   ),
   116 => 
   array (
     'mapid' => '#e-1AC',
-    'unicode' => 128121,
+    'unicode' => 
+    array (
+      0 => 128121,
+    ),
     'char_name' => 
     array (
       'title' => 'JAPANESE OGRE',
@@ -3883,7 +5413,10 @@ Temporary Notes: In Japanese, "Oni" - could be a red or blue faced demon. Also r
     'au' => 
     array (
       'number' => '754',
-      'unicode' => 60228,
+      'unicode' => 
+      array (
+        0 => 60228,
+      ),
       'sjis' => 'F448',
       'jis' => '7B29',
     ),
@@ -3893,13 +5426,19 @@ Temporary Notes: In Japanese, "Oni" - could be a red or blue faced demon. Also r
     ),
     'google' => 
     array (
-      'unicode' => 1040812,
+      'unicode' => 
+      array (
+        0 => 1040812,
+      ),
     ),
   ),
   117 => 
   array (
     'mapid' => '#e-1AD',
-    'unicode' => 128122,
+    'unicode' => 
+    array (
+      0 => 128122,
+    ),
     'char_name' => 
     array (
       'title' => 'JAPANESE GOBLIN',
@@ -3913,7 +5452,10 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '755',
-      'unicode' => 60229,
+      'unicode' => 
+      array (
+        0 => 60229,
+      ),
       'sjis' => 'F449',
       'jis' => '7B2A',
     ),
@@ -3923,13 +5465,19 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     ),
     'google' => 
     array (
-      'unicode' => 1040813,
+      'unicode' => 
+      array (
+        0 => 1040813,
+      ),
     ),
   ),
   118 => 
   array (
     'mapid' => '#e-1AE',
-    'unicode' => 128123,
+    'unicode' => 
+    array (
+      0 => 128123,
+    ),
     'char_name' => 
     array (
       'title' => 'GHOST',
@@ -3942,26 +5490,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '236',
-      'unicode' => 58571,
+      'unicode' => 
+      array (
+        0 => 58571,
+      ),
       'sjis' => 'F6A4',
       'jis' => '7626',
     ),
     'softbank' => 
     array (
       'number' => '298',
-      'unicode' => 57627,
+      'unicode' => 
+      array (
+        0 => 57627,
+      ),
       'sjis' => 'F75B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040814,
+      'unicode' => 
+      array (
+        0 => 1040814,
+      ),
     ),
   ),
   119 => 
   array (
     'mapid' => '#e-1AF',
-    'unicode' => 128124,
+    'unicode' => 
+    array (
+      0 => 128124,
+    ),
     'char_name' => 
     array (
       'title' => 'BABY ANGEL',
@@ -3974,26 +5534,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '344',
-      'unicode' => 58815,
+      'unicode' => 
+      array (
+        0 => 58815,
+      ),
       'sjis' => 'F7EF',
       'jis' => '7871',
     ),
     'softbank' => 
     array (
       'number' => '296',
-      'unicode' => 57422,
+      'unicode' => 
+      array (
+        0 => 57422,
+      ),
       'sjis' => 'F98F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040815,
+      'unicode' => 
+      array (
+        0 => 1040815,
+      ),
     ),
   ),
   120 => 
   array (
     'mapid' => '#e-1B0',
-    'unicode' => 128125,
+    'unicode' => 
+    array (
+      0 => 128125,
+    ),
     'char_name' => 
     array (
       'title' => 'EXTRATERRESTRIAL ALIEN',
@@ -4006,26 +5578,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '302',
-      'unicode' => 58638,
+      'unicode' => 
+      array (
+        0 => 58638,
+      ),
       'sjis' => 'F6E7',
       'jis' => '7669',
     ),
     'softbank' => 
     array (
       'number' => '300',
-      'unicode' => 57612,
+      'unicode' => 
+      array (
+        0 => 57612,
+      ),
       'sjis' => 'F74C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040816,
+      'unicode' => 
+      array (
+        0 => 1040816,
+      ),
     ),
   ),
   121 => 
   array (
     'mapid' => '#e-1B1',
-    'unicode' => 128126,
+    'unicode' => 
+    array (
+      0 => 128126,
+    ),
     'char_name' => 
     array (
       'title' => 'ALIEN MONSTER',
@@ -4038,26 +5622,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '274',
-      'unicode' => 58604,
+      'unicode' => 
+      array (
+        0 => 58604,
+      ),
       'sjis' => 'F6C5',
       'jis' => '7647',
     ),
     'softbank' => 
     array (
       'number' => '301',
-      'unicode' => 57643,
+      'unicode' => 
+      array (
+        0 => 57643,
+      ),
       'sjis' => 'F76B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040817,
+      'unicode' => 
+      array (
+        0 => 1040817,
+      ),
     ),
   ),
   122 => 
   array (
     'mapid' => '#e-1B2',
-    'unicode' => 128127,
+    'unicode' => 
+    array (
+      0 => 128127,
+    ),
     'char_name' => 
     array (
       'title' => 'IMP',
@@ -4070,26 +5666,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '277',
-      'unicode' => 58607,
+      'unicode' => 
+      array (
+        0 => 58607,
+      ),
       'sjis' => 'F6C8',
       'jis' => '764A',
     ),
     'softbank' => 
     array (
       'number' => '297',
-      'unicode' => 57626,
+      'unicode' => 
+      array (
+        0 => 57626,
+      ),
       'sjis' => 'F75A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040818,
+      'unicode' => 
+      array (
+        0 => 1040818,
+      ),
     ),
   ),
   123 => 
   array (
     'mapid' => '#e-1B3',
-    'unicode' => 128128,
+    'unicode' => 
+    array (
+      0 => 128128,
+    ),
     'char_name' => 
     array (
       'title' => 'SKULL',
@@ -4102,26 +5710,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '286',
-      'unicode' => 58616,
+      'unicode' => 
+      array (
+        0 => 58616,
+      ),
       'sjis' => 'F6D1',
       'jis' => '7653',
     ),
     'softbank' => 
     array (
       'number' => '299',
-      'unicode' => 57628,
+      'unicode' => 
+      array (
+        0 => 57628,
+      ),
       'sjis' => 'F75C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040819,
+      'unicode' => 
+      array (
+        0 => 1040819,
+      ),
     ),
   ),
   124 => 
   array (
     'mapid' => '#e-1B4',
-    'unicode' => 128129,
+    'unicode' => 
+    array (
+      0 => 128129,
+    ),
     'char_name' => 
     array (
       'title' => 'INFORMATION DESK PERSON',
@@ -4138,19 +5758,28 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'softbank' => 
     array (
       'number' => '287',
-      'unicode' => 57939,
+      'unicode' => 
+      array (
+        0 => 57939,
+      ),
       'sjis' => 'F7F3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040820,
+      'unicode' => 
+      array (
+        0 => 1040820,
+      ),
     ),
   ),
   125 => 
   array (
     'mapid' => '#e-1B5',
-    'unicode' => 128130,
+    'unicode' => 
+    array (
+      0 => 128130,
+    ),
     'char_name' => 
     array (
       'title' => 'GUARDSMAN',
@@ -4167,19 +5796,28 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'softbank' => 
     array (
       'number' => '293',
-      'unicode' => 58654,
+      'unicode' => 
+      array (
+        0 => 58654,
+      ),
       'sjis' => 'FBBE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040821,
+      'unicode' => 
+      array (
+        0 => 1040821,
+      ),
     ),
   ),
   126 => 
   array (
     'mapid' => '#e-1B6',
-    'unicode' => 128131,
+    'unicode' => 
+    array (
+      0 => 128131,
+    ),
     'char_name' => 
     array (
       'title' => 'DANCER',
@@ -4192,26 +5830,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '714',
-      'unicode' => 60188,
+      'unicode' => 
+      array (
+        0 => 60188,
+      ),
       'sjis' => 'F3DD',
       'jis' => '7A5F',
     ),
     'softbank' => 
     array (
       'number' => '275',
-      'unicode' => 58655,
+      'unicode' => 
+      array (
+        0 => 58655,
+      ),
       'sjis' => 'FBBF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040822,
+      'unicode' => 
+      array (
+        0 => 1040822,
+      ),
     ),
   ),
   127 => 
   array (
     'mapid' => '#e-1B9',
-    'unicode' => 128012,
+    'unicode' => 
+    array (
+      0 => 128012,
+    ),
     'char_name' => 
     array (
       'title' => 'SNAIL',
@@ -4220,14 +5870,20 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'docomo' => 
     array (
       'number' => 'Exp.67',
-      'unicode' => 59214,
+      'unicode' => 
+      array (
+        0 => 59214,
+      ),
       'sjis' => 'F9F3',
       'jis' => '7B63',
     ),
     'au' => 
     array (
       'number' => '812',
-      'unicode' => 60286,
+      'unicode' => 
+      array (
+        0 => 60286,
+      ),
       'sjis' => 'F483',
       'jis' => '7B63',
     ),
@@ -4237,13 +5893,19 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     ),
     'google' => 
     array (
-      'unicode' => 1040825,
+      'unicode' => 
+      array (
+        0 => 1040825,
+      ),
     ),
   ),
   128 => 
   array (
     'mapid' => '#e-1D3',
-    'unicode' => 128013,
+    'unicode' => 
+    array (
+      0 => 128013,
+    ),
     'char_name' => 
     array (
       'title' => 'SNAKE',
@@ -4256,26 +5918,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '720',
-      'unicode' => 60194,
+      'unicode' => 
+      array (
+        0 => 60194,
+      ),
       'sjis' => 'F3E3',
       'jis' => '7A65',
     ),
     'softbank' => 
     array (
       'number' => '133',
-      'unicode' => 58669,
+      'unicode' => 
+      array (
+        0 => 58669,
+      ),
       'sjis' => 'FBCD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040851,
+      'unicode' => 
+      array (
+        0 => 1040851,
+      ),
     ),
   ),
   129 => 
   array (
     'mapid' => '#e-7DC',
-    'unicode' => 128014,
+    'unicode' => 
+    array (
+      0 => 128014,
+    ),
     'char_name' => 
     array (
       'title' => 'HORSE',
@@ -4284,33 +5958,48 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'docomo' => 
     array (
       'number' => 'Exp.73',
-      'unicode' => 59220,
+      'unicode' => 
+      array (
+        0 => 59220,
+      ),
       'sjis' => 'F9F9',
       'jis' => '7633',
     ),
     'au' => 
     array (
       'number' => '248',
-      'unicode' => 58584,
+      'unicode' => 
+      array (
+        0 => 58584,
+      ),
       'sjis' => 'F6B1',
       'jis' => '7633',
     ),
     'softbank' => 
     array (
       'number' => '121',
-      'unicode' => 57652,
+      'unicode' => 
+      array (
+        0 => 57652,
+      ),
       'sjis' => 'F774',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042396,
+      'unicode' => 
+      array (
+        0 => 1042396,
+      ),
     ),
   ),
   130 => 
   array (
     'mapid' => '#e-1D4',
-    'unicode' => 128020,
+    'unicode' => 
+    array (
+      0 => 128020,
+    ),
     'char_name' => 
     array (
       'title' => 'CHICKEN',
@@ -4325,26 +6014,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '721',
-      'unicode' => 60195,
+      'unicode' => 
+      array (
+        0 => 60195,
+      ),
       'sjis' => 'F3E4',
       'jis' => '7A66',
     ),
     'softbank' => 
     array (
       'number' => '124',
-      'unicode' => 58670,
+      'unicode' => 
+      array (
+        0 => 58670,
+      ),
       'sjis' => 'FBCE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040852,
+      'unicode' => 
+      array (
+        0 => 1040852,
+      ),
     ),
   ),
   131 => 
   array (
     'mapid' => '#e-1D5',
-    'unicode' => 128023,
+    'unicode' => 
+    array (
+      0 => 128023,
+    ),
     'char_name' => 
     array (
       'title' => 'BOAR',
@@ -4357,26 +6058,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '722',
-      'unicode' => 60196,
+      'unicode' => 
+      array (
+        0 => 60196,
+      ),
       'sjis' => 'F3E5',
       'jis' => '7A67',
     ),
     'softbank' => 
     array (
       'number' => '118',
-      'unicode' => 58671,
+      'unicode' => 
+      array (
+        0 => 58671,
+      ),
       'sjis' => 'FBCF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040853,
+      'unicode' => 
+      array (
+        0 => 1040853,
+      ),
     ),
   ),
   132 => 
   array (
     'mapid' => '#e-1D6',
-    'unicode' => 128043,
+    'unicode' => 
+    array (
+      0 => 128043,
+    ),
     'char_name' => 
     array (
       'title' => 'BACTRIAN CAMEL',
@@ -4389,26 +6102,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '723',
-      'unicode' => 60197,
+      'unicode' => 
+      array (
+        0 => 60197,
+      ),
       'sjis' => 'F3E6',
       'jis' => '7A68',
     ),
     'softbank' => 
     array (
       'number' => '119',
-      'unicode' => 58672,
+      'unicode' => 
+      array (
+        0 => 58672,
+      ),
       'sjis' => 'FBD0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040854,
+      'unicode' => 
+      array (
+        0 => 1040854,
+      ),
     ),
   ),
   133 => 
   array (
     'mapid' => '#e-1CC',
-    'unicode' => 128024,
+    'unicode' => 
+    array (
+      0 => 128024,
+    ),
     'char_name' => 
     array (
       'title' => 'ELEPHANT',
@@ -4421,26 +6146,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '717',
-      'unicode' => 60191,
+      'unicode' => 
+      array (
+        0 => 60191,
+      ),
       'sjis' => 'F3E0',
       'jis' => '7A62',
     ),
     'softbank' => 
     array (
       'number' => '122',
-      'unicode' => 58662,
+      'unicode' => 
+      array (
+        0 => 58662,
+      ),
       'sjis' => 'FBC6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040844,
+      'unicode' => 
+      array (
+        0 => 1040844,
+      ),
     ),
   ),
   134 => 
   array (
     'mapid' => '#e-1CD',
-    'unicode' => 128040,
+    'unicode' => 
+    array (
+      0 => 128040,
+    ),
     'char_name' => 
     array (
       'title' => 'KOALA',
@@ -4453,26 +6190,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '718',
-      'unicode' => 60192,
+      'unicode' => 
+      array (
+        0 => 60192,
+      ),
       'sjis' => 'F3E1',
       'jis' => '7A63',
     ),
     'softbank' => 
     array (
       'number' => '113',
-      'unicode' => 58663,
+      'unicode' => 
+      array (
+        0 => 58663,
+      ),
       'sjis' => 'FBC7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040845,
+      'unicode' => 
+      array (
+        0 => 1040845,
+      ),
     ),
   ),
   135 => 
   array (
     'mapid' => '#e-1CE',
-    'unicode' => 128018,
+    'unicode' => 
+    array (
+      0 => 128018,
+    ),
     'char_name' => 
     array (
       'title' => 'MONKEY',
@@ -4485,26 +6234,38 @@ Temporary Notes: In Japanese "Tengu" [天狗] (long-nosed goblin, braggart)',
     'au' => 
     array (
       'number' => '249',
-      'unicode' => 58585,
+      'unicode' => 
+      array (
+        0 => 58585,
+      ),
       'sjis' => 'F6B2',
       'jis' => '7634',
     ),
     'softbank' => 
     array (
       'number' => '120',
-      'unicode' => 58664,
+      'unicode' => 
+      array (
+        0 => 58664,
+      ),
       'sjis' => 'FBC8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040846,
+      'unicode' => 
+      array (
+        0 => 1040846,
+      ),
     ),
   ),
   136 => 
   array (
     'mapid' => '#e-1CF',
-    'unicode' => 128017,
+    'unicode' => 
+    array (
+      0 => 128017,
+    ),
     'char_name' => 
     array (
       'title' => 'SHEEP',
@@ -4518,26 +6279,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '192',
-      'unicode' => 58511,
+      'unicode' => 
+      array (
+        0 => 58511,
+      ),
       'sjis' => 'F667',
       'jis' => '7548',
     ),
     'softbank' => 
     array (
       'number' => '123',
-      'unicode' => 58665,
+      'unicode' => 
+      array (
+        0 => 58665,
+      ),
       'sjis' => 'FBC9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040847,
+      'unicode' => 
+      array (
+        0 => 1040847,
+      ),
     ),
   ),
   137 => 
   array (
     'mapid' => '#e-1C5',
-    'unicode' => 128025,
+    'unicode' => 
+    array (
+      0 => 128025,
+    ),
     'char_name' => 
     array (
       'title' => 'OCTOPUS',
@@ -4550,26 +6323,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '352',
-      'unicode' => 58823,
+      'unicode' => 
+      array (
+        0 => 58823,
+      ),
       'sjis' => 'F7F7',
       'jis' => '7879',
     ),
     'softbank' => 
     array (
       'number' => '132',
-      'unicode' => 57610,
+      'unicode' => 
+      array (
+        0 => 57610,
+      ),
       'sjis' => 'F74A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040837,
+      'unicode' => 
+      array (
+        0 => 1040837,
+      ),
     ),
   ),
   138 => 
   array (
     'mapid' => '#e-1C6',
-    'unicode' => 128026,
+    'unicode' => 
+    array (
+      0 => 128026,
+    ),
     'char_name' => 
     array (
       'title' => 'SPIRAL SHELL',
@@ -4582,26 +6367,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '485',
-      'unicode' => 60140,
+      'unicode' => 
+      array (
+        0 => 60140,
+      ),
       'sjis' => 'F3C0',
       'jis' => '7A42',
     ),
     'softbank' => 
     array (
       'number' => '135',
-      'unicode' => 58433,
+      'unicode' => 
+      array (
+        0 => 58433,
+      ),
       'sjis' => 'FB82',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040838,
+      'unicode' => 
+      array (
+        0 => 1040838,
+      ),
     ),
   ),
   139 => 
   array (
     'mapid' => '#e-1CB',
-    'unicode' => 128027,
+    'unicode' => 
+    array (
+      0 => 128027,
+    ),
     'char_name' => 
     array (
       'title' => 'BUG',
@@ -4614,26 +6411,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '716',
-      'unicode' => 60190,
+      'unicode' => 
+      array (
+        0 => 60190,
+      ),
       'sjis' => 'F3DF',
       'jis' => '7A61',
     ),
     'softbank' => 
     array (
       'number' => '134',
-      'unicode' => 58661,
+      'unicode' => 
+      array (
+        0 => 58661,
+      ),
       'sjis' => 'FBC5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040843,
+      'unicode' => 
+      array (
+        0 => 1040843,
+      ),
     ),
   ),
   140 => 
   array (
     'mapid' => '#e-1DA',
-    'unicode' => 128028,
+    'unicode' => 
+    array (
+      0 => 128028,
+    ),
     'char_name' => 
     array (
       'title' => 'ANT',
@@ -4646,7 +6455,10 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '253',
-      'unicode' => 58589,
+      'unicode' => 
+      array (
+        0 => 58589,
+      ),
       'sjis' => 'F6B6',
       'jis' => '7638',
     ),
@@ -4656,13 +6468,19 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     ),
     'google' => 
     array (
-      'unicode' => 1040858,
+      'unicode' => 
+      array (
+        0 => 1040858,
+      ),
     ),
   ),
   141 => 
   array (
     'mapid' => '#e-1E1',
-    'unicode' => 128029,
+    'unicode' => 
+    array (
+      0 => 128029,
+    ),
     'char_name' => 
     array (
       'title' => 'HONEYBEE',
@@ -4675,7 +6493,10 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '773',
-      'unicode' => 60247,
+      'unicode' => 
+      array (
+        0 => 60247,
+      ),
       'sjis' => 'F45B',
       'jis' => '7B3C',
     ),
@@ -4685,13 +6506,19 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     ),
     'google' => 
     array (
-      'unicode' => 1040865,
+      'unicode' => 
+      array (
+        0 => 1040865,
+      ),
     ),
   ),
   142 => 
   array (
     'mapid' => '#e-1E2',
-    'unicode' => 128030,
+    'unicode' => 
+    array (
+      0 => 128030,
+    ),
     'char_name' => 
     array (
       'title' => 'LADY BEETLE',
@@ -4705,7 +6532,10 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '774',
-      'unicode' => 60248,
+      'unicode' => 
+      array (
+        0 => 60248,
+      ),
       'sjis' => 'F45C',
       'jis' => '7B3D',
     ),
@@ -4715,13 +6545,19 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     ),
     'google' => 
     array (
-      'unicode' => 1040866,
+      'unicode' => 
+      array (
+        0 => 1040866,
+      ),
     ),
   ),
   143 => 
   array (
     'mapid' => '#e-1C9',
-    'unicode' => 128032,
+    'unicode' => 
+    array (
+      0 => 128032,
+    ),
     'char_name' => 
     array (
       'title' => 'TROPICAL FISH',
@@ -4730,33 +6566,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.70',
-      'unicode' => 59217,
+      'unicode' => 
+      array (
+        0 => 59217,
+      ),
       'sjis' => 'F9F6',
       'jis' => '7A60',
     ),
     'au' => 
     array (
       'number' => '715',
-      'unicode' => 60189,
+      'unicode' => 
+      array (
+        0 => 60189,
+      ),
       'sjis' => 'F3DE',
       'jis' => '7A60',
     ),
     'softbank' => 
     array (
       'number' => '131',
-      'unicode' => 58658,
+      'unicode' => 
+      array (
+        0 => 58658,
+      ),
       'sjis' => 'FBC2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040841,
+      'unicode' => 
+      array (
+        0 => 1040841,
+      ),
     ),
   ),
   144 => 
   array (
     'mapid' => '#e-1D9',
-    'unicode' => 128033,
+    'unicode' => 
+    array (
+      0 => 128033,
+    ),
     'char_name' => 
     array (
       'title' => 'BLOWFISH',
@@ -4765,33 +6616,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.70',
-      'unicode' => 59217,
+      'unicode' => 
+      array (
+        0 => 59217,
+      ),
       'sjis' => 'F9F6',
       'jis' => '7A60',
     ),
     'au' => 
     array (
       'number' => '242',
-      'unicode' => 58579,
+      'unicode' => 
+      array (
+        0 => 58579,
+      ),
       'sjis' => 'F6AC',
       'jis' => '762E',
     ),
     'softbank' => 
     array (
       'number' => '130',
-      'unicode' => 57369,
+      'unicode' => 
+      array (
+        0 => 57369,
+      ),
       'sjis' => 'F959',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040857,
+      'unicode' => 
+      array (
+        0 => 1040857,
+      ),
     ),
   ),
   145 => 
   array (
     'mapid' => '#e-1DC',
-    'unicode' => 128034,
+    'unicode' => 
+    array (
+      0 => 128034,
+    ),
     'char_name' => 
     array (
       'title' => 'TURTLE',
@@ -4804,7 +6670,10 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '365',
-      'unicode' => 58836,
+      'unicode' => 
+      array (
+        0 => 58836,
+      ),
       'sjis' => 'F347',
       'jis' => '7928',
     ),
@@ -4814,13 +6683,19 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     ),
     'google' => 
     array (
-      'unicode' => 1040860,
+      'unicode' => 
+      array (
+        0 => 1040860,
+      ),
     ),
   ),
   146 => 
   array (
     'mapid' => '#e-1BA',
-    'unicode' => 128036,
+    'unicode' => 
+    array (
+      0 => 128036,
+    ),
     'char_name' => 
     array (
       'title' => 'BABY CHICK',
@@ -4829,33 +6704,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.68',
-      'unicode' => 59215,
+      'unicode' => 
+      array (
+        0 => 59215,
+      ),
       'sjis' => 'F9F4',
       'jis' => '763B',
     ),
     'au' => 
     array (
       'number' => '78',
-      'unicode' => 58592,
+      'unicode' => 
+      array (
+        0 => 58592,
+      ),
       'sjis' => 'F6B9',
       'jis' => '763B',
     ),
     'softbank' => 
     array (
       'number' => '125',
-      'unicode' => 58659,
+      'unicode' => 
+      array (
+        0 => 58659,
+      ),
       'sjis' => 'FBC3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040826,
+      'unicode' => 
+      array (
+        0 => 1040826,
+      ),
     ),
   ),
   147 => 
   array (
     'mapid' => '#e-1BB',
-    'unicode' => 128037,
+    'unicode' => 
+    array (
+      0 => 128037,
+    ),
     'char_name' => 
     array (
       'title' => 'FRONT-FACING BABY CHICK',
@@ -4864,33 +6754,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.68',
-      'unicode' => 59215,
+      'unicode' => 
+      array (
+        0 => 59215,
+      ),
       'sjis' => 'F9F4',
       'jis' => '763B',
     ),
     'au' => 
     array (
       'number' => '804',
-      'unicode' => 60278,
+      'unicode' => 
+      array (
+        0 => 60278,
+      ),
       'sjis' => 'F47A',
       'jis' => '7B5B',
     ),
     'softbank' => 
     array (
       'number' => '125',
-      'unicode' => 58659,
+      'unicode' => 
+      array (
+        0 => 58659,
+      ),
       'sjis' => 'FBC3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040827,
+      'unicode' => 
+      array (
+        0 => 1040827,
+      ),
     ),
   ),
   148 => 
   array (
     'mapid' => '#e-1C8',
-    'unicode' => 128038,
+    'unicode' => 
+    array (
+      0 => 128038,
+    ),
     'char_name' => 
     array (
       'title' => 'BIRD',
@@ -4899,33 +6804,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.68',
-      'unicode' => 59215,
+      'unicode' => 
+      array (
+        0 => 59215,
+      ),
       'sjis' => 'F9F4',
       'jis' => '763B',
     ),
     'au' => 
     array (
       'number' => '78',
-      'unicode' => 58592,
+      'unicode' => 
+      array (
+        0 => 58592,
+      ),
       'sjis' => 'F6B9',
       'jis' => '763B',
     ),
     'softbank' => 
     array (
       'number' => '126',
-      'unicode' => 58657,
+      'unicode' => 
+      array (
+        0 => 58657,
+      ),
       'sjis' => 'FBC1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040840,
+      'unicode' => 
+      array (
+        0 => 1040840,
+      ),
     ),
   ),
   149 => 
   array (
     'mapid' => '#e-1DD',
-    'unicode' => 128035,
+    'unicode' => 
+    array (
+      0 => 128035,
+    ),
     'char_name' => 
     array (
       'title' => 'HATCHING CHICK',
@@ -4934,33 +6854,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.68',
-      'unicode' => 59215,
+      'unicode' => 
+      array (
+        0 => 59215,
+      ),
       'sjis' => 'F9F4',
       'jis' => '763B',
     ),
     'au' => 
     array (
       'number' => '372',
-      'unicode' => 58843,
+      'unicode' => 
+      array (
+        0 => 58843,
+      ),
       'sjis' => 'F34E',
       'jis' => '792F',
     ),
     'softbank' => 
     array (
       'number' => '125',
-      'unicode' => 58659,
+      'unicode' => 
+      array (
+        0 => 58659,
+      ),
       'sjis' => 'FBC3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040861,
+      'unicode' => 
+      array (
+        0 => 1040861,
+      ),
     ),
   ),
   150 => 
   array (
     'mapid' => '#e-1BC',
-    'unicode' => 128039,
+    'unicode' => 
+    array (
+      0 => 128039,
+    ),
     'char_name' => 
     array (
       'title' => 'PENGUIN',
@@ -4969,33 +6904,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.69',
-      'unicode' => 59216,
+      'unicode' => 
+      array (
+        0 => 59216,
+      ),
       'sjis' => 'F9F5',
       'jis' => '7637',
     ),
     'au' => 
     array (
       'number' => '252',
-      'unicode' => 58588,
+      'unicode' => 
+      array (
+        0 => 58588,
+      ),
       'sjis' => 'F6B5',
       'jis' => '7637',
     ),
     'softbank' => 
     array (
       'number' => '127',
-      'unicode' => 57429,
+      'unicode' => 
+      array (
+        0 => 57429,
+      ),
       'sjis' => 'F996',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040828,
+      'unicode' => 
+      array (
+        0 => 1040828,
+      ),
     ),
   ),
   151 => 
   array (
     'mapid' => '#e-1D8',
-    'unicode' => 128041,
+    'unicode' => 
+    array (
+      0 => 128041,
+    ),
     'char_name' => 
     array (
       'title' => 'POODLE',
@@ -5004,33 +6954,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => '100',
-      'unicode' => 59041,
+      'unicode' => 
+      array (
+        0 => 59041,
+      ),
       'sjis' => 'F945',
       'jis' => '763C',
     ),
     'au' => 
     array (
       'number' => '74',
-      'unicode' => 58591,
+      'unicode' => 
+      array (
+        0 => 58591,
+      ),
       'sjis' => 'F6B8',
       'jis' => '763A',
     ),
     'softbank' => 
     array (
       'number' => '105',
-      'unicode' => 57426,
+      'unicode' => 
+      array (
+        0 => 57426,
+      ),
       'sjis' => 'F993',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040856,
+      'unicode' => 
+      array (
+        0 => 1040856,
+      ),
     ),
   ),
   152 => 
   array (
     'mapid' => '#e-1BD',
-    'unicode' => 128031,
+    'unicode' => 
+    array (
+      0 => 128031,
+    ),
     'char_name' => 
     array (
       'title' => 'FISH',
@@ -5039,33 +7004,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.70',
-      'unicode' => 59217,
+      'unicode' => 
+      array (
+        0 => 59217,
+      ),
       'sjis' => 'F9F6',
       'jis' => '7A60',
     ),
     'au' => 
     array (
       'number' => '203',
-      'unicode' => 58522,
+      'unicode' => 
+      array (
+        0 => 58522,
+      ),
       'sjis' => 'F672',
       'jis' => '7553',
     ),
     'softbank' => 
     array (
       'number' => '130',
-      'unicode' => 57369,
+      'unicode' => 
+      array (
+        0 => 57369,
+      ),
       'sjis' => 'F959',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040829,
+      'unicode' => 
+      array (
+        0 => 1040829,
+      ),
     ),
   ),
   153 => 
   array (
     'mapid' => '#e-1C7',
-    'unicode' => 128044,
+    'unicode' => 
+    array (
+      0 => 128044,
+    ),
     'char_name' => 
     array (
       'title' => 'DOLPHIN',
@@ -5078,26 +7058,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '713',
-      'unicode' => 60187,
+      'unicode' => 
+      array (
+        0 => 60187,
+      ),
       'sjis' => 'F3DC',
       'jis' => '7A5E',
     ),
     'softbank' => 
     array (
       'number' => '129',
-      'unicode' => 58656,
+      'unicode' => 
+      array (
+        0 => 58656,
+      ),
       'sjis' => 'FBC0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040839,
+      'unicode' => 
+      array (
+        0 => 1040839,
+      ),
     ),
   ),
   154 => 
   array (
     'mapid' => '#e-1C2',
-    'unicode' => 128045,
+    'unicode' => 
+    array (
+      0 => 128045,
+    ),
     'char_name' => 
     array (
       'title' => 'MOUSE FACE',
@@ -5110,26 +7102,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '347',
-      'unicode' => 58818,
+      'unicode' => 
+      array (
+        0 => 58818,
+      ),
       'sjis' => 'F7F2',
       'jis' => '7874',
     ),
     'softbank' => 
     array (
       'number' => '107',
-      'unicode' => 57427,
+      'unicode' => 
+      array (
+        0 => 57427,
+      ),
       'sjis' => 'F994',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040834,
+      'unicode' => 
+      array (
+        0 => 1040834,
+      ),
     ),
   ),
   155 => 
   array (
     'mapid' => '#e-1C0',
-    'unicode' => 128047,
+    'unicode' => 
+    array (
+      0 => 128047,
+    ),
     'char_name' => 
     array (
       'title' => 'TIGER FACE',
@@ -5142,26 +7146,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '345',
-      'unicode' => 58816,
+      'unicode' => 
+      array (
+        0 => 58816,
+      ),
       'sjis' => 'F7F0',
       'jis' => '7872',
     ),
     'softbank' => 
     array (
       'number' => '108',
-      'unicode' => 57424,
+      'unicode' => 
+      array (
+        0 => 57424,
+      ),
       'sjis' => 'F991',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040832,
+      'unicode' => 
+      array (
+        0 => 1040832,
+      ),
     ),
   ),
   156 => 
   array (
     'mapid' => '#e-1B8',
-    'unicode' => 128049,
+    'unicode' => 
+    array (
+      0 => 128049,
+    ),
     'char_name' => 
     array (
       'title' => 'CAT FACE',
@@ -5170,33 +7186,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => '101',
-      'unicode' => 59042,
+      'unicode' => 
+      array (
+        0 => 59042,
+      ),
       'sjis' => 'F946',
       'jis' => '7636',
     ),
     'au' => 
     array (
       'number' => '251',
-      'unicode' => 58587,
+      'unicode' => 
+      array (
+        0 => 58587,
+      ),
       'sjis' => 'F6B4',
       'jis' => '7636',
     ),
     'softbank' => 
     array (
       'number' => '104',
-      'unicode' => 57423,
+      'unicode' => 
+      array (
+        0 => 57423,
+      ),
       'sjis' => 'F990',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040824,
+      'unicode' => 
+      array (
+        0 => 1040824,
+      ),
     ),
   ),
   157 => 
   array (
     'mapid' => '#e-1C3',
-    'unicode' => 128051,
+    'unicode' => 
+    array (
+      0 => 128051,
+    ),
     'char_name' => 
     array (
       'title' => 'SPOUTING WHALE',
@@ -5209,26 +7240,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '246',
-      'unicode' => 58480,
+      'unicode' => 
+      array (
+        0 => 58480,
+      ),
       'sjis' => 'F648',
       'jis' => '7529',
     ),
     'softbank' => 
     array (
       'number' => '128',
-      'unicode' => 57428,
+      'unicode' => 
+      array (
+        0 => 57428,
+      ),
       'sjis' => 'F995',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040835,
+      'unicode' => 
+      array (
+        0 => 1040835,
+      ),
     ),
   ),
   158 => 
   array (
     'mapid' => '#e-1BE',
-    'unicode' => 128052,
+    'unicode' => 
+    array (
+      0 => 128052,
+    ),
     'char_name' => 
     array (
       'title' => 'HORSE FACE',
@@ -5237,33 +7280,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.73',
-      'unicode' => 59220,
+      'unicode' => 
+      array (
+        0 => 59220,
+      ),
       'sjis' => 'F9F9',
       'jis' => '7633',
     ),
     'au' => 
     array (
       'number' => '248',
-      'unicode' => 58584,
+      'unicode' => 
+      array (
+        0 => 58584,
+      ),
       'sjis' => 'F6B1',
       'jis' => '7633',
     ),
     'softbank' => 
     array (
       'number' => '116',
-      'unicode' => 57370,
+      'unicode' => 
+      array (
+        0 => 57370,
+      ),
       'sjis' => 'F95A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040830,
+      'unicode' => 
+      array (
+        0 => 1040830,
+      ),
     ),
   ),
   159 => 
   array (
     'mapid' => '#e-1C4',
-    'unicode' => 128053,
+    'unicode' => 
+    array (
+      0 => 128053,
+    ),
     'char_name' => 
     array (
       'title' => 'MONKEY FACE',
@@ -5276,26 +7334,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '249',
-      'unicode' => 58585,
+      'unicode' => 
+      array (
+        0 => 58585,
+      ),
       'sjis' => 'F6B2',
       'jis' => '7634',
     ),
     'softbank' => 
     array (
       'number' => '109',
-      'unicode' => 57609,
+      'unicode' => 
+      array (
+        0 => 57609,
+      ),
       'sjis' => 'F749',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040836,
+      'unicode' => 
+      array (
+        0 => 1040836,
+      ),
     ),
   ),
   160 => 
   array (
     'mapid' => '#e-1B7',
-    'unicode' => 128054,
+    'unicode' => 
+    array (
+      0 => 128054,
+    ),
     'char_name' => 
     array (
       'title' => 'DOG FACE',
@@ -5304,33 +7374,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => '100',
-      'unicode' => 59041,
+      'unicode' => 
+      array (
+        0 => 59041,
+      ),
       'sjis' => 'F945',
       'jis' => '763C',
     ),
     'au' => 
     array (
       'number' => '134',
-      'unicode' => 58593,
+      'unicode' => 
+      array (
+        0 => 58593,
+      ),
       'sjis' => 'F6BA',
       'jis' => '763C',
     ),
     'softbank' => 
     array (
       'number' => '105',
-      'unicode' => 57426,
+      'unicode' => 
+      array (
+        0 => 57426,
+      ),
       'sjis' => 'F993',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040823,
+      'unicode' => 
+      array (
+        0 => 1040823,
+      ),
     ),
   ),
   161 => 
   array (
     'mapid' => '#e-1BF',
-    'unicode' => 128055,
+    'unicode' => 
+    array (
+      0 => 128055,
+    ),
     'char_name' => 
     array (
       'title' => 'PIG FACE',
@@ -5339,33 +7424,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.74',
-      'unicode' => 59221,
+      'unicode' => 
+      array (
+        0 => 59221,
+      ),
       'sjis' => 'F9FA',
       'jis' => '7639',
     ),
     'au' => 
     array (
       'number' => '254',
-      'unicode' => 58590,
+      'unicode' => 
+      array (
+        0 => 58590,
+      ),
       'sjis' => 'F6B7',
       'jis' => '7639',
     ),
     'softbank' => 
     array (
       'number' => '106',
-      'unicode' => 57611,
+      'unicode' => 
+      array (
+        0 => 57611,
+      ),
       'sjis' => 'F74B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040831,
+      'unicode' => 
+      array (
+        0 => 1040831,
+      ),
     ),
   ),
   162 => 
   array (
     'mapid' => '#e-1C1',
-    'unicode' => 128059,
+    'unicode' => 
+    array (
+      0 => 128059,
+    ),
     'char_name' => 
     array (
       'title' => 'BEAR FACE',
@@ -5378,26 +7478,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '346',
-      'unicode' => 58817,
+      'unicode' => 
+      array (
+        0 => 58817,
+      ),
       'sjis' => 'F7F1',
       'jis' => '7873',
     ),
     'softbank' => 
     array (
       'number' => '110',
-      'unicode' => 57425,
+      'unicode' => 
+      array (
+        0 => 57425,
+      ),
       'sjis' => 'F992',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040833,
+      'unicode' => 
+      array (
+        0 => 1040833,
+      ),
     ),
   ),
   163 => 
   array (
     'mapid' => '#e-1CA',
-    'unicode' => 128057,
+    'unicode' => 
+    array (
+      0 => 128057,
+    ),
     'char_name' => 
     array (
       'title' => 'HAMSTER FACE',
@@ -5414,19 +7526,28 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'softbank' => 
     array (
       'number' => '114',
-      'unicode' => 58660,
+      'unicode' => 
+      array (
+        0 => 58660,
+      ),
       'sjis' => 'FBC4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040842,
+      'unicode' => 
+      array (
+        0 => 1040842,
+      ),
     ),
   ),
   164 => 
   array (
     'mapid' => '#e-1D0',
-    'unicode' => 128058,
+    'unicode' => 
+    array (
+      0 => 128058,
+    ),
     'char_name' => 
     array (
       'title' => 'WOLF FACE',
@@ -5435,33 +7556,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => '100',
-      'unicode' => 59041,
+      'unicode' => 
+      array (
+        0 => 59041,
+      ),
       'sjis' => 'F945',
       'jis' => '763C',
     ),
     'au' => 
     array (
       'number' => '134',
-      'unicode' => 58593,
+      'unicode' => 
+      array (
+        0 => 58593,
+      ),
       'sjis' => 'F6BA',
       'jis' => '763C',
     ),
     'softbank' => 
     array (
       'number' => '117',
-      'unicode' => 58666,
+      'unicode' => 
+      array (
+        0 => 58666,
+      ),
       'sjis' => 'FBCA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040848,
+      'unicode' => 
+      array (
+        0 => 1040848,
+      ),
     ),
   ),
   165 => 
   array (
     'mapid' => '#e-1D1',
-    'unicode' => 128046,
+    'unicode' => 
+    array (
+      0 => 128046,
+    ),
     'char_name' => 
     array (
       'title' => 'COW FACE',
@@ -5474,26 +7610,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '719',
-      'unicode' => 60193,
+      'unicode' => 
+      array (
+        0 => 60193,
+      ),
       'sjis' => 'F3E2',
       'jis' => '7A64',
     ),
     'softbank' => 
     array (
       'number' => '112',
-      'unicode' => 58667,
+      'unicode' => 
+      array (
+        0 => 58667,
+      ),
       'sjis' => 'FBCB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040849,
+      'unicode' => 
+      array (
+        0 => 1040849,
+      ),
     ),
   ),
   166 => 
   array (
     'mapid' => '#e-1D2',
-    'unicode' => 128048,
+    'unicode' => 
+    array (
+      0 => 128048,
+    ),
     'char_name' => 
     array (
       'title' => 'RABBIT FACE',
@@ -5506,26 +7654,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '247',
-      'unicode' => 58583,
+      'unicode' => 
+      array (
+        0 => 58583,
+      ),
       'sjis' => 'F6B0',
       'jis' => '7632',
     ),
     'softbank' => 
     array (
       'number' => '111',
-      'unicode' => 58668,
+      'unicode' => 
+      array (
+        0 => 58668,
+      ),
       'sjis' => 'FBCC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040850,
+      'unicode' => 
+      array (
+        0 => 1040850,
+      ),
     ),
   ),
   167 => 
   array (
     'mapid' => '#e-1D7',
-    'unicode' => 128056,
+    'unicode' => 
+    array (
+      0 => 128056,
+    ),
     'char_name' => 
     array (
       'title' => 'FROG FACE',
@@ -5538,26 +7698,38 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '250',
-      'unicode' => 58586,
+      'unicode' => 
+      array (
+        0 => 58586,
+      ),
       'sjis' => 'F6B3',
       'jis' => '7635',
     ),
     'softbank' => 
     array (
       'number' => '115',
-      'unicode' => 58673,
+      'unicode' => 
+      array (
+        0 => 58673,
+      ),
       'sjis' => 'FBD1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040855,
+      'unicode' => 
+      array (
+        0 => 1040855,
+      ),
     ),
   ),
   168 => 
   array (
     'mapid' => '#e-1DB',
-    'unicode' => 128062,
+    'unicode' => 
+    array (
+      0 => 128062,
+    ),
     'char_name' => 
     array (
       'title' => 'PAW PRINTS',
@@ -5566,33 +7738,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => '91',
-      'unicode' => 59032,
+      'unicode' => 
+      array (
+        0 => 59032,
+      ),
       'sjis' => 'F8F9',
       'jis' => '7A6D',
     ),
     'au' => 
     array (
       'number' => '276',
-      'unicode' => 58606,
+      'unicode' => 
+      array (
+        0 => 58606,
+      ),
       'sjis' => 'F6C7',
       'jis' => '7649',
     ),
     'softbank' => 
     array (
       'number' => '73',
-      'unicode' => 58678,
+      'unicode' => 
+      array (
+        0 => 58678,
+      ),
       'sjis' => 'FBD6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040859,
+      'unicode' => 
+      array (
+        0 => 1040859,
+      ),
     ),
   ),
   169 => 
   array (
     'mapid' => '#e-1DE',
-    'unicode' => 128050,
+    'unicode' => 
+    array (
+      0 => 128050,
+    ),
     'char_name' => 
     array (
       'title' => 'DRAGON FACE',
@@ -5605,7 +7792,10 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '749',
-      'unicode' => 60223,
+      'unicode' => 
+      array (
+        0 => 60223,
+      ),
       'sjis' => 'F443',
       'jis' => '7B24',
     ),
@@ -5615,13 +7805,19 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     ),
     'google' => 
     array (
-      'unicode' => 1040862,
+      'unicode' => 
+      array (
+        0 => 1040862,
+      ),
     ),
   ),
   170 => 
   array (
     'mapid' => '#e-1DF',
-    'unicode' => 128060,
+    'unicode' => 
+    array (
+      0 => 128060,
+    ),
     'char_name' => 
     array (
       'title' => 'PANDA FACE',
@@ -5634,7 +7830,10 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'au' => 
     array (
       'number' => '756',
-      'unicode' => 60230,
+      'unicode' => 
+      array (
+        0 => 60230,
+      ),
       'sjis' => 'F44A',
       'jis' => '7B2B',
     ),
@@ -5644,13 +7843,19 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     ),
     'google' => 
     array (
-      'unicode' => 1040863,
+      'unicode' => 
+      array (
+        0 => 1040863,
+      ),
     ),
   ),
   171 => 
   array (
     'mapid' => '#e-1E0',
-    'unicode' => 128061,
+    'unicode' => 
+    array (
+      0 => 128061,
+    ),
     'char_name' => 
     array (
       'title' => 'PIG NOSE',
@@ -5659,33 +7864,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => 'Exp.74',
-      'unicode' => 59221,
+      'unicode' => 
+      array (
+        0 => 59221,
+      ),
       'sjis' => 'F9FA',
       'jis' => '7639',
     ),
     'au' => 
     array (
       'number' => '758',
-      'unicode' => 60232,
+      'unicode' => 
+      array (
+        0 => 60232,
+      ),
       'sjis' => 'F44C',
       'jis' => '7B2D',
     ),
     'softbank' => 
     array (
       'number' => '106',
-      'unicode' => 57611,
+      'unicode' => 
+      array (
+        0 => 57611,
+      ),
       'sjis' => 'F74B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040864,
+      'unicode' => 
+      array (
+        0 => 1040864,
+      ),
     ),
   ),
   172 => 
   array (
     'mapid' => '#e-320',
-    'unicode' => 128544,
+    'unicode' => 
+    array (
+      0 => 128544,
+    ),
     'char_name' => 
     array (
       'title' => 'ANGRY FACE',
@@ -5694,33 +7914,48 @@ Temporary Notes: Note Aries (sheep) by KDDI. Zodiac',
     'docomo' => 
     array (
       'number' => '141',
-      'unicode' => 59121,
+      'unicode' => 
+      array (
+        0 => 59121,
+      ),
       'sjis' => 'F996',
       'jis' => '752B',
     ),
     'au' => 
     array (
       'number' => '258',
-      'unicode' => 58482,
+      'unicode' => 
+      array (
+        0 => 58482,
+      ),
       'sjis' => 'F64A',
       'jis' => '752B',
     ),
     'softbank' => 
     array (
       'number' => '29',
-      'unicode' => 57433,
+      'unicode' => 
+      array (
+        0 => 57433,
+      ),
       'sjis' => 'F99A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041184,
+      'unicode' => 
+      array (
+        0 => 1041184,
+      ),
     ),
   ),
   173 => 
   array (
     'mapid' => '#e-321',
-    'unicode' => 128553,
+    'unicode' => 
+    array (
+      0 => 128553,
+    ),
     'char_name' => 
     array (
       'title' => 'WEARY FACE',
@@ -5730,33 +7965,48 @@ Temporary Notes: Forms a pair with e-350.',
     'docomo' => 
     array (
       'number' => '143',
-      'unicode' => 59123,
+      'unicode' => 
+      array (
+        0 => 59123,
+      ),
       'sjis' => 'F998',
       'jis' => '7977',
     ),
     'au' => 
     array (
       'number' => '789',
-      'unicode' => 60263,
+      'unicode' => 
+      array (
+        0 => 60263,
+      ),
       'sjis' => 'F46B',
       'jis' => '7B4C',
     ),
     'softbank' => 
     array (
       'number' => '17',
-      'unicode' => 58371,
+      'unicode' => 
+      array (
+        0 => 58371,
+      ),
       'sjis' => 'FB43',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041185,
+      'unicode' => 
+      array (
+        0 => 1041185,
+      ),
     ),
   ),
   174 => 
   array (
     'mapid' => '#e-322',
-    'unicode' => 128562,
+    'unicode' => 
+    array (
+      0 => 128562,
+    ),
     'char_name' => 
     array (
       'title' => 'ASTONISHED FACE',
@@ -5765,33 +8015,48 @@ Temporary Notes: Forms a pair with e-350.',
     'docomo' => 
     array (
       'number' => '144',
-      'unicode' => 59124,
+      'unicode' => 
+      array (
+        0 => 59124,
+      ),
       'sjis' => 'F999',
       'jis' => '784D',
     ),
     'au' => 
     array (
       'number' => '451',
-      'unicode' => 60106,
+      'unicode' => 
+      array (
+        0 => 60106,
+      ),
       'sjis' => 'F39E',
       'jis' => '797E',
     ),
     'softbank' => 
     array (
       'number' => '27',
-      'unicode' => 58384,
+      'unicode' => 
+      array (
+        0 => 58384,
+      ),
       'sjis' => 'FB50',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041186,
+      'unicode' => 
+      array (
+        0 => 1041186,
+      ),
     ),
   ),
   175 => 
   array (
     'mapid' => '#e-323',
-    'unicode' => 128542,
+    'unicode' => 
+    array (
+      0 => 128542,
+    ),
     'char_name' => 
     array (
       'title' => 'DISAPPOINTED FACE',
@@ -5800,33 +8065,48 @@ Temporary Notes: Forms a pair with e-350.',
     'docomo' => 
     array (
       'number' => '142',
-      'unicode' => 59122,
+      'unicode' => 
+      array (
+        0 => 59122,
+      ),
       'sjis' => 'F997',
       'jis' => '7974',
     ),
     'au' => 
     array (
       'number' => '441',
-      'unicode' => 60096,
+      'unicode' => 
+      array (
+        0 => 60096,
+      ),
       'sjis' => 'F394',
       'jis' => '7974',
     ),
     'softbank' => 
     array (
       'number' => '18',
-      'unicode' => 57432,
+      'unicode' => 
+      array (
+        0 => 57432,
+      ),
       'sjis' => 'F999',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041187,
+      'unicode' => 
+      array (
+        0 => 1041187,
+      ),
     ),
   ),
   176 => 
   array (
     'mapid' => '#e-324',
-    'unicode' => 128565,
+    'unicode' => 
+    array (
+      0 => 128565,
+    ),
     'char_name' => 
     array (
       'title' => 'DIZZY FACE',
@@ -5835,33 +8115,48 @@ Temporary Notes: Forms a pair with e-350.',
     'docomo' => 
     array (
       'number' => '144',
-      'unicode' => 59124,
+      'unicode' => 
+      array (
+        0 => 59124,
+      ),
       'sjis' => 'F999',
       'jis' => '784D',
     ),
     'au' => 
     array (
       'number' => '327',
-      'unicode' => 58798,
+      'unicode' => 
+      array (
+        0 => 58798,
+      ),
       'sjis' => 'F7CB',
       'jis' => '784D',
     ),
     'softbank' => 
     array (
       'number' => '23',
-      'unicode' => 58374,
+      'unicode' => 
+      array (
+        0 => 58374,
+      ),
       'sjis' => 'FB46',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041188,
+      'unicode' => 
+      array (
+        0 => 1041188,
+      ),
     ),
   ),
   177 => 
   array (
     'mapid' => '#e-325',
-    'unicode' => 128560,
+    'unicode' => 
+    array (
+      0 => 128560,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE WITH OPEN MOUTH AND COLD SWEAT',
@@ -5871,33 +8166,48 @@ Temporary Notes: Exasperated, frustrated, impatient (sweating)',
     'docomo' => 
     array (
       'number' => 'Exp.24',
-      'unicode' => 59171,
+      'unicode' => 
+      array (
+        0 => 59171,
+      ),
       'sjis' => 'F9C8',
       'jis' => '7878',
     ),
     'au' => 
     array (
       'number' => '452',
-      'unicode' => 60107,
+      'unicode' => 
+      array (
+        0 => 60107,
+      ),
       'sjis' => 'F39F',
       'jis' => '7A21',
     ),
     'softbank' => 
     array (
       'number' => '21',
-      'unicode' => 58383,
+      'unicode' => 
+      array (
+        0 => 58383,
+      ),
       'sjis' => 'FB4F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041189,
+      'unicode' => 
+      array (
+        0 => 1041189,
+      ),
     ),
   ),
   178 => 
   array (
     'mapid' => '#e-326',
-    'unicode' => 128530,
+    'unicode' => 
+    array (
+      0 => 128530,
+    ),
     'char_name' => 
     array (
       'title' => 'UNAMUSED FACE',
@@ -5907,33 +8217,48 @@ Temporary Notes: KDDI has side-look animation',
     'docomo' => 
     array (
       'number' => 'Exp.26',
-      'unicode' => 59173,
+      'unicode' => 
+      array (
+        0 => 59173,
+      ),
       'sjis' => 'F9CA',
       'jis' => '797D',
     ),
     'au' => 
     array (
       'number' => '450',
-      'unicode' => 60105,
+      'unicode' => 
+      array (
+        0 => 60105,
+      ),
       'sjis' => 'F39D',
       'jis' => '797D',
     ),
     'softbank' => 
     array (
       'number' => '14',
-      'unicode' => 58382,
+      'unicode' => 
+      array (
+        0 => 58382,
+      ),
       'sjis' => 'FB4E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041190,
+      'unicode' => 
+      array (
+        0 => 1041190,
+      ),
     ),
   ),
   179 => 
   array (
     'mapid' => '#e-327',
-    'unicode' => 128525,
+    'unicode' => 
+    array (
+      0 => 128525,
+    ),
     'char_name' => 
     array (
       'title' => 'SMILING FACE WITH HEART-SHAPED EYES',
@@ -5943,33 +8268,48 @@ Temporary Notes: Forms a pair with e-34C. used to indicate the state of being in
     'docomo' => 
     array (
       'number' => 'Exp.27',
-      'unicode' => 59174,
+      'unicode' => 
+      array (
+        0 => 59174,
+      ),
       'sjis' => 'F9CB',
       'jis' => '7876',
     ),
     'au' => 
     array (
       'number' => '349',
-      'unicode' => 58820,
+      'unicode' => 
+      array (
+        0 => 58820,
+      ),
       'sjis' => 'F7F4',
       'jis' => '7876',
     ),
     'softbank' => 
     array (
       'number' => '6',
-      'unicode' => 57606,
+      'unicode' => 
+      array (
+        0 => 57606,
+      ),
       'sjis' => 'F746',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041191,
+      'unicode' => 
+      array (
+        0 => 1041191,
+      ),
     ),
   ),
   180 => 
   array (
     'mapid' => '#e-328',
-    'unicode' => 128548,
+    'unicode' => 
+    array (
+      0 => 128548,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE WITH LOOK OF TRIUMPH',
@@ -5978,33 +8318,48 @@ Temporary Notes: Forms a pair with e-34C. used to indicate the state of being in
     'docomo' => 
     array (
       'number' => 'Exp.72',
-      'unicode' => 59219,
+      'unicode' => 
+      array (
+        0 => 59219,
+      ),
       'sjis' => 'F9F8',
       'jis' => '7B65',
     ),
     'au' => 
     array (
       'number' => '442',
-      'unicode' => 60097,
+      'unicode' => 
+      array (
+        0 => 60097,
+      ),
       'sjis' => 'F395',
       'jis' => '7975',
     ),
     'softbank' => 
     array (
       'number' => '11',
-      'unicode' => 58372,
+      'unicode' => 
+      array (
+        0 => 58372,
+      ),
       'sjis' => 'FB44',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041192,
+      'unicode' => 
+      array (
+        0 => 1041192,
+      ),
     ),
   ),
   181 => 
   array (
     'mapid' => '#e-329',
-    'unicode' => 128540,
+    'unicode' => 
+    array (
+      0 => 128540,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE WITH STUCK-OUT TONGUE AND WINKING EYE',
@@ -6014,33 +8369,48 @@ Temporary Notes: Forms a pair with e-34C. used to indicate the state of being in
     'docomo' => 
     array (
       'number' => 'Exp.29',
-      'unicode' => 59176,
+      'unicode' => 
+      array (
+        0 => 59176,
+      ),
       'sjis' => 'F9CD',
       'jis' => '7642',
     ),
     'au' => 
     array (
       'number' => '264',
-      'unicode' => 58599,
+      'unicode' => 
+      array (
+        0 => 58599,
+      ),
       'sjis' => 'F6C0',
       'jis' => '7642',
     ),
     'softbank' => 
     array (
       'number' => '12',
-      'unicode' => 57605,
+      'unicode' => 
+      array (
+        0 => 57605,
+      ),
       'sjis' => 'F745',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041193,
+      'unicode' => 
+      array (
+        0 => 1041193,
+      ),
     ),
   ),
   182 => 
   array (
     'mapid' => '#e-32A',
-    'unicode' => 128541,
+    'unicode' => 
+    array (
+      0 => 128541,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES',
@@ -6051,33 +8421,48 @@ Temporary Notes: with eyelids pulled down for additional effect',
     'docomo' => 
     array (
       'number' => 'Exp.29',
-      'unicode' => 59176,
+      'unicode' => 
+      array (
+        0 => 59176,
+      ),
       'sjis' => 'F9CD',
       'jis' => '7642',
     ),
     'au' => 
     array (
       'number' => '264',
-      'unicode' => 58599,
+      'unicode' => 
+      array (
+        0 => 58599,
+      ),
       'sjis' => 'F6C0',
       'jis' => '7642',
     ),
     'softbank' => 
     array (
       'number' => '13',
-      'unicode' => 58377,
+      'unicode' => 
+      array (
+        0 => 58377,
+      ),
       'sjis' => 'FB49',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041194,
+      'unicode' => 
+      array (
+        0 => 1041194,
+      ),
     ),
   ),
   183 => 
   array (
     'mapid' => '#e-32B',
-    'unicode' => 128523,
+    'unicode' => 
+    array (
+      0 => 128523,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE SAVOURING DELICIOUS FOOD',
@@ -6087,33 +8472,48 @@ Temporary Notes: tastes delicious',
     'docomo' => 
     array (
       'number' => 'Exp.71',
-      'unicode' => 59218,
+      'unicode' => 
+      array (
+        0 => 59218,
+      ),
       'sjis' => 'F9F7',
       'jis' => '7A23',
     ),
     'au' => 
     array (
       'number' => '454',
-      'unicode' => 60109,
+      'unicode' => 
+      array (
+        0 => 60109,
+      ),
       'sjis' => 'F3A1',
       'jis' => '7A23',
     ),
     'softbank' => 
     array (
       'number' => '2',
-      'unicode' => 57430,
+      'unicode' => 
+      array (
+        0 => 57430,
+      ),
       'sjis' => 'F997',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041195,
+      'unicode' => 
+      array (
+        0 => 1041195,
+      ),
     ),
   ),
   184 => 
   array (
     'mapid' => '#e-32C',
-    'unicode' => 128536,
+    'unicode' => 
+    array (
+      0 => 128536,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE THROWING A KISS',
@@ -6122,33 +8522,48 @@ Temporary Notes: tastes delicious',
     'docomo' => 
     array (
       'number' => 'Exp.27',
-      'unicode' => 59174,
+      'unicode' => 
+      array (
+        0 => 59174,
+      ),
       'sjis' => 'F9CB',
       'jis' => '7876',
     ),
     'au' => 
     array (
       'number' => '456',
-      'unicode' => 60111,
+      'unicode' => 
+      array (
+        0 => 60111,
+      ),
       'sjis' => 'F3A3',
       'jis' => '7A25',
     ),
     'softbank' => 
     array (
       'number' => '7',
-      'unicode' => 58392,
+      'unicode' => 
+      array (
+        0 => 58392,
+      ),
       'sjis' => 'FB58',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041196,
+      'unicode' => 
+      array (
+        0 => 1041196,
+      ),
     ),
   ),
   185 => 
   array (
     'mapid' => '#e-32D',
-    'unicode' => 128538,
+    'unicode' => 
+    array (
+      0 => 128538,
+    ),
     'char_name' => 
     array (
       'title' => 'KISSING FACE WITH CLOSED EYES',
@@ -6158,33 +8573,48 @@ Temporary Notes: Forms a pair with e-34B. Puckered lips 2 (more forceful kiss, e
     'docomo' => 
     array (
       'number' => 'Exp.27',
-      'unicode' => 59174,
+      'unicode' => 
+      array (
+        0 => 59174,
+      ),
       'sjis' => 'F9CB',
       'jis' => '7876',
     ),
     'au' => 
     array (
       'number' => '455',
-      'unicode' => 60110,
+      'unicode' => 
+      array (
+        0 => 60110,
+      ),
       'sjis' => 'F3A2',
       'jis' => '7A24',
     ),
     'softbank' => 
     array (
       'number' => '8',
-      'unicode' => 58391,
+      'unicode' => 
+      array (
+        0 => 58391,
+      ),
       'sjis' => 'FB57',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041197,
+      'unicode' => 
+      array (
+        0 => 1041197,
+      ),
     ),
   ),
   186 => 
   array (
     'mapid' => '#e-32E',
-    'unicode' => 128567,
+    'unicode' => 
+    array (
+      0 => 128567,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE WITH MEDICAL MASK',
@@ -6198,26 +8628,38 @@ Temporary Notes: Under the weather (wearing a breathing mask)',
     'au' => 
     array (
       'number' => '448',
-      'unicode' => 60103,
+      'unicode' => 
+      array (
+        0 => 60103,
+      ),
       'sjis' => 'F39B',
       'jis' => '797B',
     ),
     'softbank' => 
     array (
       'number' => '31',
-      'unicode' => 58380,
+      'unicode' => 
+      array (
+        0 => 58380,
+      ),
       'sjis' => 'FB4C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041198,
+      'unicode' => 
+      array (
+        0 => 1041198,
+      ),
     ),
   ),
   187 => 
   array (
     'mapid' => '#e-32F',
-    'unicode' => 128563,
+    'unicode' => 
+    array (
+      0 => 128563,
+    ),
     'char_name' => 
     array (
       'title' => 'FLUSHED FACE',
@@ -6226,33 +8668,48 @@ Temporary Notes: Under the weather (wearing a breathing mask)',
     'docomo' => 
     array (
       'number' => 'Exp.31',
-      'unicode' => 59178,
+      'unicode' => 
+      array (
+        0 => 59178,
+      ),
       'sjis' => 'F9CF',
       'jis' => '7E35',
     ),
     'au' => 
     array (
       'number' => '449',
-      'unicode' => 60104,
+      'unicode' => 
+      array (
+        0 => 60104,
+      ),
       'sjis' => 'F39C',
       'jis' => '797C',
     ),
     'softbank' => 
     array (
       'number' => '9',
-      'unicode' => 58381,
+      'unicode' => 
+      array (
+        0 => 58381,
+      ),
       'sjis' => 'FB4D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041199,
+      'unicode' => 
+      array (
+        0 => 1041199,
+      ),
     ),
   ),
   188 => 
   array (
     'mapid' => '#e-330',
-    'unicode' => 128515,
+    'unicode' => 
+    array (
+      0 => 128515,
+    ),
     'char_name' => 
     array (
       'title' => 'SMILING FACE WITH OPEN MOUTH',
@@ -6262,33 +8719,48 @@ Temporary Notes: May unify with ☺ U+263A WHITE SMILING FACE',
     'docomo' => 
     array (
       'number' => '140',
-      'unicode' => 59120,
+      'unicode' => 
+      array (
+        0 => 59120,
+      ),
       'sjis' => 'F995',
       'jis' => '752A',
     ),
     'au' => 
     array (
       'number' => '257',
-      'unicode' => 58481,
+      'unicode' => 
+      array (
+        0 => 58481,
+      ),
       'sjis' => 'F649',
       'jis' => '752A',
     ),
     'softbank' => 
     array (
       'number' => '3',
-      'unicode' => 57431,
+      'unicode' => 
+      array (
+        0 => 57431,
+      ),
       'sjis' => 'F998',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041200,
+      'unicode' => 
+      array (
+        0 => 1041200,
+      ),
     ),
   ),
   189 => 
   array (
     'mapid' => '#e-332',
-    'unicode' => 128518,
+    'unicode' => 
+    array (
+      0 => 128518,
+    ),
     'char_name' => 
     array (
       'title' => 'SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES',
@@ -6298,33 +8770,48 @@ Temporary Notes: Happy face 3 for DoCoMo',
     'docomo' => 
     array (
       'number' => 'Exp.31',
-      'unicode' => 59178,
+      'unicode' => 
+      array (
+        0 => 59178,
+      ),
       'sjis' => 'F9CF',
       'jis' => '7E35',
     ),
     'au' => 
     array (
       'number' => '446',
-      'unicode' => 60101,
+      'unicode' => 
+      array (
+        0 => 60101,
+      ),
       'sjis' => 'F399',
       'jis' => '7979',
     ),
     'softbank' => 
     array (
       'number' => '10',
-      'unicode' => 58378,
+      'unicode' => 
+      array (
+        0 => 58378,
+      ),
       'sjis' => 'FB4A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041202,
+      'unicode' => 
+      array (
+        0 => 1041202,
+      ),
     ),
   ),
   190 => 
   array (
     'mapid' => '#e-333',
-    'unicode' => 128513,
+    'unicode' => 
+    array (
+      0 => 128513,
+    ),
     'char_name' => 
     array (
       'title' => 'GRINNING FACE WITH SMILING EYES',
@@ -6334,33 +8821,48 @@ Temporary Notes: Forms a pair with e-349. loudly laughing face with bare teeth',
     'docomo' => 
     array (
       'number' => 'Exp.72',
-      'unicode' => 59219,
+      'unicode' => 
+      array (
+        0 => 59219,
+      ),
       'sjis' => 'F9F8',
       'jis' => '7B65',
     ),
     'au' => 
     array (
       'number' => '814',
-      'unicode' => 60288,
+      'unicode' => 
+      array (
+        0 => 60288,
+      ),
       'sjis' => 'F485',
       'jis' => '7B65',
     ),
     'softbank' => 
     array (
       'number' => '11',
-      'unicode' => 58372,
+      'unicode' => 
+      array (
+        0 => 58372,
+      ),
       'sjis' => 'FB44',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041203,
+      'unicode' => 
+      array (
+        0 => 1041203,
+      ),
     ),
   ),
   191 => 
   array (
     'mapid' => '#e-334',
-    'unicode' => 128514,
+    'unicode' => 
+    array (
+      0 => 128514,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE WITH TEARS OF JOY',
@@ -6370,33 +8872,48 @@ Temporary Notes: Forms a pair with e-34A. with tears of joy',
     'docomo' => 
     array (
       'number' => 'Exp.31',
-      'unicode' => 59178,
+      'unicode' => 
+      array (
+        0 => 59178,
+      ),
       'sjis' => 'F9CF',
       'jis' => '7E35',
     ),
     'au' => 
     array (
       'number' => '786',
-      'unicode' => 60260,
+      'unicode' => 
+      array (
+        0 => 60260,
+      ),
       'sjis' => 'F468',
       'jis' => '7B49',
     ),
     'softbank' => 
     array (
       'number' => '26',
-      'unicode' => 58386,
+      'unicode' => 
+      array (
+        0 => 58386,
+      ),
       'sjis' => 'FB52',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041204,
+      'unicode' => 
+      array (
+        0 => 1041204,
+      ),
     ),
   ),
   192 => 
   array (
     'mapid' => '#e-335',
-    'unicode' => 128522,
+    'unicode' => 
+    array (
+      0 => 128522,
+    ),
     'char_name' => 
     array (
       'title' => 'SMILING FACE WITH SMILING EYES',
@@ -6406,33 +8923,48 @@ Temporary Notes: smiling face',
     'docomo' => 
     array (
       'number' => '140',
-      'unicode' => 59120,
+      'unicode' => 
+      array (
+        0 => 59120,
+      ),
       'sjis' => 'F995',
       'jis' => '752A',
     ),
     'au' => 
     array (
       'number' => '454',
-      'unicode' => 60109,
+      'unicode' => 
+      array (
+        0 => 60109,
+      ),
       'sjis' => 'F3A1',
       'jis' => '7A23',
     ),
     'softbank' => 
     array (
       'number' => '2',
-      'unicode' => 57430,
+      'unicode' => 
+      array (
+        0 => 57430,
+      ),
       'sjis' => 'F997',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041205,
+      'unicode' => 
+      array (
+        0 => 1041205,
+      ),
     ),
   ),
   193 => 
   array (
     'mapid' => '#e-336',
-    'unicode' => 9786,
+    'unicode' => 
+    array (
+      0 => 9786,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE SMILING FACE',
@@ -6441,33 +8973,48 @@ Temporary Notes: smiling face',
     'docomo' => 
     array (
       'number' => '140',
-      'unicode' => 59120,
+      'unicode' => 
+      array (
+        0 => 59120,
+      ),
       'sjis' => 'F995',
       'jis' => '752A',
     ),
     'au' => 
     array (
       'number' => '68',
-      'unicode' => 58619,
+      'unicode' => 
+      array (
+        0 => 58619,
+      ),
       'sjis' => 'F6D4',
       'jis' => '7656',
     ),
     'softbank' => 
     array (
       'number' => '4',
-      'unicode' => 58388,
+      'unicode' => 
+      array (
+        0 => 58388,
+      ),
       'sjis' => 'FB54',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041206,
+      'unicode' => 
+      array (
+        0 => 1041206,
+      ),
     ),
   ),
   194 => 
   array (
     'mapid' => '#e-338',
-    'unicode' => 128516,
+    'unicode' => 
+    array (
+      0 => 128516,
+    ),
     'char_name' => 
     array (
       'title' => 'SMILING FACE WITH OPEN MOUTH AND SMILING EYES',
@@ -6477,33 +9024,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => '140',
-      'unicode' => 59120,
+      'unicode' => 
+      array (
+        0 => 59120,
+      ),
       'sjis' => 'F995',
       'jis' => '752A',
     ),
     'au' => 
     array (
       'number' => '257',
-      'unicode' => 58481,
+      'unicode' => 
+      array (
+        0 => 58481,
+      ),
       'sjis' => 'F649',
       'jis' => '752A',
     ),
     'softbank' => 
     array (
       'number' => '1',
-      'unicode' => 58389,
+      'unicode' => 
+      array (
+        0 => 58389,
+      ),
       'sjis' => 'FB55',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041208,
+      'unicode' => 
+      array (
+        0 => 1041208,
+      ),
     ),
   ),
   195 => 
   array (
     'mapid' => '#e-339',
-    'unicode' => 128546,
+    'unicode' => 
+    array (
+      0 => 128546,
+    ),
     'char_name' => 
     array (
       'title' => 'CRYING FACE',
@@ -6512,33 +9074,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.35',
-      'unicode' => 59182,
+      'unicode' => 
+      array (
+        0 => 59182,
+      ),
       'sjis' => 'F9D3',
       'jis' => '7B4E',
     ),
     'au' => 
     array (
       'number' => '791',
-      'unicode' => 60265,
+      'unicode' => 
+      array (
+        0 => 60265,
+      ),
       'sjis' => 'F46D',
       'jis' => '7B4E',
     ),
     'softbank' => 
     array (
       'number' => '24',
-      'unicode' => 58387,
+      'unicode' => 
+      array (
+        0 => 58387,
+      ),
       'sjis' => 'FB53',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041209,
+      'unicode' => 
+      array (
+        0 => 1041209,
+      ),
     ),
   ),
   196 => 
   array (
     'mapid' => '#e-33A',
-    'unicode' => 128557,
+    'unicode' => 
+    array (
+      0 => 128557,
+    ),
     'char_name' => 
     array (
       'title' => 'LOUDLY CRYING FACE',
@@ -6547,33 +9124,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.34',
-      'unicode' => 59181,
+      'unicode' => 
+      array (
+        0 => 59181,
+      ),
       'sjis' => 'F9D2',
       'jis' => '752C',
     ),
     'au' => 
     array (
       'number' => '259',
-      'unicode' => 58483,
+      'unicode' => 
+      array (
+        0 => 58483,
+      ),
       'sjis' => 'F64B',
       'jis' => '752C',
     ),
     'softbank' => 
     array (
       'number' => '25',
-      'unicode' => 58385,
+      'unicode' => 
+      array (
+        0 => 58385,
+      ),
       'sjis' => 'FB51',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041210,
+      'unicode' => 
+      array (
+        0 => 1041210,
+      ),
     ),
   ),
   197 => 
   array (
     'mapid' => '#e-33B',
-    'unicode' => 128552,
+    'unicode' => 
+    array (
+      0 => 128552,
+    ),
     'char_name' => 
     array (
       'title' => 'FEARFUL FACE',
@@ -6582,33 +9174,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.76',
-      'unicode' => 59223,
+      'unicode' => 
+      array (
+        0 => 59223,
+      ),
       'sjis' => 'F9FC',
       'jis' => '7877',
     ),
     'au' => 
     array (
       'number' => '447',
-      'unicode' => 60102,
+      'unicode' => 
+      array (
+        0 => 60102,
+      ),
       'sjis' => 'F39A',
       'jis' => '797A',
     ),
     'softbank' => 
     array (
       'number' => '22',
-      'unicode' => 58379,
+      'unicode' => 
+      array (
+        0 => 58379,
+      ),
       'sjis' => 'FB4B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041211,
+      'unicode' => 
+      array (
+        0 => 1041211,
+      ),
     ),
   ),
   198 => 
   array (
     'mapid' => '#e-33C',
-    'unicode' => 128547,
+    'unicode' => 
+    array (
+      0 => 128547,
+    ),
     'char_name' => 
     array (
       'title' => 'PERSEVERING FACE',
@@ -6617,33 +9224,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.32',
-      'unicode' => 59179,
+      'unicode' => 
+      array (
+        0 => 59179,
+      ),
       'sjis' => 'F9D0',
       'jis' => '7976',
     ),
     'au' => 
     array (
       'number' => '443',
-      'unicode' => 60098,
+      'unicode' => 
+      array (
+        0 => 60098,
+      ),
       'sjis' => 'F396',
       'jis' => '7976',
     ),
     'softbank' => 
     array (
       'number' => '23',
-      'unicode' => 58374,
+      'unicode' => 
+      array (
+        0 => 58374,
+      ),
       'sjis' => 'FB46',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041212,
+      'unicode' => 
+      array (
+        0 => 1041212,
+      ),
     ),
   ),
   199 => 
   array (
     'mapid' => '#e-33D',
-    'unicode' => 128545,
+    'unicode' => 
+    array (
+      0 => 128545,
+    ),
     'char_name' => 
     array (
       'title' => 'POUTING FACE',
@@ -6652,33 +9274,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.25',
-      'unicode' => 59172,
+      'unicode' => 
+      array (
+        0 => 59172,
+      ),
       'sjis' => 'F9C9',
       'jis' => '7B42',
     ),
     'au' => 
     array (
       'number' => '779',
-      'unicode' => 60253,
+      'unicode' => 
+      array (
+        0 => 60253,
+      ),
       'sjis' => 'F461',
       'jis' => '7B42',
     ),
     'softbank' => 
     array (
       'number' => '30',
-      'unicode' => 58390,
+      'unicode' => 
+      array (
+        0 => 58390,
+      ),
       'sjis' => 'FB56',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041213,
+      'unicode' => 
+      array (
+        0 => 1041213,
+      ),
     ),
   ),
   200 => 
   array (
     'mapid' => '#e-33E',
-    'unicode' => 128524,
+    'unicode' => 
+    array (
+      0 => 128524,
+    ),
     'char_name' => 
     array (
       'title' => 'RELIEVED FACE',
@@ -6687,33 +9324,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.22',
-      'unicode' => 59169,
+      'unicode' => 
+      array (
+        0 => 59169,
+      ),
       'sjis' => 'F9C6',
       'jis' => '7979',
     ),
     'au' => 
     array (
       'number' => '446',
-      'unicode' => 60101,
+      'unicode' => 
+      array (
+        0 => 60101,
+      ),
       'sjis' => 'F399',
       'jis' => '7979',
     ),
     'softbank' => 
     array (
       'number' => '10',
-      'unicode' => 58378,
+      'unicode' => 
+      array (
+        0 => 58378,
+      ),
       'sjis' => 'FB4A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041214,
+      'unicode' => 
+      array (
+        0 => 1041214,
+      ),
     ),
   ),
   201 => 
   array (
     'mapid' => '#e-33F',
-    'unicode' => 128534,
+    'unicode' => 
+    array (
+      0 => 128534,
+    ),
     'char_name' => 
     array (
       'title' => 'CONFOUNDED FACE',
@@ -6722,33 +9374,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => '143',
-      'unicode' => 59123,
+      'unicode' => 
+      array (
+        0 => 59123,
+      ),
       'sjis' => 'F998',
       'jis' => '7977',
     ),
     'au' => 
     array (
       'number' => '444',
-      'unicode' => 60099,
+      'unicode' => 
+      array (
+        0 => 60099,
+      ),
       'sjis' => 'F397',
       'jis' => '7977',
     ),
     'softbank' => 
     array (
       'number' => '19',
-      'unicode' => 58375,
+      'unicode' => 
+      array (
+        0 => 58375,
+      ),
       'sjis' => 'FB47',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041215,
+      'unicode' => 
+      array (
+        0 => 1041215,
+      ),
     ),
   ),
   202 => 
   array (
     'mapid' => '#e-340',
-    'unicode' => 128532,
+    'unicode' => 
+    array (
+      0 => 128532,
+    ),
     'char_name' => 
     array (
       'title' => 'PENSIVE FACE',
@@ -6757,33 +9424,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.21',
-      'unicode' => 59168,
+      'unicode' => 
+      array (
+        0 => 59168,
+      ),
       'sjis' => 'F9C5',
       'jis' => '7E33',
     ),
     'au' => 
     array (
       'number' => '441',
-      'unicode' => 60096,
+      'unicode' => 
+      array (
+        0 => 60096,
+      ),
       'sjis' => 'F394',
       'jis' => '7974',
     ),
     'softbank' => 
     array (
       'number' => '17',
-      'unicode' => 58371,
+      'unicode' => 
+      array (
+        0 => 58371,
+      ),
       'sjis' => 'FB43',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041216,
+      'unicode' => 
+      array (
+        0 => 1041216,
+      ),
     ),
   ),
   203 => 
   array (
     'mapid' => '#e-341',
-    'unicode' => 128561,
+    'unicode' => 
+    array (
+      0 => 128561,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE SCREAMING IN FEAR',
@@ -6792,33 +9474,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.76',
-      'unicode' => 59223,
+      'unicode' => 
+      array (
+        0 => 59223,
+      ),
       'sjis' => 'F9FC',
       'jis' => '7877',
     ),
     'au' => 
     array (
       'number' => '350',
-      'unicode' => 58821,
+      'unicode' => 
+      array (
+        0 => 58821,
+      ),
       'sjis' => 'F7F5',
       'jis' => '7877',
     ),
     'softbank' => 
     array (
       'number' => '28',
-      'unicode' => 57607,
+      'unicode' => 
+      array (
+        0 => 57607,
+      ),
       'sjis' => 'F747',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041217,
+      'unicode' => 
+      array (
+        0 => 1041217,
+      ),
     ),
   ),
   204 => 
   array (
     'mapid' => '#e-342',
-    'unicode' => 128554,
+    'unicode' => 
+    array (
+      0 => 128554,
+    ),
     'char_name' => 
     array (
       'title' => 'SLEEPY FACE',
@@ -6827,33 +9524,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => '157',
-      'unicode' => 59137,
+      'unicode' => 
+      array (
+        0 => 59137,
+      ),
       'sjis' => 'F9A6',
       'jis' => '752E',
     ),
     'au' => 
     array (
       'number' => '445',
-      'unicode' => 60100,
+      'unicode' => 
+      array (
+        0 => 60100,
+      ),
       'sjis' => 'F398',
       'jis' => '7978',
     ),
     'softbank' => 
     array (
       'number' => '32',
-      'unicode' => 58376,
+      'unicode' => 
+      array (
+        0 => 58376,
+      ),
       'sjis' => 'FB48',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041218,
+      'unicode' => 
+      array (
+        0 => 1041218,
+      ),
     ),
   ),
   205 => 
   array (
     'mapid' => '#e-343',
-    'unicode' => 128527,
+    'unicode' => 
+    array (
+      0 => 128527,
+    ),
     'char_name' => 
     array (
       'title' => 'SMIRKING FACE',
@@ -6862,33 +9574,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.33',
-      'unicode' => 59180,
+      'unicode' => 
+      array (
+        0 => 59180,
+      ),
       'sjis' => 'F9D1',
       'jis' => '7973',
     ),
     'au' => 
     array (
       'number' => '440',
-      'unicode' => 60095,
+      'unicode' => 
+      array (
+        0 => 60095,
+      ),
       'sjis' => 'F393',
       'jis' => '7973',
     ),
     'softbank' => 
     array (
       'number' => '15',
-      'unicode' => 58370,
+      'unicode' => 
+      array (
+        0 => 58370,
+      ),
       'sjis' => 'FB42',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041219,
+      'unicode' => 
+      array (
+        0 => 1041219,
+      ),
     ),
   ),
   206 => 
   array (
     'mapid' => '#e-344',
-    'unicode' => 128531,
+    'unicode' => 
+    array (
+      0 => 128531,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE WITH COLD SWEAT',
@@ -6897,33 +9624,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.24',
-      'unicode' => 59171,
+      'unicode' => 
+      array (
+        0 => 59171,
+      ),
       'sjis' => 'F9C8',
       'jis' => '7878',
     ),
     'au' => 
     array (
       'number' => '351',
-      'unicode' => 58822,
+      'unicode' => 
+      array (
+        0 => 58822,
+      ),
       'sjis' => 'F7F6',
       'jis' => '7878',
     ),
     'softbank' => 
     array (
       'number' => '16',
-      'unicode' => 57608,
+      'unicode' => 
+      array (
+        0 => 57608,
+      ),
       'sjis' => 'F748',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041220,
+      'unicode' => 
+      array (
+        0 => 1041220,
+      ),
     ),
   ),
   207 => 
   array (
     'mapid' => '#e-345',
-    'unicode' => 128549,
+    'unicode' => 
+    array (
+      0 => 128549,
+    ),
     'char_name' => 
     array (
       'title' => 'DISAPPOINTED BUT RELIEVED FACE',
@@ -6932,33 +9674,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.24',
-      'unicode' => 59171,
+      'unicode' => 
+      array (
+        0 => 59171,
+      ),
       'sjis' => 'F9C8',
       'jis' => '7878',
     ),
     'au' => 
     array (
       'number' => '351',
-      'unicode' => 58822,
+      'unicode' => 
+      array (
+        0 => 58822,
+      ),
       'sjis' => 'F7F6',
       'jis' => '7878',
     ),
     'softbank' => 
     array (
       'number' => '20',
-      'unicode' => 58369,
+      'unicode' => 
+      array (
+        0 => 58369,
+      ),
       'sjis' => 'FB41',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041221,
+      'unicode' => 
+      array (
+        0 => 1041221,
+      ),
     ),
   ),
   208 => 
   array (
     'mapid' => '#e-346',
-    'unicode' => 128555,
+    'unicode' => 
+    array (
+      0 => 128555,
+    ),
     'char_name' => 
     array (
       'title' => 'TIRED FACE',
@@ -6967,33 +9724,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.32',
-      'unicode' => 59179,
+      'unicode' => 
+      array (
+        0 => 59179,
+      ),
       'sjis' => 'F9D0',
       'jis' => '7976',
     ),
     'au' => 
     array (
       'number' => '260',
-      'unicode' => 58484,
+      'unicode' => 
+      array (
+        0 => 58484,
+      ),
       'sjis' => 'F64C',
       'jis' => '752D',
     ),
     'softbank' => 
     array (
       'number' => '23',
-      'unicode' => 58374,
+      'unicode' => 
+      array (
+        0 => 58374,
+      ),
       'sjis' => 'FB46',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041222,
+      'unicode' => 
+      array (
+        0 => 1041222,
+      ),
     ),
   ),
   209 => 
   array (
     'mapid' => '#e-347',
-    'unicode' => 128521,
+    'unicode' => 
+    array (
+      0 => 128521,
+    ),
     'char_name' => 
     array (
       'title' => 'WINKING FACE',
@@ -7002,33 +9774,48 @@ Temporary Notes: with open mouth',
     'docomo' => 
     array (
       'number' => 'Exp.30',
-      'unicode' => 59177,
+      'unicode' => 
+      array (
+        0 => 59177,
+      ),
       'sjis' => 'F9CE',
       'jis' => '7875',
     ),
     'au' => 
     array (
       'number' => '348',
-      'unicode' => 58819,
+      'unicode' => 
+      array (
+        0 => 58819,
+      ),
       'sjis' => 'F7F3',
       'jis' => '7875',
     ),
     'softbank' => 
     array (
       'number' => '5',
-      'unicode' => 58373,
+      'unicode' => 
+      array (
+        0 => 58373,
+      ),
       'sjis' => 'FB45',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041223,
+      'unicode' => 
+      array (
+        0 => 1041223,
+      ),
     ),
   ),
   210 => 
   array (
     'mapid' => '#e-348',
-    'unicode' => 128570,
+    'unicode' => 
+    array (
+      0 => 128570,
+    ),
     'char_name' => 
     array (
       'title' => 'SMILING CAT FACE WITH OPEN MOUTH',
@@ -7038,33 +9825,48 @@ Temporary Notes: Happy',
     'docomo' => 
     array (
       'number' => '140',
-      'unicode' => 59120,
+      'unicode' => 
+      array (
+        0 => 59120,
+      ),
       'sjis' => 'F995',
       'jis' => '752A',
     ),
     'au' => 
     array (
       'number' => '783',
-      'unicode' => 60257,
+      'unicode' => 
+      array (
+        0 => 60257,
+      ),
       'sjis' => 'F465',
       'jis' => '7B46',
     ),
     'softbank' => 
     array (
       'number' => '3',
-      'unicode' => 57431,
+      'unicode' => 
+      array (
+        0 => 57431,
+      ),
       'sjis' => 'F998',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041224,
+      'unicode' => 
+      array (
+        0 => 1041224,
+      ),
     ),
   ),
   211 => 
   array (
     'mapid' => '#e-349',
-    'unicode' => 128568,
+    'unicode' => 
+    array (
+      0 => 128568,
+    ),
     'char_name' => 
     array (
       'title' => 'GRINNING CAT FACE WITH SMILING EYES',
@@ -7074,33 +9876,48 @@ Temporary Notes: Forms a pair with e-333. Hee hee hee',
     'docomo' => 
     array (
       'number' => 'Exp.72',
-      'unicode' => 59219,
+      'unicode' => 
+      array (
+        0 => 59219,
+      ),
       'sjis' => 'F9F8',
       'jis' => '7B65',
     ),
     'au' => 
     array (
       'number' => '813',
-      'unicode' => 60287,
+      'unicode' => 
+      array (
+        0 => 60287,
+      ),
       'sjis' => 'F484',
       'jis' => '7B64',
     ),
     'softbank' => 
     array (
       'number' => '11',
-      'unicode' => 58372,
+      'unicode' => 
+      array (
+        0 => 58372,
+      ),
       'sjis' => 'FB44',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041225,
+      'unicode' => 
+      array (
+        0 => 1041225,
+      ),
     ),
   ),
   212 => 
   array (
     'mapid' => '#e-34A',
-    'unicode' => 128569,
+    'unicode' => 
+    array (
+      0 => 128569,
+    ),
     'char_name' => 
     array (
       'title' => 'CAT FACE WITH TEARS OF JOY',
@@ -7110,33 +9927,48 @@ Temporary Notes: Forms a pair with e-334. Tears of joy',
     'docomo' => 
     array (
       'number' => 'Exp.31',
-      'unicode' => 59178,
+      'unicode' => 
+      array (
+        0 => 59178,
+      ),
       'sjis' => 'F9CF',
       'jis' => '7E35',
     ),
     'au' => 
     array (
       'number' => '785',
-      'unicode' => 60259,
+      'unicode' => 
+      array (
+        0 => 60259,
+      ),
       'sjis' => 'F467',
       'jis' => '7B48',
     ),
     'softbank' => 
     array (
       'number' => '26',
-      'unicode' => 58386,
+      'unicode' => 
+      array (
+        0 => 58386,
+      ),
       'sjis' => 'FB52',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041226,
+      'unicode' => 
+      array (
+        0 => 1041226,
+      ),
     ),
   ),
   213 => 
   array (
     'mapid' => '#e-34B',
-    'unicode' => 128573,
+    'unicode' => 
+    array (
+      0 => 128573,
+    ),
     'char_name' => 
     array (
       'title' => 'KISSING CAT FACE WITH CLOSED EYES',
@@ -7146,33 +9978,48 @@ Temporary Notes: Forms a pair with e-32D. Kissing action.',
     'docomo' => 
     array (
       'number' => 'Exp.27',
-      'unicode' => 59174,
+      'unicode' => 
+      array (
+        0 => 59174,
+      ),
       'sjis' => 'F9CB',
       'jis' => '7876',
     ),
     'au' => 
     array (
       'number' => '782',
-      'unicode' => 60256,
+      'unicode' => 
+      array (
+        0 => 60256,
+      ),
       'sjis' => 'F464',
       'jis' => '7B45',
     ),
     'softbank' => 
     array (
       'number' => '7',
-      'unicode' => 58392,
+      'unicode' => 
+      array (
+        0 => 58392,
+      ),
       'sjis' => 'FB58',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041227,
+      'unicode' => 
+      array (
+        0 => 1041227,
+      ),
     ),
   ),
   214 => 
   array (
     'mapid' => '#e-34C',
-    'unicode' => 128571,
+    'unicode' => 
+    array (
+      0 => 128571,
+    ),
     'char_name' => 
     array (
       'title' => 'SMILING CAT FACE WITH HEART-SHAPED EYES',
@@ -7182,33 +10029,48 @@ Temporary Notes: Forms a pair with e-327. Heart shaped eyes (in love)',
     'docomo' => 
     array (
       'number' => 'Exp.27',
-      'unicode' => 59174,
+      'unicode' => 
+      array (
+        0 => 59174,
+      ),
       'sjis' => 'F9CB',
       'jis' => '7876',
     ),
     'au' => 
     array (
       'number' => '787',
-      'unicode' => 60261,
+      'unicode' => 
+      array (
+        0 => 60261,
+      ),
       'sjis' => 'F469',
       'jis' => '7B4A',
     ),
     'softbank' => 
     array (
       'number' => '6',
-      'unicode' => 57606,
+      'unicode' => 
+      array (
+        0 => 57606,
+      ),
       'sjis' => 'F746',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041228,
+      'unicode' => 
+      array (
+        0 => 1041228,
+      ),
     ),
   ),
   215 => 
   array (
     'mapid' => '#e-34D',
-    'unicode' => 128575,
+    'unicode' => 
+    array (
+      0 => 128575,
+    ),
     'char_name' => 
     array (
       'title' => 'CRYING CAT FACE',
@@ -7217,33 +10079,48 @@ Temporary Notes: Forms a pair with e-327. Heart shaped eyes (in love)',
     'docomo' => 
     array (
       'number' => 'Exp.35',
-      'unicode' => 59182,
+      'unicode' => 
+      array (
+        0 => 59182,
+      ),
       'sjis' => 'F9D3',
       'jis' => '7B4E',
     ),
     'au' => 
     array (
       'number' => '790',
-      'unicode' => 60264,
+      'unicode' => 
+      array (
+        0 => 60264,
+      ),
       'sjis' => 'F46C',
       'jis' => '7B4D',
     ),
     'softbank' => 
     array (
       'number' => '24',
-      'unicode' => 58387,
+      'unicode' => 
+      array (
+        0 => 58387,
+      ),
       'sjis' => 'FB53',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041229,
+      'unicode' => 
+      array (
+        0 => 1041229,
+      ),
     ),
   ),
   216 => 
   array (
     'mapid' => '#e-34E',
-    'unicode' => 128574,
+    'unicode' => 
+    array (
+      0 => 128574,
+    ),
     'char_name' => 
     array (
       'title' => 'POUTING CAT FACE',
@@ -7252,33 +10129,48 @@ Temporary Notes: Forms a pair with e-327. Heart shaped eyes (in love)',
     'docomo' => 
     array (
       'number' => 'Exp.25',
-      'unicode' => 59172,
+      'unicode' => 
+      array (
+        0 => 59172,
+      ),
       'sjis' => 'F9C9',
       'jis' => '7B42',
     ),
     'au' => 
     array (
       'number' => '780',
-      'unicode' => 60254,
+      'unicode' => 
+      array (
+        0 => 60254,
+      ),
       'sjis' => 'F462',
       'jis' => '7B43',
     ),
     'softbank' => 
     array (
       'number' => '30',
-      'unicode' => 58390,
+      'unicode' => 
+      array (
+        0 => 58390,
+      ),
       'sjis' => 'FB56',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041230,
+      'unicode' => 
+      array (
+        0 => 1041230,
+      ),
     ),
   ),
   217 => 
   array (
     'mapid' => '#e-34F',
-    'unicode' => 128572,
+    'unicode' => 
+    array (
+      0 => 128572,
+    ),
     'char_name' => 
     array (
       'title' => 'CAT FACE WITH WRY SMILE',
@@ -7288,33 +10180,48 @@ Temporary Notes: Smart confidence',
     'docomo' => 
     array (
       'number' => 'Exp.72',
-      'unicode' => 59219,
+      'unicode' => 
+      array (
+        0 => 59219,
+      ),
       'sjis' => 'F9F8',
       'jis' => '7B65',
     ),
     'au' => 
     array (
       'number' => '792',
-      'unicode' => 60266,
+      'unicode' => 
+      array (
+        0 => 60266,
+      ),
       'sjis' => 'F46E',
       'jis' => '7B4F',
     ),
     'softbank' => 
     array (
       'number' => '11',
-      'unicode' => 58372,
+      'unicode' => 
+      array (
+        0 => 58372,
+      ),
       'sjis' => 'FB44',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041231,
+      'unicode' => 
+      array (
+        0 => 1041231,
+      ),
     ),
   ),
   218 => 
   array (
     'mapid' => '#e-350',
-    'unicode' => 128576,
+    'unicode' => 
+    array (
+      0 => 128576,
+    ),
     'char_name' => 
     array (
       'title' => 'WEARY CAT FACE',
@@ -7324,33 +10231,48 @@ Temporary Notes: Forms a pair with e-321.',
     'docomo' => 
     array (
       'number' => '143',
-      'unicode' => 59123,
+      'unicode' => 
+      array (
+        0 => 59123,
+      ),
       'sjis' => 'F998',
       'jis' => '7977',
     ),
     'au' => 
     array (
       'number' => '788',
-      'unicode' => 60262,
+      'unicode' => 
+      array (
+        0 => 60262,
+      ),
       'sjis' => 'F46A',
       'jis' => '7B4B',
     ),
     'softbank' => 
     array (
       'number' => '17',
-      'unicode' => 58371,
+      'unicode' => 
+      array (
+        0 => 58371,
+      ),
       'sjis' => 'FB43',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041232,
+      'unicode' => 
+      array (
+        0 => 1041232,
+      ),
     ),
   ),
   219 => 
   array (
     'mapid' => '#e-351',
-    'unicode' => 128581,
+    'unicode' => 
+    array (
+      0 => 128581,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE WITH NO GOOD GESTURE',
@@ -7359,33 +10281,48 @@ Temporary Notes: Forms a pair with e-321.',
     'docomo' => 
     array (
       'number' => 'Exp.36',
-      'unicode' => 59183,
+      'unicode' => 
+      array (
+        0 => 59183,
+      ),
       'sjis' => 'F9D4',
       'jis' => '7E36',
     ),
     'au' => 
     array (
       'number' => '464',
-      'unicode' => 60119,
+      'unicode' => 
+      array (
+        0 => 60119,
+      ),
       'sjis' => 'F3AB',
       'jis' => '7A2D',
     ),
     'softbank' => 
     array (
       'number' => '71',
-      'unicode' => 58403,
+      'unicode' => 
+      array (
+        0 => 58403,
+      ),
       'sjis' => 'FB63',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041233,
+      'unicode' => 
+      array (
+        0 => 1041233,
+      ),
     ),
   ),
   220 => 
   array (
     'mapid' => '#e-352',
-    'unicode' => 128582,
+    'unicode' => 
+    array (
+      0 => 128582,
+    ),
     'char_name' => 
     array (
       'title' => 'FACE WITH OK GESTURE',
@@ -7394,33 +10331,48 @@ Temporary Notes: Forms a pair with e-321.',
     'docomo' => 
     array (
       'number' => '135',
-      'unicode' => 59147,
+      'unicode' => 
+      array (
+        0 => 59147,
+      ),
       'sjis' => 'F9B0',
       'jis' => '784C',
     ),
     'au' => 
     array (
       'number' => '465',
-      'unicode' => 60120,
+      'unicode' => 
+      array (
+        0 => 60120,
+      ),
       'sjis' => 'F3AC',
       'jis' => '7A2E',
     ),
     'softbank' => 
     array (
       'number' => '70',
-      'unicode' => 58404,
+      'unicode' => 
+      array (
+        0 => 58404,
+      ),
       'sjis' => 'FB64',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041234,
+      'unicode' => 
+      array (
+        0 => 1041234,
+      ),
     ),
   ),
   221 => 
   array (
     'mapid' => '#e-353',
-    'unicode' => 128583,
+    'unicode' => 
+    array (
+      0 => 128583,
+    ),
     'char_name' => 
     array (
       'title' => 'PERSON BOWING DEEPLY',
@@ -7433,26 +10385,38 @@ Temporary Notes: Forms a pair with e-321.',
     'au' => 
     array (
       'number' => '466',
-      'unicode' => 60121,
+      'unicode' => 
+      array (
+        0 => 60121,
+      ),
       'sjis' => 'F3AD',
       'jis' => '7A2F',
     ),
     'softbank' => 
     array (
       'number' => '72',
-      'unicode' => 58406,
+      'unicode' => 
+      array (
+        0 => 58406,
+      ),
       'sjis' => 'FB66',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041235,
+      'unicode' => 
+      array (
+        0 => 1041235,
+      ),
     ),
   ),
   222 => 
   array (
     'mapid' => '#e-354',
-    'unicode' => 128584,
+    'unicode' => 
+    array (
+      0 => 128584,
+    ),
     'char_name' => 
     array (
       'title' => 'SEE-NO-EVIL MONKEY',
@@ -7465,7 +10429,10 @@ Temporary Notes: Forms a pair with e-321.',
     'au' => 
     array (
       'number' => '766',
-      'unicode' => 60240,
+      'unicode' => 
+      array (
+        0 => 60240,
+      ),
       'sjis' => 'F454',
       'jis' => '7B35',
     ),
@@ -7475,13 +10442,19 @@ Temporary Notes: Forms a pair with e-321.',
     ),
     'google' => 
     array (
-      'unicode' => 1041236,
+      'unicode' => 
+      array (
+        0 => 1041236,
+      ),
     ),
   ),
   223 => 
   array (
     'mapid' => '#e-355',
-    'unicode' => 128586,
+    'unicode' => 
+    array (
+      0 => 128586,
+    ),
     'char_name' => 
     array (
       'title' => 'SPEAK-NO-EVIL MONKEY',
@@ -7494,7 +10467,10 @@ Temporary Notes: Forms a pair with e-321.',
     'au' => 
     array (
       'number' => '767',
-      'unicode' => 60241,
+      'unicode' => 
+      array (
+        0 => 60241,
+      ),
       'sjis' => 'F455',
       'jis' => '7B36',
     ),
@@ -7504,13 +10480,19 @@ Temporary Notes: Forms a pair with e-321.',
     ),
     'google' => 
     array (
-      'unicode' => 1041237,
+      'unicode' => 
+      array (
+        0 => 1041237,
+      ),
     ),
   ),
   224 => 
   array (
     'mapid' => '#e-356',
-    'unicode' => 128585,
+    'unicode' => 
+    array (
+      0 => 128585,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAR-NO-EVIL MONKEY',
@@ -7523,7 +10505,10 @@ Temporary Notes: Forms a pair with e-321.',
     'au' => 
     array (
       'number' => '768',
-      'unicode' => 60242,
+      'unicode' => 
+      array (
+        0 => 60242,
+      ),
       'sjis' => 'F456',
       'jis' => '7B37',
     ),
@@ -7533,13 +10518,19 @@ Temporary Notes: Forms a pair with e-321.',
     ),
     'google' => 
     array (
-      'unicode' => 1041238,
+      'unicode' => 
+      array (
+        0 => 1041238,
+      ),
     ),
   ),
   225 => 
   array (
     'mapid' => '#e-357',
-    'unicode' => 128587,
+    'unicode' => 
+    array (
+      0 => 128587,
+    ),
     'char_name' => 
     array (
       'title' => 'HAPPY PERSON RAISING ONE HAND',
@@ -7553,26 +10544,38 @@ Temporary Notes: act of raising a hand',
     'au' => 
     array (
       'number' => '819',
-      'unicode' => 60293,
+      'unicode' => 
+      array (
+        0 => 60293,
+      ),
       'sjis' => 'F48A',
       'jis' => '7B6A',
     ),
     'softbank' => 
     array (
       'number' => '53',
-      'unicode' => 57362,
+      'unicode' => 
+      array (
+        0 => 57362,
+      ),
       'sjis' => 'F952',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041239,
+      'unicode' => 
+      array (
+        0 => 1041239,
+      ),
     ),
   ),
   226 => 
   array (
     'mapid' => '#e-358',
-    'unicode' => 128588,
+    'unicode' => 
+    array (
+      0 => 128588,
+    ),
     'char_name' => 
     array (
       'title' => 'PERSON RAISING BOTH HANDS IN CELEBRATION',
@@ -7587,26 +10590,38 @@ Temporary Notes: banzai, raising both hands',
     'au' => 
     array (
       'number' => '820',
-      'unicode' => 60294,
+      'unicode' => 
+      array (
+        0 => 60294,
+      ),
       'sjis' => 'F48B',
       'jis' => '7B6B',
     ),
     'softbank' => 
     array (
       'number' => '68',
-      'unicode' => 58407,
+      'unicode' => 
+      array (
+        0 => 58407,
+      ),
       'sjis' => 'FB67',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041240,
+      'unicode' => 
+      array (
+        0 => 1041240,
+      ),
     ),
   ),
   227 => 
   array (
     'mapid' => '#e-359',
-    'unicode' => 128589,
+    'unicode' => 
+    array (
+      0 => 128589,
+    ),
     'char_name' => 
     array (
       'title' => 'PERSON FROWNING',
@@ -7615,33 +10630,48 @@ Temporary Notes: banzai, raising both hands',
     'docomo' => 
     array (
       'number' => '143',
-      'unicode' => 59123,
+      'unicode' => 
+      array (
+        0 => 59123,
+      ),
       'sjis' => 'F998',
       'jis' => '7977',
     ),
     'au' => 
     array (
       'number' => '821',
-      'unicode' => 60295,
+      'unicode' => 
+      array (
+        0 => 60295,
+      ),
       'sjis' => 'F48C',
       'jis' => '7B6C',
     ),
     'softbank' => 
     array (
       'number' => '17',
-      'unicode' => 58371,
+      'unicode' => 
+      array (
+        0 => 58371,
+      ),
       'sjis' => 'FB43',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041241,
+      'unicode' => 
+      array (
+        0 => 1041241,
+      ),
     ),
   ),
   228 => 
   array (
     'mapid' => '#e-35A',
-    'unicode' => 128590,
+    'unicode' => 
+    array (
+      0 => 128590,
+    ),
     'char_name' => 
     array (
       'title' => 'PERSON WITH POUTING FACE',
@@ -7650,33 +10680,48 @@ Temporary Notes: banzai, raising both hands',
     'docomo' => 
     array (
       'number' => '141',
-      'unicode' => 59121,
+      'unicode' => 
+      array (
+        0 => 59121,
+      ),
       'sjis' => 'F996',
       'jis' => '752B',
     ),
     'au' => 
     array (
       'number' => '822',
-      'unicode' => 60296,
+      'unicode' => 
+      array (
+        0 => 60296,
+      ),
       'sjis' => 'F48D',
       'jis' => '7B6D',
     ),
     'softbank' => 
     array (
       'number' => '30',
-      'unicode' => 58390,
+      'unicode' => 
+      array (
+        0 => 58390,
+      ),
       'sjis' => 'FB56',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041242,
+      'unicode' => 
+      array (
+        0 => 1041242,
+      ),
     ),
   ),
   229 => 
   array (
     'mapid' => '#e-35B',
-    'unicode' => 128591,
+    'unicode' => 
+    array (
+      0 => 128591,
+    ),
     'char_name' => 
     array (
       'title' => 'PERSON WITH FOLDED HANDS',
@@ -7691,26 +10736,38 @@ Temporary Notes: "Sorry" or "Please"',
     'au' => 
     array (
       'number' => '459',
-      'unicode' => 60114,
+      'unicode' => 
+      array (
+        0 => 60114,
+      ),
       'sjis' => 'F3A6',
       'jis' => '7A28',
     ),
     'softbank' => 
     array (
       'number' => '59',
-      'unicode' => 58397,
+      'unicode' => 
+      array (
+        0 => 58397,
+      ),
       'sjis' => 'FB5D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041243,
+      'unicode' => 
+      array (
+        0 => 1041243,
+      ),
     ),
   ),
   230 => 
   array (
     'mapid' => '#e-4B0',
-    'unicode' => 127968,
+    'unicode' => 
+    array (
+      0 => 127968,
+    ),
     'char_name' => 
     array (
       'title' => 'HOUSE BUILDING',
@@ -7719,33 +10776,48 @@ Temporary Notes: "Sorry" or "Please"',
     'docomo' => 
     array (
       'number' => '38',
-      'unicode' => 58979,
+      'unicode' => 
+      array (
+        0 => 58979,
+      ),
       'sjis' => 'F8C4',
       'jis' => '7564',
     ),
     'au' => 
     array (
       'number' => '112',
-      'unicode' => 58539,
+      'unicode' => 
+      array (
+        0 => 58539,
+      ),
       'sjis' => 'F684',
       'jis' => '7564',
     ),
     'softbank' => 
     array (
       'number' => '321',
-      'unicode' => 57398,
+      'unicode' => 
+      array (
+        0 => 57398,
+      ),
       'sjis' => 'F976',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041584,
+      'unicode' => 
+      array (
+        0 => 1041584,
+      ),
     ),
   ),
   231 => 
   array (
     'mapid' => '#e-4B1',
-    'unicode' => 127969,
+    'unicode' => 
+    array (
+      0 => 127969,
+    ),
     'char_name' => 
     array (
       'title' => 'HOUSE WITH GARDEN',
@@ -7756,33 +10828,48 @@ Temporary Notes: similar to English "home" = "where one belongs to"',
     'docomo' => 
     array (
       'number' => '38',
-      'unicode' => 58979,
+      'unicode' => 
+      array (
+        0 => 58979,
+      ),
       'sjis' => 'F8C4',
       'jis' => '7564',
     ),
     'au' => 
     array (
       'number' => '514',
-      'unicode' => 60169,
+      'unicode' => 
+      array (
+        0 => 60169,
+      ),
       'sjis' => 'F7E0',
       'jis' => '7862',
     ),
     'softbank' => 
     array (
       'number' => '321',
-      'unicode' => 57398,
+      'unicode' => 
+      array (
+        0 => 57398,
+      ),
       'sjis' => 'F976',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041585,
+      'unicode' => 
+      array (
+        0 => 1041585,
+      ),
     ),
   ),
   232 => 
   array (
     'mapid' => '#e-4B2',
-    'unicode' => 127970,
+    'unicode' => 
+    array (
+      0 => 127970,
+    ),
     'char_name' => 
     array (
       'title' => 'OFFICE BUILDING',
@@ -7791,33 +10878,48 @@ Temporary Notes: similar to English "home" = "where one belongs to"',
     'docomo' => 
     array (
       'number' => '39',
-      'unicode' => 58980,
+      'unicode' => 
+      array (
+        0 => 58980,
+      ),
       'sjis' => 'F8C5',
       'jis' => '7566',
     ),
     'au' => 
     array (
       'number' => '156',
-      'unicode' => 58541,
+      'unicode' => 
+      array (
+        0 => 58541,
+      ),
       'sjis' => 'F686',
       'jis' => '7566',
     ),
     'softbank' => 
     array (
       'number' => '322',
-      'unicode' => 57400,
+      'unicode' => 
+      array (
+        0 => 57400,
+      ),
       'sjis' => 'F978',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041586,
+      'unicode' => 
+      array (
+        0 => 1041586,
+      ),
     ),
   ),
   233 => 
   array (
     'mapid' => '#e-4B3',
-    'unicode' => 127971,
+    'unicode' => 
+    array (
+      0 => 127971,
+    ),
     'char_name' => 
     array (
       'title' => 'JAPANESE POST OFFICE',
@@ -7827,33 +10929,48 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'docomo' => 
     array (
       'number' => '40',
-      'unicode' => 58981,
+      'unicode' => 
+      array (
+        0 => 58981,
+      ),
       'sjis' => 'F8C6',
       'jis' => '7932',
     ),
     'au' => 
     array (
       'number' => '375',
-      'unicode' => 58846,
+      'unicode' => 
+      array (
+        0 => 58846,
+      ),
       'sjis' => 'F351',
       'jis' => '7932',
     ),
     'softbank' => 
     array (
       'number' => '325',
-      'unicode' => 57683,
+      'unicode' => 
+      array (
+        0 => 57683,
+      ),
       'sjis' => 'F794',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041587,
+      'unicode' => 
+      array (
+        0 => 1041587,
+      ),
     ),
   ),
   234 => 
   array (
     'mapid' => '#e-4B4',
-    'unicode' => 127973,
+    'unicode' => 
+    array (
+      0 => 127973,
+    ),
     'char_name' => 
     array (
       'title' => 'HOSPITAL',
@@ -7862,33 +10979,48 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'docomo' => 
     array (
       'number' => '41',
-      'unicode' => 58982,
+      'unicode' => 
+      array (
+        0 => 58982,
+      ),
       'sjis' => 'F8C7',
       'jis' => '7933',
     ),
     'au' => 
     array (
       'number' => '376',
-      'unicode' => 58847,
+      'unicode' => 
+      array (
+        0 => 58847,
+      ),
       'sjis' => 'F352',
       'jis' => '7933',
     ),
     'softbank' => 
     array (
       'number' => '328',
-      'unicode' => 57685,
+      'unicode' => 
+      array (
+        0 => 57685,
+      ),
       'sjis' => 'F796',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041588,
+      'unicode' => 
+      array (
+        0 => 1041588,
+      ),
     ),
   ),
   235 => 
   array (
     'mapid' => '#e-4B5',
-    'unicode' => 127974,
+    'unicode' => 
+    array (
+      0 => 127974,
+    ),
     'char_name' => 
     array (
       'title' => 'BANK',
@@ -7897,33 +11029,48 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'docomo' => 
     array (
       'number' => '42',
-      'unicode' => 58983,
+      'unicode' => 
+      array (
+        0 => 58983,
+      ),
       'sjis' => 'F8C8',
       'jis' => '7563',
     ),
     'au' => 
     array (
       'number' => '212',
-      'unicode' => 58538,
+      'unicode' => 
+      array (
+        0 => 58538,
+      ),
       'sjis' => 'F683',
       'jis' => '7563',
     ),
     'softbank' => 
     array (
       'number' => '326',
-      'unicode' => 57677,
+      'unicode' => 
+      array (
+        0 => 57677,
+      ),
       'sjis' => 'F78E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041589,
+      'unicode' => 
+      array (
+        0 => 1041589,
+      ),
     ),
   ),
   236 => 
   array (
     'mapid' => '#e-4B6',
-    'unicode' => 127975,
+    'unicode' => 
+    array (
+      0 => 127975,
+    ),
     'char_name' => 
     array (
       'title' => 'AUTOMATED TELLER MACHINE',
@@ -7933,33 +11080,48 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'docomo' => 
     array (
       'number' => '43',
-      'unicode' => 58984,
+      'unicode' => 
+      array (
+        0 => 58984,
+      ),
       'sjis' => 'F8C9',
       'jis' => '755C',
     ),
     'au' => 
     array (
       'number' => '205',
-      'unicode' => 58531,
+      'unicode' => 
+      array (
+        0 => 58531,
+      ),
       'sjis' => 'F67B',
       'jis' => '755C',
     ),
     'softbank' => 
     array (
       'number' => '327',
-      'unicode' => 57684,
+      'unicode' => 
+      array (
+        0 => 57684,
+      ),
       'sjis' => 'F795',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041590,
+      'unicode' => 
+      array (
+        0 => 1041590,
+      ),
     ),
   ),
   237 => 
   array (
     'mapid' => '#e-4B7',
-    'unicode' => 127976,
+    'unicode' => 
+    array (
+      0 => 127976,
+    ),
     'char_name' => 
     array (
       'title' => 'HOTEL',
@@ -7968,33 +11130,48 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'docomo' => 
     array (
       'number' => '44',
-      'unicode' => 58985,
+      'unicode' => 
+      array (
+        0 => 58985,
+      ),
       'sjis' => 'F8CA',
       'jis' => '7935',
     ),
     'au' => 
     array (
       'number' => '378',
-      'unicode' => 60033,
+      'unicode' => 
+      array (
+        0 => 60033,
+      ),
       'sjis' => 'F354',
       'jis' => '7935',
     ),
     'softbank' => 
     array (
       'number' => '331',
-      'unicode' => 57688,
+      'unicode' => 
+      array (
+        0 => 57688,
+      ),
       'sjis' => 'F799',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041591,
+      'unicode' => 
+      array (
+        0 => 1041591,
+      ),
     ),
   ),
   238 => 
   array (
     'mapid' => '#e-4B9',
-    'unicode' => 127978,
+    'unicode' => 
+    array (
+      0 => 127978,
+    ),
     'char_name' => 
     array (
       'title' => 'CONVENIENCE STORE',
@@ -8003,33 +11180,48 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'docomo' => 
     array (
       'number' => '45',
-      'unicode' => 58986,
+      'unicode' => 
+      array (
+        0 => 58986,
+      ),
       'sjis' => 'F8CB',
       'jis' => '755D',
     ),
     'au' => 
     array (
       'number' => '206',
-      'unicode' => 58532,
+      'unicode' => 
+      array (
+        0 => 58532,
+      ),
       'sjis' => 'F67C',
       'jis' => '755D',
     ),
     'softbank' => 
     array (
       'number' => '329',
-      'unicode' => 57686,
+      'unicode' => 
+      array (
+        0 => 57686,
+      ),
       'sjis' => 'F797',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041593,
+      'unicode' => 
+      array (
+        0 => 1041593,
+      ),
     ),
   ),
   239 => 
   array (
     'mapid' => '#e-4BA',
-    'unicode' => 127979,
+    'unicode' => 
+    array (
+      0 => 127979,
+    ),
     'char_name' => 
     array (
       'title' => 'SCHOOL',
@@ -8038,33 +11230,48 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'docomo' => 
     array (
       'number' => 'Exp.51',
-      'unicode' => 59198,
+      'unicode' => 
+      array (
+        0 => 59198,
+      ),
       'sjis' => 'F9E3',
       'jis' => '7934',
     ),
     'au' => 
     array (
       'number' => '377',
-      'unicode' => 60032,
+      'unicode' => 
+      array (
+        0 => 60032,
+      ),
       'sjis' => 'F353',
       'jis' => '7934',
     ),
     'softbank' => 
     array (
       'number' => '330',
-      'unicode' => 57687,
+      'unicode' => 
+      array (
+        0 => 57687,
+      ),
       'sjis' => 'F798',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041594,
+      'unicode' => 
+      array (
+        0 => 1041594,
+      ),
     ),
   ),
   240 => 
   array (
     'mapid' => '#e-4BB',
-    'unicode' => 9962,
+    'unicode' => 
+    array (
+      0 => 9962,
+    ),
     'char_name' => 
     array (
       'title' => 'CHURCH',
@@ -8077,26 +11284,38 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'au' => 
     array (
       'number' => '340',
-      'unicode' => 58811,
+      'unicode' => 
+      array (
+        0 => 58811,
+      ),
       'sjis' => 'F7EB',
       'jis' => '786D',
     ),
     'softbank' => 
     array (
       'number' => '335',
-      'unicode' => 57399,
+      'unicode' => 
+      array (
+        0 => 57399,
+      ),
       'sjis' => 'F977',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041595,
+      'unicode' => 
+      array (
+        0 => 1041595,
+      ),
     ),
   ),
   241 => 
   array (
     'mapid' => '#e-4BC',
-    'unicode' => 9970,
+    'unicode' => 
+    array (
+      0 => 9970,
+    ),
     'char_name' => 
     array (
       'title' => 'FOUNTAIN',
@@ -8109,26 +11328,38 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'au' => 
     array (
       'number' => '360',
-      'unicode' => 58831,
+      'unicode' => 
+      array (
+        0 => 58831,
+      ),
       'sjis' => 'F342',
       'jis' => '7923',
     ),
     'softbank' => 
     array (
       'number' => '343',
-      'unicode' => 57633,
+      'unicode' => 
+      array (
+        0 => 57633,
+      ),
       'sjis' => 'F761',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041596,
+      'unicode' => 
+      array (
+        0 => 1041596,
+      ),
     ),
   ),
   242 => 
   array (
     'mapid' => '#e-4BD',
-    'unicode' => 127980,
+    'unicode' => 
+    array (
+      0 => 127980,
+    ),
     'char_name' => 
     array (
       'title' => 'DEPARTMENT STORE',
@@ -8141,26 +11372,38 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'au' => 
     array (
       'number' => '495',
-      'unicode' => 60150,
+      'unicode' => 
+      array (
+        0 => 60150,
+      ),
       'sjis' => 'F3CA',
       'jis' => '7A4C',
     ),
     'softbank' => 
     array (
       'number' => '333',
-      'unicode' => 58628,
+      'unicode' => 
+      array (
+        0 => 58628,
+      ),
       'sjis' => 'FBA4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041597,
+      'unicode' => 
+      array (
+        0 => 1041597,
+      ),
     ),
   ),
   243 => 
   array (
     'mapid' => '#e-4BE',
-    'unicode' => 127983,
+    'unicode' => 
+    array (
+      0 => 127983,
+    ),
     'char_name' => 
     array (
       'title' => 'JAPANESE CASTLE',
@@ -8173,26 +11416,38 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'au' => 
     array (
       'number' => '496',
-      'unicode' => 60151,
+      'unicode' => 
+      array (
+        0 => 60151,
+      ),
       'sjis' => 'F3CB',
       'jis' => '7A4D',
     ),
     'softbank' => 
     array (
       'number' => '336',
-      'unicode' => 58629,
+      'unicode' => 
+      array (
+        0 => 58629,
+      ),
       'sjis' => 'FBA5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041598,
+      'unicode' => 
+      array (
+        0 => 1041598,
+      ),
     ),
   ),
   244 => 
   array (
     'mapid' => '#e-4BF',
-    'unicode' => 127984,
+    'unicode' => 
+    array (
+      0 => 127984,
+    ),
     'char_name' => 
     array (
       'title' => 'EUROPEAN CASTLE',
@@ -8205,26 +11460,38 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'au' => 
     array (
       'number' => '497',
-      'unicode' => 60152,
+      'unicode' => 
+      array (
+        0 => 60152,
+      ),
       'sjis' => 'F3CC',
       'jis' => '7A4E',
     ),
     'softbank' => 
     array (
       'number' => '337',
-      'unicode' => 58630,
+      'unicode' => 
+      array (
+        0 => 58630,
+      ),
       'sjis' => 'FBA6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041599,
+      'unicode' => 
+      array (
+        0 => 1041599,
+      ),
     ),
   ),
   245 => 
   array (
     'mapid' => '#e-4C0',
-    'unicode' => 127981,
+    'unicode' => 
+    array (
+      0 => 127981,
+    ),
     'char_name' => 
     array (
       'title' => 'FACTORY',
@@ -8238,26 +11505,38 @@ Temporary Notes: * U+3012 POSTAL MARK = ARIB-9108',
     'au' => 
     array (
       'number' => '498',
-      'unicode' => 60153,
+      'unicode' => 
+      array (
+        0 => 60153,
+      ),
       'sjis' => 'F3CD',
       'jis' => '7A4F',
     ),
     'softbank' => 
     array (
       'number' => '340',
-      'unicode' => 58632,
+      'unicode' => 
+      array (
+        0 => 58632,
+      ),
       'sjis' => 'FBA8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041600,
+      'unicode' => 
+      array (
+        0 => 1041600,
+      ),
     ),
   ),
   246 => 
   array (
     'mapid' => '#e-4C1',
-    'unicode' => 9875,
+    'unicode' => 
+    array (
+      0 => 9875,
+    ),
     'char_name' => 
     array (
       'title' => 'ANCHOR',
@@ -8267,33 +11546,48 @@ Temporary Notes: nautical term, harbor (on maps)',
     'docomo' => 
     array (
       'number' => '36',
-      'unicode' => 58977,
+      'unicode' => 
+      array (
+        0 => 58977,
+      ),
       'sjis' => 'F8C2',
       'jis' => '7936',
     ),
     'au' => 
     array (
       'number' => '211',
-      'unicode' => 58537,
+      'unicode' => 
+      array (
+        0 => 58537,
+      ),
       'sjis' => 'F682',
       'jis' => '7562',
     ),
     'softbank' => 
     array (
       'number' => '210',
-      'unicode' => 57858,
+      'unicode' => 
+      array (
+        0 => 57858,
+      ),
       'sjis' => 'F7A2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041601,
+      'unicode' => 
+      array (
+        0 => 1041601,
+      ),
     ),
   ),
   247 => 
   array (
     'mapid' => '#e-4C2',
-    'unicode' => 127982,
+    'unicode' => 
+    array (
+      0 => 127982,
+    ),
     'char_name' => 
     array (
       'title' => 'IZAKAYA LANTERN',
@@ -8303,33 +11597,48 @@ Temporary Notes: Japanese izakaya restaurant for drinking, characteristic red la
     'docomo' => 
     array (
       'number' => 'Exp.64',
-      'unicode' => 59211,
+      'unicode' => 
+      array (
+        0 => 59211,
+      ),
       'sjis' => 'F9F0',
       'jis' => '794B',
     ),
     'au' => 
     array (
       'number' => '225',
-      'unicode' => 58557,
+      'unicode' => 
+      array (
+        0 => 58557,
+      ),
       'sjis' => 'F696',
       'jis' => '7576',
     ),
     'softbank' => 
     array (
       'number' => '169',
-      'unicode' => 58123,
+      'unicode' => 
+      array (
+        0 => 58123,
+      ),
       'sjis' => 'F9AB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041602,
+      'unicode' => 
+      array (
+        0 => 1041602,
+      ),
     ),
   ),
   248 => 
   array (
     'mapid' => '#e-4C3',
-    'unicode' => 128507,
+    'unicode' => 
+    array (
+      0 => 128507,
+    ),
     'char_name' => 
     array (
       'title' => 'MOUNT FUJI',
@@ -8338,33 +11647,48 @@ Temporary Notes: Japanese izakaya restaurant for drinking, characteristic red la
     'docomo' => 
     array (
       'number' => 'Exp.53',
-      'unicode' => 59200,
+      'unicode' => 
+      array (
+        0 => 59200,
+      ),
       'sjis' => 'F9E5',
       'jis' => '786F',
     ),
     'au' => 
     array (
       'number' => '342',
-      'unicode' => 58813,
+      'unicode' => 
+      array (
+        0 => 58813,
+      ),
       'sjis' => 'F7ED',
       'jis' => '786F',
     ),
     'softbank' => 
     array (
       'number' => '90',
-      'unicode' => 57403,
+      'unicode' => 
+      array (
+        0 => 57403,
+      ),
       'sjis' => 'F97B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041603,
+      'unicode' => 
+      array (
+        0 => 1041603,
+      ),
     ),
   ),
   249 => 
   array (
     'mapid' => '#e-4C4',
-    'unicode' => 128508,
+    'unicode' => 
+    array (
+      0 => 128508,
+    ),
     'char_name' => 
     array (
       'title' => 'TOKYO TOWER',
@@ -8377,26 +11701,38 @@ Temporary Notes: Japanese izakaya restaurant for drinking, characteristic red la
     'au' => 
     array (
       'number' => '228',
-      'unicode' => 58560,
+      'unicode' => 
+      array (
+        0 => 58560,
+      ),
       'sjis' => 'F699',
       'jis' => '7579',
     ),
     'softbank' => 
     array (
       'number' => '338',
-      'unicode' => 58633,
+      'unicode' => 
+      array (
+        0 => 58633,
+      ),
       'sjis' => 'FBA9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041604,
+      'unicode' => 
+      array (
+        0 => 1041604,
+      ),
     ),
   ),
   250 => 
   array (
     'mapid' => '#e-4C6',
-    'unicode' => 128509,
+    'unicode' => 
+    array (
+      0 => 128509,
+    ),
     'char_name' => 
     array (
       'title' => 'STATUE OF LIBERTY',
@@ -8413,19 +11749,28 @@ Temporary Notes: Japanese izakaya restaurant for drinking, characteristic red la
     'softbank' => 
     array (
       'number' => '294',
-      'unicode' => 58653,
+      'unicode' => 
+      array (
+        0 => 58653,
+      ),
       'sjis' => 'FBBD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041606,
+      'unicode' => 
+      array (
+        0 => 1041606,
+      ),
     ),
   ),
   251 => 
   array (
     'mapid' => '#e-4C7',
-    'unicode' => 128510,
+    'unicode' => 
+    array (
+      0 => 128510,
+    ),
     'char_name' => 
     array (
       'title' => 'SILHOUETTE OF JAPAN',
@@ -8438,7 +11783,10 @@ Temporary Notes: Japanese izakaya restaurant for drinking, characteristic red la
     'au' => 
     array (
       'number' => '214',
-      'unicode' => 58738,
+      'unicode' => 
+      array (
+        0 => 58738,
+      ),
       'sjis' => 'F78F',
       'jis' => '776F',
     ),
@@ -8448,13 +11796,19 @@ Temporary Notes: Japanese izakaya restaurant for drinking, characteristic red la
     ),
     'google' => 
     array (
-      'unicode' => 1041607,
+      'unicode' => 
+      array (
+        0 => 1041607,
+      ),
     ),
   ),
   252 => 
   array (
     'mapid' => '#e-4C8',
-    'unicode' => 128511,
+    'unicode' => 
+    array (
+      0 => 128511,
+    ),
     'char_name' => 
     array (
       'title' => 'MOYAI',
@@ -8469,7 +11823,10 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'au' => 
     array (
       'number' => '794',
-      'unicode' => 60268,
+      'unicode' => 
+      array (
+        0 => 60268,
+      ),
       'sjis' => 'F470',
       'jis' => '7B51',
     ),
@@ -8479,13 +11836,19 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     ),
     'google' => 
     array (
-      'unicode' => 1041608,
+      'unicode' => 
+      array (
+        0 => 1041608,
+      ),
     ),
   ),
   253 => 
   array (
     'mapid' => '#e-4CC',
-    'unicode' => 128094,
+    'unicode' => 
+    array (
+      0 => 128094,
+    ),
     'char_name' => 
     array (
       'title' => 'MANS SHOE',
@@ -8494,33 +11857,48 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => '92',
-      'unicode' => 59033,
+      'unicode' => 
+      array (
+        0 => 59033,
+      ),
       'sjis' => 'F8FA',
       'jis' => '7A6E',
     ),
     'au' => 
     array (
       'number' => '336',
-      'unicode' => 58807,
+      'unicode' => 
+      array (
+        0 => 58807,
+      ),
       'sjis' => 'F7E7',
       'jis' => '7869',
     ),
     'softbank' => 
     array (
       'number' => '219',
-      'unicode' => 57351,
+      'unicode' => 
+      array (
+        0 => 57351,
+      ),
       'sjis' => 'F947',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041612,
+      'unicode' => 
+      array (
+        0 => 1041612,
+      ),
     ),
   ),
   254 => 
   array (
     'mapid' => '#e-4CD',
-    'unicode' => 128095,
+    'unicode' => 
+    array (
+      0 => 128095,
+    ),
     'char_name' => 
     array (
       'title' => 'ATHLETIC SHOE',
@@ -8530,33 +11908,48 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => '92',
-      'unicode' => 59033,
+      'unicode' => 
+      array (
+        0 => 59033,
+      ),
       'sjis' => 'F8FA',
       'jis' => '7A6E',
     ),
     'au' => 
     array (
       'number' => '729',
-      'unicode' => 60203,
+      'unicode' => 
+      array (
+        0 => 60203,
+      ),
       'sjis' => 'F3EC',
       'jis' => '7A6E',
     ),
     'softbank' => 
     array (
       'number' => '219',
-      'unicode' => 57351,
+      'unicode' => 
+      array (
+        0 => 57351,
+      ),
       'sjis' => 'F947',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041613,
+      'unicode' => 
+      array (
+        0 => 1041613,
+      ),
     ),
   ),
   255 => 
   array (
     'mapid' => '#e-4D6',
-    'unicode' => 128096,
+    'unicode' => 
+    array (
+      0 => 128096,
+    ),
     'char_name' => 
     array (
       'title' => 'HIGH-HEELED SHOE',
@@ -8565,33 +11958,48 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => '55',
-      'unicode' => 58996,
+      'unicode' => 
+      array (
+        0 => 58996,
+      ),
       'sjis' => 'F8D5',
       'jis' => '7675',
     ),
     'au' => 
     array (
       'number' => '124',
-      'unicode' => 58650,
+      'unicode' => 
+      array (
+        0 => 58650,
+      ),
       'sjis' => 'F6F3',
       'jis' => '7675',
     ),
     'softbank' => 
     array (
       'number' => '220',
-      'unicode' => 57662,
+      'unicode' => 
+      array (
+        0 => 57662,
+      ),
       'sjis' => 'F77E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041622,
+      'unicode' => 
+      array (
+        0 => 1041622,
+      ),
     ),
   ),
   256 => 
   array (
     'mapid' => '#e-4D7',
-    'unicode' => 128097,
+    'unicode' => 
+    array (
+      0 => 128097,
+    ),
     'char_name' => 
     array (
       'title' => 'WOMANS SANDAL',
@@ -8600,33 +12008,48 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => '55',
-      'unicode' => 58996,
+      'unicode' => 
+      array (
+        0 => 58996,
+      ),
       'sjis' => 'F8D5',
       'jis' => '7675',
     ),
     'au' => 
     array (
       'number' => '124',
-      'unicode' => 58650,
+      'unicode' => 
+      array (
+        0 => 58650,
+      ),
       'sjis' => 'F6F3',
       'jis' => '7675',
     ),
     'softbank' => 
     array (
       'number' => '221',
-      'unicode' => 58138,
+      'unicode' => 
+      array (
+        0 => 58138,
+      ),
       'sjis' => 'F9BA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041623,
+      'unicode' => 
+      array (
+        0 => 1041623,
+      ),
     ),
   ),
   257 => 
   array (
     'mapid' => '#e-4D8',
-    'unicode' => 128098,
+    'unicode' => 
+    array (
+      0 => 128098,
+    ),
     'char_name' => 
     array (
       'title' => 'WOMANS BOOTS',
@@ -8639,26 +12062,38 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'au' => 
     array (
       'number' => '408',
-      'unicode' => 60063,
+      'unicode' => 
+      array (
+        0 => 60063,
+      ),
       'sjis' => 'F372',
       'jis' => '7953',
     ),
     'softbank' => 
     array (
       'number' => '222',
-      'unicode' => 58139,
+      'unicode' => 
+      array (
+        0 => 58139,
+      ),
       'sjis' => 'F9BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041624,
+      'unicode' => 
+      array (
+        0 => 1041624,
+      ),
     ),
   ),
   258 => 
   array (
     'mapid' => '#e-553',
-    'unicode' => 128099,
+    'unicode' => 
+    array (
+      0 => 128099,
+    ),
     'char_name' => 
     array (
       'title' => 'FOOTPRINTS',
@@ -8667,33 +12102,48 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => '91',
-      'unicode' => 59032,
+      'unicode' => 
+      array (
+        0 => 59032,
+      ),
       'sjis' => 'F8F9',
       'jis' => '7A6D',
     ),
     'au' => 
     array (
       'number' => '728',
-      'unicode' => 60202,
+      'unicode' => 
+      array (
+        0 => 60202,
+      ),
       'sjis' => 'F3EB',
       'jis' => '7A6D',
     ),
     'softbank' => 
     array (
       'number' => '73',
-      'unicode' => 58678,
+      'unicode' => 
+      array (
+        0 => 58678,
+      ),
       'sjis' => 'FBD6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041747,
+      'unicode' => 
+      array (
+        0 => 1041747,
+      ),
     ),
   ),
   259 => 
   array (
     'mapid' => '#e-4CE',
-    'unicode' => 128083,
+    'unicode' => 
+    array (
+      0 => 128083,
+    ),
     'char_name' => 
     array (
       'title' => 'EYEGLASSES',
@@ -8702,14 +12152,20 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => '93',
-      'unicode' => 59034,
+      'unicode' => 
+      array (
+        0 => 59034,
+      ),
       'sjis' => 'F8FB',
       'jis' => '7659',
     ),
     'au' => 
     array (
       'number' => '116',
-      'unicode' => 58622,
+      'unicode' => 
+      array (
+        0 => 58622,
+      ),
       'sjis' => 'F6D7',
       'jis' => '7659',
     ),
@@ -8719,13 +12175,19 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     ),
     'google' => 
     array (
-      'unicode' => 1041614,
+      'unicode' => 
+      array (
+        0 => 1041614,
+      ),
     ),
   ),
   260 => 
   array (
     'mapid' => '#e-4CF',
-    'unicode' => 128085,
+    'unicode' => 
+    array (
+      0 => 128085,
+    ),
     'char_name' => 
     array (
       'title' => 'T-SHIRT',
@@ -8734,33 +12196,48 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => 'Exp.3',
-      'unicode' => 59150,
+      'unicode' => 
+      array (
+        0 => 59150,
+      ),
       'sjis' => 'F9B3',
       'jis' => '7868',
     ),
     'au' => 
     array (
       'number' => '335',
-      'unicode' => 58806,
+      'unicode' => 
+      array (
+        0 => 58806,
+      ),
       'sjis' => 'F7E6',
       'jis' => '7868',
     ),
     'softbank' => 
     array (
       'number' => '214',
-      'unicode' => 57350,
+      'unicode' => 
+      array (
+        0 => 57350,
+      ),
       'sjis' => 'F946',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041615,
+      'unicode' => 
+      array (
+        0 => 1041615,
+      ),
     ),
   ),
   261 => 
   array (
     'mapid' => '#e-4D0',
-    'unicode' => 128086,
+    'unicode' => 
+    array (
+      0 => 128086,
+    ),
     'char_name' => 
     array (
       'title' => 'JEANS',
@@ -8769,14 +12246,20 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => 'Exp.6',
-      'unicode' => 59153,
+      'unicode' => 
+      array (
+        0 => 59153,
+      ),
       'sjis' => 'F9B6',
       'jis' => '7B5C',
     ),
     'au' => 
     array (
       'number' => '805',
-      'unicode' => 60279,
+      'unicode' => 
+      array (
+        0 => 60279,
+      ),
       'sjis' => 'F47B',
       'jis' => '7B5C',
     ),
@@ -8786,13 +12269,19 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     ),
     'google' => 
     array (
-      'unicode' => 1041616,
+      'unicode' => 
+      array (
+        0 => 1041616,
+      ),
     ),
   ),
   262 => 
   array (
     'mapid' => '#e-4D1',
-    'unicode' => 128081,
+    'unicode' => 
+    array (
+      0 => 128081,
+    ),
     'char_name' => 
     array (
       'title' => 'CROWN',
@@ -8801,33 +12290,48 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => 'Exp.15',
-      'unicode' => 59162,
+      'unicode' => 
+      array (
+        0 => 59162,
+      ),
       'sjis' => 'F9BF',
       'jis' => '787B',
     ),
     'au' => 
     array (
       'number' => '354',
-      'unicode' => 58825,
+      'unicode' => 
+      array (
+        0 => 58825,
+      ),
       'sjis' => 'F7F9',
       'jis' => '787B',
     ),
     'softbank' => 
     array (
       'number' => '140',
-      'unicode' => 57614,
+      'unicode' => 
+      array (
+        0 => 57614,
+      ),
       'sjis' => 'F74E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041617,
+      'unicode' => 
+      array (
+        0 => 1041617,
+      ),
     ),
   ),
   263 => 
   array (
     'mapid' => '#e-4D3',
-    'unicode' => 128084,
+    'unicode' => 
+    array (
+      0 => 128084,
+    ),
     'char_name' => 
     array (
       'title' => 'NECKTIE',
@@ -8840,26 +12344,38 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'au' => 
     array (
       'number' => '396',
-      'unicode' => 60051,
+      'unicode' => 
+      array (
+        0 => 60051,
+      ),
       'sjis' => 'F366',
       'jis' => '7947',
     ),
     'softbank' => 
     array (
       'number' => '218',
-      'unicode' => 58114,
+      'unicode' => 
+      array (
+        0 => 58114,
+      ),
       'sjis' => 'F9A2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041619,
+      'unicode' => 
+      array (
+        0 => 1041619,
+      ),
     ),
   ),
   264 => 
   array (
     'mapid' => '#e-4D4',
-    'unicode' => 128082,
+    'unicode' => 
+    array (
+      0 => 128082,
+    ),
     'char_name' => 
     array (
       'title' => 'WOMANS HAT',
@@ -8872,26 +12388,38 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'au' => 
     array (
       'number' => '407',
-      'unicode' => 60062,
+      'unicode' => 
+      array (
+        0 => 60062,
+      ),
       'sjis' => 'F371',
       'jis' => '7952',
     ),
     'softbank' => 
     array (
       'number' => '225',
-      'unicode' => 58136,
+      'unicode' => 
+      array (
+        0 => 58136,
+      ),
       'sjis' => 'F9B8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041620,
+      'unicode' => 
+      array (
+        0 => 1041620,
+      ),
     ),
   ),
   265 => 
   array (
     'mapid' => '#e-4D5',
-    'unicode' => 128087,
+    'unicode' => 
+    array (
+      0 => 128087,
+    ),
     'char_name' => 
     array (
       'title' => 'DRESS',
@@ -8904,26 +12432,38 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'au' => 
     array (
       'number' => '793',
-      'unicode' => 60267,
+      'unicode' => 
+      array (
+        0 => 60267,
+      ),
       'sjis' => 'F46F',
       'jis' => '7B50',
     ),
     'softbank' => 
     array (
       'number' => '215',
-      'unicode' => 58137,
+      'unicode' => 
+      array (
+        0 => 58137,
+      ),
       'sjis' => 'F9B9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041621,
+      'unicode' => 
+      array (
+        0 => 1041621,
+      ),
     ),
   ),
   266 => 
   array (
     'mapid' => '#e-4D9',
-    'unicode' => 128088,
+    'unicode' => 
+    array (
+      0 => 128088,
+    ),
     'char_name' => 
     array (
       'title' => 'KIMONO',
@@ -8936,26 +12476,38 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'au' => 
     array (
       'number' => '412',
-      'unicode' => 60067,
+      'unicode' => 
+      array (
+        0 => 60067,
+      ),
       'sjis' => 'F376',
       'jis' => '7957',
     ),
     'softbank' => 
     array (
       'number' => '216',
-      'unicode' => 58145,
+      'unicode' => 
+      array (
+        0 => 58145,
+      ),
       'sjis' => 'F9C1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041625,
+      'unicode' => 
+      array (
+        0 => 1041625,
+      ),
     ),
   ),
   267 => 
   array (
     'mapid' => '#e-4DA',
-    'unicode' => 128089,
+    'unicode' => 
+    array (
+      0 => 128089,
+    ),
     'char_name' => 
     array (
       'title' => 'BIKINI',
@@ -8968,26 +12520,38 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'au' => 
     array (
       'number' => '413',
-      'unicode' => 60068,
+      'unicode' => 
+      array (
+        0 => 60068,
+      ),
       'sjis' => 'F377',
       'jis' => '7958',
     ),
     'softbank' => 
     array (
       'number' => '217',
-      'unicode' => 58146,
+      'unicode' => 
+      array (
+        0 => 58146,
+      ),
       'sjis' => 'F9C2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041626,
+      'unicode' => 
+      array (
+        0 => 1041626,
+      ),
     ),
   ),
   268 => 
   array (
     'mapid' => '#e-4DB',
-    'unicode' => 128090,
+    'unicode' => 
+    array (
+      0 => 128090,
+    ),
     'char_name' => 
     array (
       'title' => 'WOMANS CLOTHES',
@@ -8996,33 +12560,48 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => 'Exp.3',
-      'unicode' => 59150,
+      'unicode' => 
+      array (
+        0 => 59150,
+      ),
       'sjis' => 'F9B3',
       'jis' => '7868',
     ),
     'au' => 
     array (
       'number' => '301',
-      'unicode' => 58637,
+      'unicode' => 
+      array (
+        0 => 58637,
+      ),
       'sjis' => 'F6E6',
       'jis' => '7668',
     ),
     'softbank' => 
     array (
       'number' => '214',
-      'unicode' => 57350,
+      'unicode' => 
+      array (
+        0 => 57350,
+      ),
       'sjis' => 'F946',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041627,
+      'unicode' => 
+      array (
+        0 => 1041627,
+      ),
     ),
   ),
   269 => 
   array (
     'mapid' => '#e-4DC',
-    'unicode' => 128091,
+    'unicode' => 
+    array (
+      0 => 128091,
+    ),
     'char_name' => 
     array (
       'title' => 'PURSE',
@@ -9031,14 +12610,20 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => 'Exp.4',
-      'unicode' => 59151,
+      'unicode' => 
+      array (
+        0 => 59151,
+      ),
       'sjis' => 'F9B4',
       'jis' => '765F',
     ),
     'au' => 
     array (
       'number' => '290',
-      'unicode' => 58628,
+      'unicode' => 
+      array (
+        0 => 58628,
+      ),
       'sjis' => 'F6DD',
       'jis' => '765F',
     ),
@@ -9048,13 +12633,19 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     ),
     'google' => 
     array (
-      'unicode' => 1041628,
+      'unicode' => 
+      array (
+        0 => 1041628,
+      ),
     ),
   ),
   270 => 
   array (
     'mapid' => '#e-4F0',
-    'unicode' => 128092,
+    'unicode' => 
+    array (
+      0 => 128092,
+    ),
     'char_name' => 
     array (
       'title' => 'HANDBAG',
@@ -9063,33 +12654,48 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => '69',
-      'unicode' => 59010,
+      'unicode' => 
+      array (
+        0 => 59010,
+      ),
       'sjis' => 'F8E3',
       'jis' => '7555',
     ),
     'au' => 
     array (
       'number' => '83',
-      'unicode' => 58524,
+      'unicode' => 
+      array (
+        0 => 58524,
+      ),
       'sjis' => 'F674',
       'jis' => '7555',
     ),
     'softbank' => 
     array (
       'number' => '226',
-      'unicode' => 58147,
+      'unicode' => 
+      array (
+        0 => 58147,
+      ),
       'sjis' => 'F9C3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041648,
+      'unicode' => 
+      array (
+        0 => 1041648,
+      ),
     ),
   ),
   271 => 
   array (
     'mapid' => '#e-4F1',
-    'unicode' => 128093,
+    'unicode' => 
+    array (
+      0 => 128093,
+    ),
     'char_name' => 
     array (
       'title' => 'POUCH',
@@ -9098,7 +12704,10 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     'docomo' => 
     array (
       'number' => '168',
-      'unicode' => 59053,
+      'unicode' => 
+      array (
+        0 => 59053,
+      ),
       'sjis' => 'F951',
       'jis' => '7E2B',
     ),
@@ -9112,13 +12721,19 @@ Temporary Notes: Japanese stone statue like Moai on Easter Island, famous one in
     ),
     'google' => 
     array (
-      'unicode' => 1041649,
+      'unicode' => 
+      array (
+        0 => 1041649,
+      ),
     ),
   ),
   272 => 
   array (
     'mapid' => '#e-4DD',
-    'unicode' => 128176,
+    'unicode' => 
+    array (
+      0 => 128176,
+    ),
     'char_name' => 
     array (
       'title' => 'MONEY BAG',
@@ -9128,33 +12743,48 @@ Temporary Notes: a bag with a dollar or yen sign',
     'docomo' => 
     array (
       'number' => 'Exp.10',
-      'unicode' => 59157,
+      'unicode' => 
+      array (
+        0 => 59157,
+      ),
       'sjis' => 'F9BA',
       'jis' => '7622',
     ),
     'au' => 
     array (
       'number' => '233',
-      'unicode' => 58567,
+      'unicode' => 
+      array (
+        0 => 58567,
+      ),
       'sjis' => 'F6A0',
       'jis' => '7622',
     ),
     'softbank' => 
     array (
       'number' => '235',
-      'unicode' => 57647,
+      'unicode' => 
+      array (
+        0 => 57647,
+      ),
       'sjis' => 'F76F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041629,
+      'unicode' => 
+      array (
+        0 => 1041629,
+      ),
     ),
   ),
   273 => 
   array (
     'mapid' => '#e-4DE',
-    'unicode' => 128177,
+    'unicode' => 
+    array (
+      0 => 128177,
+    ),
     'char_name' => 
     array (
       'title' => 'CURRENCY EXCHANGE',
@@ -9171,19 +12801,28 @@ Temporary Notes: a bag with a dollar or yen sign',
     'softbank' => 
     array (
       'number' => '433',
-      'unicode' => 57673,
+      'unicode' => 
+      array (
+        0 => 57673,
+      ),
       'sjis' => 'F78A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041630,
+      'unicode' => 
+      array (
+        0 => 1041630,
+      ),
     ),
   ),
   274 => 
   array (
     'mapid' => '#e-4DF',
-    'unicode' => 128185,
+    'unicode' => 
+    array (
+      0 => 128185,
+    ),
     'char_name' => 
     array (
       'title' => 'CHART WITH UPWARDS TREND AND YEN SIGN',
@@ -9197,26 +12836,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '373',
-      'unicode' => 58844,
+      'unicode' => 
+      array (
+        0 => 58844,
+      ),
       'sjis' => 'F34F',
       'jis' => '7930',
     ),
     'softbank' => 
     array (
       'number' => '432',
-      'unicode' => 57674,
+      'unicode' => 
+      array (
+        0 => 57674,
+      ),
       'sjis' => 'F78B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041631,
+      'unicode' => 
+      array (
+        0 => 1041631,
+      ),
     ),
   ),
   275 => 
   array (
     'mapid' => '#e-4E0',
-    'unicode' => 128178,
+    'unicode' => 
+    array (
+      0 => 128178,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAVY DOLLAR SIGN',
@@ -9225,33 +12876,48 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => 'Exp.10',
-      'unicode' => 59157,
+      'unicode' => 
+      array (
+        0 => 59157,
+      ),
       'sjis' => 'F9BA',
       'jis' => '7622',
     ),
     'au' => 
     array (
       'number' => '14',
-      'unicode' => 58745,
+      'unicode' => 
+      array (
+        0 => 58745,
+      ),
       'sjis' => 'F796',
       'jis' => '7776',
     ),
     'softbank' => 
     array (
       'number' => '235',
-      'unicode' => 57647,
+      'unicode' => 
+      array (
+        0 => 57647,
+      ),
       'sjis' => 'F76F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041632,
+      'unicode' => 
+      array (
+        0 => 1041632,
+      ),
     ),
   ),
   276 => 
   array (
     'mapid' => '#e-4E1',
-    'unicode' => 128179,
+    'unicode' => 
+    array (
+      0 => 128179,
+    ),
     'char_name' => 
     array (
       'title' => 'CREDIT CARD',
@@ -9264,7 +12930,10 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '87',
-      'unicode' => 58748,
+      'unicode' => 
+      array (
+        0 => 58748,
+      ),
       'sjis' => 'F799',
       'jis' => '7779',
     ),
@@ -9274,13 +12943,19 @@ Temporary Notes: stock market, stock prices',
     ),
     'google' => 
     array (
-      'unicode' => 1041633,
+      'unicode' => 
+      array (
+        0 => 1041633,
+      ),
     ),
   ),
   277 => 
   array (
     'mapid' => '#e-4E2',
-    'unicode' => 128180,
+    'unicode' => 
+    array (
+      0 => 128180,
+    ),
     'char_name' => 
     array (
       'title' => 'BANKNOTE WITH YEN SIGN',
@@ -9289,14 +12964,20 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => '113',
-      'unicode' => 59094,
+      'unicode' => 
+      array (
+        0 => 59094,
+      ),
       'sjis' => 'F97A',
       'jis' => '777A',
     ),
     'au' => 
     array (
       'number' => '109',
-      'unicode' => 58749,
+      'unicode' => 
+      array (
+        0 => 58749,
+      ),
       'sjis' => 'F79A',
       'jis' => '777A',
     ),
@@ -9306,13 +12987,19 @@ Temporary Notes: stock market, stock prices',
     ),
     'google' => 
     array (
-      'unicode' => 1041634,
+      'unicode' => 
+      array (
+        0 => 1041634,
+      ),
     ),
   ),
   278 => 
   array (
     'mapid' => '#e-4E3',
-    'unicode' => 128181,
+    'unicode' => 
+    array (
+      0 => 128181,
+    ),
     'char_name' => 
     array (
       'title' => 'BANKNOTE WITH DOLLAR SIGN',
@@ -9321,33 +13008,48 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => 'Exp.10',
-      'unicode' => 59157,
+      'unicode' => 
+      array (
+        0 => 59157,
+      ),
       'sjis' => 'F9BA',
       'jis' => '7622',
     ),
     'au' => 
     array (
       'number' => '139',
-      'unicode' => 58757,
+      'unicode' => 
+      array (
+        0 => 58757,
+      ),
       'sjis' => 'F7A2',
       'jis' => '7824',
     ),
     'softbank' => 
     array (
       'number' => '235',
-      'unicode' => 57647,
+      'unicode' => 
+      array (
+        0 => 57647,
+      ),
       'sjis' => 'F76F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041635,
+      'unicode' => 
+      array (
+        0 => 1041635,
+      ),
     ),
   ),
   279 => 
   array (
     'mapid' => '#e-4E4',
-    'unicode' => 128184,
+    'unicode' => 
+    array (
+      0 => 128184,
+    ),
     'char_name' => 
     array (
       'title' => 'MONEY WITH WINGS',
@@ -9360,7 +13062,10 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '777',
-      'unicode' => 60251,
+      'unicode' => 
+      array (
+        0 => 60251,
+      ),
       'sjis' => 'F45F',
       'jis' => '7B40',
     ),
@@ -9370,13 +13075,20 @@ Temporary Notes: stock market, stock prices',
     ),
     'google' => 
     array (
-      'unicode' => 1041636,
+      'unicode' => 
+      array (
+        0 => 1041636,
+      ),
     ),
   ),
   280 => 
   array (
     'mapid' => '#e-4ED',
-    'unicode' => 127475,
+    'unicode' => 
+    array (
+      0 => 127464,
+      1 => 127475,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS CN',
@@ -9389,26 +13101,39 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '703',
-      'unicode' => 60177,
+      'unicode' => 
+      array (
+        0 => 60177,
+      ),
       'sjis' => 'F3D2',
       'jis' => '7A54',
     ),
     'softbank' => 
     array (
       'number' => '430',
-      'unicode' => 58643,
+      'unicode' => 
+      array (
+        0 => 58643,
+      ),
       'sjis' => 'FBB3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041645,
+      'unicode' => 
+      array (
+        0 => 1041645,
+      ),
     ),
   ),
   281 => 
   array (
     'mapid' => '#e-4E8',
-    'unicode' => 127466,
+    'unicode' => 
+    array (
+      0 => 127465,
+      1 => 127466,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS DE',
@@ -9421,26 +13146,39 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '700',
-      'unicode' => 60174,
+      'unicode' => 
+      array (
+        0 => 60174,
+      ),
       'sjis' => 'F3CF',
       'jis' => '7A51',
     ),
     'softbank' => 
     array (
       'number' => '425',
-      'unicode' => 58638,
+      'unicode' => 
+      array (
+        0 => 58638,
+      ),
       'sjis' => 'FBAE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041640,
+      'unicode' => 
+      array (
+        0 => 1041640,
+      ),
     ),
   ),
   282 => 
   array (
     'mapid' => '#e-4EB',
-    'unicode' => 127480,
+    'unicode' => 
+    array (
+      0 => 127466,
+      1 => 127480,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS ES',
@@ -9453,26 +13191,39 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '366',
-      'unicode' => 58837,
+      'unicode' => 
+      array (
+        0 => 58837,
+      ),
       'sjis' => 'F348',
       'jis' => '7929',
     ),
     'softbank' => 
     array (
       'number' => '428',
-      'unicode' => 58641,
+      'unicode' => 
+      array (
+        0 => 58641,
+      ),
       'sjis' => 'FBB1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041643,
+      'unicode' => 
+      array (
+        0 => 1041643,
+      ),
     ),
   ),
   283 => 
   array (
     'mapid' => '#e-4E7',
-    'unicode' => 127479,
+    'unicode' => 
+    array (
+      0 => 127467,
+      1 => 127479,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS FR',
@@ -9485,26 +13236,39 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '499',
-      'unicode' => 60154,
+      'unicode' => 
+      array (
+        0 => 60154,
+      ),
       'sjis' => 'F3CE',
       'jis' => '7A50',
     ),
     'softbank' => 
     array (
       'number' => '424',
-      'unicode' => 58637,
+      'unicode' => 
+      array (
+        0 => 58637,
+      ),
       'sjis' => 'FBAD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041639,
+      'unicode' => 
+      array (
+        0 => 1041639,
+      ),
     ),
   ),
   284 => 
   array (
     'mapid' => '#e-4EA',
-    'unicode' => 127463,
+    'unicode' => 
+    array (
+      0 => 127468,
+      1 => 127463,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS GB',
@@ -9517,26 +13281,39 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '702',
-      'unicode' => 60176,
+      'unicode' => 
+      array (
+        0 => 60176,
+      ),
       'sjis' => 'F3D1',
       'jis' => '7A53',
     ),
     'softbank' => 
     array (
       'number' => '427',
-      'unicode' => 58640,
+      'unicode' => 
+      array (
+        0 => 58640,
+      ),
       'sjis' => 'FBB0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041642,
+      'unicode' => 
+      array (
+        0 => 1041642,
+      ),
     ),
   ),
   285 => 
   array (
     'mapid' => '#e-4E9',
-    'unicode' => 127481,
+    'unicode' => 
+    array (
+      0 => 127470,
+      1 => 127481,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS IT',
@@ -9549,26 +13326,39 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '701',
-      'unicode' => 60175,
+      'unicode' => 
+      array (
+        0 => 60175,
+      ),
       'sjis' => 'F3D0',
       'jis' => '7A52',
     ),
     'softbank' => 
     array (
       'number' => '426',
-      'unicode' => 58639,
+      'unicode' => 
+      array (
+        0 => 58639,
+      ),
       'sjis' => 'FBAF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041641,
+      'unicode' => 
+      array (
+        0 => 1041641,
+      ),
     ),
   ),
   286 => 
   array (
     'mapid' => '#e-4E5',
-    'unicode' => 127477,
+    'unicode' => 
+    array (
+      0 => 127471,
+      1 => 127477,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS JP',
@@ -9581,26 +13371,39 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '237',
-      'unicode' => 58572,
+      'unicode' => 
+      array (
+        0 => 58572,
+      ),
       'sjis' => 'F6A5',
       'jis' => '7627',
     ),
     'softbank' => 
     array (
       'number' => '422',
-      'unicode' => 58635,
+      'unicode' => 
+      array (
+        0 => 58635,
+      ),
       'sjis' => 'FBAB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041637,
+      'unicode' => 
+      array (
+        0 => 1041637,
+      ),
     ),
   ),
   287 => 
   array (
     'mapid' => '#e-4EE',
-    'unicode' => 127479,
+    'unicode' => 
+    array (
+      0 => 127472,
+      1 => 127479,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS KR',
@@ -9613,26 +13416,39 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '704',
-      'unicode' => 60178,
+      'unicode' => 
+      array (
+        0 => 60178,
+      ),
       'sjis' => 'F3D3',
       'jis' => '7A55',
     ),
     'softbank' => 
     array (
       'number' => '431',
-      'unicode' => 58644,
+      'unicode' => 
+      array (
+        0 => 58644,
+      ),
       'sjis' => 'FBB4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041646,
+      'unicode' => 
+      array (
+        0 => 1041646,
+      ),
     ),
   ),
   288 => 
   array (
     'mapid' => '#e-4EC',
-    'unicode' => 127482,
+    'unicode' => 
+    array (
+      0 => 127479,
+      1 => 127482,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS RU',
@@ -9645,26 +13461,39 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '367',
-      'unicode' => 58838,
+      'unicode' => 
+      array (
+        0 => 58838,
+      ),
       'sjis' => 'F349',
       'jis' => '792A',
     ),
     'softbank' => 
     array (
       'number' => '429',
-      'unicode' => 58642,
+      'unicode' => 
+      array (
+        0 => 58642,
+      ),
       'sjis' => 'FBB2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041644,
+      'unicode' => 
+      array (
+        0 => 1041644,
+      ),
     ),
   ),
   289 => 
   array (
     'mapid' => '#e-4E6',
-    'unicode' => 127480,
+    'unicode' => 
+    array (
+      0 => 127482,
+      1 => 127480,
+    ),
     'char_name' => 
     array (
       'title' => 'REGIONAL INDICATOR SYMBOL LETTERS US',
@@ -9677,26 +13506,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '90',
-      'unicode' => 58739,
+      'unicode' => 
+      array (
+        0 => 58739,
+      ),
       'sjis' => 'F790',
       'jis' => '7770',
     ),
     'softbank' => 
     array (
       'number' => '423',
-      'unicode' => 58636,
+      'unicode' => 
+      array (
+        0 => 58636,
+      ),
       'sjis' => 'FBAC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041638,
+      'unicode' => 
+      array (
+        0 => 1041638,
+      ),
     ),
   ),
   290 => 
   array (
     'mapid' => '#e-4F6',
-    'unicode' => 128293,
+    'unicode' => 
+    array (
+      0 => 128293,
+    ),
     'char_name' => 
     array (
       'title' => 'FIRE',
@@ -9709,26 +13550,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '269',
-      'unicode' => 58491,
+      'unicode' => 
+      array (
+        0 => 58491,
+      ),
       'sjis' => 'F653',
       'jis' => '7534',
     ),
     'softbank' => 
     array (
       'number' => '148',
-      'unicode' => 57629,
+      'unicode' => 
+      array (
+        0 => 57629,
+      ),
       'sjis' => 'F75D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041654,
+      'unicode' => 
+      array (
+        0 => 1041654,
+      ),
     ),
   ),
   291 => 
   array (
     'mapid' => '#e-4FB',
-    'unicode' => 128294,
+    'unicode' => 
+    array (
+      0 => 128294,
+    ),
     'char_name' => 
     array (
       'title' => 'ELECTRIC TORCH',
@@ -9738,14 +13591,20 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => '151',
-      'unicode' => 59131,
+      'unicode' => 
+      array (
+        0 => 59131,
+      ),
       'sjis' => 'F9A0',
       'jis' => '752F',
     ),
     'au' => 
     array (
       'number' => '130',
-      'unicode' => 58755,
+      'unicode' => 
+      array (
+        0 => 58755,
+      ),
       'sjis' => 'F7A0',
       'jis' => '7822',
     ),
@@ -9755,13 +13614,19 @@ Temporary Notes: stock market, stock prices',
     ),
     'google' => 
     array (
-      'unicode' => 1041659,
+      'unicode' => 
+      array (
+        0 => 1041659,
+      ),
     ),
   ),
   292 => 
   array (
     'mapid' => '#e-4C9',
-    'unicode' => 128295,
+    'unicode' => 
+    array (
+      0 => 128295,
+    ),
     'char_name' => 
     array (
       'title' => 'WRENCH',
@@ -9770,14 +13635,20 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => 'Exp.13',
-      'unicode' => 59160,
+      'unicode' => 
+      array (
+        0 => 59160,
+      ),
       'sjis' => 'F9BD',
       'jis' => '7826',
     ),
     'au' => 
     array (
       'number' => '152',
-      'unicode' => 58759,
+      'unicode' => 
+      array (
+        0 => 58759,
+      ),
       'sjis' => 'F7A4',
       'jis' => '7826',
     ),
@@ -9787,13 +13658,19 @@ Temporary Notes: stock market, stock prices',
     ),
     'google' => 
     array (
-      'unicode' => 1041609,
+      'unicode' => 
+      array (
+        0 => 1041609,
+      ),
     ),
   ),
   293 => 
   array (
     'mapid' => '#e-4CA',
-    'unicode' => 128296,
+    'unicode' => 
+    array (
+      0 => 128296,
+    ),
     'char_name' => 
     array (
       'title' => 'HAMMER',
@@ -9806,26 +13683,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '356',
-      'unicode' => 58827,
+      'unicode' => 
+      array (
+        0 => 58827,
+      ),
       'sjis' => 'F7FB',
       'jis' => '787D',
     ),
     'softbank' => 
     array (
       'number' => '147',
-      'unicode' => 57622,
+      'unicode' => 
+      array (
+        0 => 57622,
+      ),
       'sjis' => 'F756',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041610,
+      'unicode' => 
+      array (
+        0 => 1041610,
+      ),
     ),
   ),
   294 => 
   array (
     'mapid' => '#e-4CB',
-    'unicode' => 128297,
+    'unicode' => 
+    array (
+      0 => 128297,
+    ),
     'char_name' => 
     array (
       'title' => 'NUT AND BOLT',
@@ -9838,7 +13727,10 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '123',
-      'unicode' => 58753,
+      'unicode' => 
+      array (
+        0 => 58753,
+      ),
       'sjis' => 'F79E',
       'jis' => '777E',
     ),
@@ -9848,13 +13740,19 @@ Temporary Notes: stock market, stock prices',
     ),
     'google' => 
     array (
-      'unicode' => 1041611,
+      'unicode' => 
+      array (
+        0 => 1041611,
+      ),
     ),
   ),
   295 => 
   array (
     'mapid' => '#e-4FA',
-    'unicode' => 128298,
+    'unicode' => 
+    array (
+      0 => 128298,
+    ),
     'char_name' => 
     array (
       'title' => 'HOCHO',
@@ -9868,7 +13766,10 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '114',
-      'unicode' => 58751,
+      'unicode' => 
+      array (
+        0 => 58751,
+      ),
       'sjis' => 'F79C',
       'jis' => '777C',
     ),
@@ -9878,13 +13779,19 @@ Temporary Notes: stock market, stock prices',
     ),
     'google' => 
     array (
-      'unicode' => 1041658,
+      'unicode' => 
+      array (
+        0 => 1041658,
+      ),
     ),
   ),
   296 => 
   array (
     'mapid' => '#e-4F5',
-    'unicode' => 128299,
+    'unicode' => 
+    array (
+      0 => 128299,
+    ),
     'char_name' => 
     array (
       'title' => 'PISTOL',
@@ -9897,26 +13804,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '296',
-      'unicode' => 58634,
+      'unicode' => 
+      array (
+        0 => 58634,
+      ),
       'sjis' => 'F6E3',
       'jis' => '7665',
     ),
     'softbank' => 
     array (
       'number' => '146',
-      'unicode' => 57619,
+      'unicode' => 
+      array (
+        0 => 57619,
+      ),
       'sjis' => 'F753',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041653,
+      'unicode' => 
+      array (
+        0 => 1041653,
+      ),
     ),
   ),
   297 => 
   array (
     'mapid' => '#e-4F7',
-    'unicode' => 128302,
+    'unicode' => 
+    array (
+      0 => 128302,
+    ),
     'char_name' => 
     array (
       'title' => 'CRYSTAL BALL',
@@ -9929,26 +13848,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '392',
-      'unicode' => 60047,
+      'unicode' => 
+      array (
+        0 => 60047,
+      ),
       'sjis' => 'F362',
       'jis' => '7943',
     ),
     'softbank' => 
     array (
       'number' => '404',
-      'unicode' => 57918,
+      'unicode' => 
+      array (
+        0 => 57918,
+      ),
       'sjis' => 'F7DE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041655,
+      'unicode' => 
+      array (
+        0 => 1041655,
+      ),
     ),
   ),
   298 => 
   array (
     'mapid' => '#e-4F8',
-    'unicode' => 128303,
+    'unicode' => 
+    array (
+      0 => 128303,
+    ),
     'char_name' => 
     array (
       'title' => 'SIX POINTED STAR WITH MIDDLE DOT',
@@ -9961,26 +13892,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '392',
-      'unicode' => 60047,
+      'unicode' => 
+      array (
+        0 => 60047,
+      ),
       'sjis' => 'F362',
       'jis' => '7943',
     ),
     'softbank' => 
     array (
       'number' => '404',
-      'unicode' => 57918,
+      'unicode' => 
+      array (
+        0 => 57918,
+      ),
       'sjis' => 'F7DE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041656,
+      'unicode' => 
+      array (
+        0 => 1041656,
+      ),
     ),
   ),
   299 => 
   array (
     'mapid' => '#e-044',
-    'unicode' => 128304,
+    'unicode' => 
+    array (
+      0 => 128304,
+    ),
     'char_name' => 
     array (
       'title' => 'JAPANESE SYMBOL FOR BEGINNER',
@@ -9993,26 +13936,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '179',
-      'unicode' => 58496,
+      'unicode' => 
+      array (
+        0 => 58496,
+      ),
       'sjis' => 'F658',
       'jis' => '7539',
     ),
     'softbank' => 
     array (
       'number' => '351',
-      'unicode' => 57865,
+      'unicode' => 
+      array (
+        0 => 57865,
+      ),
       'sjis' => 'F7A9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040452,
+      'unicode' => 
+      array (
+        0 => 1040452,
+      ),
     ),
   ),
   300 => 
   array (
     'mapid' => '#e-4D2',
-    'unicode' => 128305,
+    'unicode' => 
+    array (
+      0 => 128305,
+    ),
     'char_name' => 
     array (
       'title' => 'TRIDENT EMBLEM',
@@ -10021,33 +13976,48 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => 'Exp.15',
-      'unicode' => 59162,
+      'unicode' => 
+      array (
+        0 => 59162,
+      ),
       'sjis' => 'F9BF',
       'jis' => '787B',
     ),
     'au' => 
     array (
       'number' => '354',
-      'unicode' => 58825,
+      'unicode' => 
+      array (
+        0 => 58825,
+      ),
       'sjis' => 'F7F9',
       'jis' => '787B',
     ),
     'softbank' => 
     array (
       'number' => '457',
-      'unicode' => 57393,
+      'unicode' => 
+      array (
+        0 => 57393,
+      ),
       'sjis' => 'F971',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041618,
+      'unicode' => 
+      array (
+        0 => 1041618,
+      ),
     ),
   ),
   301 => 
   array (
     'mapid' => '#e-509',
-    'unicode' => 128137,
+    'unicode' => 
+    array (
+      0 => 128137,
+    ),
     'char_name' => 
     array (
       'title' => 'SYRINGE',
@@ -10060,26 +14030,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '304',
-      'unicode' => 58640,
+      'unicode' => 
+      array (
+        0 => 58640,
+      ),
       'sjis' => 'F6E9',
       'jis' => '766B',
     ),
     'softbank' => 
     array (
       'number' => '268',
-      'unicode' => 57659,
+      'unicode' => 
+      array (
+        0 => 57659,
+      ),
       'sjis' => 'F77B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041673,
+      'unicode' => 
+      array (
+        0 => 1041673,
+      ),
     ),
   ),
   302 => 
   array (
     'mapid' => '#e-50A',
-    'unicode' => 128138,
+    'unicode' => 
+    array (
+      0 => 128138,
+    ),
     'char_name' => 
     array (
       'title' => 'PILL',
@@ -10092,26 +14074,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '403',
-      'unicode' => 60058,
+      'unicode' => 
+      array (
+        0 => 60058,
+      ),
       'sjis' => 'F36D',
       'jis' => '794E',
     ),
     'softbank' => 
     array (
       'number' => '267',
-      'unicode' => 58127,
+      'unicode' => 
+      array (
+        0 => 58127,
+      ),
       'sjis' => 'F9AF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041674,
+      'unicode' => 
+      array (
+        0 => 1041674,
+      ),
     ),
   ),
   303 => 
   array (
     'mapid' => '#e-50B',
-    'unicode' => 127344,
+    'unicode' => 
+    array (
+      0 => 127344,
+    ),
     'char_name' => 
     array (
       'title' => 'NEGATIVE SQUARED LATIN CAPITAL LETTER A',
@@ -10124,26 +14118,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '724',
-      'unicode' => 60198,
+      'unicode' => 
+      array (
+        0 => 60198,
+      ),
       'sjis' => 'F3E7',
       'jis' => '7A69',
     ),
     'softbank' => 
     array (
       'number' => '418',
-      'unicode' => 58674,
+      'unicode' => 
+      array (
+        0 => 58674,
+      ),
       'sjis' => 'FBD2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041675,
+      'unicode' => 
+      array (
+        0 => 1041675,
+      ),
     ),
   ),
   304 => 
   array (
     'mapid' => '#e-50C',
-    'unicode' => 127345,
+    'unicode' => 
+    array (
+      0 => 127345,
+    ),
     'char_name' => 
     array (
       'title' => 'NEGATIVE SQUARED LATIN CAPITAL LETTER B',
@@ -10156,26 +14162,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '725',
-      'unicode' => 60199,
+      'unicode' => 
+      array (
+        0 => 60199,
+      ),
       'sjis' => 'F3E8',
       'jis' => '7A6A',
     ),
     'softbank' => 
     array (
       'number' => '419',
-      'unicode' => 58675,
+      'unicode' => 
+      array (
+        0 => 58675,
+      ),
       'sjis' => 'FBD3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041676,
+      'unicode' => 
+      array (
+        0 => 1041676,
+      ),
     ),
   ),
   305 => 
   array (
     'mapid' => '#e-50D',
-    'unicode' => 127374,
+    'unicode' => 
+    array (
+      0 => 127374,
+    ),
     'char_name' => 
     array (
       'title' => 'NEGATIVE SQUARED AB',
@@ -10188,26 +14206,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '727',
-      'unicode' => 60201,
+      'unicode' => 
+      array (
+        0 => 60201,
+      ),
       'sjis' => 'F3EA',
       'jis' => '7A6C',
     ),
     'softbank' => 
     array (
       'number' => '420',
-      'unicode' => 58676,
+      'unicode' => 
+      array (
+        0 => 58676,
+      ),
       'sjis' => 'FBD4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041677,
+      'unicode' => 
+      array (
+        0 => 1041677,
+      ),
     ),
   ),
   306 => 
   array (
     'mapid' => '#e-50E',
-    'unicode' => 127358,
+    'unicode' => 
+    array (
+      0 => 127358,
+    ),
     'char_name' => 
     array (
       'title' => 'NEGATIVE SQUARED LATIN CAPITAL LETTER O',
@@ -10220,26 +14250,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '726',
-      'unicode' => 60200,
+      'unicode' => 
+      array (
+        0 => 60200,
+      ),
       'sjis' => 'F3E9',
       'jis' => '7A6B',
     ),
     'softbank' => 
     array (
       'number' => '421',
-      'unicode' => 58677,
+      'unicode' => 
+      array (
+        0 => 58677,
+      ),
       'sjis' => 'FBD5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041678,
+      'unicode' => 
+      array (
+        0 => 1041678,
+      ),
     ),
   ),
   307 => 
   array (
     'mapid' => '#e-50F',
-    'unicode' => 127872,
+    'unicode' => 
+    array (
+      0 => 127872,
+    ),
     'char_name' => 
     array (
       'title' => 'RIBBON',
@@ -10248,33 +14290,48 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => '71',
-      'unicode' => 59012,
+      'unicode' => 
+      array (
+        0 => 59012,
+      ),
       'sjis' => 'F8E5',
       'jis' => '783E',
     ),
     'au' => 
     array (
       'number' => '312',
-      'unicode' => 58783,
+      'unicode' => 
+      array (
+        0 => 58783,
+      ),
       'sjis' => 'F7BC',
       'jis' => '783E',
     ),
     'softbank' => 
     array (
       'number' => '223',
-      'unicode' => 58132,
+      'unicode' => 
+      array (
+        0 => 58132,
+      ),
       'sjis' => 'F9B4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041679,
+      'unicode' => 
+      array (
+        0 => 1041679,
+      ),
     ),
   ),
   308 => 
   array (
     'mapid' => '#e-510',
-    'unicode' => 127873,
+    'unicode' => 
+    array (
+      0 => 127873,
+    ),
     'char_name' => 
     array (
       'title' => 'WRAPPED PRESENT',
@@ -10283,33 +14340,48 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => '72',
-      'unicode' => 59013,
+      'unicode' => 
+      array (
+        0 => 59013,
+      ),
       'sjis' => 'F8E6',
       'jis' => '762A',
     ),
     'au' => 
     array (
       'number' => '144',
-      'unicode' => 58575,
+      'unicode' => 
+      array (
+        0 => 58575,
+      ),
       'sjis' => 'F6A8',
       'jis' => '762A',
     ),
     'softbank' => 
     array (
       'number' => '136',
-      'unicode' => 57618,
+      'unicode' => 
+      array (
+        0 => 57618,
+      ),
       'sjis' => 'F752',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041680,
+      'unicode' => 
+      array (
+        0 => 1041680,
+      ),
     ),
   ),
   309 => 
   array (
     'mapid' => '#e-511',
-    'unicode' => 127874,
+    'unicode' => 
+    array (
+      0 => 127874,
+    ),
     'char_name' => 
     array (
       'title' => 'BIRTHDAY CAKE',
@@ -10318,33 +14390,48 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => '73',
-      'unicode' => 59014,
+      'unicode' => 
+      array (
+        0 => 59014,
+      ),
       'sjis' => 'F8E7',
       'jis' => '783F',
     ),
     'au' => 
     array (
       'number' => '313',
-      'unicode' => 58784,
+      'unicode' => 
+      array (
+        0 => 58784,
+      ),
       'sjis' => 'F7BD',
       'jis' => '783F',
     ),
     'softbank' => 
     array (
       'number' => '137',
-      'unicode' => 58187,
+      'unicode' => 
+      array (
+        0 => 58187,
+      ),
       'sjis' => 'F9EB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041681,
+      'unicode' => 
+      array (
+        0 => 1041681,
+      ),
     ),
   ),
   310 => 
   array (
     'mapid' => '#e-512',
-    'unicode' => 127876,
+    'unicode' => 
+    array (
+      0 => 127876,
+    ),
     'char_name' => 
     array (
       'title' => 'CHRISTMAS TREE',
@@ -10353,33 +14440,48 @@ Temporary Notes: stock market, stock prices',
     'docomo' => 
     array (
       'number' => '103',
-      'unicode' => 59044,
+      'unicode' => 
+      array (
+        0 => 59044,
+      ),
       'sjis' => 'F948',
       'jis' => '7624',
     ),
     'au' => 
     array (
       'number' => '234',
-      'unicode' => 58569,
+      'unicode' => 
+      array (
+        0 => 58569,
+      ),
       'sjis' => 'F6A2',
       'jis' => '7624',
     ),
     'softbank' => 
     array (
       'number' => '320',
-      'unicode' => 57395,
+      'unicode' => 
+      array (
+        0 => 57395,
+      ),
       'sjis' => 'F973',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041682,
+      'unicode' => 
+      array (
+        0 => 1041682,
+      ),
     ),
   ),
   311 => 
   array (
     'mapid' => '#e-513',
-    'unicode' => 127877,
+    'unicode' => 
+    array (
+      0 => 127877,
+    ),
     'char_name' => 
     array (
       'title' => 'FATHER CHRISTMAS',
@@ -10393,26 +14495,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '489',
-      'unicode' => 60144,
+      'unicode' => 
+      array (
+        0 => 60144,
+      ),
       'sjis' => 'F3C4',
       'jis' => '7A46',
     ),
     'softbank' => 
     array (
       'number' => '319',
-      'unicode' => 58440,
+      'unicode' => 
+      array (
+        0 => 58440,
+      ),
       'sjis' => 'FB89',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041683,
+      'unicode' => 
+      array (
+        0 => 1041683,
+      ),
     ),
   ),
   312 => 
   array (
     'mapid' => '#e-514',
-    'unicode' => 127884,
+    'unicode' => 
+    array (
+      0 => 127884,
+    ),
     'char_name' => 
     array (
       'title' => 'CROSSED FLAGS',
@@ -10425,26 +14539,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '370',
-      'unicode' => 58841,
+      'unicode' => 
+      array (
+        0 => 58841,
+      ),
       'sjis' => 'F34C',
       'jis' => '792D',
     ),
     'softbank' => 
     array (
       'number' => '80',
-      'unicode' => 57667,
+      'unicode' => 
+      array (
+        0 => 57667,
+      ),
       'sjis' => 'F784',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041684,
+      'unicode' => 
+      array (
+        0 => 1041684,
+      ),
     ),
   ),
   313 => 
   array (
     'mapid' => '#e-515',
-    'unicode' => 127878,
+    'unicode' => 
+    array (
+      0 => 127878,
+    ),
     'char_name' => 
     array (
       'title' => 'FIREWORKS',
@@ -10457,26 +14583,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '357',
-      'unicode' => 58828,
+      'unicode' => 
+      array (
+        0 => 58828,
+      ),
       'sjis' => 'F7FC',
       'jis' => '787E',
     ),
     'softbank' => 
     array (
       'number' => '314',
-      'unicode' => 57623,
+      'unicode' => 
+      array (
+        0 => 57623,
+      ),
       'sjis' => 'F757',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041685,
+      'unicode' => 
+      array (
+        0 => 1041685,
+      ),
     ),
   ),
   314 => 
   array (
     'mapid' => '#e-516',
-    'unicode' => 127880,
+    'unicode' => 
+    array (
+      0 => 127880,
+    ),
     'char_name' => 
     array (
       'title' => 'BALLOON',
@@ -10489,26 +14627,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '404',
-      'unicode' => 60059,
+      'unicode' => 
+      array (
+        0 => 60059,
+      ),
       'sjis' => 'F36E',
       'jis' => '794F',
     ),
     'softbank' => 
     array (
       'number' => '145',
-      'unicode' => 58128,
+      'unicode' => 
+      array (
+        0 => 58128,
+      ),
       'sjis' => 'F9B0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041686,
+      'unicode' => 
+      array (
+        0 => 1041686,
+      ),
     ),
   ),
   315 => 
   array (
     'mapid' => '#e-517',
-    'unicode' => 127881,
+    'unicode' => 
+    array (
+      0 => 127881,
+    ),
     'char_name' => 
     array (
       'title' => 'PARTY POPPER',
@@ -10521,26 +14671,38 @@ Temporary Notes: stock market, stock prices',
     'au' => 
     array (
       'number' => '405',
-      'unicode' => 60060,
+      'unicode' => 
+      array (
+        0 => 60060,
+      ),
       'sjis' => 'F36F',
       'jis' => '7950',
     ),
     'softbank' => 
     array (
       'number' => '138',
-      'unicode' => 58130,
+      'unicode' => 
+      array (
+        0 => 58130,
+      ),
       'sjis' => 'F9B2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041687,
+      'unicode' => 
+      array (
+        0 => 1041687,
+      ),
     ),
   ),
   316 => 
   array (
     'mapid' => '#e-518',
-    'unicode' => 127885,
+    'unicode' => 
+    array (
+      0 => 127885,
+    ),
     'char_name' => 
     array (
       'title' => 'PINE DECORATION',
@@ -10554,26 +14716,38 @@ Temporary Notes: (門松)',
     'au' => 
     array (
       'number' => '476',
-      'unicode' => 60131,
+      'unicode' => 
+      array (
+        0 => 60131,
+      ),
       'sjis' => 'F3B7',
       'jis' => '7A39',
     ),
     'softbank' => 
     array (
       'number' => '308',
-      'unicode' => 58422,
+      'unicode' => 
+      array (
+        0 => 58422,
+      ),
       'sjis' => 'FB76',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041688,
+      'unicode' => 
+      array (
+        0 => 1041688,
+      ),
     ),
   ),
   317 => 
   array (
     'mapid' => '#e-519',
-    'unicode' => 127886,
+    'unicode' => 
+    array (
+      0 => 127886,
+    ),
     'char_name' => 
     array (
       'title' => 'JAPANESE DOLLS',
@@ -10588,26 +14762,38 @@ Temporary Notes: 雛祭り: Japanese Hinamatsuri',
     'au' => 
     array (
       'number' => '477',
-      'unicode' => 60132,
+      'unicode' => 
+      array (
+        0 => 60132,
+      ),
       'sjis' => 'F3B8',
       'jis' => '7A3A',
     ),
     'softbank' => 
     array (
       'number' => '310',
-      'unicode' => 58424,
+      'unicode' => 
+      array (
+        0 => 58424,
+      ),
       'sjis' => 'FB78',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041689,
+      'unicode' => 
+      array (
+        0 => 1041689,
+      ),
     ),
   ),
   318 => 
   array (
     'mapid' => '#e-51A',
-    'unicode' => 127891,
+    'unicode' => 
+    array (
+      0 => 127891,
+    ),
     'char_name' => 
     array (
       'title' => 'GRADUATION CAP',
@@ -10620,26 +14806,38 @@ Temporary Notes: 雛祭り: Japanese Hinamatsuri',
     'au' => 
     array (
       'number' => '478',
-      'unicode' => 60133,
+      'unicode' => 
+      array (
+        0 => 60133,
+      ),
       'sjis' => 'F3B9',
       'jis' => '7A3B',
     ),
     'softbank' => 
     array (
       'number' => '311',
-      'unicode' => 58425,
+      'unicode' => 
+      array (
+        0 => 58425,
+      ),
       'sjis' => 'FB79',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041690,
+      'unicode' => 
+      array (
+        0 => 1041690,
+      ),
     ),
   ),
   319 => 
   array (
     'mapid' => '#e-51B',
-    'unicode' => 127890,
+    'unicode' => 
+    array (
+      0 => 127890,
+    ),
     'char_name' => 
     array (
       'title' => 'SCHOOL SATCHEL',
@@ -10652,26 +14850,38 @@ Temporary Notes: 雛祭り: Japanese Hinamatsuri',
     'au' => 
     array (
       'number' => '479',
-      'unicode' => 60134,
+      'unicode' => 
+      array (
+        0 => 60134,
+      ),
       'sjis' => 'F3BA',
       'jis' => '7A3C',
     ),
     'softbank' => 
     array (
       'number' => '312',
-      'unicode' => 58426,
+      'unicode' => 
+      array (
+        0 => 58426,
+      ),
       'sjis' => 'FB7A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041691,
+      'unicode' => 
+      array (
+        0 => 1041691,
+      ),
     ),
   ),
   320 => 
   array (
     'mapid' => '#e-51C',
-    'unicode' => 127887,
+    'unicode' => 
+    array (
+      0 => 127887,
+    ),
     'char_name' => 
     array (
       'title' => 'CARP STREAMER',
@@ -10684,26 +14894,38 @@ Temporary Notes: 雛祭り: Japanese Hinamatsuri',
     'au' => 
     array (
       'number' => '480',
-      'unicode' => 60135,
+      'unicode' => 
+      array (
+        0 => 60135,
+      ),
       'sjis' => 'F3BB',
       'jis' => '7A3D',
     ),
     'softbank' => 
     array (
       'number' => '313',
-      'unicode' => 58427,
+      'unicode' => 
+      array (
+        0 => 58427,
+      ),
       'sjis' => 'FB7B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041692,
+      'unicode' => 
+      array (
+        0 => 1041692,
+      ),
     ),
   ),
   321 => 
   array (
     'mapid' => '#e-51D',
-    'unicode' => 127879,
+    'unicode' => 
+    array (
+      0 => 127879,
+    ),
     'char_name' => 
     array (
       'title' => 'FIREWORK SPARKLER',
@@ -10717,26 +14939,38 @@ Temporary Notes: "Senkoo Hanabi" in Japanese',
     'au' => 
     array (
       'number' => '484',
-      'unicode' => 60139,
+      'unicode' => 
+      array (
+        0 => 60139,
+      ),
       'sjis' => 'F3BF',
       'jis' => '7A41',
     ),
     'softbank' => 
     array (
       'number' => '315',
-      'unicode' => 58432,
+      'unicode' => 
+      array (
+        0 => 58432,
+      ),
       'sjis' => 'FB81',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041693,
+      'unicode' => 
+      array (
+        0 => 1041693,
+      ),
     ),
   ),
   322 => 
   array (
     'mapid' => '#e-51E',
-    'unicode' => 127888,
+    'unicode' => 
+    array (
+      0 => 127888,
+    ),
     'char_name' => 
     array (
       'title' => 'WIND CHIME',
@@ -10749,26 +14983,38 @@ Temporary Notes: "Senkoo Hanabi" in Japanese',
     'au' => 
     array (
       'number' => '486',
-      'unicode' => 60141,
+      'unicode' => 
+      array (
+        0 => 60141,
+      ),
       'sjis' => 'F3C1',
       'jis' => '7A43',
     ),
     'softbank' => 
     array (
       'number' => '316',
-      'unicode' => 58434,
+      'unicode' => 
+      array (
+        0 => 58434,
+      ),
       'sjis' => 'FB83',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041694,
+      'unicode' => 
+      array (
+        0 => 1041694,
+      ),
     ),
   ),
   323 => 
   array (
     'mapid' => '#e-51F',
-    'unicode' => 127875,
+    'unicode' => 
+    array (
+      0 => 127875,
+    ),
     'char_name' => 
     array (
       'title' => 'JACK-O-LANTERN',
@@ -10782,26 +15028,38 @@ Temporary Notes: "Senkoo Hanabi" in Japanese',
     'au' => 
     array (
       'number' => '487',
-      'unicode' => 60142,
+      'unicode' => 
+      array (
+        0 => 60142,
+      ),
       'sjis' => 'F3C2',
       'jis' => '7A44',
     ),
     'softbank' => 
     array (
       'number' => '318',
-      'unicode' => 58437,
+      'unicode' => 
+      array (
+        0 => 58437,
+      ),
       'sjis' => 'FB86',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041695,
+      'unicode' => 
+      array (
+        0 => 1041695,
+      ),
     ),
   ),
   324 => 
   array (
     'mapid' => '#e-520',
-    'unicode' => 127882,
+    'unicode' => 
+    array (
+      0 => 127882,
+    ),
     'char_name' => 
     array (
       'title' => 'CONFETTI BALL',
@@ -10815,7 +15073,10 @@ Temporary Notes: Ornamental bag or decorative ball that opens up. Sometimes used
     'au' => 
     array (
       'number' => '230',
-      'unicode' => 58479,
+      'unicode' => 
+      array (
+        0 => 58479,
+      ),
       'sjis' => 'F647',
       'jis' => '7528',
     ),
@@ -10825,13 +15086,19 @@ Temporary Notes: Ornamental bag or decorative ball that opens up. Sometimes used
     ),
     'google' => 
     array (
-      'unicode' => 1041696,
+      'unicode' => 
+      array (
+        0 => 1041696,
+      ),
     ),
   ),
   325 => 
   array (
     'mapid' => '#e-521',
-    'unicode' => 127883,
+    'unicode' => 
+    array (
+      0 => 127883,
+    ),
     'char_name' => 
     array (
       'title' => 'TANABATA TREE',
@@ -10845,7 +15112,10 @@ Temporary Notes: (七夕笹飾り)',
     'au' => 
     array (
       'number' => '747',
-      'unicode' => 60221,
+      'unicode' => 
+      array (
+        0 => 60221,
+      ),
       'sjis' => 'F441',
       'jis' => '7B22',
     ),
@@ -10855,13 +15125,19 @@ Temporary Notes: (七夕笹飾り)',
     ),
     'google' => 
     array (
-      'unicode' => 1041697,
+      'unicode' => 
+      array (
+        0 => 1041697,
+      ),
     ),
   ),
   326 => 
   array (
     'mapid' => '#e-017',
-    'unicode' => 127889,
+    'unicode' => 
+    array (
+      0 => 127889,
+    ),
     'char_name' => 
     array (
       'title' => 'MOON VIEWING CEREMONY',
@@ -10875,26 +15151,38 @@ Temporary Notes: Moon viewing (お月見)',
     'au' => 
     array (
       'number' => '488',
-      'unicode' => 60143,
+      'unicode' => 
+      array (
+        0 => 60143,
+      ),
       'sjis' => 'F3C3',
       'jis' => '7A45',
     ),
     'softbank' => 
     array (
       'number' => '317',
-      'unicode' => 58438,
+      'unicode' => 
+      array (
+        0 => 58438,
+      ),
       'sjis' => 'FB87',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1040407,
+      'unicode' => 
+      array (
+        0 => 1040407,
+      ),
     ),
   ),
   327 => 
   array (
     'mapid' => '#e-522',
-    'unicode' => 128223,
+    'unicode' => 
+    array (
+      0 => 128223,
+    ),
     'char_name' => 
     array (
       'title' => 'PAGER',
@@ -10903,14 +15191,20 @@ Temporary Notes: Moon viewing (お月見)',
     'docomo' => 
     array (
       'number' => '29',
-      'unicode' => 58970,
+      'unicode' => 
+      array (
+        0 => 58970,
+      ),
       'sjis' => 'F8BB',
       'jis' => '783A',
     ),
     'au' => 
     array (
       'number' => '308',
-      'unicode' => 58779,
+      'unicode' => 
+      array (
+        0 => 58779,
+      ),
       'sjis' => 'F7B8',
       'jis' => '783A',
     ),
@@ -10920,13 +15214,19 @@ Temporary Notes: Moon viewing (お月見)',
     ),
     'google' => 
     array (
-      'unicode' => 1041698,
+      'unicode' => 
+      array (
+        0 => 1041698,
+      ),
     ),
   ),
   328 => 
   array (
     'mapid' => '#e-523',
-    'unicode' => 9742,
+    'unicode' => 
+    array (
+      0 => 9742,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK TELEPHONE',
@@ -10935,33 +15235,48 @@ Temporary Notes: Moon viewing (お月見)',
     'docomo' => 
     array (
       'number' => '74',
-      'unicode' => 59015,
+      'unicode' => 
+      array (
+        0 => 59015,
+      ),
       'sjis' => 'F8E8',
       'jis' => '7835',
     ),
     'au' => 
     array (
       'number' => '85',
-      'unicode' => 58774,
+      'unicode' => 
+      array (
+        0 => 58774,
+      ),
       'sjis' => 'F7B3',
       'jis' => '7835',
     ),
     'softbank' => 
     array (
       'number' => '245',
-      'unicode' => 57353,
+      'unicode' => 
+      array (
+        0 => 57353,
+      ),
       'sjis' => 'F949',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041699,
+      'unicode' => 
+      array (
+        0 => 1041699,
+      ),
     ),
   ),
   329 => 
   array (
     'mapid' => '#e-524',
-    'unicode' => 128222,
+    'unicode' => 
+    array (
+      0 => 128222,
+    ),
     'char_name' => 
     array (
       'title' => 'TELEPHONE RECEIVER',
@@ -10970,33 +15285,48 @@ Temporary Notes: Moon viewing (お月見)',
     'docomo' => 
     array (
       'number' => '74',
-      'unicode' => 59015,
+      'unicode' => 
+      array (
+        0 => 59015,
+      ),
       'sjis' => 'F8E8',
       'jis' => '7835',
     ),
     'au' => 
     array (
       'number' => '155',
-      'unicode' => 58654,
+      'unicode' => 
+      array (
+        0 => 58654,
+      ),
       'sjis' => 'F6F7',
       'jis' => '7679',
     ),
     'softbank' => 
     array (
       'number' => '245',
-      'unicode' => 57353,
+      'unicode' => 
+      array (
+        0 => 57353,
+      ),
       'sjis' => 'F949',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041700,
+      'unicode' => 
+      array (
+        0 => 1041700,
+      ),
     ),
   ),
   330 => 
   array (
     'mapid' => '#e-525',
-    'unicode' => 128241,
+    'unicode' => 
+    array (
+      0 => 128241,
+    ),
     'char_name' => 
     array (
       'title' => 'MOBILE PHONE',
@@ -11005,33 +15335,48 @@ Temporary Notes: Moon viewing (お月見)',
     'docomo' => 
     array (
       'number' => '75',
-      'unicode' => 59016,
+      'unicode' => 
+      array (
+        0 => 59016,
+      ),
       'sjis' => 'F8E9',
       'jis' => '7827',
     ),
     'au' => 
     array (
       'number' => '161',
-      'unicode' => 58760,
+      'unicode' => 
+      array (
+        0 => 58760,
+      ),
       'sjis' => 'F7A5',
       'jis' => '7827',
     ),
     'softbank' => 
     array (
       'number' => '244',
-      'unicode' => 57354,
+      'unicode' => 
+      array (
+        0 => 57354,
+      ),
       'sjis' => 'F94A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041701,
+      'unicode' => 
+      array (
+        0 => 1041701,
+      ),
     ),
   ),
   331 => 
   array (
     'mapid' => '#e-526',
-    'unicode' => 128242,
+    'unicode' => 
+    array (
+      0 => 128242,
+    ),
     'char_name' => 
     array (
       'title' => 'MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT',
@@ -11041,33 +15386,48 @@ Temporary Notes: Moon viewing (お月見)',
     'docomo' => 
     array (
       'number' => '105',
-      'unicode' => 59086,
+      'unicode' => 
+      array (
+        0 => 59086,
+      ),
       'sjis' => 'F972',
       'jis' => '7861',
     ),
     'au' => 
     array (
       'number' => '513',
-      'unicode' => 60168,
+      'unicode' => 
+      array (
+        0 => 60168,
+      ),
       'sjis' => 'F7DF',
       'jis' => '7861',
     ),
     'softbank' => 
     array (
       'number' => '243',
-      'unicode' => 57604,
+      'unicode' => 
+      array (
+        0 => 57604,
+      ),
       'sjis' => 'F744',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041702,
+      'unicode' => 
+      array (
+        0 => 1041702,
+      ),
     ),
   ),
   332 => 
   array (
     'mapid' => '#e-527',
-    'unicode' => 128221,
+    'unicode' => 
+    array (
+      0 => 128221,
+    ),
     'char_name' => 
     array (
       'title' => 'MEMO',
@@ -11076,33 +15436,48 @@ Temporary Notes: Moon viewing (お月見)',
     'docomo' => 
     array (
       'number' => '76',
-      'unicode' => 59017,
+      'unicode' => 
+      array (
+        0 => 59017,
+      ),
       'sjis' => 'F8EA',
       'jis' => '7946',
     ),
     'au' => 
     array (
       'number' => '395',
-      'unicode' => 60050,
+      'unicode' => 
+      array (
+        0 => 60050,
+      ),
       'sjis' => 'F365',
       'jis' => '7946',
     ),
     'softbank' => 
     array (
       'number' => '237',
-      'unicode' => 58113,
+      'unicode' => 
+      array (
+        0 => 58113,
+      ),
       'sjis' => 'F9A1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041703,
+      'unicode' => 
+      array (
+        0 => 1041703,
+      ),
     ),
   ),
   333 => 
   array (
     'mapid' => '#e-528',
-    'unicode' => 128224,
+    'unicode' => 
+    array (
+      0 => 128224,
+    ),
     'char_name' => 
     array (
       'title' => 'FAX MACHINE',
@@ -11111,33 +15486,48 @@ Temporary Notes: Moon viewing (お月見)',
     'docomo' => 
     array (
       'number' => '107',
-      'unicode' => 59088,
+      'unicode' => 
+      array (
+        0 => 59088,
+      ),
       'sjis' => 'F974',
       'jis' => '767B',
     ),
     'au' => 
     array (
       'number' => '166',
-      'unicode' => 58656,
+      'unicode' => 
+      array (
+        0 => 58656,
+      ),
       'sjis' => 'F6F9',
       'jis' => '767B',
     ),
     'softbank' => 
     array (
       'number' => '246',
-      'unicode' => 57355,
+      'unicode' => 
+      array (
+        0 => 57355,
+      ),
       'sjis' => 'F94B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041704,
+      'unicode' => 
+      array (
+        0 => 1041704,
+      ),
     ),
   ),
   334 => 
   array (
     'mapid' => '#e-529',
-    'unicode' => 9993,
+    'unicode' => 
+    array (
+      0 => 9993,
+    ),
     'char_name' => 
     array (
       'title' => 'ENVELOPE',
@@ -11146,33 +15536,48 @@ Temporary Notes: Moon viewing (お月見)',
     'docomo' => 
     array (
       'number' => '110',
-      'unicode' => 59091,
+      'unicode' => 
+      array (
+        0 => 59091,
+      ),
       'sjis' => 'F977',
       'jis' => '767C',
     ),
     'au' => 
     array (
       'number' => '108',
-      'unicode' => 58657,
+      'unicode' => 
+      array (
+        0 => 58657,
+      ),
       'sjis' => 'F6FA',
       'jis' => '767C',
     ),
     'softbank' => 
     array (
       'number' => '242',
-      'unicode' => 57603,
+      'unicode' => 
+      array (
+        0 => 57603,
+      ),
       'sjis' => 'F743',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041705,
+      'unicode' => 
+      array (
+        0 => 1041705,
+      ),
     ),
   ),
   335 => 
   array (
     'mapid' => '#e-52A',
-    'unicode' => 128232,
+    'unicode' => 
+    array (
+      0 => 128232,
+    ),
     'char_name' => 
     array (
       'title' => 'INCOMING ENVELOPE',
@@ -11182,33 +15587,48 @@ Temporary Notes: Mail (with cartoon movement marks). Might be allocated in the U
     'docomo' => 
     array (
       'number' => '106',
-      'unicode' => 59087,
+      'unicode' => 
+      array (
+        0 => 59087,
+      ),
       'sjis' => 'F973',
       'jis' => '7B47',
     ),
     'au' => 
     array (
       'number' => '151',
-      'unicode' => 58769,
+      'unicode' => 
+      array (
+        0 => 58769,
+      ),
       'sjis' => 'F7AE',
       'jis' => '7830',
     ),
     'softbank' => 
     array (
       'number' => '242',
-      'unicode' => 57603,
+      'unicode' => 
+      array (
+        0 => 57603,
+      ),
       'sjis' => 'F743',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041706,
+      'unicode' => 
+      array (
+        0 => 1041706,
+      ),
     ),
   ),
   336 => 
   array (
     'mapid' => '#e-52B',
-    'unicode' => 128233,
+    'unicode' => 
+    array (
+      0 => 128233,
+    ),
     'char_name' => 
     array (
       'title' => 'ENVELOPE WITH DOWNWARDS ARROW ABOVE',
@@ -11219,33 +15639,48 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'docomo' => 
     array (
       'number' => '106',
-      'unicode' => 59087,
+      'unicode' => 
+      array (
+        0 => 59087,
+      ),
       'sjis' => 'F973',
       'jis' => '7B47',
     ),
     'au' => 
     array (
       'number' => '784',
-      'unicode' => 60258,
+      'unicode' => 
+      array (
+        0 => 60258,
+      ),
       'sjis' => 'F466',
       'jis' => '7B47',
     ),
     'softbank' => 
     array (
       'number' => '242',
-      'unicode' => 57603,
+      'unicode' => 
+      array (
+        0 => 57603,
+      ),
       'sjis' => 'F743',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041707,
+      'unicode' => 
+      array (
+        0 => 1041707,
+      ),
     ),
   ),
   337 => 
   array (
     'mapid' => '#e-52C',
-    'unicode' => 128234,
+    'unicode' => 
+    array (
+      0 => 128234,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOSED MAILBOX WITH LOWERED FLAG',
@@ -11255,33 +15690,48 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'docomo' => 
     array (
       'number' => '40',
-      'unicode' => 58981,
+      'unicode' => 
+      array (
+        0 => 58981,
+      ),
       'sjis' => 'F8C6',
       'jis' => '7932',
     ),
     'au' => 
     array (
       'number' => '129',
-      'unicode' => 58651,
+      'unicode' => 
+      array (
+        0 => 58651,
+      ),
       'sjis' => 'F6F4',
       'jis' => '7676',
     ),
     'softbank' => 
     array (
       'number' => '323',
-      'unicode' => 57601,
+      'unicode' => 
+      array (
+        0 => 57601,
+      ),
       'sjis' => 'F741',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041708,
+      'unicode' => 
+      array (
+        0 => 1041708,
+      ),
     ),
   ),
   338 => 
   array (
     'mapid' => '#e-52D',
-    'unicode' => 128235,
+    'unicode' => 
+    array (
+      0 => 128235,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOSED MAILBOX WITH RAISED FLAG',
@@ -11290,33 +15740,48 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'docomo' => 
     array (
       'number' => '40',
-      'unicode' => 58981,
+      'unicode' => 
+      array (
+        0 => 58981,
+      ),
       'sjis' => 'F8C6',
       'jis' => '7932',
     ),
     'au' => 
     array (
       'number' => '515',
-      'unicode' => 60170,
+      'unicode' => 
+      array (
+        0 => 60170,
+      ),
       'sjis' => 'F7E1',
       'jis' => '7863',
     ),
     'softbank' => 
     array (
       'number' => '323',
-      'unicode' => 57601,
+      'unicode' => 
+      array (
+        0 => 57601,
+      ),
       'sjis' => 'F741',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041709,
+      'unicode' => 
+      array (
+        0 => 1041709,
+      ),
     ),
   ),
   339 => 
   array (
     'mapid' => '#e-52E',
-    'unicode' => 128238,
+    'unicode' => 
+    array (
+      0 => 128238,
+    ),
     'char_name' => 
     array (
       'title' => 'POSTBOX',
@@ -11325,33 +15790,48 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'docomo' => 
     array (
       'number' => '40',
-      'unicode' => 58981,
+      'unicode' => 
+      array (
+        0 => 58981,
+      ),
       'sjis' => 'F8C6',
       'jis' => '7932',
     ),
     'au' => 
     array (
       'number' => '129',
-      'unicode' => 58651,
+      'unicode' => 
+      array (
+        0 => 58651,
+      ),
       'sjis' => 'F6F4',
       'jis' => '7676',
     ),
     'softbank' => 
     array (
       'number' => '324',
-      'unicode' => 57602,
+      'unicode' => 
+      array (
+        0 => 57602,
+      ),
       'sjis' => 'F742',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041710,
+      'unicode' => 
+      array (
+        0 => 1041710,
+      ),
     ),
   ),
   340 => 
   array (
     'mapid' => '#e-822',
-    'unicode' => 128240,
+    'unicode' => 
+    array (
+      0 => 128240,
+    ),
     'char_name' => 
     array (
       'title' => 'NEWSPAPER',
@@ -11364,7 +15844,10 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'au' => 
     array (
       'number' => '171',
-      'unicode' => 58763,
+      'unicode' => 
+      array (
+        0 => 58763,
+      ),
       'sjis' => 'F7A8',
       'jis' => '782A',
     ),
@@ -11374,13 +15857,19 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     ),
     'google' => 
     array (
-      'unicode' => 1042466,
+      'unicode' => 
+      array (
+        0 => 1042466,
+      ),
     ),
   ),
   341 => 
   array (
     'mapid' => '#e-52F',
-    'unicode' => 128226,
+    'unicode' => 
+    array (
+      0 => 128226,
+    ),
     'char_name' => 
     array (
       'title' => 'PUBLIC ADDRESS LOUDSPEAKER',
@@ -11393,26 +15882,38 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'au' => 
     array (
       'number' => '13',
-      'unicode' => 58641,
+      'unicode' => 
+      array (
+        0 => 58641,
+      ),
       'sjis' => 'F6EA',
       'jis' => '766C',
     ),
     'softbank' => 
     array (
       'number' => '150',
-      'unicode' => 57666,
+      'unicode' => 
+      array (
+        0 => 57666,
+      ),
       'sjis' => 'F783',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041711,
+      'unicode' => 
+      array (
+        0 => 1041711,
+      ),
     ),
   ),
   342 => 
   array (
     'mapid' => '#e-530',
-    'unicode' => 128227,
+    'unicode' => 
+    array (
+      0 => 128227,
+    ),
     'char_name' => 
     array (
       'title' => 'CHEERING MEGAPHONE',
@@ -11425,26 +15926,38 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'au' => 
     array (
       'number' => '13',
-      'unicode' => 58641,
+      'unicode' => 
+      array (
+        0 => 58641,
+      ),
       'sjis' => 'F6EA',
       'jis' => '766C',
     ),
     'softbank' => 
     array (
       'number' => '151',
-      'unicode' => 58135,
+      'unicode' => 
+      array (
+        0 => 58135,
+      ),
       'sjis' => 'F9B7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041712,
+      'unicode' => 
+      array (
+        0 => 1041712,
+      ),
     ),
   ),
   343 => 
   array (
     'mapid' => '#e-531',
-    'unicode' => 128225,
+    'unicode' => 
+    array (
+      0 => 128225,
+    ),
     'char_name' => 
     array (
       'title' => 'SATELLITE ANTENNA',
@@ -11457,26 +15970,38 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'au' => 
     array (
       'number' => '210',
-      'unicode' => 58536,
+      'unicode' => 
+      array (
+        0 => 58536,
+      ),
       'sjis' => 'F681',
       'jis' => '7561',
     ),
     'softbank' => 
     array (
       'number' => '249',
-      'unicode' => 57675,
+      'unicode' => 
+      array (
+        0 => 57675,
+      ),
       'sjis' => 'F78C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041713,
+      'unicode' => 
+      array (
+        0 => 1041713,
+      ),
     ),
   ),
   344 => 
   array (
     'mapid' => '#e-533',
-    'unicode' => 128228,
+    'unicode' => 
+    array (
+      0 => 128228,
+    ),
     'char_name' => 
     array (
       'title' => 'OUTBOX TRAY',
@@ -11489,7 +16014,10 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'au' => 
     array (
       'number' => '153',
-      'unicode' => 58770,
+      'unicode' => 
+      array (
+        0 => 58770,
+      ),
       'sjis' => 'F7AF',
       'jis' => '7831',
     ),
@@ -11499,13 +16027,19 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     ),
     'google' => 
     array (
-      'unicode' => 1041715,
+      'unicode' => 
+      array (
+        0 => 1041715,
+      ),
     ),
   ),
   345 => 
   array (
     'mapid' => '#e-534',
-    'unicode' => 128229,
+    'unicode' => 
+    array (
+      0 => 128229,
+    ),
     'char_name' => 
     array (
       'title' => 'INBOX TRAY',
@@ -11518,7 +16052,10 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'au' => 
     array (
       'number' => '154',
-      'unicode' => 58771,
+      'unicode' => 
+      array (
+        0 => 58771,
+      ),
       'sjis' => 'F7B0',
       'jis' => '7832',
     ),
@@ -11528,13 +16065,19 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     ),
     'google' => 
     array (
-      'unicode' => 1041716,
+      'unicode' => 
+      array (
+        0 => 1041716,
+      ),
     ),
   ),
   346 => 
   array (
     'mapid' => '#e-535',
-    'unicode' => 128230,
+    'unicode' => 
+    array (
+      0 => 128230,
+    ),
     'char_name' => 
     array (
       'title' => 'PACKAGE',
@@ -11543,33 +16086,48 @@ Temporary Notes: Might be allocated in the U+27xx Dingbats block with U+2709 ENV
     'docomo' => 
     array (
       'number' => '72',
-      'unicode' => 59013,
+      'unicode' => 
+      array (
+        0 => 59013,
+      ),
       'sjis' => 'F8E6',
       'jis' => '762A',
     ),
     'au' => 
     array (
       'number' => '165',
-      'unicode' => 58655,
+      'unicode' => 
+      array (
+        0 => 58655,
+      ),
       'sjis' => 'F6F8',
       'jis' => '767A',
     ),
     'softbank' => 
     array (
       'number' => '136',
-      'unicode' => 57618,
+      'unicode' => 
+      array (
+        0 => 57618,
+      ),
       'sjis' => 'F752',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041717,
+      'unicode' => 
+      array (
+        0 => 1041717,
+      ),
     ),
   ),
   347 => 
   array (
     'mapid' => '#e-B92',
-    'unicode' => 128231,
+    'unicode' => 
+    array (
+      0 => 128231,
+    ),
     'char_name' => 
     array (
       'title' => 'E-MAIL SYMBOL',
@@ -11579,33 +16137,48 @@ Temporary Notes: Email (Envelope with "E")',
     'docomo' => 
     array (
       'number' => '110',
-      'unicode' => 59091,
+      'unicode' => 
+      array (
+        0 => 59091,
+      ),
       'sjis' => 'F977',
       'jis' => '767C',
     ),
     'au' => 
     array (
       'number' => '799',
-      'unicode' => 60273,
+      'unicode' => 
+      array (
+        0 => 60273,
+      ),
       'sjis' => 'F475',
       'jis' => '7B56',
     ),
     'softbank' => 
     array (
       'number' => '242',
-      'unicode' => 57603,
+      'unicode' => 
+      array (
+        0 => 57603,
+      ),
       'sjis' => 'F743',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043346,
+      'unicode' => 
+      array (
+        0 => 1043346,
+      ),
     ),
   ),
   348 => 
   array (
     'mapid' => '#e-B7C',
-    'unicode' => 128288,
+    'unicode' => 
+    array (
+      0 => 128288,
+    ),
     'char_name' => 
     array (
       'title' => 'INPUT SYMBOL FOR LATIN CAPITAL LETTERS',
@@ -11619,7 +16192,10 @@ Temporary Notes: Letters (ABCD, uppercase)',
     'au' => 
     array (
       'number' => '502',
-      'unicode' => 60157,
+      'unicode' => 
+      array (
+        0 => 60157,
+      ),
       'sjis' => 'F7D4',
       'jis' => '7856',
     ),
@@ -11629,13 +16205,19 @@ Temporary Notes: Letters (ABCD, uppercase)',
     ),
     'google' => 
     array (
-      'unicode' => 1043324,
+      'unicode' => 
+      array (
+        0 => 1043324,
+      ),
     ),
   ),
   349 => 
   array (
     'mapid' => '#e-B7D',
-    'unicode' => 128289,
+    'unicode' => 
+    array (
+      0 => 128289,
+    ),
     'char_name' => 
     array (
       'title' => 'INPUT SYMBOL FOR LATIN SMALL LETTERS',
@@ -11649,7 +16231,10 @@ Temporary Notes: Letters (abcd, lowercase)',
     'au' => 
     array (
       'number' => '503',
-      'unicode' => 60158,
+      'unicode' => 
+      array (
+        0 => 60158,
+      ),
       'sjis' => 'F7D5',
       'jis' => '7857',
     ),
@@ -11659,13 +16244,19 @@ Temporary Notes: Letters (abcd, lowercase)',
     ),
     'google' => 
     array (
-      'unicode' => 1043325,
+      'unicode' => 
+      array (
+        0 => 1043325,
+      ),
     ),
   ),
   350 => 
   array (
     'mapid' => '#e-B7E',
-    'unicode' => 128290,
+    'unicode' => 
+    array (
+      0 => 128290,
+    ),
     'char_name' => 
     array (
       'title' => 'INPUT SYMBOL FOR NUMBERS',
@@ -11679,7 +16270,10 @@ Temporary Notes: Numbers (1234)',
     'au' => 
     array (
       'number' => '504',
-      'unicode' => 60159,
+      'unicode' => 
+      array (
+        0 => 60159,
+      ),
       'sjis' => 'F7D6',
       'jis' => '7858',
     ),
@@ -11689,13 +16283,19 @@ Temporary Notes: Numbers (1234)',
     ),
     'google' => 
     array (
-      'unicode' => 1043326,
+      'unicode' => 
+      array (
+        0 => 1043326,
+      ),
     ),
   ),
   351 => 
   array (
     'mapid' => '#e-B7F',
-    'unicode' => 128291,
+    'unicode' => 
+    array (
+      0 => 128291,
+    ),
     'char_name' => 
     array (
       'title' => 'INPUT SYMBOL FOR SYMBOLS',
@@ -11709,7 +16309,10 @@ Temporary Notes: Symbols (〒, ♪, @, %)',
     'au' => 
     array (
       'number' => '505',
-      'unicode' => 60160,
+      'unicode' => 
+      array (
+        0 => 60160,
+      ),
       'sjis' => 'F7D7',
       'jis' => '7859',
     ),
@@ -11719,13 +16322,19 @@ Temporary Notes: Symbols (〒, ♪, @, %)',
     ),
     'google' => 
     array (
-      'unicode' => 1043327,
+      'unicode' => 
+      array (
+        0 => 1043327,
+      ),
     ),
   ),
   352 => 
   array (
     'mapid' => '#e-B80',
-    'unicode' => 128292,
+    'unicode' => 
+    array (
+      0 => 128292,
+    ),
     'char_name' => 
     array (
       'title' => 'INPUT SYMBOL FOR LATIN LETTERS',
@@ -11740,7 +16349,10 @@ Temporary Notes: English (ABC)',
     'au' => 
     array (
       'number' => '771',
-      'unicode' => 60245,
+      'unicode' => 
+      array (
+        0 => 60245,
+      ),
       'sjis' => 'F459',
       'jis' => '7B3A',
     ),
@@ -11750,13 +16362,19 @@ Temporary Notes: English (ABC)',
     ),
     'google' => 
     array (
-      'unicode' => 1043328,
+      'unicode' => 
+      array (
+        0 => 1043328,
+      ),
     ),
   ),
   353 => 
   array (
     'mapid' => '#e-536',
-    'unicode' => 10002,
+    'unicode' => 
+    array (
+      0 => 10002,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK NIB',
@@ -11765,14 +16383,20 @@ Temporary Notes: English (ABC)',
     'docomo' => 
     array (
       'number' => '169',
-      'unicode' => 59054,
+      'unicode' => 
+      array (
+        0 => 59054,
+      ),
       'sjis' => 'F952',
       'jis' => '785C',
     ),
     'au' => 
     array (
       'number' => '508',
-      'unicode' => 60163,
+      'unicode' => 
+      array (
+        0 => 60163,
+      ),
       'sjis' => 'F7DA',
       'jis' => '785C',
     ),
@@ -11782,13 +16406,19 @@ Temporary Notes: English (ABC)',
     ),
     'google' => 
     array (
-      'unicode' => 1041718,
+      'unicode' => 
+      array (
+        0 => 1041718,
+      ),
     ),
   ),
   354 => 
   array (
     'mapid' => '#e-537',
-    'unicode' => 128186,
+    'unicode' => 
+    array (
+      0 => 128186,
+    ),
     'char_name' => 
     array (
       'title' => 'SEAT',
@@ -11797,7 +16427,10 @@ Temporary Notes: English (ABC)',
     'docomo' => 
     array (
       'number' => '171',
-      'unicode' => 59058,
+      'unicode' => 
+      array (
+        0 => 59058,
+      ),
       'sjis' => 'F956',
       'jis' => '7D57',
     ),
@@ -11808,19 +16441,28 @@ Temporary Notes: English (ABC)',
     'softbank' => 
     array (
       'number' => '264',
-      'unicode' => 57631,
+      'unicode' => 
+      array (
+        0 => 57631,
+      ),
       'sjis' => 'F75F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041719,
+      'unicode' => 
+      array (
+        0 => 1041719,
+      ),
     ),
   ),
   355 => 
   array (
     'mapid' => '#e-538',
-    'unicode' => 128187,
+    'unicode' => 
+    array (
+      0 => 128187,
+    ),
     'char_name' => 
     array (
       'title' => 'PERSONAL COMPUTER',
@@ -11829,33 +16471,48 @@ Temporary Notes: English (ABC)',
     'docomo' => 
     array (
       'number' => 'Exp.11',
-      'unicode' => 59158,
+      'unicode' => 
+      array (
+        0 => 59158,
+      ),
       'sjis' => 'F9BB',
       'jis' => '786A',
     ),
     'au' => 
     array (
       'number' => '337',
-      'unicode' => 58808,
+      'unicode' => 
+      array (
+        0 => 58808,
+      ),
       'sjis' => 'F7E8',
       'jis' => '786A',
     ),
     'softbank' => 
     array (
       'number' => '241',
-      'unicode' => 57356,
+      'unicode' => 
+      array (
+        0 => 57356,
+      ),
       'sjis' => 'F94C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041720,
+      'unicode' => 
+      array (
+        0 => 1041720,
+      ),
     ),
   ),
   356 => 
   array (
     'mapid' => '#e-539',
-    'unicode' => 9999,
+    'unicode' => 
+    array (
+      0 => 9999,
+    ),
     'char_name' => 
     array (
       'title' => 'PENCIL',
@@ -11864,33 +16521,48 @@ Temporary Notes: English (ABC)',
     'docomo' => 
     array (
       'number' => 'Exp.14',
-      'unicode' => 59161,
+      'unicode' => 
+      array (
+        0 => 59161,
+      ),
       'sjis' => 'F9BE',
       'jis' => '755A',
     ),
     'au' => 
     array (
       'number' => '149',
-      'unicode' => 58529,
+      'unicode' => 
+      array (
+        0 => 58529,
+      ),
       'sjis' => 'F679',
       'jis' => '755A',
     ),
     'softbank' => 
     array (
       'number' => '237',
-      'unicode' => 58113,
+      'unicode' => 
+      array (
+        0 => 58113,
+      ),
       'sjis' => 'F9A1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041721,
+      'unicode' => 
+      array (
+        0 => 1041721,
+      ),
     ),
   ),
   357 => 
   array (
     'mapid' => '#e-53A',
-    'unicode' => 128206,
+    'unicode' => 
+    array (
+      0 => 128206,
+    ),
     'char_name' => 
     array (
       'title' => 'PAPERCLIP',
@@ -11899,14 +16571,20 @@ Temporary Notes: English (ABC)',
     'docomo' => 
     array (
       'number' => 'Exp.37',
-      'unicode' => 59184,
+      'unicode' => 
+      array (
+        0 => 59184,
+      ),
       'sjis' => 'F9D5',
       'jis' => '7559',
     ),
     'au' => 
     array (
       'number' => '143',
-      'unicode' => 58528,
+      'unicode' => 
+      array (
+        0 => 58528,
+      ),
       'sjis' => 'F678',
       'jis' => '7559',
     ),
@@ -11916,13 +16594,19 @@ Temporary Notes: English (ABC)',
     ),
     'google' => 
     array (
-      'unicode' => 1041722,
+      'unicode' => 
+      array (
+        0 => 1041722,
+      ),
     ),
   ),
   358 => 
   array (
     'mapid' => '#e-53B',
-    'unicode' => 128188,
+    'unicode' => 
+    array (
+      0 => 128188,
+    ),
     'char_name' => 
     array (
       'title' => 'BRIEFCASE',
@@ -11931,33 +16615,48 @@ Temporary Notes: English (ABC)',
     'docomo' => 
     array (
       'number' => '69',
-      'unicode' => 59010,
+      'unicode' => 
+      array (
+        0 => 59010,
+      ),
       'sjis' => 'F8E3',
       'jis' => '7555',
     ),
     'au' => 
     array (
       'number' => '359',
-      'unicode' => 58830,
+      'unicode' => 
+      array (
+        0 => 58830,
+      ),
       'sjis' => 'F341',
       'jis' => '7922',
     ),
     'softbank' => 
     array (
       'number' => '227',
-      'unicode' => 57630,
+      'unicode' => 
+      array (
+        0 => 57630,
+      ),
       'sjis' => 'F75E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041723,
+      'unicode' => 
+      array (
+        0 => 1041723,
+      ),
     ),
   ),
   359 => 
   array (
     'mapid' => '#e-53C',
-    'unicode' => 128189,
+    'unicode' => 
+    array (
+      0 => 128189,
+    ),
     'char_name' => 
     array (
       'title' => 'MINIDISC',
@@ -11971,26 +16670,38 @@ Temporary Notes: MD mini disc',
     'au' => 
     array (
       'number' => '126',
-      'unicode' => 58754,
+      'unicode' => 
+      array (
+        0 => 58754,
+      ),
       'sjis' => 'F79F',
       'jis' => '7821',
     ),
     'softbank' => 
     array (
       'number' => '256',
-      'unicode' => 58134,
+      'unicode' => 
+      array (
+        0 => 58134,
+      ),
       'sjis' => 'F9B6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041724,
+      'unicode' => 
+      array (
+        0 => 1041724,
+      ),
     ),
   ),
   360 => 
   array (
     'mapid' => '#e-53D',
-    'unicode' => 128190,
+    'unicode' => 
+    array (
+      0 => 128190,
+    ),
     'char_name' => 
     array (
       'title' => 'FLOPPY DISK',
@@ -12003,26 +16714,38 @@ Temporary Notes: MD mini disc',
     'au' => 
     array (
       'number' => '59',
-      'unicode' => 58722,
+      'unicode' => 
+      array (
+        0 => 58722,
+      ),
       'sjis' => 'F77E',
       'jis' => '775F',
     ),
     'softbank' => 
     array (
       'number' => '256',
-      'unicode' => 58134,
+      'unicode' => 
+      array (
+        0 => 58134,
+      ),
       'sjis' => 'F9B6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041725,
+      'unicode' => 
+      array (
+        0 => 1041725,
+      ),
     ),
   ),
   361 => 
   array (
     'mapid' => '#e-81D',
-    'unicode' => 128191,
+    'unicode' => 
+    array (
+      0 => 128191,
+    ),
     'char_name' => 
     array (
       'title' => 'OPTICAL DISC',
@@ -12031,33 +16754,48 @@ Temporary Notes: MD mini disc',
     'docomo' => 
     array (
       'number' => '79',
-      'unicode' => 59020,
+      'unicode' => 
+      array (
+        0 => 59020,
+      ),
       'sjis' => 'F8ED',
       'jis' => '7667',
     ),
     'au' => 
     array (
       'number' => '300',
-      'unicode' => 58636,
+      'unicode' => 
+      array (
+        0 => 58636,
+      ),
       'sjis' => 'F6E5',
       'jis' => '7667',
     ),
     'softbank' => 
     array (
       'number' => '253',
-      'unicode' => 57638,
+      'unicode' => 
+      array (
+        0 => 57638,
+      ),
       'sjis' => 'F766',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042461,
+      'unicode' => 
+      array (
+        0 => 1042461,
+      ),
     ),
   ),
   362 => 
   array (
     'mapid' => '#e-81E',
-    'unicode' => 128192,
+    'unicode' => 
+    array (
+      0 => 128192,
+    ),
     'char_name' => 
     array (
       'title' => 'DVD',
@@ -12066,33 +16804,48 @@ Temporary Notes: MD mini disc',
     'docomo' => 
     array (
       'number' => '79',
-      'unicode' => 59020,
+      'unicode' => 
+      array (
+        0 => 59020,
+      ),
       'sjis' => 'F8ED',
       'jis' => '7667',
     ),
     'au' => 
     array (
       'number' => '300',
-      'unicode' => 58636,
+      'unicode' => 
+      array (
+        0 => 58636,
+      ),
       'sjis' => 'F6E5',
       'jis' => '7667',
     ),
     'softbank' => 
     array (
       'number' => '254',
-      'unicode' => 57639,
+      'unicode' => 
+      array (
+        0 => 57639,
+      ),
       'sjis' => 'F767',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042462,
+      'unicode' => 
+      array (
+        0 => 1042462,
+      ),
     ),
   ),
   363 => 
   array (
     'mapid' => '#e-53E',
-    'unicode' => 9986,
+    'unicode' => 
+    array (
+      0 => 9986,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK SCISSORS',
@@ -12101,33 +16854,48 @@ Temporary Notes: MD mini disc',
     'docomo' => 
     array (
       'number' => '56',
-      'unicode' => 58997,
+      'unicode' => 
+      array (
+        0 => 58997,
+      ),
       'sjis' => 'F8D6',
       'jis' => '7671',
     ),
     'au' => 
     array (
       'number' => '104',
-      'unicode' => 58646,
+      'unicode' => 
+      array (
+        0 => 58646,
+      ),
       'sjis' => 'F6EF',
       'jis' => '7671',
     ),
     'softbank' => 
     array (
       'number' => '238',
-      'unicode' => 58131,
+      'unicode' => 
+      array (
+        0 => 58131,
+      ),
       'sjis' => 'F9B3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041726,
+      'unicode' => 
+      array (
+        0 => 1041726,
+      ),
     ),
   ),
   364 => 
   array (
     'mapid' => '#e-53F',
-    'unicode' => 128205,
+    'unicode' => 
+    array (
+      0 => 128205,
+    ),
     'char_name' => 
     array (
       'title' => 'ROUND PUSHPIN',
@@ -12140,7 +16908,10 @@ Temporary Notes: MD mini disc',
     'au' => 
     array (
       'number' => '49',
-      'unicode' => 58720,
+      'unicode' => 
+      array (
+        0 => 58720,
+      ),
       'sjis' => 'F77C',
       'jis' => '775D',
     ),
@@ -12150,13 +16921,19 @@ Temporary Notes: MD mini disc',
     ),
     'google' => 
     array (
-      'unicode' => 1041727,
+      'unicode' => 
+      array (
+        0 => 1041727,
+      ),
     ),
   ),
   365 => 
   array (
     'mapid' => '#e-540',
-    'unicode' => 128195,
+    'unicode' => 
+    array (
+      0 => 128195,
+    ),
     'char_name' => 
     array (
       'title' => 'PAGE WITH CURL',
@@ -12165,33 +16942,48 @@ Temporary Notes: MD mini disc',
     'docomo' => 
     array (
       'number' => '76',
-      'unicode' => 59017,
+      'unicode' => 
+      array (
+        0 => 59017,
+      ),
       'sjis' => 'F8EA',
       'jis' => '7946',
     ),
     'au' => 
     array (
       'number' => '56',
-      'unicode' => 58721,
+      'unicode' => 
+      array (
+        0 => 58721,
+      ),
       'sjis' => 'F77D',
       'jis' => '775E',
     ),
     'softbank' => 
     array (
       'number' => '237',
-      'unicode' => 58113,
+      'unicode' => 
+      array (
+        0 => 58113,
+      ),
       'sjis' => 'F9A1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041728,
+      'unicode' => 
+      array (
+        0 => 1041728,
+      ),
     ),
   ),
   366 => 
   array (
     'mapid' => '#e-541',
-    'unicode' => 128196,
+    'unicode' => 
+    array (
+      0 => 128196,
+    ),
     'char_name' => 
     array (
       'title' => 'PAGE FACING UP',
@@ -12200,33 +16992,48 @@ Temporary Notes: MD mini disc',
     'docomo' => 
     array (
       'number' => '76',
-      'unicode' => 59017,
+      'unicode' => 
+      array (
+        0 => 59017,
+      ),
       'sjis' => 'F8EA',
       'jis' => '7946',
     ),
     'au' => 
     array (
       'number' => '103',
-      'unicode' => 58729,
+      'unicode' => 
+      array (
+        0 => 58729,
+      ),
       'sjis' => 'F786',
       'jis' => '7766',
     ),
     'softbank' => 
     array (
       'number' => '237',
-      'unicode' => 58113,
+      'unicode' => 
+      array (
+        0 => 58113,
+      ),
       'sjis' => 'F9A1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041729,
+      'unicode' => 
+      array (
+        0 => 1041729,
+      ),
     ),
   ),
   367 => 
   array (
     'mapid' => '#e-542',
-    'unicode' => 128197,
+    'unicode' => 
+    array (
+      0 => 128197,
+    ),
     'char_name' => 
     array (
       'title' => 'CALENDAR',
@@ -12239,7 +17046,10 @@ Temporary Notes: MD mini disc',
     'au' => 
     array (
       'number' => '67',
-      'unicode' => 58723,
+      'unicode' => 
+      array (
+        0 => 58723,
+      ),
       'sjis' => 'F780',
       'jis' => '7760',
     ),
@@ -12249,13 +17059,19 @@ Temporary Notes: MD mini disc',
     ),
     'google' => 
     array (
-      'unicode' => 1041730,
+      'unicode' => 
+      array (
+        0 => 1041730,
+      ),
     ),
   ),
   368 => 
   array (
     'mapid' => '#e-543',
-    'unicode' => 128193,
+    'unicode' => 
+    array (
+      0 => 128193,
+    ),
     'char_name' => 
     array (
       'title' => 'FILE FOLDER',
@@ -12268,7 +17084,10 @@ Temporary Notes: MD mini disc',
     'au' => 
     array (
       'number' => '79',
-      'unicode' => 58767,
+      'unicode' => 
+      array (
+        0 => 58767,
+      ),
       'sjis' => 'F7AC',
       'jis' => '782E',
     ),
@@ -12278,13 +17097,19 @@ Temporary Notes: MD mini disc',
     ),
     'google' => 
     array (
-      'unicode' => 1041731,
+      'unicode' => 
+      array (
+        0 => 1041731,
+      ),
     ),
   ),
   369 => 
   array (
     'mapid' => '#e-544',
-    'unicode' => 128194,
+    'unicode' => 
+    array (
+      0 => 128194,
+    ),
     'char_name' => 
     array (
       'title' => 'OPEN FILE FOLDER',
@@ -12297,7 +17122,10 @@ Temporary Notes: MD mini disc',
     'au' => 
     array (
       'number' => '84',
-      'unicode' => 58768,
+      'unicode' => 
+      array (
+        0 => 58768,
+      ),
       'sjis' => 'F7AD',
       'jis' => '782F',
     ),
@@ -12307,13 +17135,19 @@ Temporary Notes: MD mini disc',
     ),
     'google' => 
     array (
-      'unicode' => 1041732,
+      'unicode' => 
+      array (
+        0 => 1041732,
+      ),
     ),
   ),
   370 => 
   array (
     'mapid' => '#e-545',
-    'unicode' => 128211,
+    'unicode' => 
+    array (
+      0 => 128211,
+    ),
     'char_name' => 
     array (
       'title' => 'NOTEBOOK',
@@ -12322,33 +17156,48 @@ Temporary Notes: MD mini disc',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '121',
-      'unicode' => 58731,
+      'unicode' => 
+      array (
+        0 => 58731,
+      ),
       'sjis' => 'F788',
       'jis' => '7768',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041733,
+      'unicode' => 
+      array (
+        0 => 1041733,
+      ),
     ),
   ),
   371 => 
   array (
     'mapid' => '#e-546',
-    'unicode' => 128214,
+    'unicode' => 
+    array (
+      0 => 128214,
+    ),
     'char_name' => 
     array (
       'title' => 'OPEN BOOK',
@@ -12359,33 +17208,48 @@ Temporary Notes: open book, open notebook',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '122',
-      'unicode' => 58527,
+      'unicode' => 
+      array (
+        0 => 58527,
+      ),
       'sjis' => 'F677',
       'jis' => '7558',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041734,
+      'unicode' => 
+      array (
+        0 => 1041734,
+      ),
     ),
   ),
   372 => 
   array (
     'mapid' => '#e-547',
-    'unicode' => 128212,
+    'unicode' => 
+    array (
+      0 => 128212,
+    ),
     'char_name' => 
     array (
       'title' => 'NOTEBOOK WITH DECORATIVE COVER',
@@ -12394,33 +17258,48 @@ Temporary Notes: open book, open notebook',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '91',
-      'unicode' => 58525,
+      'unicode' => 
+      array (
+        0 => 58525,
+      ),
       'sjis' => 'F675',
       'jis' => '7556',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041735,
+      'unicode' => 
+      array (
+        0 => 1041735,
+      ),
     ),
   ),
   373 => 
   array (
     'mapid' => '#e-502',
-    'unicode' => 128213,
+    'unicode' => 
+    array (
+      0 => 128213,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOSED BOOK',
@@ -12430,33 +17309,48 @@ Temporary Notes: vertical closed book',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '102',
-      'unicode' => 58728,
+      'unicode' => 
+      array (
+        0 => 58728,
+      ),
       'sjis' => 'F785',
       'jis' => '7765',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041666,
+      'unicode' => 
+      array (
+        0 => 1041666,
+      ),
     ),
   ),
   374 => 
   array (
     'mapid' => '#e-4FF',
-    'unicode' => 128215,
+    'unicode' => 
+    array (
+      0 => 128215,
+    ),
     'char_name' => 
     array (
       'title' => 'GREEN BOOK',
@@ -12466,33 +17360,48 @@ Temporary Notes: green colored book (closed)',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '97',
-      'unicode' => 58725,
+      'unicode' => 
+      array (
+        0 => 58725,
+      ),
       'sjis' => 'F782',
       'jis' => '7762',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041663,
+      'unicode' => 
+      array (
+        0 => 1041663,
+      ),
     ),
   ),
   375 => 
   array (
     'mapid' => '#e-500',
-    'unicode' => 128216,
+    'unicode' => 
+    array (
+      0 => 128216,
+    ),
     'char_name' => 
     array (
       'title' => 'BLUE BOOK',
@@ -12502,33 +17411,48 @@ Temporary Notes: blue colored book (closed)',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '100',
-      'unicode' => 58726,
+      'unicode' => 
+      array (
+        0 => 58726,
+      ),
       'sjis' => 'F783',
       'jis' => '7763',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041664,
+      'unicode' => 
+      array (
+        0 => 1041664,
+      ),
     ),
   ),
   376 => 
   array (
     'mapid' => '#e-501',
-    'unicode' => 128217,
+    'unicode' => 
+    array (
+      0 => 128217,
+    ),
     'char_name' => 
     array (
       'title' => 'ORANGE BOOK',
@@ -12538,33 +17462,48 @@ Temporary Notes: orange colored book (closed)',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '101',
-      'unicode' => 58727,
+      'unicode' => 
+      array (
+        0 => 58727,
+      ),
       'sjis' => 'F784',
       'jis' => '7764',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041665,
+      'unicode' => 
+      array (
+        0 => 1041665,
+      ),
     ),
   ),
   377 => 
   array (
     'mapid' => '#e-503',
-    'unicode' => 128218,
+    'unicode' => 
+    array (
+      0 => 128218,
+    ),
     'char_name' => 
     array (
       'title' => 'BOOKS',
@@ -12573,33 +17512,48 @@ Temporary Notes: orange colored book (closed)',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '147',
-      'unicode' => 58735,
+      'unicode' => 
+      array (
+        0 => 58735,
+      ),
       'sjis' => 'F78C',
       'jis' => '776C',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041667,
+      'unicode' => 
+      array (
+        0 => 1041667,
+      ),
     ),
   ),
   378 => 
   array (
     'mapid' => '#e-504',
-    'unicode' => 128219,
+    'unicode' => 
+    array (
+      0 => 128219,
+    ),
     'char_name' => 
     array (
       'title' => 'NAME BADGE',
@@ -12612,7 +17566,10 @@ Temporary Notes: orange colored book (closed)',
     'au' => 
     array (
       'number' => '145',
-      'unicode' => 58653,
+      'unicode' => 
+      array (
+        0 => 58653,
+      ),
       'sjis' => 'F6F6',
       'jis' => '7678',
     ),
@@ -12622,13 +17579,19 @@ Temporary Notes: orange colored book (closed)',
     ),
     'google' => 
     array (
-      'unicode' => 1041668,
+      'unicode' => 
+      array (
+        0 => 1041668,
+      ),
     ),
   ),
   379 => 
   array (
     'mapid' => '#e-4FD',
-    'unicode' => 128220,
+    'unicode' => 
+    array (
+      0 => 128220,
+    ),
     'char_name' => 
     array (
       'title' => 'SCROLL',
@@ -12637,14 +17600,20 @@ Temporary Notes: orange colored book (closed)',
     'docomo' => 
     array (
       'number' => '166',
-      'unicode' => 59146,
+      'unicode' => 
+      array (
+        0 => 59146,
+      ),
       'sjis' => 'F9AF',
       'jis' => '7A74',
     ),
     'au' => 
     array (
       'number' => '136',
-      'unicode' => 58719,
+      'unicode' => 
+      array (
+        0 => 58719,
+      ),
       'sjis' => 'F77B',
       'jis' => '775C',
     ),
@@ -12654,13 +17623,19 @@ Temporary Notes: orange colored book (closed)',
     ),
     'google' => 
     array (
-      'unicode' => 1041661,
+      'unicode' => 
+      array (
+        0 => 1041661,
+      ),
     ),
   ),
   380 => 
   array (
     'mapid' => '#e-548',
-    'unicode' => 128203,
+    'unicode' => 
+    array (
+      0 => 128203,
+    ),
     'char_name' => 
     array (
       'title' => 'CLIPBOARD',
@@ -12669,33 +17644,48 @@ Temporary Notes: orange colored book (closed)',
     'docomo' => 
     array (
       'number' => '76',
-      'unicode' => 59017,
+      'unicode' => 
+      array (
+        0 => 59017,
+      ),
       'sjis' => 'F8EA',
       'jis' => '7946',
     ),
     'au' => 
     array (
       'number' => '92',
-      'unicode' => 58724,
+      'unicode' => 
+      array (
+        0 => 58724,
+      ),
       'sjis' => 'F781',
       'jis' => '7761',
     ),
     'softbank' => 
     array (
       'number' => '237',
-      'unicode' => 58113,
+      'unicode' => 
+      array (
+        0 => 58113,
+      ),
       'sjis' => 'F9A1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041736,
+      'unicode' => 
+      array (
+        0 => 1041736,
+      ),
     ),
   ),
   381 => 
   array (
     'mapid' => '#e-549',
-    'unicode' => 128198,
+    'unicode' => 
+    array (
+      0 => 128198,
+    ),
     'char_name' => 
     array (
       'title' => 'TEAR-OFF CALENDAR',
@@ -12708,7 +17698,10 @@ Temporary Notes: orange colored book (closed)',
     'au' => 
     array (
       'number' => '105',
-      'unicode' => 58730,
+      'unicode' => 
+      array (
+        0 => 58730,
+      ),
       'sjis' => 'F787',
       'jis' => '7767',
     ),
@@ -12718,13 +17711,19 @@ Temporary Notes: orange colored book (closed)',
     ),
     'google' => 
     array (
-      'unicode' => 1041737,
+      'unicode' => 
+      array (
+        0 => 1041737,
+      ),
     ),
   ),
   382 => 
   array (
     'mapid' => '#e-54A',
-    'unicode' => 128202,
+    'unicode' => 
+    array (
+      0 => 128202,
+    ),
     'char_name' => 
     array (
       'title' => 'BAR CHART',
@@ -12737,26 +17736,38 @@ Temporary Notes: orange colored book (closed)',
     'au' => 
     array (
       'number' => '127',
-      'unicode' => 58740,
+      'unicode' => 
+      array (
+        0 => 58740,
+      ),
       'sjis' => 'F791',
       'jis' => '7771',
     ),
     'softbank' => 
     array (
       'number' => '432',
-      'unicode' => 57674,
+      'unicode' => 
+      array (
+        0 => 57674,
+      ),
       'sjis' => 'F78B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041738,
+      'unicode' => 
+      array (
+        0 => 1041738,
+      ),
     ),
   ),
   383 => 
   array (
     'mapid' => '#e-54B',
-    'unicode' => 128200,
+    'unicode' => 
+    array (
+      0 => 128200,
+    ),
     'char_name' => 
     array (
       'title' => 'CHART WITH UPWARDS TREND',
@@ -12769,26 +17780,38 @@ Temporary Notes: orange colored book (closed)',
     'au' => 
     array (
       'number' => '128',
-      'unicode' => 58741,
+      'unicode' => 
+      array (
+        0 => 58741,
+      ),
       'sjis' => 'F792',
       'jis' => '7772',
     ),
     'softbank' => 
     array (
       'number' => '432',
-      'unicode' => 57674,
+      'unicode' => 
+      array (
+        0 => 57674,
+      ),
       'sjis' => 'F78B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041739,
+      'unicode' => 
+      array (
+        0 => 1041739,
+      ),
     ),
   ),
   384 => 
   array (
     'mapid' => '#e-54C',
-    'unicode' => 128201,
+    'unicode' => 
+    array (
+      0 => 128201,
+    ),
     'char_name' => 
     array (
       'title' => 'CHART WITH DOWNWARDS TREND',
@@ -12801,7 +17824,10 @@ Temporary Notes: orange colored book (closed)',
     'au' => 
     array (
       'number' => '159',
-      'unicode' => 58742,
+      'unicode' => 
+      array (
+        0 => 58742,
+      ),
       'sjis' => 'F793',
       'jis' => '7773',
     ),
@@ -12811,13 +17837,19 @@ Temporary Notes: orange colored book (closed)',
     ),
     'google' => 
     array (
-      'unicode' => 1041740,
+      'unicode' => 
+      array (
+        0 => 1041740,
+      ),
     ),
   ),
   385 => 
   array (
     'mapid' => '#e-54D',
-    'unicode' => 128199,
+    'unicode' => 
+    array (
+      0 => 128199,
+    ),
     'char_name' => 
     array (
       'title' => 'CARD INDEX',
@@ -12826,33 +17858,48 @@ Temporary Notes: orange colored book (closed)',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '131',
-      'unicode' => 58732,
+      'unicode' => 
+      array (
+        0 => 58732,
+      ),
       'sjis' => 'F789',
       'jis' => '7769',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041741,
+      'unicode' => 
+      array (
+        0 => 1041741,
+      ),
     ),
   ),
   386 => 
   array (
     'mapid' => '#e-54E',
-    'unicode' => 128204,
+    'unicode' => 
+    array (
+      0 => 128204,
+    ),
     'char_name' => 
     array (
       'title' => 'PUSHPIN',
@@ -12865,7 +17912,10 @@ Temporary Notes: orange colored book (closed)',
     'au' => 
     array (
       'number' => '137',
-      'unicode' => 58733,
+      'unicode' => 
+      array (
+        0 => 58733,
+      ),
       'sjis' => 'F78A',
       'jis' => '776A',
     ),
@@ -12875,13 +17925,19 @@ Temporary Notes: orange colored book (closed)',
     ),
     'google' => 
     array (
-      'unicode' => 1041742,
+      'unicode' => 
+      array (
+        0 => 1041742,
+      ),
     ),
   ),
   387 => 
   array (
     'mapid' => '#e-54F',
-    'unicode' => 128210,
+    'unicode' => 
+    array (
+      0 => 128210,
+    ),
     'char_name' => 
     array (
       'title' => 'LEDGER',
@@ -12890,33 +17946,48 @@ Temporary Notes: orange colored book (closed)',
     'docomo' => 
     array (
       'number' => '70',
-      'unicode' => 59011,
+      'unicode' => 
+      array (
+        0 => 59011,
+      ),
       'sjis' => 'F8E4',
       'jis' => '7558',
     ),
     'au' => 
     array (
       'number' => '142',
-      'unicode' => 58734,
+      'unicode' => 
+      array (
+        0 => 58734,
+      ),
       'sjis' => 'F78B',
       'jis' => '776B',
     ),
     'softbank' => 
     array (
       'number' => '236',
-      'unicode' => 57672,
+      'unicode' => 
+      array (
+        0 => 57672,
+      ),
       'sjis' => 'F789',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041743,
+      'unicode' => 
+      array (
+        0 => 1041743,
+      ),
     ),
   ),
   388 => 
   array (
     'mapid' => '#e-550',
-    'unicode' => 128207,
+    'unicode' => 
+    array (
+      0 => 128207,
+    ),
     'char_name' => 
     array (
       'title' => 'STRAIGHT RULER',
@@ -12929,7 +18000,10 @@ Temporary Notes: orange colored book (closed)',
     'au' => 
     array (
       'number' => '157',
-      'unicode' => 58736,
+      'unicode' => 
+      array (
+        0 => 58736,
+      ),
       'sjis' => 'F78D',
       'jis' => '776D',
     ),
@@ -12939,13 +18013,19 @@ Temporary Notes: orange colored book (closed)',
     ),
     'google' => 
     array (
-      'unicode' => 1041744,
+      'unicode' => 
+      array (
+        0 => 1041744,
+      ),
     ),
   ),
   389 => 
   array (
     'mapid' => '#e-551',
-    'unicode' => 128208,
+    'unicode' => 
+    array (
+      0 => 128208,
+    ),
     'char_name' => 
     array (
       'title' => 'TRIANGULAR RULER',
@@ -12958,7 +18038,10 @@ Temporary Notes: orange colored book (closed)',
     'au' => 
     array (
       'number' => '158',
-      'unicode' => 58530,
+      'unicode' => 
+      array (
+        0 => 58530,
+      ),
       'sjis' => 'F67A',
       'jis' => '755B',
     ),
@@ -12968,13 +18051,19 @@ Temporary Notes: orange colored book (closed)',
     ),
     'google' => 
     array (
-      'unicode' => 1041745,
+      'unicode' => 
+      array (
+        0 => 1041745,
+      ),
     ),
   ),
   390 => 
   array (
     'mapid' => '#e-552',
-    'unicode' => 128209,
+    'unicode' => 
+    array (
+      0 => 128209,
+    ),
     'char_name' => 
     array (
       'title' => 'BOOKMARK TABS',
@@ -12983,33 +18072,48 @@ Temporary Notes: orange colored book (closed)',
     'docomo' => 
     array (
       'number' => '76',
-      'unicode' => 59017,
+      'unicode' => 
+      array (
+        0 => 59017,
+      ),
       'sjis' => 'F8EA',
       'jis' => '7946',
     ),
     'au' => 
     array (
       'number' => '516',
-      'unicode' => 60171,
+      'unicode' => 
+      array (
+        0 => 60171,
+      ),
       'sjis' => 'F7E2',
       'jis' => '7864',
     ),
     'softbank' => 
     array (
       'number' => '237',
-      'unicode' => 58113,
+      'unicode' => 
+      array (
+        0 => 58113,
+      ),
       'sjis' => 'F9A1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041746,
+      'unicode' => 
+      array (
+        0 => 1041746,
+      ),
     ),
   ),
   391 => 
   array (
     'mapid' => '#e-7D0',
-    'unicode' => 127933,
+    'unicode' => 
+    array (
+      0 => 127933,
+    ),
     'char_name' => 
     array (
       'title' => 'RUNNING SHIRT WITH SASH',
@@ -13018,7 +18122,10 @@ Temporary Notes: orange colored book (closed)',
     'docomo' => 
     array (
       'number' => '21',
-      'unicode' => 58962,
+      'unicode' => 
+      array (
+        0 => 58962,
+      ),
       'sjis' => 'F8B3',
       'jis' => '7E21',
     ),
@@ -13032,13 +18139,19 @@ Temporary Notes: orange colored book (closed)',
     ),
     'google' => 
     array (
-      'unicode' => 1042384,
+      'unicode' => 
+      array (
+        0 => 1042384,
+      ),
     ),
   ),
   392 => 
   array (
     'mapid' => '#e-7D1',
-    'unicode' => 9918,
+    'unicode' => 
+    array (
+      0 => 9918,
+    ),
     'char_name' => 
     array (
       'title' => 'BASEBALL',
@@ -13047,33 +18160,48 @@ Temporary Notes: orange colored book (closed)',
     'docomo' => 
     array (
       'number' => '22',
-      'unicode' => 58963,
+      'unicode' => 
+      array (
+        0 => 58963,
+      ),
       'sjis' => 'F8B4',
       'jis' => '7573',
     ),
     'au' => 
     array (
       'number' => '45',
-      'unicode' => 58554,
+      'unicode' => 
+      array (
+        0 => 58554,
+      ),
       'sjis' => 'F693',
       'jis' => '7573',
     ),
     'softbank' => 
     array (
       'number' => '153',
-      'unicode' => 57366,
+      'unicode' => 
+      array (
+        0 => 57366,
+      ),
       'sjis' => 'F956',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042385,
+      'unicode' => 
+      array (
+        0 => 1042385,
+      ),
     ),
   ),
   393 => 
   array (
     'mapid' => '#e-7D2',
-    'unicode' => 9971,
+    'unicode' => 
+    array (
+      0 => 9971,
+    ),
     'char_name' => 
     array (
       'title' => 'FLAG IN HOLE',
@@ -13083,33 +18211,48 @@ Temporary Notes: Unified with U+26F3 = ARIB-9126. Golf (DoCoMo is golf club, oth
     'docomo' => 
     array (
       'number' => '23',
-      'unicode' => 58964,
+      'unicode' => 
+      array (
+        0 => 58964,
+      ),
       'sjis' => 'F8B5',
       'jis' => '7838',
     ),
     'au' => 
     array (
       'number' => '306',
-      'unicode' => 58777,
+      'unicode' => 
+      array (
+        0 => 58777,
+      ),
       'sjis' => 'F7B6',
       'jis' => '7838',
     ),
     'softbank' => 
     array (
       'number' => '156',
-      'unicode' => 57364,
+      'unicode' => 
+      array (
+        0 => 57364,
+      ),
       'sjis' => 'F954',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042386,
+      'unicode' => 
+      array (
+        0 => 1042386,
+      ),
     ),
   ),
   394 => 
   array (
     'mapid' => '#e-7D3',
-    'unicode' => 127934,
+    'unicode' => 
+    array (
+      0 => 127934,
+    ),
     'char_name' => 
     array (
       'title' => 'TENNIS RACQUET AND BALL',
@@ -13120,33 +18263,48 @@ Temporary Notes: racket and ball, or player',
     'docomo' => 
     array (
       'number' => '24',
-      'unicode' => 58965,
+      'unicode' => 
+      array (
+        0 => 58965,
+      ),
       'sjis' => 'F8B6',
       'jis' => '7570',
     ),
     'au' => 
     array (
       'number' => '220',
-      'unicode' => 58551,
+      'unicode' => 
+      array (
+        0 => 58551,
+      ),
       'sjis' => 'F690',
       'jis' => '7570',
     ),
     'softbank' => 
     array (
       'number' => '154',
-      'unicode' => 57365,
+      'unicode' => 
+      array (
+        0 => 57365,
+      ),
       'sjis' => 'F955',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042387,
+      'unicode' => 
+      array (
+        0 => 1042387,
+      ),
     ),
   ),
   395 => 
   array (
     'mapid' => '#e-7D4',
-    'unicode' => 9917,
+    'unicode' => 
+    array (
+      0 => 9917,
+    ),
     'char_name' => 
     array (
       'title' => 'SOCCER BALL',
@@ -13155,33 +18313,48 @@ Temporary Notes: racket and ball, or player',
     'docomo' => 
     array (
       'number' => '25',
-      'unicode' => 58966,
+      'unicode' => 
+      array (
+        0 => 58966,
+      ),
       'sjis' => 'F8B7',
       'jis' => '756F',
     ),
     'au' => 
     array (
       'number' => '219',
-      'unicode' => 58550,
+      'unicode' => 
+      array (
+        0 => 58550,
+      ),
       'sjis' => 'F68F',
       'jis' => '756F',
     ),
     'softbank' => 
     array (
       'number' => '152',
-      'unicode' => 57368,
+      'unicode' => 
+      array (
+        0 => 57368,
+      ),
       'sjis' => 'F958',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042388,
+      'unicode' => 
+      array (
+        0 => 1042388,
+      ),
     ),
   ),
   396 => 
   array (
     'mapid' => '#e-7D5',
-    'unicode' => 127935,
+    'unicode' => 
+    array (
+      0 => 127935,
+    ),
     'char_name' => 
     array (
       'title' => 'SKI AND SKI BOOT',
@@ -13193,33 +18366,48 @@ Temporary Notes: ski and boots, or ski and poles. disunified from U+26F7 (ARIB-9
     'docomo' => 
     array (
       'number' => '26',
-      'unicode' => 58967,
+      'unicode' => 
+      array (
+        0 => 58967,
+      ),
       'sjis' => 'F8B8',
       'jis' => '7960',
     ),
     'au' => 
     array (
       'number' => '421',
-      'unicode' => 60076,
+      'unicode' => 
+      array (
+        0 => 60076,
+      ),
       'sjis' => 'F380',
       'jis' => '7960',
     ),
     'softbank' => 
     array (
       'number' => '157',
-      'unicode' => 57363,
+      'unicode' => 
+      array (
+        0 => 57363,
+      ),
       'sjis' => 'F953',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042389,
+      'unicode' => 
+      array (
+        0 => 1042389,
+      ),
     ),
   ),
   397 => 
   array (
     'mapid' => '#e-7D6',
-    'unicode' => 127936,
+    'unicode' => 
+    array (
+      0 => 127936,
+    ),
     'char_name' => 
     array (
       'title' => 'BASKETBALL AND HOOP',
@@ -13230,33 +18418,48 @@ Temporary Notes: ball and hoop',
     'docomo' => 
     array (
       'number' => '27',
-      'unicode' => 58968,
+      'unicode' => 
+      array (
+        0 => 58968,
+      ),
       'sjis' => 'F8B9',
       'jis' => '7839',
     ),
     'au' => 
     array (
       'number' => '307',
-      'unicode' => 58778,
+      'unicode' => 
+      array (
+        0 => 58778,
+      ),
       'sjis' => 'F7B7',
       'jis' => '7839',
     ),
     'softbank' => 
     array (
       'number' => '155',
-      'unicode' => 58410,
+      'unicode' => 
+      array (
+        0 => 58410,
+      ),
       'sjis' => 'FB6A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042390,
+      'unicode' => 
+      array (
+        0 => 1042390,
+      ),
     ),
   ),
   398 => 
   array (
     'mapid' => '#e-7D7',
-    'unicode' => 127937,
+    'unicode' => 
+    array (
+      0 => 127937,
+    ),
     'char_name' => 
     array (
       'title' => 'CHEQUERED FLAG',
@@ -13267,33 +18470,48 @@ Temporary Notes: motor sports, goal',
     'docomo' => 
     array (
       'number' => '28',
-      'unicode' => 58969,
+      'unicode' => 
+      array (
+        0 => 58969,
+      ),
       'sjis' => 'F8BA',
       'jis' => '7572',
     ),
     'au' => 
     array (
       'number' => '222',
-      'unicode' => 58553,
+      'unicode' => 
+      array (
+        0 => 58553,
+      ),
       'sjis' => 'F692',
       'jis' => '7572',
     ),
     'softbank' => 
     array (
       'number' => '163',
-      'unicode' => 57650,
+      'unicode' => 
+      array (
+        0 => 57650,
+      ),
       'sjis' => 'F772',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042391,
+      'unicode' => 
+      array (
+        0 => 1042391,
+      ),
     ),
   ),
   399 => 
   array (
     'mapid' => '#e-7D8',
-    'unicode' => 127938,
+    'unicode' => 
+    array (
+      0 => 127938,
+    ),
     'char_name' => 
     array (
       'title' => 'SNOWBOARDER',
@@ -13302,14 +18520,20 @@ Temporary Notes: motor sports, goal',
     'docomo' => 
     array (
       'number' => 'Exp.7',
-      'unicode' => 59154,
+      'unicode' => 
+      array (
+        0 => 59154,
+      ),
       'sjis' => 'F9B7',
       'jis' => '7571',
     ),
     'au' => 
     array (
       'number' => '221',
-      'unicode' => 58552,
+      'unicode' => 
+      array (
+        0 => 58552,
+      ),
       'sjis' => 'F691',
       'jis' => '7571',
     ),
@@ -13319,13 +18543,19 @@ Temporary Notes: motor sports, goal',
     ),
     'google' => 
     array (
-      'unicode' => 1042392,
+      'unicode' => 
+      array (
+        0 => 1042392,
+      ),
     ),
   ),
   400 => 
   array (
     'mapid' => '#e-7D9',
-    'unicode' => 127939,
+    'unicode' => 
+    array (
+      0 => 127939,
+    ),
     'char_name' => 
     array (
       'title' => 'RUNNER',
@@ -13334,33 +18564,48 @@ Temporary Notes: motor sports, goal',
     'docomo' => 
     array (
       'number' => 'Exp.40',
-      'unicode' => 59187,
+      'unicode' => 
+      array (
+        0 => 59187,
+      ),
       'sjis' => 'F9D8',
       'jis' => '7524',
     ),
     'au' => 
     array (
       'number' => '218',
-      'unicode' => 58475,
+      'unicode' => 
+      array (
+        0 => 58475,
+      ),
       'sjis' => 'F643',
       'jis' => '7524',
     ),
     'softbank' => 
     array (
       'number' => '75',
-      'unicode' => 57621,
+      'unicode' => 
+      array (
+        0 => 57621,
+      ),
       'sjis' => 'F755',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042393,
+      'unicode' => 
+      array (
+        0 => 1042393,
+      ),
     ),
   ),
   401 => 
   array (
     'mapid' => '#e-7DA',
-    'unicode' => 127940,
+    'unicode' => 
+    array (
+      0 => 127940,
+    ),
     'char_name' => 
     array (
       'title' => 'SURFER',
@@ -13369,33 +18614,48 @@ Temporary Notes: motor sports, goal',
     'docomo' => 
     array (
       'number' => 'Exp.7',
-      'unicode' => 59154,
+      'unicode' => 
+      array (
+        0 => 59154,
+      ),
       'sjis' => 'F9B7',
       'jis' => '7571',
     ),
     'au' => 
     array (
       'number' => '751',
-      'unicode' => 60225,
+      'unicode' => 
+      array (
+        0 => 60225,
+      ),
       'sjis' => 'F445',
       'jis' => '7B26',
     ),
     'softbank' => 
     array (
       'number' => '161',
-      'unicode' => 57367,
+      'unicode' => 
+      array (
+        0 => 57367,
+      ),
       'sjis' => 'F957',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042394,
+      'unicode' => 
+      array (
+        0 => 1042394,
+      ),
     ),
   ),
   402 => 
   array (
     'mapid' => '#e-7DB',
-    'unicode' => 127942,
+    'unicode' => 
+    array (
+      0 => 127942,
+    ),
     'char_name' => 
     array (
       'title' => 'TROPHY',
@@ -13408,26 +18668,38 @@ Temporary Notes: motor sports, goal',
     'au' => 
     array (
       'number' => '364',
-      'unicode' => 58835,
+      'unicode' => 
+      array (
+        0 => 58835,
+      ),
       'sjis' => 'F346',
       'jis' => '7927',
     ),
     'softbank' => 
     array (
       'number' => '139',
-      'unicode' => 57649,
+      'unicode' => 
+      array (
+        0 => 57649,
+      ),
       'sjis' => 'F771',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042395,
+      'unicode' => 
+      array (
+        0 => 1042395,
+      ),
     ),
   ),
   403 => 
   array (
     'mapid' => '#e-7DD',
-    'unicode' => 127944,
+    'unicode' => 
+    array (
+      0 => 127944,
+    ),
     'char_name' => 
     array (
       'title' => 'AMERICAN FOOTBALL',
@@ -13440,26 +18712,38 @@ Temporary Notes: motor sports, goal',
     'au' => 
     array (
       'number' => '96',
-      'unicode' => 58555,
+      'unicode' => 
+      array (
+        0 => 58555,
+      ),
       'sjis' => 'F694',
       'jis' => '7574',
     ),
     'softbank' => 
     array (
       'number' => '158',
-      'unicode' => 58411,
+      'unicode' => 
+      array (
+        0 => 58411,
+      ),
       'sjis' => 'FB6B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042397,
+      'unicode' => 
+      array (
+        0 => 1042397,
+      ),
     ),
   ),
   404 => 
   array (
     'mapid' => '#e-7DE',
-    'unicode' => 127946,
+    'unicode' => 
+    array (
+      0 => 127946,
+    ),
     'char_name' => 
     array (
       'title' => 'SWIMMER',
@@ -13472,26 +18756,38 @@ Temporary Notes: motor sports, goal',
     'au' => 
     array (
       'number' => '471',
-      'unicode' => 60126,
+      'unicode' => 
+      array (
+        0 => 60126,
+      ),
       'sjis' => 'F3B2',
       'jis' => '7A34',
     ),
     'softbank' => 
     array (
       'number' => '160',
-      'unicode' => 58413,
+      'unicode' => 
+      array (
+        0 => 58413,
+      ),
       'sjis' => 'FB6D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042398,
+      'unicode' => 
+      array (
+        0 => 1042398,
+      ),
     ),
   ),
   405 => 
   array (
     'mapid' => '#e-7DF',
-    'unicode' => 128643,
+    'unicode' => 
+    array (
+      0 => 128643,
+    ),
     'char_name' => 
     array (
       'title' => 'RAILWAY CAR',
@@ -13500,33 +18796,48 @@ Temporary Notes: motor sports, goal',
     'docomo' => 
     array (
       'number' => '30',
-      'unicode' => 58971,
+      'unicode' => 
+      array (
+        0 => 58971,
+      ),
       'sjis' => 'F8BC',
       'jis' => '756E',
     ),
     'au' => 
     array (
       'number' => '172',
-      'unicode' => 58549,
+      'unicode' => 
+      array (
+        0 => 58549,
+      ),
       'sjis' => 'F68E',
       'jis' => '756E',
     ),
     'softbank' => 
     array (
       'number' => '205',
-      'unicode' => 57374,
+      'unicode' => 
+      array (
+        0 => 57374,
+      ),
       'sjis' => 'F95E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042399,
+      'unicode' => 
+      array (
+        0 => 1042399,
+      ),
     ),
   ),
   406 => 
   array (
     'mapid' => '#e-7E0',
-    'unicode' => 128647,
+    'unicode' => 
+    array (
+      0 => 128647,
+    ),
     'char_name' => 
     array (
       'title' => 'METRO',
@@ -13536,33 +18847,48 @@ Temporary Notes: (DoCoMo\'s is an "M" for metro)',
     'docomo' => 
     array (
       'number' => '31',
-      'unicode' => 58972,
+      'unicode' => 
+      array (
+        0 => 58972,
+      ),
       'sjis' => 'F8BD',
       'jis' => '786E',
     ),
     'au' => 
     array (
       'number' => '341',
-      'unicode' => 58812,
+      'unicode' => 
+      array (
+        0 => 58812,
+      ),
       'sjis' => 'F7EC',
       'jis' => '786E',
     ),
     'softbank' => 
     array (
       'number' => '206',
-      'unicode' => 58420,
+      'unicode' => 
+      array (
+        0 => 58420,
+      ),
       'sjis' => 'FB74',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042400,
+      'unicode' => 
+      array (
+        0 => 1042400,
+      ),
     ),
   ),
   407 => 
   array (
     'mapid' => '#e-7E1',
-    'unicode' => 9410,
+    'unicode' => 
+    array (
+      0 => 9410,
+    ),
     'char_name' => 
     array (
       'title' => 'CIRCLED LATIN CAPITAL LETTER M',
@@ -13571,33 +18897,48 @@ Temporary Notes: (DoCoMo\'s is an "M" for metro)',
     'docomo' => 
     array (
       'number' => '31',
-      'unicode' => 58972,
+      'unicode' => 
+      array (
+        0 => 58972,
+      ),
       'sjis' => 'F8BD',
       'jis' => '786E',
     ),
     'au' => 
     array (
       'number' => '341',
-      'unicode' => 58812,
+      'unicode' => 
+      array (
+        0 => 58812,
+      ),
       'sjis' => 'F7EC',
       'jis' => '786E',
     ),
     'softbank' => 
     array (
       'number' => '206',
-      'unicode' => 58420,
+      'unicode' => 
+      array (
+        0 => 58420,
+      ),
       'sjis' => 'FB74',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042401,
+      'unicode' => 
+      array (
+        0 => 1042401,
+      ),
     ),
   ),
   408 => 
   array (
     'mapid' => '#e-7E2',
-    'unicode' => 128644,
+    'unicode' => 
+    array (
+      0 => 128644,
+    ),
     'char_name' => 
     array (
       'title' => 'HIGH-SPEED TRAIN',
@@ -13606,33 +18947,48 @@ Temporary Notes: (DoCoMo\'s is an "M" for metro)',
     'docomo' => 
     array (
       'number' => '32',
-      'unicode' => 58973,
+      'unicode' => 
+      array (
+        0 => 58973,
+      ),
       'sjis' => 'F8BE',
       'jis' => '7569',
     ),
     'au' => 
     array (
       'number' => '217',
-      'unicode' => 58544,
+      'unicode' => 
+      array (
+        0 => 58544,
+      ),
       'sjis' => 'F689',
       'jis' => '7569',
     ),
     'softbank' => 
     array (
       'number' => '209',
-      'unicode' => 58421,
+      'unicode' => 
+      array (
+        0 => 58421,
+      ),
       'sjis' => 'FB75',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042402,
+      'unicode' => 
+      array (
+        0 => 1042402,
+      ),
     ),
   ),
   409 => 
   array (
     'mapid' => '#e-7E3',
-    'unicode' => 128645,
+    'unicode' => 
+    array (
+      0 => 128645,
+    ),
     'char_name' => 
     array (
       'title' => 'HIGH-SPEED TRAIN WITH BULLET NOSE',
@@ -13641,33 +18997,48 @@ Temporary Notes: (DoCoMo\'s is an "M" for metro)',
     'docomo' => 
     array (
       'number' => '32',
-      'unicode' => 58973,
+      'unicode' => 
+      array (
+        0 => 58973,
+      ),
       'sjis' => 'F8BE',
       'jis' => '7569',
     ),
     'au' => 
     array (
       'number' => '217',
-      'unicode' => 58544,
+      'unicode' => 
+      array (
+        0 => 58544,
+      ),
       'sjis' => 'F689',
       'jis' => '7569',
     ),
     'softbank' => 
     array (
       'number' => '208',
-      'unicode' => 57375,
+      'unicode' => 
+      array (
+        0 => 57375,
+      ),
       'sjis' => 'F95F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042403,
+      'unicode' => 
+      array (
+        0 => 1042403,
+      ),
     ),
   ),
   410 => 
   array (
     'mapid' => '#e-7E4',
-    'unicode' => 128663,
+    'unicode' => 
+    array (
+      0 => 128663,
+    ),
     'char_name' => 
     array (
       'title' => 'AUTOMOBILE',
@@ -13677,33 +19048,48 @@ Temporary Notes: sedan',
     'docomo' => 
     array (
       'number' => '33',
-      'unicode' => 58974,
+      'unicode' => 
+      array (
+        0 => 58974,
+      ),
       'sjis' => 'F8BF',
       'jis' => '756A',
     ),
     'au' => 
     array (
       'number' => '125',
-      'unicode' => 58545,
+      'unicode' => 
+      array (
+        0 => 58545,
+      ),
       'sjis' => 'F68A',
       'jis' => '756A',
     ),
     'softbank' => 
     array (
       'number' => '197',
-      'unicode' => 57371,
+      'unicode' => 
+      array (
+        0 => 57371,
+      ),
       'sjis' => 'F95B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042404,
+      'unicode' => 
+      array (
+        0 => 1042404,
+      ),
     ),
   ),
   411 => 
   array (
     'mapid' => '#e-7E5',
-    'unicode' => 128665,
+    'unicode' => 
+    array (
+      0 => 128665,
+    ),
     'char_name' => 
     array (
       'title' => 'RECREATIONAL VEHICLE',
@@ -13712,33 +19098,48 @@ Temporary Notes: sedan',
     'docomo' => 
     array (
       'number' => '34',
-      'unicode' => 58975,
+      'unicode' => 
+      array (
+        0 => 58975,
+      ),
       'sjis' => 'F8C0',
       'jis' => '7E22',
     ),
     'au' => 
     array (
       'number' => '125',
-      'unicode' => 58545,
+      'unicode' => 
+      array (
+        0 => 58545,
+      ),
       'sjis' => 'F68A',
       'jis' => '756A',
     ),
     'softbank' => 
     array (
       'number' => '198',
-      'unicode' => 58414,
+      'unicode' => 
+      array (
+        0 => 58414,
+      ),
       'sjis' => 'FB6E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042405,
+      'unicode' => 
+      array (
+        0 => 1042405,
+      ),
     ),
   ),
   412 => 
   array (
     'mapid' => '#e-7E6',
-    'unicode' => 128652,
+    'unicode' => 
+    array (
+      0 => 128652,
+    ),
     'char_name' => 
     array (
       'title' => 'BUS',
@@ -13747,33 +19148,48 @@ Temporary Notes: sedan',
     'docomo' => 
     array (
       'number' => '35',
-      'unicode' => 58976,
+      'unicode' => 
+      array (
+        0 => 58976,
+      ),
       'sjis' => 'F8C1',
       'jis' => '7568',
     ),
     'au' => 
     array (
       'number' => '216',
-      'unicode' => 58543,
+      'unicode' => 
+      array (
+        0 => 58543,
+      ),
       'sjis' => 'F688',
       'jis' => '7568',
     ),
     'softbank' => 
     array (
       'number' => '199',
-      'unicode' => 57689,
+      'unicode' => 
+      array (
+        0 => 57689,
+      ),
       'sjis' => 'F79A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042406,
+      'unicode' => 
+      array (
+        0 => 1042406,
+      ),
     ),
   ),
   413 => 
   array (
     'mapid' => '#e-7E7',
-    'unicode' => 128655,
+    'unicode' => 
+    array (
+      0 => 128655,
+    ),
     'char_name' => 
     array (
       'title' => 'BUS STOP',
@@ -13786,26 +19202,38 @@ Temporary Notes: sedan',
     'au' => 
     array (
       'number' => '209',
-      'unicode' => 58535,
+      'unicode' => 
+      array (
+        0 => 58535,
+      ),
       'sjis' => 'F680',
       'jis' => '7560',
     ),
     'softbank' => 
     array (
       'number' => '347',
-      'unicode' => 57680,
+      'unicode' => 
+      array (
+        0 => 57680,
+      ),
       'sjis' => 'F791',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042407,
+      'unicode' => 
+      array (
+        0 => 1042407,
+      ),
     ),
   ),
   414 => 
   array (
     'mapid' => '#e-7E8',
-    'unicode' => 128674,
+    'unicode' => 
+    array (
+      0 => 128674,
+    ),
     'char_name' => 
     array (
       'title' => 'SHIP',
@@ -13814,33 +19242,48 @@ Temporary Notes: sedan',
     'docomo' => 
     array (
       'number' => '36',
-      'unicode' => 58977,
+      'unicode' => 
+      array (
+        0 => 58977,
+      ),
       'sjis' => 'F8C2',
       'jis' => '7936',
     ),
     'au' => 
     array (
       'number' => '379',
-      'unicode' => 60034,
+      'unicode' => 
+      array (
+        0 => 60034,
+      ),
       'sjis' => 'F355',
       'jis' => '7936',
     ),
     'softbank' => 
     array (
       'number' => '210',
-      'unicode' => 57858,
+      'unicode' => 
+      array (
+        0 => 57858,
+      ),
       'sjis' => 'F7A2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042408,
+      'unicode' => 
+      array (
+        0 => 1042408,
+      ),
     ),
   ),
   415 => 
   array (
     'mapid' => '#e-7E9',
-    'unicode' => 9992,
+    'unicode' => 
+    array (
+      0 => 9992,
+    ),
     'char_name' => 
     array (
       'title' => 'AIRPLANE',
@@ -13849,33 +19292,48 @@ Temporary Notes: sedan',
     'docomo' => 
     array (
       'number' => '37',
-      'unicode' => 58978,
+      'unicode' => 
+      array (
+        0 => 58978,
+      ),
       'sjis' => 'F8C3',
       'jis' => '756C',
     ),
     'au' => 
     array (
       'number' => '168',
-      'unicode' => 58547,
+      'unicode' => 
+      array (
+        0 => 58547,
+      ),
       'sjis' => 'F68C',
       'jis' => '756C',
     ),
     'softbank' => 
     array (
       'number' => '212',
-      'unicode' => 57373,
+      'unicode' => 
+      array (
+        0 => 57373,
+      ),
       'sjis' => 'F95D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042409,
+      'unicode' => 
+      array (
+        0 => 1042409,
+      ),
     ),
   ),
   416 => 
   array (
     'mapid' => '#e-7EA',
-    'unicode' => 9973,
+    'unicode' => 
+    array (
+      0 => 9973,
+    ),
     'char_name' => 
     array (
       'title' => 'SAILBOAT',
@@ -13884,33 +19342,48 @@ Temporary Notes: sedan',
     'docomo' => 
     array (
       'number' => '102',
-      'unicode' => 59043,
+      'unicode' => 
+      array (
+        0 => 59043,
+      ),
       'sjis' => 'F947',
       'jis' => '756D',
     ),
     'au' => 
     array (
       'number' => '169',
-      'unicode' => 58548,
+      'unicode' => 
+      array (
+        0 => 58548,
+      ),
       'sjis' => 'F68D',
       'jis' => '756D',
     ),
     'softbank' => 
     array (
       'number' => '211',
-      'unicode' => 57372,
+      'unicode' => 
+      array (
+        0 => 57372,
+      ),
       'sjis' => 'F95C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042410,
+      'unicode' => 
+      array (
+        0 => 1042410,
+      ),
     ),
   ),
   417 => 
   array (
     'mapid' => '#e-7EC',
-    'unicode' => 128649,
+    'unicode' => 
+    array (
+      0 => 128649,
+    ),
     'char_name' => 
     array (
       'title' => 'STATION',
@@ -13923,26 +19396,38 @@ Temporary Notes: sedan',
     'au' => 
     array (
       'number' => '795',
-      'unicode' => 60269,
+      'unicode' => 
+      array (
+        0 => 60269,
+      ),
       'sjis' => 'F471',
       'jis' => '7B52',
     ),
     'softbank' => 
     array (
       'number' => '207',
-      'unicode' => 57401,
+      'unicode' => 
+      array (
+        0 => 57401,
+      ),
       'sjis' => 'F979',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042412,
+      'unicode' => 
+      array (
+        0 => 1042412,
+      ),
     ),
   ),
   418 => 
   array (
     'mapid' => '#e-7ED',
-    'unicode' => 128640,
+    'unicode' => 
+    array (
+      0 => 128640,
+    ),
     'char_name' => 
     array (
       'title' => 'ROCKET',
@@ -13955,26 +19440,38 @@ Temporary Notes: sedan',
     'au' => 
     array (
       'number' => '353',
-      'unicode' => 58824,
+      'unicode' => 
+      array (
+        0 => 58824,
+      ),
       'sjis' => 'F7F8',
       'jis' => '787A',
     ),
     'softbank' => 
     array (
       'number' => '213',
-      'unicode' => 57613,
+      'unicode' => 
+      array (
+        0 => 57613,
+      ),
       'sjis' => 'F74D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042413,
+      'unicode' => 
+      array (
+        0 => 1042413,
+      ),
     ),
   ),
   419 => 
   array (
     'mapid' => '#e-7EE',
-    'unicode' => 128676,
+    'unicode' => 
+    array (
+      0 => 128676,
+    ),
     'char_name' => 
     array (
       'title' => 'SPEEDBOAT',
@@ -13983,33 +19480,48 @@ Temporary Notes: sedan',
     'docomo' => 
     array (
       'number' => '102',
-      'unicode' => 59043,
+      'unicode' => 
+      array (
+        0 => 59043,
+      ),
       'sjis' => 'F947',
       'jis' => '756D',
     ),
     'au' => 
     array (
       'number' => '169',
-      'unicode' => 58548,
+      'unicode' => 
+      array (
+        0 => 58548,
+      ),
       'sjis' => 'F68D',
       'jis' => '756D',
     ),
     'softbank' => 
     array (
       'number' => '162',
-      'unicode' => 57653,
+      'unicode' => 
+      array (
+        0 => 57653,
+      ),
       'sjis' => 'F775',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042414,
+      'unicode' => 
+      array (
+        0 => 1042414,
+      ),
     ),
   ),
   420 => 
   array (
     'mapid' => '#e-7EF',
-    'unicode' => 128661,
+    'unicode' => 
+    array (
+      0 => 128661,
+    ),
     'char_name' => 
     array (
       'title' => 'TAXI',
@@ -14019,33 +19531,48 @@ Temporary Notes: a car with light sign on the roof',
     'docomo' => 
     array (
       'number' => '33',
-      'unicode' => 58974,
+      'unicode' => 
+      array (
+        0 => 58974,
+      ),
       'sjis' => 'F8BF',
       'jis' => '756A',
     ),
     'au' => 
     array (
       'number' => '125',
-      'unicode' => 58545,
+      'unicode' => 
+      array (
+        0 => 58545,
+      ),
       'sjis' => 'F68A',
       'jis' => '756A',
     ),
     'softbank' => 
     array (
       'number' => '204',
-      'unicode' => 57690,
+      'unicode' => 
+      array (
+        0 => 57690,
+      ),
       'sjis' => 'F79B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042415,
+      'unicode' => 
+      array (
+        0 => 1042415,
+      ),
     ),
   ),
   421 => 
   array (
     'mapid' => '#e-7F1',
-    'unicode' => 128666,
+    'unicode' => 
+    array (
+      0 => 128666,
+    ),
     'char_name' => 
     array (
       'title' => 'DELIVERY TRUCK',
@@ -14058,26 +19585,38 @@ Temporary Notes: a car with light sign on the roof',
     'au' => 
     array (
       'number' => '148',
-      'unicode' => 58546,
+      'unicode' => 
+      array (
+        0 => 58546,
+      ),
       'sjis' => 'F68B',
       'jis' => '756B',
     ),
     'softbank' => 
     array (
       'number' => '200',
-      'unicode' => 58415,
+      'unicode' => 
+      array (
+        0 => 58415,
+      ),
       'sjis' => 'FB6F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042417,
+      'unicode' => 
+      array (
+        0 => 1042417,
+      ),
     ),
   ),
   422 => 
   array (
     'mapid' => '#e-7F2',
-    'unicode' => 128658,
+    'unicode' => 
+    array (
+      0 => 128658,
+    ),
     'char_name' => 
     array (
       'title' => 'FIRE ENGINE',
@@ -14090,26 +19629,38 @@ Temporary Notes: a car with light sign on the roof',
     'au' => 
     array (
       'number' => '472',
-      'unicode' => 60127,
+      'unicode' => 
+      array (
+        0 => 60127,
+      ),
       'sjis' => 'F3B3',
       'jis' => '7A35',
     ),
     'softbank' => 
     array (
       'number' => '203',
-      'unicode' => 58416,
+      'unicode' => 
+      array (
+        0 => 58416,
+      ),
       'sjis' => 'FB70',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042418,
+      'unicode' => 
+      array (
+        0 => 1042418,
+      ),
     ),
   ),
   423 => 
   array (
     'mapid' => '#e-7F3',
-    'unicode' => 128657,
+    'unicode' => 
+    array (
+      0 => 128657,
+    ),
     'char_name' => 
     array (
       'title' => 'AMBULANCE',
@@ -14122,26 +19673,38 @@ Temporary Notes: a car with light sign on the roof',
     'au' => 
     array (
       'number' => '473',
-      'unicode' => 60128,
+      'unicode' => 
+      array (
+        0 => 60128,
+      ),
       'sjis' => 'F3B4',
       'jis' => '7A36',
     ),
     'softbank' => 
     array (
       'number' => '202',
-      'unicode' => 58417,
+      'unicode' => 
+      array (
+        0 => 58417,
+      ),
       'sjis' => 'FB71',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042419,
+      'unicode' => 
+      array (
+        0 => 1042419,
+      ),
     ),
   ),
   424 => 
   array (
     'mapid' => '#e-7F4',
-    'unicode' => 128659,
+    'unicode' => 
+    array (
+      0 => 128659,
+    ),
     'char_name' => 
     array (
       'title' => 'POLICE CAR',
@@ -14154,26 +19717,38 @@ Temporary Notes: a car with light sign on the roof',
     'au' => 
     array (
       'number' => '474',
-      'unicode' => 60129,
+      'unicode' => 
+      array (
+        0 => 60129,
+      ),
       'sjis' => 'F3B5',
       'jis' => '7A37',
     ),
     'softbank' => 
     array (
       'number' => '201',
-      'unicode' => 58418,
+      'unicode' => 
+      array (
+        0 => 58418,
+      ),
       'sjis' => 'FB72',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042420,
+      'unicode' => 
+      array (
+        0 => 1042420,
+      ),
     ),
   ),
   425 => 
   array (
     'mapid' => '#e-7F5',
-    'unicode' => 9981,
+    'unicode' => 
+    array (
+      0 => 9981,
+    ),
     'char_name' => 
     array (
       'title' => 'FUEL PUMP',
@@ -14182,33 +19757,48 @@ Temporary Notes: a car with light sign on the roof',
     'docomo' => 
     array (
       'number' => '46',
-      'unicode' => 58987,
+      'unicode' => 
+      array (
+        0 => 58987,
+      ),
       'sjis' => 'F8CC',
       'jis' => '776E',
     ),
     'au' => 
     array (
       'number' => '213',
-      'unicode' => 58737,
+      'unicode' => 
+      array (
+        0 => 58737,
+      ),
       'sjis' => 'F78E',
       'jis' => '776E',
     ),
     'softbank' => 
     array (
       'number' => '346',
-      'unicode' => 57402,
+      'unicode' => 
+      array (
+        0 => 57402,
+      ),
       'sjis' => 'F97A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042421,
+      'unicode' => 
+      array (
+        0 => 1042421,
+      ),
     ),
   ),
   426 => 
   array (
     'mapid' => '#e-7F6',
-    'unicode' => 127359,
+    'unicode' => 
+    array (
+      0 => 127359,
+    ),
     'char_name' => 
     array (
       'title' => 'NEGATIVE SQUARED LATIN CAPITAL LETTER P',
@@ -14218,33 +19808,48 @@ Temporary Notes: "P" sign',
     'docomo' => 
     array (
       'number' => '47',
-      'unicode' => 58988,
+      'unicode' => 
+      array (
+        0 => 58988,
+      ),
       'sjis' => 'F8CD',
       'jis' => '755F',
     ),
     'au' => 
     array (
       'number' => '208',
-      'unicode' => 58534,
+      'unicode' => 
+      array (
+        0 => 58534,
+      ),
       'sjis' => 'F67E',
       'jis' => '755F',
     ),
     'softbank' => 
     array (
       'number' => '352',
-      'unicode' => 57679,
+      'unicode' => 
+      array (
+        0 => 57679,
+      ),
       'sjis' => 'F790',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042422,
+      'unicode' => 
+      array (
+        0 => 1042422,
+      ),
     ),
   ),
   427 => 
   array (
     'mapid' => '#e-7F7',
-    'unicode' => 128677,
+    'unicode' => 
+    array (
+      0 => 128677,
+    ),
     'char_name' => 
     array (
       'title' => 'HORIZONTAL TRAFFIC LIGHT',
@@ -14253,33 +19858,48 @@ Temporary Notes: "P" sign',
     'docomo' => 
     array (
       'number' => '48',
-      'unicode' => 58989,
+      'unicode' => 
+      array (
+        0 => 58989,
+      ),
       'sjis' => 'F8CE',
       'jis' => '7523',
     ),
     'au' => 
     array (
       'number' => '99',
-      'unicode' => 58474,
+      'unicode' => 
+      array (
+        0 => 58474,
+      ),
       'sjis' => 'F642',
       'jis' => '7523',
     ),
     'softbank' => 
     array (
       'number' => '348',
-      'unicode' => 57678,
+      'unicode' => 
+      array (
+        0 => 57678,
+      ),
       'sjis' => 'F78F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042423,
+      'unicode' => 
+      array (
+        0 => 1042423,
+      ),
     ),
   ),
   428 => 
   array (
     'mapid' => '#e-7F8',
-    'unicode' => 128679,
+    'unicode' => 
+    array (
+      0 => 128679,
+    ),
     'char_name' => 
     array (
       'title' => 'CONSTRUCTION SIGN',
@@ -14292,26 +19912,38 @@ Temporary Notes: "P" sign',
     'au' => 
     array (
       'number' => '368',
-      'unicode' => 58839,
+      'unicode' => 
+      array (
+        0 => 58839,
+      ),
       'sjis' => 'F34A',
       'jis' => '792B',
     ),
     'softbank' => 
     array (
       'number' => '350',
-      'unicode' => 57655,
+      'unicode' => 
+      array (
+        0 => 57655,
+      ),
       'sjis' => 'F777',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042424,
+      'unicode' => 
+      array (
+        0 => 1042424,
+      ),
     ),
   ),
   429 => 
   array (
     'mapid' => '#e-7F9',
-    'unicode' => 128680,
+    'unicode' => 
+    array (
+      0 => 128680,
+    ),
     'char_name' => 
     array (
       'title' => 'POLICE CARS REVOLVING LIGHT',
@@ -14324,26 +19956,38 @@ Temporary Notes: "P" sign',
     'au' => 
     array (
       'number' => '801',
-      'unicode' => 60275,
+      'unicode' => 
+      array (
+        0 => 60275,
+      ),
       'sjis' => 'F477',
       'jis' => '7B58',
     ),
     'softbank' => 
     array (
       'number' => '201',
-      'unicode' => 58418,
+      'unicode' => 
+      array (
+        0 => 58418,
+      ),
       'sjis' => 'FB72',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042425,
+      'unicode' => 
+      array (
+        0 => 1042425,
+      ),
     ),
   ),
   430 => 
   array (
     'mapid' => '#e-7FA',
-    'unicode' => 9832,
+    'unicode' => 
+    array (
+      0 => 9832,
+    ),
     'char_name' => 
     array (
       'title' => 'HOT SPRINGS',
@@ -14353,33 +19997,48 @@ Temporary Notes: onsen',
     'docomo' => 
     array (
       'number' => '147',
-      'unicode' => 59127,
+      'unicode' => 
+      array (
+        0 => 59127,
+      ),
       'sjis' => 'F99C',
       'jis' => '7575',
     ),
     'au' => 
     array (
       'number' => '224',
-      'unicode' => 58556,
+      'unicode' => 
+      array (
+        0 => 58556,
+      ),
       'sjis' => 'F695',
       'jis' => '7575',
     ),
     'softbank' => 
     array (
       'number' => '345',
-      'unicode' => 57635,
+      'unicode' => 
+      array (
+        0 => 57635,
+      ),
       'sjis' => 'F763',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042426,
+      'unicode' => 
+      array (
+        0 => 1042426,
+      ),
     ),
   ),
   431 => 
   array (
     'mapid' => '#e-7FB',
-    'unicode' => 9978,
+    'unicode' => 
+    array (
+      0 => 9978,
+    ),
     'char_name' => 
     array (
       'title' => 'TENT',
@@ -14393,26 +20052,38 @@ Temporary Notes: camp',
     'au' => 
     array (
       'number' => '361',
-      'unicode' => 58832,
+      'unicode' => 
+      array (
+        0 => 58832,
+      ),
       'sjis' => 'F343',
       'jis' => '7924',
     ),
     'softbank' => 
     array (
       'number' => '344',
-      'unicode' => 57634,
+      'unicode' => 
+      array (
+        0 => 57634,
+      ),
       'sjis' => 'F762',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042427,
+      'unicode' => 
+      array (
+        0 => 1042427,
+      ),
     ),
   ),
   432 => 
   array (
     'mapid' => '#e-7FC',
-    'unicode' => 127904,
+    'unicode' => 
+    array (
+      0 => 127904,
+    ),
     'char_name' => 
     array (
       'title' => 'CAROUSEL HORSE',
@@ -14421,7 +20092,10 @@ Temporary Notes: camp',
     'docomo' => 
     array (
       'number' => '60',
-      'unicode' => 59001,
+      'unicode' => 
+      array (
+        0 => 59001,
+      ),
       'sjis' => 'F8DA',
       'jis' => '7E23',
     ),
@@ -14435,13 +20109,19 @@ Temporary Notes: camp',
     ),
     'google' => 
     array (
-      'unicode' => 1042428,
+      'unicode' => 
+      array (
+        0 => 1042428,
+      ),
     ),
   ),
   433 => 
   array (
     'mapid' => '#e-7FD',
-    'unicode' => 127905,
+    'unicode' => 
+    array (
+      0 => 127905,
+    ),
     'char_name' => 
     array (
       'title' => 'FERRIS WHEEL',
@@ -14454,26 +20134,38 @@ Temporary Notes: camp',
     'au' => 
     array (
       'number' => '223',
-      'unicode' => 58477,
+      'unicode' => 
+      array (
+        0 => 58477,
+      ),
       'sjis' => 'F645',
       'jis' => '7526',
     ),
     'softbank' => 
     array (
       'number' => '341',
-      'unicode' => 57636,
+      'unicode' => 
+      array (
+        0 => 57636,
+      ),
       'sjis' => 'F764',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042429,
+      'unicode' => 
+      array (
+        0 => 1042429,
+      ),
     ),
   ),
   434 => 
   array (
     'mapid' => '#e-7FE',
-    'unicode' => 127906,
+    'unicode' => 
+    array (
+      0 => 127906,
+    ),
     'char_name' => 
     array (
       'title' => 'ROLLER COASTER',
@@ -14486,26 +20178,38 @@ Temporary Notes: camp',
     'au' => 
     array (
       'number' => '475',
-      'unicode' => 60130,
+      'unicode' => 
+      array (
+        0 => 60130,
+      ),
       'sjis' => 'F3B6',
       'jis' => '7A38',
     ),
     'softbank' => 
     array (
       'number' => '342',
-      'unicode' => 58419,
+      'unicode' => 
+      array (
+        0 => 58419,
+      ),
       'sjis' => 'FB73',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042430,
+      'unicode' => 
+      array (
+        0 => 1042430,
+      ),
     ),
   ),
   435 => 
   array (
     'mapid' => '#e-7FF',
-    'unicode' => 127907,
+    'unicode' => 
+    array (
+      0 => 127907,
+    ),
     'char_name' => 
     array (
       'title' => 'FISHING POLE AND FISH',
@@ -14515,33 +20219,48 @@ Temporary Notes: camp',
     'docomo' => 
     array (
       'number' => 'Exp.70',
-      'unicode' => 59217,
+      'unicode' => 
+      array (
+        0 => 59217,
+      ),
       'sjis' => 'F9F6',
       'jis' => '7A60',
     ),
     'au' => 
     array (
       'number' => '752',
-      'unicode' => 60226,
+      'unicode' => 
+      array (
+        0 => 60226,
+      ),
       'sjis' => 'F446',
       'jis' => '7B27',
     ),
     'softbank' => 
     array (
       'number' => '130',
-      'unicode' => 57369,
+      'unicode' => 
+      array (
+        0 => 57369,
+      ),
       'sjis' => 'F959',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042431,
+      'unicode' => 
+      array (
+        0 => 1042431,
+      ),
     ),
   ),
   436 => 
   array (
     'mapid' => '#e-800',
-    'unicode' => 127908,
+    'unicode' => 
+    array (
+      0 => 127908,
+    ),
     'char_name' => 
     array (
       'title' => 'MICROPHONE',
@@ -14550,33 +20269,48 @@ Temporary Notes: camp',
     'docomo' => 
     array (
       'number' => '57',
-      'unicode' => 58998,
+      'unicode' => 
+      array (
+        0 => 58998,
+      ),
       'sjis' => 'F8D7',
       'jis' => '765E',
     ),
     'au' => 
     array (
       'number' => '289',
-      'unicode' => 58627,
+      'unicode' => 
+      array (
+        0 => 58627,
+      ),
       'sjis' => 'F6DC',
       'jis' => '765E',
     ),
     'softbank' => 
     array (
       'number' => '251',
-      'unicode' => 57404,
+      'unicode' => 
+      array (
+        0 => 57404,
+      ),
       'sjis' => 'F97C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042432,
+      'unicode' => 
+      array (
+        0 => 1042432,
+      ),
     ),
   ),
   437 => 
   array (
     'mapid' => '#e-801',
-    'unicode' => 127909,
+    'unicode' => 
+    array (
+      0 => 127909,
+    ),
     'char_name' => 
     array (
       'title' => 'MOVIE CAMERA',
@@ -14586,33 +20320,48 @@ Temporary Notes: movie projector, video camera',
     'docomo' => 
     array (
       'number' => '58',
-      'unicode' => 58999,
+      'unicode' => 
+      array (
+        0 => 58999,
+      ),
       'sjis' => 'F8D8',
       'jis' => '7672',
     ),
     'au' => 
     array (
       'number' => '110',
-      'unicode' => 58647,
+      'unicode' => 
+      array (
+        0 => 58647,
+      ),
       'sjis' => 'F6F0',
       'jis' => '7672',
     ),
     'softbank' => 
     array (
       'number' => '260',
-      'unicode' => 57405,
+      'unicode' => 
+      array (
+        0 => 57405,
+      ),
       'sjis' => 'F97D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042433,
+      'unicode' => 
+      array (
+        0 => 1042433,
+      ),
     ),
   ),
   438 => 
   array (
     'mapid' => '#e-802',
-    'unicode' => 127910,
+    'unicode' => 
+    array (
+      0 => 127910,
+    ),
     'char_name' => 
     array (
       'title' => 'CINEMA',
@@ -14621,33 +20370,48 @@ Temporary Notes: movie projector, video camera',
     'docomo' => 
     array (
       'number' => '58',
-      'unicode' => 58999,
+      'unicode' => 
+      array (
+        0 => 58999,
+      ),
       'sjis' => 'F8D8',
       'jis' => '7672',
     ),
     'au' => 
     array (
       'number' => '110',
-      'unicode' => 58647,
+      'unicode' => 
+      array (
+        0 => 58647,
+      ),
       'sjis' => 'F6F0',
       'jis' => '7672',
     ),
     'softbank' => 
     array (
       'number' => '356',
-      'unicode' => 58631,
+      'unicode' => 
+      array (
+        0 => 58631,
+      ),
       'sjis' => 'FBA7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042434,
+      'unicode' => 
+      array (
+        0 => 1042434,
+      ),
     ),
   ),
   439 => 
   array (
     'mapid' => '#e-803',
-    'unicode' => 127911,
+    'unicode' => 
+    array (
+      0 => 127911,
+    ),
     'char_name' => 
     array (
       'title' => 'HEADPHONE',
@@ -14656,33 +20420,48 @@ Temporary Notes: movie projector, video camera',
     'docomo' => 
     array (
       'number' => '61',
-      'unicode' => 59002,
+      'unicode' => 
+      array (
+        0 => 59002,
+      ),
       'sjis' => 'F8DB',
       'jis' => '7663',
     ),
     'au' => 
     array (
       'number' => '294',
-      'unicode' => 58632,
+      'unicode' => 
+      array (
+        0 => 58632,
+      ),
       'sjis' => 'F6E1',
       'jis' => '7663',
     ),
     'softbank' => 
     array (
       'number' => '252',
-      'unicode' => 58122,
+      'unicode' => 
+      array (
+        0 => 58122,
+      ),
       'sjis' => 'F9AA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042435,
+      'unicode' => 
+      array (
+        0 => 1042435,
+      ),
     ),
   ),
   440 => 
   array (
     'mapid' => '#e-804',
-    'unicode' => 127912,
+    'unicode' => 
+    array (
+      0 => 127912,
+    ),
     'char_name' => 
     array (
       'title' => 'ARTIST PALETTE',
@@ -14692,33 +20471,48 @@ Temporary Notes: movie projector, video camera',
     'docomo' => 
     array (
       'number' => '62',
-      'unicode' => 59003,
+      'unicode' => 
+      array (
+        0 => 59003,
+      ),
       'sjis' => 'F8DC',
       'jis' => '783B',
     ),
     'au' => 
     array (
       'number' => '309',
-      'unicode' => 58780,
+      'unicode' => 
+      array (
+        0 => 58780,
+      ),
       'sjis' => 'F7B9',
       'jis' => '783B',
     ),
     'softbank' => 
     array (
       'number' => '263',
-      'unicode' => 58626,
+      'unicode' => 
+      array (
+        0 => 58626,
+      ),
       'sjis' => 'FBA2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042436,
+      'unicode' => 
+      array (
+        0 => 1042436,
+      ),
     ),
   ),
   441 => 
   array (
     'mapid' => '#e-805',
-    'unicode' => 127913,
+    'unicode' => 
+    array (
+      0 => 127913,
+    ),
     'char_name' => 
     array (
       'title' => 'TOP HAT',
@@ -14727,33 +20521,48 @@ Temporary Notes: movie projector, video camera',
     'docomo' => 
     array (
       'number' => '63',
-      'unicode' => 59004,
+      'unicode' => 
+      array (
+        0 => 59004,
+      ),
       'sjis' => 'F8DD',
       'jis' => '7A4B',
     ),
     'au' => 
     array (
       'number' => '494',
-      'unicode' => 60149,
+      'unicode' => 
+      array (
+        0 => 60149,
+      ),
       'sjis' => 'F3C9',
       'jis' => '7A4B',
     ),
     'softbank' => 
     array (
       'number' => '224',
-      'unicode' => 58627,
+      'unicode' => 
+      array (
+        0 => 58627,
+      ),
       'sjis' => 'FBA3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042437,
+      'unicode' => 
+      array (
+        0 => 1042437,
+      ),
     ),
   ),
   442 => 
   array (
     'mapid' => '#e-806',
-    'unicode' => 127914,
+    'unicode' => 
+    array (
+      0 => 127914,
+    ),
     'char_name' => 
     array (
       'title' => 'CIRCUS TENT',
@@ -14763,14 +20572,20 @@ Temporary Notes: movie projector, video camera',
     'docomo' => 
     array (
       'number' => '64',
-      'unicode' => 59005,
+      'unicode' => 
+      array (
+        0 => 59005,
+      ),
       'sjis' => 'F8DE',
       'jis' => '783D',
     ),
     'au' => 
     array (
       'number' => '311',
-      'unicode' => 58782,
+      'unicode' => 
+      array (
+        0 => 58782,
+      ),
       'sjis' => 'F7BB',
       'jis' => '783D',
     ),
@@ -14780,13 +20595,19 @@ Temporary Notes: movie projector, video camera',
     ),
     'google' => 
     array (
-      'unicode' => 1042438,
+      'unicode' => 
+      array (
+        0 => 1042438,
+      ),
     ),
   ),
   443 => 
   array (
     'mapid' => '#e-807',
-    'unicode' => 127915,
+    'unicode' => 
+    array (
+      0 => 127915,
+    ),
     'char_name' => 
     array (
       'title' => 'TICKET',
@@ -14795,33 +20616,48 @@ Temporary Notes: movie projector, video camera',
     'docomo' => 
     array (
       'number' => '65',
-      'unicode' => 59006,
+      'unicode' => 
+      array (
+        0 => 59006,
+      ),
       'sjis' => 'F8DF',
       'jis' => '7557',
     ),
     'au' => 
     array (
       'number' => '106',
-      'unicode' => 58526,
+      'unicode' => 
+      array (
+        0 => 58526,
+      ),
       'sjis' => 'F676',
       'jis' => '7557',
     ),
     'softbank' => 
     array (
       'number' => '262',
-      'unicode' => 57637,
+      'unicode' => 
+      array (
+        0 => 57637,
+      ),
       'sjis' => 'F765',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042439,
+      'unicode' => 
+      array (
+        0 => 1042439,
+      ),
     ),
   ),
   444 => 
   array (
     'mapid' => '#e-808',
-    'unicode' => 127916,
+    'unicode' => 
+    array (
+      0 => 127916,
+    ),
     'char_name' => 
     array (
       'title' => 'CLAPPER BOARD',
@@ -14830,33 +20666,48 @@ Temporary Notes: movie projector, video camera',
     'docomo' => 
     array (
       'number' => '167',
-      'unicode' => 59052,
+      'unicode' => 
+      array (
+        0 => 59052,
+      ),
       'sjis' => 'F950',
       'jis' => '7577',
     ),
     'au' => 
     array (
       'number' => '226',
-      'unicode' => 58558,
+      'unicode' => 
+      array (
+        0 => 58558,
+      ),
       'sjis' => 'F697',
       'jis' => '7577',
     ),
     'softbank' => 
     array (
       'number' => '261',
-      'unicode' => 58148,
+      'unicode' => 
+      array (
+        0 => 58148,
+      ),
       'sjis' => 'F9C4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042440,
+      'unicode' => 
+      array (
+        0 => 1042440,
+      ),
     ),
   ),
   445 => 
   array (
     'mapid' => '#e-809',
-    'unicode' => 127917,
+    'unicode' => 
+    array (
+      0 => 127917,
+    ),
     'char_name' => 
     array (
       'title' => 'PERFORMING ARTS',
@@ -14869,26 +20720,38 @@ Temporary Notes: movie projector, video camera',
     'au' => 
     array (
       'number' => '310',
-      'unicode' => 58781,
+      'unicode' => 
+      array (
+        0 => 58781,
+      ),
       'sjis' => 'F7BA',
       'jis' => '783C',
     ),
     'softbank' => 
     array (
       'number' => '224',
-      'unicode' => 58627,
+      'unicode' => 
+      array (
+        0 => 58627,
+      ),
       'sjis' => 'FBA3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042441,
+      'unicode' => 
+      array (
+        0 => 1042441,
+      ),
     ),
   ),
   446 => 
   array (
     'mapid' => '#e-80A',
-    'unicode' => 127918,
+    'unicode' => 
+    array (
+      0 => 127918,
+    ),
     'char_name' => 
     array (
       'title' => 'VIDEO GAME',
@@ -14897,14 +20760,20 @@ Temporary Notes: movie projector, video camera',
     'docomo' => 
     array (
       'number' => '78',
-      'unicode' => 59019,
+      'unicode' => 
+      array (
+        0 => 59019,
+      ),
       'sjis' => 'F8EC',
       'jis' => '7621',
     ),
     'au' => 
     array (
       'number' => '232',
-      'unicode' => 58566,
+      'unicode' => 
+      array (
+        0 => 58566,
+      ),
       'sjis' => 'F69F',
       'jis' => '7621',
     ),
@@ -14914,13 +20783,19 @@ Temporary Notes: movie projector, video camera',
     ),
     'google' => 
     array (
-      'unicode' => 1042442,
+      'unicode' => 
+      array (
+        0 => 1042442,
+      ),
     ),
   ),
   447 => 
   array (
     'mapid' => '#e-80B',
-    'unicode' => 126980,
+    'unicode' => 
+    array (
+      0 => 126980,
+    ),
     'char_name' => 
     array (
       'title' => 'MAHJONG TILE RED DRAGON',
@@ -14933,26 +20808,38 @@ Temporary Notes: movie projector, video camera',
     'au' => 
     array (
       'number' => '362',
-      'unicode' => 58833,
+      'unicode' => 
+      array (
+        0 => 58833,
+      ),
       'sjis' => 'F344',
       'jis' => '7925',
     ),
     'softbank' => 
     array (
       'number' => '164',
-      'unicode' => 57645,
+      'unicode' => 
+      array (
+        0 => 57645,
+      ),
       'sjis' => 'F76D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042443,
+      'unicode' => 
+      array (
+        0 => 1042443,
+      ),
     ),
   ),
   448 => 
   array (
     'mapid' => '#e-80C',
-    'unicode' => 127919,
+    'unicode' => 
+    array (
+      0 => 127919,
+    ),
     'char_name' => 
     array (
       'title' => 'DIRECT HIT',
@@ -14966,26 +20853,38 @@ x (bullseye - 25CE)',
     'au' => 
     array (
       'number' => '231',
-      'unicode' => 58565,
+      'unicode' => 
+      array (
+        0 => 58565,
+      ),
       'sjis' => 'F69E',
       'jis' => '757E',
     ),
     'softbank' => 
     array (
       'number' => '141',
-      'unicode' => 57648,
+      'unicode' => 
+      array (
+        0 => 57648,
+      ),
       'sjis' => 'F770',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042444,
+      'unicode' => 
+      array (
+        0 => 1042444,
+      ),
     ),
   ),
   449 => 
   array (
     'mapid' => '#e-80D',
-    'unicode' => 127920,
+    'unicode' => 
+    array (
+      0 => 127920,
+    ),
     'char_name' => 
     array (
       'title' => 'SLOT MACHINE',
@@ -14998,26 +20897,38 @@ x (bullseye - 25CE)',
     'au' => 
     array (
       'number' => '229',
-      'unicode' => 58478,
+      'unicode' => 
+      array (
+        0 => 58478,
+      ),
       'sjis' => 'F646',
       'jis' => '7527',
     ),
     'softbank' => 
     array (
       'number' => '434',
-      'unicode' => 57651,
+      'unicode' => 
+      array (
+        0 => 57651,
+      ),
       'sjis' => 'F773',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042445,
+      'unicode' => 
+      array (
+        0 => 1042445,
+      ),
     ),
   ),
   450 => 
   array (
     'mapid' => '#e-80E',
-    'unicode' => 127921,
+    'unicode' => 
+    array (
+      0 => 127921,
+    ),
     'char_name' => 
     array (
       'title' => 'BILLIARDS',
@@ -15030,26 +20941,38 @@ x (bullseye - 25CE)',
     'au' => 
     array (
       'number' => '470',
-      'unicode' => 60125,
+      'unicode' => 
+      array (
+        0 => 60125,
+      ),
       'sjis' => 'F3B1',
       'jis' => '7A33',
     ),
     'softbank' => 
     array (
       'number' => '159',
-      'unicode' => 58412,
+      'unicode' => 
+      array (
+        0 => 58412,
+      ),
       'sjis' => 'FB6C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042446,
+      'unicode' => 
+      array (
+        0 => 1042446,
+      ),
     ),
   ),
   451 => 
   array (
     'mapid' => '#e-80F',
-    'unicode' => 127922,
+    'unicode' => 
+    array (
+      0 => 127922,
+    ),
     'char_name' => 
     array (
       'title' => 'GAME DIE',
@@ -15062,7 +20985,10 @@ x (bullseye - 25CE)',
     'au' => 
     array (
       'number' => '170',
-      'unicode' => 58568,
+      'unicode' => 
+      array (
+        0 => 58568,
+      ),
       'sjis' => 'F6A1',
       'jis' => '7623',
     ),
@@ -15072,13 +20998,19 @@ x (bullseye - 25CE)',
     ),
     'google' => 
     array (
-      'unicode' => 1042447,
+      'unicode' => 
+      array (
+        0 => 1042447,
+      ),
     ),
   ),
   452 => 
   array (
     'mapid' => '#e-810',
-    'unicode' => 127923,
+    'unicode' => 
+    array (
+      0 => 127923,
+    ),
     'char_name' => 
     array (
       'title' => 'BOWLING',
@@ -15091,7 +21023,10 @@ x (bullseye - 25CE)',
     'au' => 
     array (
       'number' => '753',
-      'unicode' => 60227,
+      'unicode' => 
+      array (
+        0 => 60227,
+      ),
       'sjis' => 'F447',
       'jis' => '7B28',
     ),
@@ -15101,13 +21036,19 @@ x (bullseye - 25CE)',
     ),
     'google' => 
     array (
-      'unicode' => 1042448,
+      'unicode' => 
+      array (
+        0 => 1042448,
+      ),
     ),
   ),
   453 => 
   array (
     'mapid' => '#e-811',
-    'unicode' => 127924,
+    'unicode' => 
+    array (
+      0 => 127924,
+    ),
     'char_name' => 
     array (
       'title' => 'FLOWER PLAYING CARDS',
@@ -15121,7 +21062,10 @@ Temporary Notes: (花札)',
     'au' => 
     array (
       'number' => '796',
-      'unicode' => 60270,
+      'unicode' => 
+      array (
+        0 => 60270,
+      ),
       'sjis' => 'F472',
       'jis' => '7B53',
     ),
@@ -15131,13 +21075,19 @@ Temporary Notes: (花札)',
     ),
     'google' => 
     array (
-      'unicode' => 1042449,
+      'unicode' => 
+      array (
+        0 => 1042449,
+      ),
     ),
   ),
   454 => 
   array (
     'mapid' => '#e-812',
-    'unicode' => 127183,
+    'unicode' => 
+    array (
+      0 => 127183,
+    ),
     'char_name' => 
     array (
       'title' => 'PLAYING CARD BLACK JOKER',
@@ -15150,7 +21100,10 @@ Temporary Notes: (花札)',
     'au' => 
     array (
       'number' => '797',
-      'unicode' => 60271,
+      'unicode' => 
+      array (
+        0 => 60271,
+      ),
       'sjis' => 'F473',
       'jis' => '7B54',
     ),
@@ -15160,13 +21113,19 @@ Temporary Notes: (花札)',
     ),
     'google' => 
     array (
-      'unicode' => 1042450,
+      'unicode' => 
+      array (
+        0 => 1042450,
+      ),
     ),
   ),
   455 => 
   array (
     'mapid' => '#e-813',
-    'unicode' => 127925,
+    'unicode' => 
+    array (
+      0 => 127925,
+    ),
     'char_name' => 
     array (
       'title' => 'MUSICAL NOTE',
@@ -15177,33 +21136,48 @@ Temporary Notes: Disunified from U+266A due to source separation rule (Shift_JIS
     'docomo' => 
     array (
       'number' => '146',
-      'unicode' => 59126,
+      'unicode' => 
+      array (
+        0 => 59126,
+      ),
       'sjis' => 'F99B',
       'jis' => '7870',
     ),
     'au' => 
     array (
       'number' => '343',
-      'unicode' => 58814,
+      'unicode' => 
+      array (
+        0 => 58814,
+      ),
       'sjis' => 'F7EE',
       'jis' => '7870',
     ),
     'softbank' => 
     array (
       'number' => '46',
-      'unicode' => 57406,
+      'unicode' => 
+      array (
+        0 => 57406,
+      ),
       'sjis' => 'F97E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042451,
+      'unicode' => 
+      array (
+        0 => 1042451,
+      ),
     ),
   ),
   456 => 
   array (
     'mapid' => '#e-814',
-    'unicode' => 127926,
+    'unicode' => 
+    array (
+      0 => 127926,
+    ),
     'char_name' => 
     array (
       'title' => 'MULTIPLE MUSICAL NOTES',
@@ -15214,33 +21188,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '155',
-      'unicode' => 59135,
+      'unicode' => 
+      array (
+        0 => 59135,
+      ),
       'sjis' => 'F9A4',
       'jis' => '7660',
     ),
     'au' => 
     array (
       'number' => '291',
-      'unicode' => 58629,
+      'unicode' => 
+      array (
+        0 => 58629,
+      ),
       'sjis' => 'F6DE',
       'jis' => '7660',
     ),
     'softbank' => 
     array (
       'number' => '47',
-      'unicode' => 58150,
+      'unicode' => 
+      array (
+        0 => 58150,
+      ),
       'sjis' => 'F9C6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042452,
+      'unicode' => 
+      array (
+        0 => 1042452,
+      ),
     ),
   ),
   457 => 
   array (
     'mapid' => '#e-815',
-    'unicode' => 127927,
+    'unicode' => 
+    array (
+      0 => 127927,
+    ),
     'char_name' => 
     array (
       'title' => 'SAXOPHONE',
@@ -15257,19 +21246,28 @@ Temporary Notes: disunified from ♫ U+266B',
     'softbank' => 
     array (
       'number' => '259',
-      'unicode' => 57408,
+      'unicode' => 
+      array (
+        0 => 57408,
+      ),
       'sjis' => 'F981',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042453,
+      'unicode' => 
+      array (
+        0 => 1042453,
+      ),
     ),
   ),
   458 => 
   array (
     'mapid' => '#e-816',
-    'unicode' => 127928,
+    'unicode' => 
+    array (
+      0 => 127928,
+    ),
     'char_name' => 
     array (
       'title' => 'GUITAR',
@@ -15282,26 +21280,38 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '292',
-      'unicode' => 58630,
+      'unicode' => 
+      array (
+        0 => 58630,
+      ),
       'sjis' => 'F6DF',
       'jis' => '7661',
     ),
     'softbank' => 
     array (
       'number' => '257',
-      'unicode' => 57409,
+      'unicode' => 
+      array (
+        0 => 57409,
+      ),
       'sjis' => 'F982',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042454,
+      'unicode' => 
+      array (
+        0 => 1042454,
+      ),
     ),
   ),
   459 => 
   array (
     'mapid' => '#e-817',
-    'unicode' => 127929,
+    'unicode' => 
+    array (
+      0 => 127929,
+    ),
     'char_name' => 
     array (
       'title' => 'MUSICAL KEYBOARD',
@@ -15314,7 +21324,10 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '750',
-      'unicode' => 60224,
+      'unicode' => 
+      array (
+        0 => 60224,
+      ),
       'sjis' => 'F444',
       'jis' => '7B25',
     ),
@@ -15324,13 +21337,19 @@ Temporary Notes: disunified from ♫ U+266B',
     ),
     'google' => 
     array (
-      'unicode' => 1042455,
+      'unicode' => 
+      array (
+        0 => 1042455,
+      ),
     ),
   ),
   460 => 
   array (
     'mapid' => '#e-818',
-    'unicode' => 127930,
+    'unicode' => 
+    array (
+      0 => 127930,
+    ),
     'char_name' => 
     array (
       'title' => 'TRUMPET',
@@ -15343,26 +21362,38 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '469',
-      'unicode' => 60124,
+      'unicode' => 
+      array (
+        0 => 60124,
+      ),
       'sjis' => 'F3B0',
       'jis' => '7A32',
     ),
     'softbank' => 
     array (
       'number' => '258',
-      'unicode' => 57410,
+      'unicode' => 
+      array (
+        0 => 57410,
+      ),
       'sjis' => 'F983',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042456,
+      'unicode' => 
+      array (
+        0 => 1042456,
+      ),
     ),
   ),
   461 => 
   array (
     'mapid' => '#e-819',
-    'unicode' => 127931,
+    'unicode' => 
+    array (
+      0 => 127931,
+    ),
     'char_name' => 
     array (
       'title' => 'VIOLIN',
@@ -15375,7 +21406,10 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '293',
-      'unicode' => 58631,
+      'unicode' => 
+      array (
+        0 => 58631,
+      ),
       'sjis' => 'F6E0',
       'jis' => '7662',
     ),
@@ -15385,13 +21419,19 @@ Temporary Notes: disunified from ♫ U+266B',
     ),
     'google' => 
     array (
-      'unicode' => 1042457,
+      'unicode' => 
+      array (
+        0 => 1042457,
+      ),
     ),
   ),
   462 => 
   array (
     'mapid' => '#e-81A',
-    'unicode' => 127932,
+    'unicode' => 
+    array (
+      0 => 127932,
+    ),
     'char_name' => 
     array (
       'title' => 'MUSICAL SCORE',
@@ -15400,33 +21440,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '155',
-      'unicode' => 59135,
+      'unicode' => 
+      array (
+        0 => 59135,
+      ),
       'sjis' => 'F9A4',
       'jis' => '7660',
     ),
     'au' => 
     array (
       'number' => '453',
-      'unicode' => 60108,
+      'unicode' => 
+      array (
+        0 => 60108,
+      ),
       'sjis' => 'F3A0',
       'jis' => '7A22',
     ),
     'softbank' => 
     array (
       'number' => '47',
-      'unicode' => 58150,
+      'unicode' => 
+      array (
+        0 => 58150,
+      ),
       'sjis' => 'F9C6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042458,
+      'unicode' => 
+      array (
+        0 => 1042458,
+      ),
     ),
   ),
   463 => 
   array (
     'mapid' => '#e-81B',
-    'unicode' => 12349,
+    'unicode' => 
+    array (
+      0 => 12349,
+    ),
     'char_name' => 
     array (
       'title' => 'PART ALTERNATION MARK',
@@ -15443,19 +21498,28 @@ Temporary Notes: disunified from ♫ U+266B',
     'softbank' => 
     array (
       'number' => '458',
-      'unicode' => 57644,
+      'unicode' => 
+      array (
+        0 => 57644,
+      ),
       'sjis' => 'F76C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042459,
+      'unicode' => 
+      array (
+        0 => 1042459,
+      ),
     ),
   ),
   464 => 
   array (
     'mapid' => '#e-4EF',
-    'unicode' => 128247,
+    'unicode' => 
+    array (
+      0 => 128247,
+    ),
     'char_name' => 
     array (
       'title' => 'CAMERA',
@@ -15464,33 +21528,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '68',
-      'unicode' => 59009,
+      'unicode' => 
+      array (
+        0 => 59009,
+      ),
       'sjis' => 'F8E2',
       'jis' => '7670',
     ),
     'au' => 
     array (
       'number' => '94',
-      'unicode' => 58645,
+      'unicode' => 
+      array (
+        0 => 58645,
+      ),
       'sjis' => 'F6EE',
       'jis' => '7670',
     ),
     'softbank' => 
     array (
       'number' => '247',
-      'unicode' => 57352,
+      'unicode' => 
+      array (
+        0 => 57352,
+      ),
       'sjis' => 'F948',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041647,
+      'unicode' => 
+      array (
+        0 => 1041647,
+      ),
     ),
   ),
   465 => 
   array (
     'mapid' => '#e-4F9',
-    'unicode' => 128249,
+    'unicode' => 
+    array (
+      0 => 128249,
+    ),
     'char_name' => 
     array (
       'title' => 'VIDEO CAMERA',
@@ -15499,33 +21578,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '58',
-      'unicode' => 58999,
+      'unicode' => 
+      array (
+        0 => 58999,
+      ),
       'sjis' => 'F8D8',
       'jis' => '7672',
     ),
     'au' => 
     array (
       'number' => '111',
-      'unicode' => 58750,
+      'unicode' => 
+      array (
+        0 => 58750,
+      ),
       'sjis' => 'F79B',
       'jis' => '777B',
     ),
     'softbank' => 
     array (
       'number' => '260',
-      'unicode' => 57405,
+      'unicode' => 
+      array (
+        0 => 57405,
+      ),
       'sjis' => 'F97D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041657,
+      'unicode' => 
+      array (
+        0 => 1041657,
+      ),
     ),
   ),
   466 => 
   array (
     'mapid' => '#e-81C',
-    'unicode' => 128250,
+    'unicode' => 
+    array (
+      0 => 128250,
+    ),
     'char_name' => 
     array (
       'title' => 'TELEVISION',
@@ -15534,33 +21628,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '77',
-      'unicode' => 59018,
+      'unicode' => 
+      array (
+        0 => 59018,
+      ),
       'sjis' => 'F8EB',
       'jis' => '765D',
     ),
     'au' => 
     array (
       'number' => '288',
-      'unicode' => 58626,
+      'unicode' => 
+      array (
+        0 => 58626,
+      ),
       'sjis' => 'F6DB',
       'jis' => '765D',
     ),
     'softbank' => 
     array (
       'number' => '240',
-      'unicode' => 57642,
+      'unicode' => 
+      array (
+        0 => 57642,
+      ),
       'sjis' => 'F76A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042460,
+      'unicode' => 
+      array (
+        0 => 1042460,
+      ),
     ),
   ),
   467 => 
   array (
     'mapid' => '#e-81F',
-    'unicode' => 128251,
+    'unicode' => 
+    array (
+      0 => 128251,
+    ),
     'char_name' => 
     array (
       'title' => 'RADIO',
@@ -15573,26 +21682,38 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '338',
-      'unicode' => 58809,
+      'unicode' => 
+      array (
+        0 => 58809,
+      ),
       'sjis' => 'F7E9',
       'jis' => '786B',
     ),
     'softbank' => 
     array (
       'number' => '248',
-      'unicode' => 57640,
+      'unicode' => 
+      array (
+        0 => 57640,
+      ),
       'sjis' => 'F768',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042463,
+      'unicode' => 
+      array (
+        0 => 1042463,
+      ),
     ),
   ),
   468 => 
   array (
     'mapid' => '#e-820',
-    'unicode' => 128252,
+    'unicode' => 
+    array (
+      0 => 128252,
+    ),
     'char_name' => 
     array (
       'title' => 'VIDEOCASSETTE',
@@ -15605,26 +21726,38 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '115',
-      'unicode' => 58752,
+      'unicode' => 
+      array (
+        0 => 58752,
+      ),
       'sjis' => 'F79D',
       'jis' => '777D',
     ),
     'softbank' => 
     array (
       'number' => '255',
-      'unicode' => 57641,
+      'unicode' => 
+      array (
+        0 => 57641,
+      ),
       'sjis' => 'F769',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042464,
+      'unicode' => 
+      array (
+        0 => 1042464,
+      ),
     ),
   ),
   469 => 
   array (
     'mapid' => '#e-823',
-    'unicode' => 128139,
+    'unicode' => 
+    array (
+      0 => 128139,
+    ),
     'char_name' => 
     array (
       'title' => 'KISS MARK',
@@ -15633,33 +21766,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '149',
-      'unicode' => 59129,
+      'unicode' => 
+      array (
+        0 => 59129,
+      ),
       'sjis' => 'F99E',
       'jis' => '7646',
     ),
     'au' => 
     array (
       'number' => '273',
-      'unicode' => 58603,
+      'unicode' => 
+      array (
+        0 => 58603,
+      ),
       'sjis' => 'F6C4',
       'jis' => '7646',
     ),
     'softbank' => 
     array (
       'number' => '63',
-      'unicode' => 57347,
+      'unicode' => 
+      array (
+        0 => 57347,
+      ),
       'sjis' => 'F943',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042467,
+      'unicode' => 
+      array (
+        0 => 1042467,
+      ),
     ),
   ),
   470 => 
   array (
     'mapid' => '#e-825',
-    'unicode' => 128141,
+    'unicode' => 
+    array (
+      0 => 128141,
+    ),
     'char_name' => 
     array (
       'title' => 'RING',
@@ -15668,33 +21816,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => 'Exp.16',
-      'unicode' => 59163,
+      'unicode' => 
+      array (
+        0 => 59163,
+      ),
       'sjis' => 'F9C0',
       'jis' => '766F',
     ),
     'au' => 
     array (
       'number' => '72',
-      'unicode' => 58644,
+      'unicode' => 
+      array (
+        0 => 58644,
+      ),
       'sjis' => 'F6ED',
       'jis' => '766F',
     ),
     'softbank' => 
     array (
       'number' => '229',
-      'unicode' => 57396,
+      'unicode' => 
+      array (
+        0 => 57396,
+      ),
       'sjis' => 'F974',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042469,
+      'unicode' => 
+      array (
+        0 => 1042469,
+      ),
     ),
   ),
   471 => 
   array (
     'mapid' => '#e-826',
-    'unicode' => 128142,
+    'unicode' => 
+    array (
+      0 => 128142,
+    ),
     'char_name' => 
     array (
       'title' => 'GEM STONE',
@@ -15703,33 +21866,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => 'Exp.16',
-      'unicode' => 59163,
+      'unicode' => 
+      array (
+        0 => 59163,
+      ),
       'sjis' => 'F9C0',
       'jis' => '766F',
     ),
     'au' => 
     array (
       'number' => '72',
-      'unicode' => 58644,
+      'unicode' => 
+      array (
+        0 => 58644,
+      ),
       'sjis' => 'F6ED',
       'jis' => '766F',
     ),
     'softbank' => 
     array (
       'number' => '230',
-      'unicode' => 57397,
+      'unicode' => 
+      array (
+        0 => 57397,
+      ),
       'sjis' => 'F975',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042470,
+      'unicode' => 
+      array (
+        0 => 1042470,
+      ),
     ),
   ),
   472 => 
   array (
     'mapid' => '#e-827',
-    'unicode' => 128143,
+    'unicode' => 
+    array (
+      0 => 128143,
+    ),
     'char_name' => 
     array (
       'title' => 'KISS',
@@ -15738,33 +21916,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '149',
-      'unicode' => 59129,
+      'unicode' => 
+      array (
+        0 => 59129,
+      ),
       'sjis' => 'F99E',
       'jis' => '7646',
     ),
     'au' => 
     array (
       'number' => '355',
-      'unicode' => 58826,
+      'unicode' => 
+      array (
+        0 => 58826,
+      ),
       'sjis' => 'F7FA',
       'jis' => '787C',
     ),
     'softbank' => 
     array (
       'number' => '277',
-      'unicode' => 57617,
+      'unicode' => 
+      array (
+        0 => 57617,
+      ),
       'sjis' => 'F751',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042471,
+      'unicode' => 
+      array (
+        0 => 1042471,
+      ),
     ),
   ),
   473 => 
   array (
     'mapid' => '#e-828',
-    'unicode' => 128144,
+    'unicode' => 
+    array (
+      0 => 128144,
+    ),
     'char_name' => 
     array (
       'title' => 'BOUQUET',
@@ -15777,26 +21970,38 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '398',
-      'unicode' => 60053,
+      'unicode' => 
+      array (
+        0 => 60053,
+      ),
       'sjis' => 'F368',
       'jis' => '7949',
     ),
     'softbank' => 
     array (
       'number' => '98',
-      'unicode' => 58118,
+      'unicode' => 
+      array (
+        0 => 58118,
+      ),
       'sjis' => 'F9A6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042472,
+      'unicode' => 
+      array (
+        0 => 1042472,
+      ),
     ),
   ),
   474 => 
   array (
     'mapid' => '#e-829',
-    'unicode' => 128145,
+    'unicode' => 
+    array (
+      0 => 128145,
+    ),
     'char_name' => 
     array (
       'title' => 'COUPLE WITH HEART',
@@ -15805,33 +22010,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '137',
-      'unicode' => 59117,
+      'unicode' => 
+      array (
+        0 => 59117,
+      ),
       'sjis' => 'F992',
       'jis' => '7B5A',
     ),
     'au' => 
     array (
       'number' => '467',
-      'unicode' => 60122,
+      'unicode' => 
+      array (
+        0 => 60122,
+      ),
       'sjis' => 'F3AE',
       'jis' => '7A30',
     ),
     'softbank' => 
     array (
       'number' => '278',
-      'unicode' => 58405,
+      'unicode' => 
+      array (
+        0 => 58405,
+      ),
       'sjis' => 'FB65',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042473,
+      'unicode' => 
+      array (
+        0 => 1042473,
+      ),
     ),
   ),
   475 => 
   array (
     'mapid' => '#e-82A',
-    'unicode' => 128146,
+    'unicode' => 
+    array (
+      0 => 128146,
+    ),
     'char_name' => 
     array (
       'title' => 'WEDDING',
@@ -15844,26 +22064,38 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '340',
-      'unicode' => 58811,
+      'unicode' => 
+      array (
+        0 => 58811,
+      ),
       'sjis' => 'F7EB',
       'jis' => '786D',
     ),
     'softbank' => 
     array (
       'number' => '334',
-      'unicode' => 58429,
+      'unicode' => 
+      array (
+        0 => 58429,
+      ),
       'sjis' => 'FB7D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042474,
+      'unicode' => 
+      array (
+        0 => 1042474,
+      ),
     ),
   ),
   476 => 
   array (
     'mapid' => '#e-B25',
-    'unicode' => 128286,
+    'unicode' => 
+    array (
+      0 => 128286,
+    ),
     'char_name' => 
     array (
       'title' => 'NO ONE UNDER EIGHTEEN SYMBOL',
@@ -15876,26 +22108,38 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '380',
-      'unicode' => 60035,
+      'unicode' => 
+      array (
+        0 => 60035,
+      ),
       'sjis' => 'F356',
       'jis' => '7937',
     ),
     'softbank' => 
     array (
       'number' => '456',
-      'unicode' => 57863,
+      'unicode' => 
+      array (
+        0 => 57863,
+      ),
       'sjis' => 'F7A7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043237,
+      'unicode' => 
+      array (
+        0 => 1043237,
+      ),
     ),
   ),
   477 => 
   array (
     'mapid' => '#e-B29',
-    'unicode' => 169,
+    'unicode' => 
+    array (
+      0 => 169,
+    ),
     'char_name' => 
     array (
       'title' => 'COPYRIGHT SIGN',
@@ -15904,33 +22148,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => 'Exp.38',
-      'unicode' => 59185,
+      'unicode' => 
+      array (
+        0 => 59185,
+      ),
       'sjis' => 'F9D6',
       'jis' => '7755',
     ),
     'au' => 
     array (
       'number' => '81',
-      'unicode' => 58712,
+      'unicode' => 
+      array (
+        0 => 58712,
+      ),
       'sjis' => 'F774',
       'jis' => '7755',
     ),
     'softbank' => 
     array (
       'number' => '469',
-      'unicode' => 57934,
+      'unicode' => 
+      array (
+        0 => 57934,
+      ),
       'sjis' => 'F7EE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043241,
+      'unicode' => 
+      array (
+        0 => 1043241,
+      ),
     ),
   ),
   478 => 
   array (
     'mapid' => '#e-B2D',
-    'unicode' => 174,
+    'unicode' => 
+    array (
+      0 => 174,
+    ),
     'char_name' => 
     array (
       'title' => 'REGISTERED SIGN',
@@ -15939,33 +22198,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => 'Exp.43',
-      'unicode' => 59190,
+      'unicode' => 
+      array (
+        0 => 59190,
+      ),
       'sjis' => 'F9DB',
       'jis' => '7756',
     ),
     'au' => 
     array (
       'number' => '82',
-      'unicode' => 58713,
+      'unicode' => 
+      array (
+        0 => 58713,
+      ),
       'sjis' => 'F775',
       'jis' => '7756',
     ),
     'softbank' => 
     array (
       'number' => '470',
-      'unicode' => 57935,
+      'unicode' => 
+      array (
+        0 => 57935,
+      ),
       'sjis' => 'F7EF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043245,
+      'unicode' => 
+      array (
+        0 => 1043245,
+      ),
     ),
   ),
   479 => 
   array (
     'mapid' => '#e-B2A',
-    'unicode' => 8482,
+    'unicode' => 
+    array (
+      0 => 8482,
+    ),
     'char_name' => 
     array (
       'title' => 'TRADE MARK SIGN',
@@ -15974,33 +22248,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => 'Exp.39',
-      'unicode' => 59186,
+      'unicode' => 
+      array (
+        0 => 59186,
+      ),
       'sjis' => 'F9D7',
       'jis' => '774B',
     ),
     'au' => 
     array (
       'number' => '54',
-      'unicode' => 58702,
+      'unicode' => 
+      array (
+        0 => 58702,
+      ),
       'sjis' => 'F76A',
       'jis' => '774B',
     ),
     'softbank' => 
     array (
       'number' => '471',
-      'unicode' => 58679,
+      'unicode' => 
+      array (
+        0 => 58679,
+      ),
       'sjis' => 'FBD7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043242,
+      'unicode' => 
+      array (
+        0 => 1043242,
+      ),
     ),
   ),
   480 => 
   array (
     'mapid' => '#e-B47',
-    'unicode' => 8505,
+    'unicode' => 
+    array (
+      0 => 8505,
+    ),
     'char_name' => 
     array (
       'title' => 'INFORMATION SOURCE',
@@ -16013,7 +22302,10 @@ Temporary Notes: disunified from ♫ U+266B',
     'au' => 
     array (
       'number' => '11',
-      'unicode' => 58675,
+      'unicode' => 
+      array (
+        0 => 58675,
+      ),
       'sjis' => 'F74F',
       'jis' => '7730',
     ),
@@ -16023,13 +22315,20 @@ Temporary Notes: disunified from ♫ U+266B',
     ),
     'google' => 
     array (
-      'unicode' => 1043271,
+      'unicode' => 
+      array (
+        0 => 1043271,
+      ),
     ),
   ),
   481 => 
   array (
     'mapid' => '#e-82C',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 35,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'HASH KEY',
@@ -16038,33 +22337,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '123',
-      'unicode' => 59104,
+      'unicode' => 
+      array (
+        0 => 59104,
+      ),
       'sjis' => 'F985',
       'jis' => '7B69',
     ),
     'au' => 
     array (
       'number' => '818',
-      'unicode' => 60292,
+      'unicode' => 
+      array (
+        0 => 60292,
+      ),
       'sjis' => 'F489',
       'jis' => '7B69',
     ),
     'softbank' => 
     array (
       'number' => '403',
-      'unicode' => 57872,
+      'unicode' => 
+      array (
+        0 => 57872,
+      ),
       'sjis' => 'F7B0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042476,
+      'unicode' => 
+      array (
+        0 => 1042476,
+      ),
     ),
   ),
   482 => 
   array (
     'mapid' => '#e-82E',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 49,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 1',
@@ -16073,33 +22388,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '125',
-      'unicode' => 59106,
+      'unicode' => 
+      array (
+        0 => 59106,
+      ),
       'sjis' => 'F987',
       'jis' => '767D',
     ),
     'au' => 
     array (
       'number' => '180',
-      'unicode' => 58658,
+      'unicode' => 
+      array (
+        0 => 58658,
+      ),
       'sjis' => 'F6FB',
       'jis' => '767D',
     ),
     'softbank' => 
     array (
       'number' => '393',
-      'unicode' => 57884,
+      'unicode' => 
+      array (
+        0 => 57884,
+      ),
       'sjis' => 'F7BC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042478,
+      'unicode' => 
+      array (
+        0 => 1042478,
+      ),
     ),
   ),
   483 => 
   array (
     'mapid' => '#e-82F',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 50,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 2',
@@ -16108,33 +22439,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '126',
-      'unicode' => 59107,
+      'unicode' => 
+      array (
+        0 => 59107,
+      ),
       'sjis' => 'F988',
       'jis' => '767E',
     ),
     'au' => 
     array (
       'number' => '181',
-      'unicode' => 58659,
+      'unicode' => 
+      array (
+        0 => 58659,
+      ),
       'sjis' => 'F6FC',
       'jis' => '767E',
     ),
     'softbank' => 
     array (
       'number' => '394',
-      'unicode' => 57885,
+      'unicode' => 
+      array (
+        0 => 57885,
+      ),
       'sjis' => 'F7BD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042479,
+      'unicode' => 
+      array (
+        0 => 1042479,
+      ),
     ),
   ),
   484 => 
   array (
     'mapid' => '#e-830',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 51,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 3',
@@ -16143,33 +22490,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '127',
-      'unicode' => 59108,
+      'unicode' => 
+      array (
+        0 => 59108,
+      ),
       'sjis' => 'F989',
       'jis' => '7721',
     ),
     'au' => 
     array (
       'number' => '182',
-      'unicode' => 58660,
+      'unicode' => 
+      array (
+        0 => 58660,
+      ),
       'sjis' => 'F740',
       'jis' => '7721',
     ),
     'softbank' => 
     array (
       'number' => '395',
-      'unicode' => 57886,
+      'unicode' => 
+      array (
+        0 => 57886,
+      ),
       'sjis' => 'F7BE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042480,
+      'unicode' => 
+      array (
+        0 => 1042480,
+      ),
     ),
   ),
   485 => 
   array (
     'mapid' => '#e-831',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 52,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 4',
@@ -16178,33 +22541,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '128',
-      'unicode' => 59109,
+      'unicode' => 
+      array (
+        0 => 59109,
+      ),
       'sjis' => 'F98A',
       'jis' => '7722',
     ),
     'au' => 
     array (
       'number' => '183',
-      'unicode' => 58661,
+      'unicode' => 
+      array (
+        0 => 58661,
+      ),
       'sjis' => 'F741',
       'jis' => '7722',
     ),
     'softbank' => 
     array (
       'number' => '396',
-      'unicode' => 57887,
+      'unicode' => 
+      array (
+        0 => 57887,
+      ),
       'sjis' => 'F7BF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042481,
+      'unicode' => 
+      array (
+        0 => 1042481,
+      ),
     ),
   ),
   486 => 
   array (
     'mapid' => '#e-832',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 53,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 5',
@@ -16213,33 +22592,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '129',
-      'unicode' => 59110,
+      'unicode' => 
+      array (
+        0 => 59110,
+      ),
       'sjis' => 'F98B',
       'jis' => '7723',
     ),
     'au' => 
     array (
       'number' => '184',
-      'unicode' => 58662,
+      'unicode' => 
+      array (
+        0 => 58662,
+      ),
       'sjis' => 'F742',
       'jis' => '7723',
     ),
     'softbank' => 
     array (
       'number' => '397',
-      'unicode' => 57888,
+      'unicode' => 
+      array (
+        0 => 57888,
+      ),
       'sjis' => 'F7C0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042482,
+      'unicode' => 
+      array (
+        0 => 1042482,
+      ),
     ),
   ),
   487 => 
   array (
     'mapid' => '#e-833',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 54,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 6',
@@ -16248,33 +22643,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '130',
-      'unicode' => 59111,
+      'unicode' => 
+      array (
+        0 => 59111,
+      ),
       'sjis' => 'F98C',
       'jis' => '7724',
     ),
     'au' => 
     array (
       'number' => '185',
-      'unicode' => 58663,
+      'unicode' => 
+      array (
+        0 => 58663,
+      ),
       'sjis' => 'F743',
       'jis' => '7724',
     ),
     'softbank' => 
     array (
       'number' => '398',
-      'unicode' => 57889,
+      'unicode' => 
+      array (
+        0 => 57889,
+      ),
       'sjis' => 'F7C1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042483,
+      'unicode' => 
+      array (
+        0 => 1042483,
+      ),
     ),
   ),
   488 => 
   array (
     'mapid' => '#e-834',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 55,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 7',
@@ -16283,33 +22694,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '131',
-      'unicode' => 59112,
+      'unicode' => 
+      array (
+        0 => 59112,
+      ),
       'sjis' => 'F98D',
       'jis' => '7725',
     ),
     'au' => 
     array (
       'number' => '186',
-      'unicode' => 58664,
+      'unicode' => 
+      array (
+        0 => 58664,
+      ),
       'sjis' => 'F744',
       'jis' => '7725',
     ),
     'softbank' => 
     array (
       'number' => '399',
-      'unicode' => 57890,
+      'unicode' => 
+      array (
+        0 => 57890,
+      ),
       'sjis' => 'F7C2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042484,
+      'unicode' => 
+      array (
+        0 => 1042484,
+      ),
     ),
   ),
   489 => 
   array (
     'mapid' => '#e-835',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 56,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 8',
@@ -16318,33 +22745,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '132',
-      'unicode' => 59113,
+      'unicode' => 
+      array (
+        0 => 59113,
+      ),
       'sjis' => 'F98E',
       'jis' => '7726',
     ),
     'au' => 
     array (
       'number' => '187',
-      'unicode' => 58665,
+      'unicode' => 
+      array (
+        0 => 58665,
+      ),
       'sjis' => 'F745',
       'jis' => '7726',
     ),
     'softbank' => 
     array (
       'number' => '400',
-      'unicode' => 57891,
+      'unicode' => 
+      array (
+        0 => 57891,
+      ),
       'sjis' => 'F7C3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042485,
+      'unicode' => 
+      array (
+        0 => 1042485,
+      ),
     ),
   ),
   490 => 
   array (
     'mapid' => '#e-836',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 57,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 9',
@@ -16353,33 +22796,49 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '133',
-      'unicode' => 59114,
+      'unicode' => 
+      array (
+        0 => 59114,
+      ),
       'sjis' => 'F98F',
       'jis' => '7727',
     ),
     'au' => 
     array (
       'number' => '188',
-      'unicode' => 58666,
+      'unicode' => 
+      array (
+        0 => 58666,
+      ),
       'sjis' => 'F746',
       'jis' => '7727',
     ),
     'softbank' => 
     array (
       'number' => '401',
-      'unicode' => 57892,
+      'unicode' => 
+      array (
+        0 => 57892,
+      ),
       'sjis' => 'F7C4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042486,
+      'unicode' => 
+      array (
+        0 => 1042486,
+      ),
     ),
   ),
   491 => 
   array (
     'mapid' => '#e-837',
-    'unicode' => 8419,
+    'unicode' => 
+    array (
+      0 => 48,
+      1 => 8419,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP 0',
@@ -16388,33 +22847,48 @@ Temporary Notes: disunified from ♫ U+266B',
     'docomo' => 
     array (
       'number' => '134',
-      'unicode' => 59115,
+      'unicode' => 
+      array (
+        0 => 59115,
+      ),
       'sjis' => 'F990',
       'jis' => '784B',
     ),
     'au' => 
     array (
       'number' => '325',
-      'unicode' => 58796,
+      'unicode' => 
+      array (
+        0 => 58796,
+      ),
       'sjis' => 'F7C9',
       'jis' => '784B',
     ),
     'softbank' => 
     array (
       'number' => '402',
-      'unicode' => 57893,
+      'unicode' => 
+      array (
+        0 => 57893,
+      ),
       'sjis' => 'F7C5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042487,
+      'unicode' => 
+      array (
+        0 => 1042487,
+      ),
     ),
   ),
   492 => 
   array (
     'mapid' => '#e-83B',
-    'unicode' => 128287,
+    'unicode' => 
+    array (
+      0 => 128287,
+    ),
     'char_name' => 
     array (
       'title' => 'KEYCAP TEN',
@@ -16428,7 +22902,10 @@ Design Note: Should look like digits 10 enclosed by a keycap like  ⃣ U+20E3 C
     'au' => 
     array (
       'number' => '189',
-      'unicode' => 58667,
+      'unicode' => 
+      array (
+        0 => 58667,
+      ),
       'sjis' => 'F747',
       'jis' => '7728',
     ),
@@ -16438,13 +22915,19 @@ Design Note: Should look like digits 10 enclosed by a keycap like  ⃣ U+20E3 C
     ),
     'google' => 
     array (
-      'unicode' => 1042491,
+      'unicode' => 
+      array (
+        0 => 1042491,
+      ),
     ),
   ),
   493 => 
   array (
     'mapid' => '#e-838',
-    'unicode' => 128246,
+    'unicode' => 
+    array (
+      0 => 128246,
+    ),
     'char_name' => 
     array (
       'title' => 'ANTENNA WITH BARS',
@@ -16458,26 +22941,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '381',
-      'unicode' => 60036,
+      'unicode' => 
+      array (
+        0 => 60036,
+      ),
       'sjis' => 'F357',
       'jis' => '7938',
     ),
     'softbank' => 
     array (
       'number' => '465',
-      'unicode' => 57867,
+      'unicode' => 
+      array (
+        0 => 57867,
+      ),
       'sjis' => 'F7AB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042488,
+      'unicode' => 
+      array (
+        0 => 1042488,
+      ),
     ),
   ),
   494 => 
   array (
     'mapid' => '#e-839',
-    'unicode' => 128243,
+    'unicode' => 
+    array (
+      0 => 128243,
+    ),
     'char_name' => 
     array (
       'title' => 'VIBRATION MODE',
@@ -16490,26 +22985,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '393',
-      'unicode' => 60048,
+      'unicode' => 
+      array (
+        0 => 60048,
+      ),
       'sjis' => 'F363',
       'jis' => '7944',
     ),
     'softbank' => 
     array (
       'number' => '466',
-      'unicode' => 57936,
+      'unicode' => 
+      array (
+        0 => 57936,
+      ),
       'sjis' => 'F7F0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042489,
+      'unicode' => 
+      array (
+        0 => 1042489,
+      ),
     ),
   ),
   495 => 
   array (
     'mapid' => '#e-83A',
-    'unicode' => 128244,
+    'unicode' => 
+    array (
+      0 => 128244,
+    ),
     'char_name' => 
     array (
       'title' => 'MOBILE PHONE OFF',
@@ -16522,26 +23029,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '394',
-      'unicode' => 60049,
+      'unicode' => 
+      array (
+        0 => 60049,
+      ),
       'sjis' => 'F364',
       'jis' => '7945',
     ),
     'softbank' => 
     array (
       'number' => '467',
-      'unicode' => 57937,
+      'unicode' => 
+      array (
+        0 => 57937,
+      ),
       'sjis' => 'F7F1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042490,
+      'unicode' => 
+      array (
+        0 => 1042490,
+      ),
     ),
   ),
   496 => 
   array (
     'mapid' => '#e-960',
-    'unicode' => 127828,
+    'unicode' => 
+    array (
+      0 => 127828,
+    ),
     'char_name' => 
     array (
       'title' => 'HAMBURGER',
@@ -16550,33 +23069,48 @@ Temporary Notes: (good reception)',
     'docomo' => 
     array (
       'number' => '54',
-      'unicode' => 58995,
+      'unicode' => 
+      array (
+        0 => 58995,
+      ),
       'sjis' => 'F8D4',
       'jis' => '7631',
     ),
     'au' => 
     array (
       'number' => '245',
-      'unicode' => 58582,
+      'unicode' => 
+      array (
+        0 => 58582,
+      ),
       'sjis' => 'F6AF',
       'jis' => '7631',
     ),
     'softbank' => 
     array (
       'number' => '180',
-      'unicode' => 57632,
+      'unicode' => 
+      array (
+        0 => 57632,
+      ),
       'sjis' => 'F760',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042784,
+      'unicode' => 
+      array (
+        0 => 1042784,
+      ),
     ),
   ),
   497 => 
   array (
     'mapid' => '#e-961',
-    'unicode' => 127833,
+    'unicode' => 
+    array (
+      0 => 127833,
+    ),
     'char_name' => 
     array (
       'title' => 'RICE BALL',
@@ -16585,33 +23119,48 @@ Temporary Notes: (good reception)',
     'docomo' => 
     array (
       'number' => 'Exp.62',
-      'unicode' => 59209,
+      'unicode' => 
+      array (
+        0 => 59209,
+      ),
       'sjis' => 'F9EE',
       'jis' => '7630',
     ),
     'au' => 
     array (
       'number' => '244',
-      'unicode' => 58581,
+      'unicode' => 
+      array (
+        0 => 58581,
+      ),
       'sjis' => 'F6AE',
       'jis' => '7630',
     ),
     'softbank' => 
     array (
       'number' => '177',
-      'unicode' => 58178,
+      'unicode' => 
+      array (
+        0 => 58178,
+      ),
       'sjis' => 'F9E2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042785,
+      'unicode' => 
+      array (
+        0 => 1042785,
+      ),
     ),
   ),
   498 => 
   array (
     'mapid' => '#e-962',
-    'unicode' => 127856,
+    'unicode' => 
+    array (
+      0 => 127856,
+    ),
     'char_name' => 
     array (
       'title' => 'SHORTCAKE',
@@ -16620,33 +23169,48 @@ Temporary Notes: (good reception)',
     'docomo' => 
     array (
       'number' => 'Exp.63',
-      'unicode' => 59210,
+      'unicode' => 
+      array (
+        0 => 59210,
+      ),
       'sjis' => 'F9EF',
       'jis' => '762B',
     ),
     'au' => 
     array (
       'number' => '239',
-      'unicode' => 58576,
+      'unicode' => 
+      array (
+        0 => 58576,
+      ),
       'sjis' => 'F6A9',
       'jis' => '762B',
     ),
     'softbank' => 
     array (
       'number' => '172',
-      'unicode' => 57414,
+      'unicode' => 
+      array (
+        0 => 57414,
+      ),
       'sjis' => 'F987',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042786,
+      'unicode' => 
+      array (
+        0 => 1042786,
+      ),
     ),
   ),
   499 => 
   array (
     'mapid' => '#e-963',
-    'unicode' => 127836,
+    'unicode' => 
+    array (
+      0 => 127836,
+    ),
     'char_name' => 
     array (
       'title' => 'STEAMING BOWL',
@@ -16655,33 +23219,48 @@ Temporary Notes: (good reception)',
     'docomo' => 
     array (
       'number' => 'Exp.65',
-      'unicode' => 59212,
+      'unicode' => 
+      array (
+        0 => 59212,
+      ),
       'sjis' => 'F9F1',
       'jis' => '7853',
     ),
     'au' => 
     array (
       'number' => '333',
-      'unicode' => 58804,
+      'unicode' => 
+      array (
+        0 => 58804,
+      ),
       'sjis' => 'F7D1',
       'jis' => '7853',
     ),
     'softbank' => 
     array (
       'number' => '183',
-      'unicode' => 58176,
+      'unicode' => 
+      array (
+        0 => 58176,
+      ),
       'sjis' => 'F9E0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042787,
+      'unicode' => 
+      array (
+        0 => 1042787,
+      ),
     ),
   ),
   500 => 
   array (
     'mapid' => '#e-964',
-    'unicode' => 127838,
+    'unicode' => 
+    array (
+      0 => 127838,
+    ),
     'char_name' => 
     array (
       'title' => 'BREAD',
@@ -16690,33 +23269,48 @@ Temporary Notes: (good reception)',
     'docomo' => 
     array (
       'number' => 'Exp.66',
-      'unicode' => 59213,
+      'unicode' => 
+      array (
+        0 => 59213,
+      ),
       'sjis' => 'F9F2',
       'jis' => '7963',
     ),
     'au' => 
     array (
       'number' => '424',
-      'unicode' => 60079,
+      'unicode' => 
+      array (
+        0 => 60079,
+      ),
       'sjis' => 'F383',
       'jis' => '7963',
     ),
     'softbank' => 
     array (
       'number' => '179',
-      'unicode' => 58169,
+      'unicode' => 
+      array (
+        0 => 58169,
+      ),
       'sjis' => 'F9D9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042788,
+      'unicode' => 
+      array (
+        0 => 1042788,
+      ),
     ),
   ),
   501 => 
   array (
     'mapid' => '#e-965',
-    'unicode' => 127859,
+    'unicode' => 
+    array (
+      0 => 127859,
+    ),
     'char_name' => 
     array (
       'title' => 'COOKING',
@@ -16729,26 +23323,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '240',
-      'unicode' => 58577,
+      'unicode' => 
+      array (
+        0 => 58577,
+      ),
       'sjis' => 'F6AA',
       'jis' => '762C',
     ),
     'softbank' => 
     array (
       'number' => '189',
-      'unicode' => 57671,
+      'unicode' => 
+      array (
+        0 => 57671,
+      ),
       'sjis' => 'F788',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042789,
+      'unicode' => 
+      array (
+        0 => 1042789,
+      ),
     ),
   ),
   502 => 
   array (
     'mapid' => '#e-966',
-    'unicode' => 127846,
+    'unicode' => 
+    array (
+      0 => 127846,
+    ),
     'char_name' => 
     array (
       'title' => 'SOFT ICE CREAM',
@@ -16761,26 +23367,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '425',
-      'unicode' => 60080,
+      'unicode' => 
+      array (
+        0 => 60080,
+      ),
       'sjis' => 'F384',
       'jis' => '7964',
     ),
     'softbank' => 
     array (
       'number' => '173',
-      'unicode' => 58170,
+      'unicode' => 
+      array (
+        0 => 58170,
+      ),
       'sjis' => 'F9DA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042790,
+      'unicode' => 
+      array (
+        0 => 1042790,
+      ),
     ),
   ),
   503 => 
   array (
     'mapid' => '#e-967',
-    'unicode' => 127839,
+    'unicode' => 
+    array (
+      0 => 127839,
+    ),
     'char_name' => 
     array (
       'title' => 'FRENCH FRIES',
@@ -16793,26 +23411,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '426',
-      'unicode' => 60081,
+      'unicode' => 
+      array (
+        0 => 60081,
+      ),
       'sjis' => 'F385',
       'jis' => '7965',
     ),
     'softbank' => 
     array (
       'number' => '188',
-      'unicode' => 58171,
+      'unicode' => 
+      array (
+        0 => 58171,
+      ),
       'sjis' => 'F9DB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042791,
+      'unicode' => 
+      array (
+        0 => 1042791,
+      ),
     ),
   ),
   504 => 
   array (
     'mapid' => '#e-968',
-    'unicode' => 127841,
+    'unicode' => 
+    array (
+      0 => 127841,
+    ),
     'char_name' => 
     array (
       'title' => 'DANGO',
@@ -16826,26 +23456,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '427',
-      'unicode' => 60082,
+      'unicode' => 
+      array (
+        0 => 60082,
+      ),
       'sjis' => 'F386',
       'jis' => '7966',
     ),
     'softbank' => 
     array (
       'number' => '174',
-      'unicode' => 58172,
+      'unicode' => 
+      array (
+        0 => 58172,
+      ),
       'sjis' => 'F9DC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042792,
+      'unicode' => 
+      array (
+        0 => 1042792,
+      ),
     ),
   ),
   505 => 
   array (
     'mapid' => '#e-969',
-    'unicode' => 127832,
+    'unicode' => 
+    array (
+      0 => 127832,
+    ),
     'char_name' => 
     array (
       'title' => 'RICE CRACKER',
@@ -16858,26 +23500,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '428',
-      'unicode' => 60083,
+      'unicode' => 
+      array (
+        0 => 60083,
+      ),
       'sjis' => 'F387',
       'jis' => '7967',
     ),
     'softbank' => 
     array (
       'number' => '175',
-      'unicode' => 58173,
+      'unicode' => 
+      array (
+        0 => 58173,
+      ),
       'sjis' => 'F9DD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042793,
+      'unicode' => 
+      array (
+        0 => 1042793,
+      ),
     ),
   ),
   506 => 
   array (
     'mapid' => '#e-96A',
-    'unicode' => 127834,
+    'unicode' => 
+    array (
+      0 => 127834,
+    ),
     'char_name' => 
     array (
       'title' => 'COOKED RICE',
@@ -16886,33 +23540,48 @@ Temporary Notes: (good reception)',
     'docomo' => 
     array (
       'number' => 'Exp.65',
-      'unicode' => 59212,
+      'unicode' => 
+      array (
+        0 => 59212,
+      ),
       'sjis' => 'F9F1',
       'jis' => '7853',
     ),
     'au' => 
     array (
       'number' => '429',
-      'unicode' => 60084,
+      'unicode' => 
+      array (
+        0 => 60084,
+      ),
       'sjis' => 'F388',
       'jis' => '7968',
     ),
     'softbank' => 
     array (
       'number' => '178',
-      'unicode' => 58174,
+      'unicode' => 
+      array (
+        0 => 58174,
+      ),
       'sjis' => 'F9DE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042794,
+      'unicode' => 
+      array (
+        0 => 1042794,
+      ),
     ),
   ),
   507 => 
   array (
     'mapid' => '#e-96B',
-    'unicode' => 127837,
+    'unicode' => 
+    array (
+      0 => 127837,
+    ),
     'char_name' => 
     array (
       'title' => 'SPAGHETTI',
@@ -16925,26 +23594,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '430',
-      'unicode' => 60085,
+      'unicode' => 
+      array (
+        0 => 60085,
+      ),
       'sjis' => 'F389',
       'jis' => '7969',
     ),
     'softbank' => 
     array (
       'number' => '182',
-      'unicode' => 58175,
+      'unicode' => 
+      array (
+        0 => 58175,
+      ),
       'sjis' => 'F9DF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042795,
+      'unicode' => 
+      array (
+        0 => 1042795,
+      ),
     ),
   ),
   508 => 
   array (
     'mapid' => '#e-96C',
-    'unicode' => 127835,
+    'unicode' => 
+    array (
+      0 => 127835,
+    ),
     'char_name' => 
     array (
       'title' => 'CURRY AND RICE',
@@ -16957,26 +23638,38 @@ Temporary Notes: (good reception)',
     'au' => 
     array (
       'number' => '431',
-      'unicode' => 60086,
+      'unicode' => 
+      array (
+        0 => 60086,
+      ),
       'sjis' => 'F38A',
       'jis' => '796A',
     ),
     'softbank' => 
     array (
       'number' => '181',
-      'unicode' => 58177,
+      'unicode' => 
+      array (
+        0 => 58177,
+      ),
       'sjis' => 'F9E1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042796,
+      'unicode' => 
+      array (
+        0 => 1042796,
+      ),
     ),
   ),
   509 => 
   array (
     'mapid' => '#e-96D',
-    'unicode' => 127842,
+    'unicode' => 
+    array (
+      0 => 127842,
+    ),
     'char_name' => 
     array (
       'title' => 'ODEN',
@@ -16991,26 +23684,38 @@ Temporary Notes: seafood hotchpotch, oden',
     'au' => 
     array (
       'number' => '432',
-      'unicode' => 60087,
+      'unicode' => 
+      array (
+        0 => 60087,
+      ),
       'sjis' => 'F38B',
       'jis' => '796B',
     ),
     'softbank' => 
     array (
       'number' => '187',
-      'unicode' => 58179,
+      'unicode' => 
+      array (
+        0 => 58179,
+      ),
       'sjis' => 'F9E3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042797,
+      'unicode' => 
+      array (
+        0 => 1042797,
+      ),
     ),
   ),
   510 => 
   array (
     'mapid' => '#e-96E',
-    'unicode' => 127843,
+    'unicode' => 
+    array (
+      0 => 127843,
+    ),
     'char_name' => 
     array (
       'title' => 'SUSHI',
@@ -17023,26 +23728,38 @@ Temporary Notes: seafood hotchpotch, oden',
     'au' => 
     array (
       'number' => '433',
-      'unicode' => 60088,
+      'unicode' => 
+      array (
+        0 => 60088,
+      ),
       'sjis' => 'F38C',
       'jis' => '796C',
     ),
     'softbank' => 
     array (
       'number' => '184',
-      'unicode' => 58180,
+      'unicode' => 
+      array (
+        0 => 58180,
+      ),
       'sjis' => 'F9E4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042798,
+      'unicode' => 
+      array (
+        0 => 1042798,
+      ),
     ),
   ),
   511 => 
   array (
     'mapid' => '#e-96F',
-    'unicode' => 127857,
+    'unicode' => 
+    array (
+      0 => 127857,
+    ),
     'char_name' => 
     array (
       'title' => 'BENTO BOX',
@@ -17056,26 +23773,38 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '438',
-      'unicode' => 60093,
+      'unicode' => 
+      array (
+        0 => 60093,
+      ),
       'sjis' => 'F391',
       'jis' => '7971',
     ),
     'softbank' => 
     array (
       'number' => '185',
-      'unicode' => 58188,
+      'unicode' => 
+      array (
+        0 => 58188,
+      ),
       'sjis' => 'F9EC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042799,
+      'unicode' => 
+      array (
+        0 => 1042799,
+      ),
     ),
   ),
   512 => 
   array (
     'mapid' => '#e-970',
-    'unicode' => 127858,
+    'unicode' => 
+    array (
+      0 => 127858,
+    ),
     'char_name' => 
     array (
       'title' => 'POT OF FOOD',
@@ -17088,26 +23817,38 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '439',
-      'unicode' => 60094,
+      'unicode' => 
+      array (
+        0 => 60094,
+      ),
       'sjis' => 'F392',
       'jis' => '7972',
     ),
     'softbank' => 
     array (
       'number' => '186',
-      'unicode' => 58189,
+      'unicode' => 
+      array (
+        0 => 58189,
+      ),
       'sjis' => 'F9ED',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042800,
+      'unicode' => 
+      array (
+        0 => 1042800,
+      ),
     ),
   ),
   513 => 
   array (
     'mapid' => '#e-971',
-    'unicode' => 127847,
+    'unicode' => 
+    array (
+      0 => 127847,
+    ),
     'char_name' => 
     array (
       'title' => 'SHAVED ICE',
@@ -17120,26 +23861,38 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '483',
-      'unicode' => 60138,
+      'unicode' => 
+      array (
+        0 => 60138,
+      ),
       'sjis' => 'F3BE',
       'jis' => '7A40',
     ),
     'softbank' => 
     array (
       'number' => '176',
-      'unicode' => 58431,
+      'unicode' => 
+      array (
+        0 => 58431,
+      ),
       'sjis' => 'FB80',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042801,
+      'unicode' => 
+      array (
+        0 => 1042801,
+      ),
     ),
   ),
   514 => 
   array (
     'mapid' => '#e-972',
-    'unicode' => 127830,
+    'unicode' => 
+    array (
+      0 => 127830,
+    ),
     'char_name' => 
     array (
       'title' => 'MEAT ON BONE',
@@ -17152,7 +23905,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '160',
-      'unicode' => 58564,
+      'unicode' => 
+      array (
+        0 => 58564,
+      ),
       'sjis' => 'F69D',
       'jis' => '757D',
     ),
@@ -17162,13 +23918,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042802,
+      'unicode' => 
+      array (
+        0 => 1042802,
+      ),
     ),
   ),
   515 => 
   array (
     'mapid' => '#e-973',
-    'unicode' => 127845,
+    'unicode' => 
+    array (
+      0 => 127845,
+    ),
     'char_name' => 
     array (
       'title' => 'FISH CAKE WITH SWIRL DESIGN',
@@ -17177,14 +23939,20 @@ Temporary Notes: obento',
     'docomo' => 
     array (
       'number' => '6',
-      'unicode' => 58947,
+      'unicode' => 
+      array (
+        0 => 58947,
+      ),
       'sjis' => 'F8A4',
       'jis' => '7522',
     ),
     'au' => 
     array (
       'number' => '275',
-      'unicode' => 58605,
+      'unicode' => 
+      array (
+        0 => 58605,
+      ),
       'sjis' => 'F6C6',
       'jis' => '7648',
     ),
@@ -17194,13 +23962,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042803,
+      'unicode' => 
+      array (
+        0 => 1042803,
+      ),
     ),
   ),
   516 => 
   array (
     'mapid' => '#e-974',
-    'unicode' => 127840,
+    'unicode' => 
+    array (
+      0 => 127840,
+    ),
     'char_name' => 
     array (
       'title' => 'ROASTED SWEET POTATO',
@@ -17213,7 +23987,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '744',
-      'unicode' => 60218,
+      'unicode' => 
+      array (
+        0 => 60218,
+      ),
       'sjis' => 'F3FB',
       'jis' => '7A7D',
     ),
@@ -17223,13 +24000,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042804,
+      'unicode' => 
+      array (
+        0 => 1042804,
+      ),
     ),
   ),
   517 => 
   array (
     'mapid' => '#e-975',
-    'unicode' => 127829,
+    'unicode' => 
+    array (
+      0 => 127829,
+    ),
     'char_name' => 
     array (
       'title' => 'SLICE OF PIZZA',
@@ -17242,7 +24025,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '745',
-      'unicode' => 60219,
+      'unicode' => 
+      array (
+        0 => 60219,
+      ),
       'sjis' => 'F3FC',
       'jis' => '7A7E',
     ),
@@ -17252,13 +24038,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042805,
+      'unicode' => 
+      array (
+        0 => 1042805,
+      ),
     ),
   ),
   518 => 
   array (
     'mapid' => '#e-976',
-    'unicode' => 127831,
+    'unicode' => 
+    array (
+      0 => 127831,
+    ),
     'char_name' => 
     array (
       'title' => 'POULTRY LEG',
@@ -17271,7 +24063,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '746',
-      'unicode' => 60220,
+      'unicode' => 
+      array (
+        0 => 60220,
+      ),
       'sjis' => 'F440',
       'jis' => '7B21',
     ),
@@ -17281,13 +24076,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042806,
+      'unicode' => 
+      array (
+        0 => 1042806,
+      ),
     ),
   ),
   519 => 
   array (
     'mapid' => '#e-977',
-    'unicode' => 127848,
+    'unicode' => 
+    array (
+      0 => 127848,
+    ),
     'char_name' => 
     array (
       'title' => 'ICE CREAM',
@@ -17300,7 +24101,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '760',
-      'unicode' => 60234,
+      'unicode' => 
+      array (
+        0 => 60234,
+      ),
       'sjis' => 'F44E',
       'jis' => '7B2F',
     ),
@@ -17310,13 +24114,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042807,
+      'unicode' => 
+      array (
+        0 => 1042807,
+      ),
     ),
   ),
   520 => 
   array (
     'mapid' => '#e-978',
-    'unicode' => 127849,
+    'unicode' => 
+    array (
+      0 => 127849,
+    ),
     'char_name' => 
     array (
       'title' => 'DOUGHNUT',
@@ -17329,7 +24139,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '761',
-      'unicode' => 60235,
+      'unicode' => 
+      array (
+        0 => 60235,
+      ),
       'sjis' => 'F44F',
       'jis' => '7B30',
     ),
@@ -17339,13 +24152,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042808,
+      'unicode' => 
+      array (
+        0 => 1042808,
+      ),
     ),
   ),
   521 => 
   array (
     'mapid' => '#e-979',
-    'unicode' => 127850,
+    'unicode' => 
+    array (
+      0 => 127850,
+    ),
     'char_name' => 
     array (
       'title' => 'COOKIE',
@@ -17358,7 +24177,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '762',
-      'unicode' => 60236,
+      'unicode' => 
+      array (
+        0 => 60236,
+      ),
       'sjis' => 'F450',
       'jis' => '7B31',
     ),
@@ -17368,13 +24190,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042809,
+      'unicode' => 
+      array (
+        0 => 1042809,
+      ),
     ),
   ),
   522 => 
   array (
     'mapid' => '#e-97A',
-    'unicode' => 127851,
+    'unicode' => 
+    array (
+      0 => 127851,
+    ),
     'char_name' => 
     array (
       'title' => 'CHOCOLATE BAR',
@@ -17387,7 +24215,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '763',
-      'unicode' => 60237,
+      'unicode' => 
+      array (
+        0 => 60237,
+      ),
       'sjis' => 'F451',
       'jis' => '7B32',
     ),
@@ -17397,13 +24228,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042810,
+      'unicode' => 
+      array (
+        0 => 1042810,
+      ),
     ),
   ),
   523 => 
   array (
     'mapid' => '#e-97B',
-    'unicode' => 127852,
+    'unicode' => 
+    array (
+      0 => 127852,
+    ),
     'char_name' => 
     array (
       'title' => 'CANDY',
@@ -17416,7 +24253,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '764',
-      'unicode' => 60238,
+      'unicode' => 
+      array (
+        0 => 60238,
+      ),
       'sjis' => 'F452',
       'jis' => '7B33',
     ),
@@ -17426,13 +24266,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042811,
+      'unicode' => 
+      array (
+        0 => 1042811,
+      ),
     ),
   ),
   524 => 
   array (
     'mapid' => '#e-97C',
-    'unicode' => 127853,
+    'unicode' => 
+    array (
+      0 => 127853,
+    ),
     'char_name' => 
     array (
       'title' => 'LOLLIPOP',
@@ -17445,7 +24291,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '765',
-      'unicode' => 60239,
+      'unicode' => 
+      array (
+        0 => 60239,
+      ),
       'sjis' => 'F453',
       'jis' => '7B34',
     ),
@@ -17455,13 +24304,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042812,
+      'unicode' => 
+      array (
+        0 => 1042812,
+      ),
     ),
   ),
   525 => 
   array (
     'mapid' => '#e-97D',
-    'unicode' => 127854,
+    'unicode' => 
+    array (
+      0 => 127854,
+    ),
     'char_name' => 
     array (
       'title' => 'CUSTARD',
@@ -17474,7 +24329,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '772',
-      'unicode' => 60246,
+      'unicode' => 
+      array (
+        0 => 60246,
+      ),
       'sjis' => 'F45A',
       'jis' => '7B3B',
     ),
@@ -17484,13 +24342,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042813,
+      'unicode' => 
+      array (
+        0 => 1042813,
+      ),
     ),
   ),
   526 => 
   array (
     'mapid' => '#e-97E',
-    'unicode' => 127855,
+    'unicode' => 
+    array (
+      0 => 127855,
+    ),
     'char_name' => 
     array (
       'title' => 'HONEY POT',
@@ -17503,7 +24367,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '775',
-      'unicode' => 60249,
+      'unicode' => 
+      array (
+        0 => 60249,
+      ),
       'sjis' => 'F45D',
       'jis' => '7B3E',
     ),
@@ -17513,13 +24380,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042814,
+      'unicode' => 
+      array (
+        0 => 1042814,
+      ),
     ),
   ),
   527 => 
   array (
     'mapid' => '#e-97F',
-    'unicode' => 127844,
+    'unicode' => 
+    array (
+      0 => 127844,
+    ),
     'char_name' => 
     array (
       'title' => 'FRIED SHRIMP',
@@ -17532,7 +24405,10 @@ Temporary Notes: obento',
     'au' => 
     array (
       'number' => '798',
-      'unicode' => 60272,
+      'unicode' => 
+      array (
+        0 => 60272,
+      ),
       'sjis' => 'F474',
       'jis' => '7B55',
     ),
@@ -17542,13 +24418,19 @@ Temporary Notes: obento',
     ),
     'google' => 
     array (
-      'unicode' => 1042815,
+      'unicode' => 
+      array (
+        0 => 1042815,
+      ),
     ),
   ),
   528 => 
   array (
     'mapid' => '#e-980',
-    'unicode' => 127860,
+    'unicode' => 
+    array (
+      0 => 127860,
+    ),
     'char_name' => 
     array (
       'title' => 'FORK AND KNIFE',
@@ -17560,33 +24442,48 @@ Temporary Notes: obento',
     'docomo' => 
     array (
       'number' => '50',
-      'unicode' => 58991,
+      'unicode' => 
+      array (
+        0 => 58991,
+      ),
       'sjis' => 'F8D0',
       'jis' => '7565',
     ),
     'au' => 
     array (
       'number' => '146',
-      'unicode' => 58540,
+      'unicode' => 
+      array (
+        0 => 58540,
+      ),
       'sjis' => 'F685',
       'jis' => '7565',
     ),
     'softbank' => 
     array (
       'number' => '165',
-      'unicode' => 57411,
+      'unicode' => 
+      array (
+        0 => 57411,
+      ),
       'sjis' => 'F984',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042816,
+      'unicode' => 
+      array (
+        0 => 1042816,
+      ),
     ),
   ),
   529 => 
   array (
     'mapid' => '#e-981',
-    'unicode' => 9749,
+    'unicode' => 
+    array (
+      0 => 9749,
+    ),
     'char_name' => 
     array (
       'title' => 'HOT BEVERAGE',
@@ -17595,33 +24492,48 @@ Temporary Notes: obento',
     'docomo' => 
     array (
       'number' => '51',
-      'unicode' => 58992,
+      'unicode' => 
+      array (
+        0 => 58992,
+      ),
       'sjis' => 'F8D1',
       'jis' => '7836',
     ),
     'au' => 
     array (
       'number' => '93',
-      'unicode' => 58775,
+      'unicode' => 
+      array (
+        0 => 58775,
+      ),
       'sjis' => 'F7B4',
       'jis' => '7836',
     ),
     'softbank' => 
     array (
       'number' => '171',
-      'unicode' => 57413,
+      'unicode' => 
+      array (
+        0 => 57413,
+      ),
       'sjis' => 'F986',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042817,
+      'unicode' => 
+      array (
+        0 => 1042817,
+      ),
     ),
   ),
   530 => 
   array (
     'mapid' => '#e-982',
-    'unicode' => 127864,
+    'unicode' => 
+    array (
+      0 => 127864,
+    ),
     'char_name' => 
     array (
       'title' => 'COCKTAIL GLASS',
@@ -17630,33 +24542,48 @@ Temporary Notes: obento',
     'docomo' => 
     array (
       'number' => '52',
-      'unicode' => 58993,
+      'unicode' => 
+      array (
+        0 => 58993,
+      ),
       'sjis' => 'F8D2',
       'jis' => '757B',
     ),
     'au' => 
     array (
       'number' => '52',
-      'unicode' => 58562,
+      'unicode' => 
+      array (
+        0 => 58562,
+      ),
       'sjis' => 'F69B',
       'jis' => '757B',
     ),
     'softbank' => 
     array (
       'number' => '168',
-      'unicode' => 57412,
+      'unicode' => 
+      array (
+        0 => 57412,
+      ),
       'sjis' => 'F985',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042818,
+      'unicode' => 
+      array (
+        0 => 1042818,
+      ),
     ),
   ),
   531 => 
   array (
     'mapid' => '#e-983',
-    'unicode' => 127866,
+    'unicode' => 
+    array (
+      0 => 127866,
+    ),
     'char_name' => 
     array (
       'title' => 'BEER MUG',
@@ -17665,33 +24592,48 @@ Temporary Notes: obento',
     'docomo' => 
     array (
       'number' => '53',
-      'unicode' => 58994,
+      'unicode' => 
+      array (
+        0 => 58994,
+      ),
       'sjis' => 'F8D3',
       'jis' => '757C',
     ),
     'au' => 
     array (
       'number' => '65',
-      'unicode' => 58563,
+      'unicode' => 
+      array (
+        0 => 58563,
+      ),
       'sjis' => 'F69C',
       'jis' => '757C',
     ),
     'softbank' => 
     array (
       'number' => '166',
-      'unicode' => 57415,
+      'unicode' => 
+      array (
+        0 => 57415,
+      ),
       'sjis' => 'F988',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042819,
+      'unicode' => 
+      array (
+        0 => 1042819,
+      ),
     ),
   ),
   532 => 
   array (
     'mapid' => '#e-984',
-    'unicode' => 127861,
+    'unicode' => 
+    array (
+      0 => 127861,
+    ),
     'char_name' => 
     array (
       'title' => 'TEACUP WITHOUT HANDLE',
@@ -17702,33 +24644,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => 'Exp.19',
-      'unicode' => 59166,
+      'unicode' => 
+      array (
+        0 => 59166,
+      ),
       'sjis' => 'F9C3',
       'jis' => '7962',
     ),
     'au' => 
     array (
       'number' => '423',
-      'unicode' => 60078,
+      'unicode' => 
+      array (
+        0 => 60078,
+      ),
       'sjis' => 'F382',
       'jis' => '7962',
     ),
     'softbank' => 
     array (
       'number' => '170',
-      'unicode' => 58168,
+      'unicode' => 
+      array (
+        0 => 58168,
+      ),
       'sjis' => 'F9D8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042820,
+      'unicode' => 
+      array (
+        0 => 1042820,
+      ),
     ),
   ),
   533 => 
   array (
     'mapid' => '#e-985',
-    'unicode' => 127862,
+    'unicode' => 
+    array (
+      0 => 127862,
+    ),
     'char_name' => 
     array (
       'title' => 'SAKE BOTTLE AND CUP',
@@ -17737,33 +24694,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => 'Exp.64',
-      'unicode' => 59211,
+      'unicode' => 
+      array (
+        0 => 59211,
+      ),
       'sjis' => 'F9F0',
       'jis' => '794B',
     ),
     'au' => 
     array (
       'number' => '400',
-      'unicode' => 60055,
+      'unicode' => 
+      array (
+        0 => 60055,
+      ),
       'sjis' => 'F36A',
       'jis' => '794B',
     ),
     'softbank' => 
     array (
       'number' => '169',
-      'unicode' => 58123,
+      'unicode' => 
+      array (
+        0 => 58123,
+      ),
       'sjis' => 'F9AB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042821,
+      'unicode' => 
+      array (
+        0 => 1042821,
+      ),
     ),
   ),
   534 => 
   array (
     'mapid' => '#e-986',
-    'unicode' => 127863,
+    'unicode' => 
+    array (
+      0 => 127863,
+    ),
     'char_name' => 
     array (
       'title' => 'WINE GLASS',
@@ -17772,33 +24744,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => 'Exp.75',
-      'unicode' => 59222,
+      'unicode' => 
+      array (
+        0 => 59222,
+      ),
       'sjis' => 'F9FB',
       'jis' => '757A',
     ),
     'au' => 
     array (
       'number' => '12',
-      'unicode' => 58561,
+      'unicode' => 
+      array (
+        0 => 58561,
+      ),
       'sjis' => 'F69A',
       'jis' => '757A',
     ),
     'softbank' => 
     array (
       'number' => '168',
-      'unicode' => 57412,
+      'unicode' => 
+      array (
+        0 => 57412,
+      ),
       'sjis' => 'F985',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042822,
+      'unicode' => 
+      array (
+        0 => 1042822,
+      ),
     ),
   ),
   535 => 
   array (
     'mapid' => '#e-987',
-    'unicode' => 127867,
+    'unicode' => 
+    array (
+      0 => 127867,
+    ),
     'char_name' => 
     array (
       'title' => 'CLINKING BEER MUGS',
@@ -17807,33 +24794,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => '53',
-      'unicode' => 58994,
+      'unicode' => 
+      array (
+        0 => 58994,
+      ),
       'sjis' => 'F8D3',
       'jis' => '757C',
     ),
     'au' => 
     array (
       'number' => '401',
-      'unicode' => 60056,
+      'unicode' => 
+      array (
+        0 => 60056,
+      ),
       'sjis' => 'F36B',
       'jis' => '794C',
     ),
     'softbank' => 
     array (
       'number' => '167',
-      'unicode' => 58124,
+      'unicode' => 
+      array (
+        0 => 58124,
+      ),
       'sjis' => 'F9AC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042823,
+      'unicode' => 
+      array (
+        0 => 1042823,
+      ),
     ),
   ),
   536 => 
   array (
     'mapid' => '#e-988',
-    'unicode' => 127865,
+    'unicode' => 
+    array (
+      0 => 127865,
+    ),
     'char_name' => 
     array (
       'title' => 'TROPICAL DRINK',
@@ -17842,33 +24844,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => '52',
-      'unicode' => 58993,
+      'unicode' => 
+      array (
+        0 => 58993,
+      ),
       'sjis' => 'F8D2',
       'jis' => '757B',
     ),
     'au' => 
     array (
       'number' => '748',
-      'unicode' => 60222,
+      'unicode' => 
+      array (
+        0 => 60222,
+      ),
       'sjis' => 'F442',
       'jis' => '7B23',
     ),
     'softbank' => 
     array (
       'number' => '168',
-      'unicode' => 57412,
+      'unicode' => 
+      array (
+        0 => 57412,
+      ),
       'sjis' => 'F985',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042824,
+      'unicode' => 
+      array (
+        0 => 1042824,
+      ),
     ),
   ),
   537 => 
   array (
     'mapid' => '#e-AF0',
-    'unicode' => 8599,
+    'unicode' => 
+    array (
+      0 => 8599,
+    ),
     'char_name' => 
     array (
       'title' => 'NORTH EAST ARROW',
@@ -17877,33 +24894,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => '59',
-      'unicode' => 59000,
+      'unicode' => 
+      array (
+        0 => 59000,
+      ),
       'sjis' => 'F8D9',
       'jis' => '7752',
     ),
     'au' => 
     array (
       'number' => '70',
-      'unicode' => 58709,
+      'unicode' => 
+      array (
+        0 => 58709,
+      ),
       'sjis' => 'F771',
       'jis' => '7752',
     ),
     'softbank' => 
     array (
       'number' => '377',
-      'unicode' => 57910,
+      'unicode' => 
+      array (
+        0 => 57910,
+      ),
       'sjis' => 'F7D6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043184,
+      'unicode' => 
+      array (
+        0 => 1043184,
+      ),
     ),
   ),
   538 => 
   array (
     'mapid' => '#e-AF1',
-    'unicode' => 8600,
+    'unicode' => 
+    array (
+      0 => 8600,
+    ),
     'char_name' => 
     array (
       'title' => 'SOUTH EAST ARROW',
@@ -17912,33 +24944,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => '89',
-      'unicode' => 59030,
+      'unicode' => 
+      array (
+        0 => 59030,
+      ),
       'sjis' => 'F8F7',
       'jis' => '774A',
     ),
     'au' => 
     array (
       'number' => '43',
-      'unicode' => 58701,
+      'unicode' => 
+      array (
+        0 => 58701,
+      ),
       'sjis' => 'F769',
       'jis' => '774A',
     ),
     'softbank' => 
     array (
       'number' => '379',
-      'unicode' => 57912,
+      'unicode' => 
+      array (
+        0 => 57912,
+      ),
       'sjis' => 'F7D8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043185,
+      'unicode' => 
+      array (
+        0 => 1043185,
+      ),
     ),
   ),
   539 => 
   array (
     'mapid' => '#e-AF2',
-    'unicode' => 8598,
+    'unicode' => 
+    array (
+      0 => 8598,
+    ),
     'char_name' => 
     array (
       'title' => 'NORTH WEST ARROW',
@@ -17947,33 +24994,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => '90',
-      'unicode' => 59031,
+      'unicode' => 
+      array (
+        0 => 59031,
+      ),
       'sjis' => 'F8F8',
       'jis' => '7749',
     ),
     'au' => 
     array (
       'number' => '42',
-      'unicode' => 58700,
+      'unicode' => 
+      array (
+        0 => 58700,
+      ),
       'sjis' => 'F768',
       'jis' => '7749',
     ),
     'softbank' => 
     array (
       'number' => '378',
-      'unicode' => 57911,
+      'unicode' => 
+      array (
+        0 => 57911,
+      ),
       'sjis' => 'F7D7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043186,
+      'unicode' => 
+      array (
+        0 => 1043186,
+      ),
     ),
   ),
   540 => 
   array (
     'mapid' => '#e-AF3',
-    'unicode' => 8601,
+    'unicode' => 
+    array (
+      0 => 8601,
+    ),
     'char_name' => 
     array (
       'title' => 'SOUTH WEST ARROW',
@@ -17982,33 +25044,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => '104',
-      'unicode' => 59045,
+      'unicode' => 
+      array (
+        0 => 59045,
+      ),
       'sjis' => 'F949',
       'jis' => '7753',
     ),
     'au' => 
     array (
       'number' => '71',
-      'unicode' => 58710,
+      'unicode' => 
+      array (
+        0 => 58710,
+      ),
       'sjis' => 'F772',
       'jis' => '7753',
     ),
     'softbank' => 
     array (
       'number' => '380',
-      'unicode' => 57913,
+      'unicode' => 
+      array (
+        0 => 57913,
+      ),
       'sjis' => 'F7D9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043187,
+      'unicode' => 
+      array (
+        0 => 1043187,
+      ),
     ),
   ),
   541 => 
   array (
     'mapid' => '#e-AF4',
-    'unicode' => 10548,
+    'unicode' => 
+    array (
+      0 => 10548,
+    ),
     'char_name' => 
     array (
       'title' => 'ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS',
@@ -18017,33 +25094,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => '145',
-      'unicode' => 59125,
+      'unicode' => 
+      array (
+        0 => 59125,
+      ),
       'sjis' => 'F99A',
       'jis' => '7A70',
     ),
     'au' => 
     array (
       'number' => '731',
-      'unicode' => 60205,
+      'unicode' => 
+      array (
+        0 => 60205,
+      ),
       'sjis' => 'F3EE',
       'jis' => '7A70',
     ),
     'softbank' => 
     array (
       'number' => '377',
-      'unicode' => 57910,
+      'unicode' => 
+      array (
+        0 => 57910,
+      ),
       'sjis' => 'F7D6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043188,
+      'unicode' => 
+      array (
+        0 => 1043188,
+      ),
     ),
   ),
   542 => 
   array (
     'mapid' => '#e-AF5',
-    'unicode' => 10549,
+    'unicode' => 
+    array (
+      0 => 10549,
+    ),
     'char_name' => 
     array (
       'title' => 'ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS',
@@ -18052,33 +25144,48 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => '156',
-      'unicode' => 59136,
+      'unicode' => 
+      array (
+        0 => 59136,
+      ),
       'sjis' => 'F9A5',
       'jis' => '7A71',
     ),
     'au' => 
     array (
       'number' => '732',
-      'unicode' => 60206,
+      'unicode' => 
+      array (
+        0 => 60206,
+      ),
       'sjis' => 'F3EF',
       'jis' => '7A71',
     ),
     'softbank' => 
     array (
       'number' => '379',
-      'unicode' => 57912,
+      'unicode' => 
+      array (
+        0 => 57912,
+      ),
       'sjis' => 'F7D8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043189,
+      'unicode' => 
+      array (
+        0 => 1043189,
+      ),
     ),
   ),
   543 => 
   array (
     'mapid' => '#e-AF6',
-    'unicode' => 8596,
+    'unicode' => 
+    array (
+      0 => 8596,
+    ),
     'char_name' => 
     array (
       'title' => 'LEFT RIGHT ARROW',
@@ -18087,14 +25194,20 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => 'Exp.49',
-      'unicode' => 59196,
+      'unicode' => 
+      array (
+        0 => 59196,
+      ),
       'sjis' => 'F9E1',
       'jis' => '7B5F',
     ),
     'au' => 
     array (
       'number' => '808',
-      'unicode' => 60282,
+      'unicode' => 
+      array (
+        0 => 60282,
+      ),
       'sjis' => 'F47E',
       'jis' => '7B5F',
     ),
@@ -18104,13 +25217,19 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     ),
     'google' => 
     array (
-      'unicode' => 1043190,
+      'unicode' => 
+      array (
+        0 => 1043190,
+      ),
     ),
   ),
   544 => 
   array (
     'mapid' => '#e-AF7',
-    'unicode' => 8597,
+    'unicode' => 
+    array (
+      0 => 8597,
+    ),
     'char_name' => 
     array (
       'title' => 'UP DOWN ARROW',
@@ -18119,14 +25238,20 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     'docomo' => 
     array (
       'number' => 'Exp.50',
-      'unicode' => 59197,
+      'unicode' => 
+      array (
+        0 => 59197,
+      ),
       'sjis' => 'F9E2',
       'jis' => '7B60',
     ),
     'au' => 
     array (
       'number' => '809',
-      'unicode' => 60283,
+      'unicode' => 
+      array (
+        0 => 60283,
+      ),
       'sjis' => 'F480',
       'jis' => '7B60',
     ),
@@ -18136,13 +25261,19 @@ Design Note: Make it look like a hot tea cup without a handle used typically in 
     ),
     'google' => 
     array (
-      'unicode' => 1043191,
+      'unicode' => 
+      array (
+        0 => 1043191,
+      ),
     ),
   ),
   545 => 
   array (
     'mapid' => '#e-AF8',
-    'unicode' => 11014,
+    'unicode' => 
+    array (
+      0 => 11014,
+    ),
     'char_name' => 
     array (
       'title' => 'UPWARDS BLACK ARROW',
@@ -18156,26 +25287,38 @@ Temporary Notes: disunified from U+2191 due to source separation rule (Shift_JIS
     'au' => 
     array (
       'number' => '29',
-      'unicode' => 58687,
+      'unicode' => 
+      array (
+        0 => 58687,
+      ),
       'sjis' => 'F75B',
       'jis' => '773C',
     ),
     'softbank' => 
     array (
       'number' => '381',
-      'unicode' => 57906,
+      'unicode' => 
+      array (
+        0 => 57906,
+      ),
       'sjis' => 'F7D2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043192,
+      'unicode' => 
+      array (
+        0 => 1043192,
+      ),
     ),
   ),
   546 => 
   array (
     'mapid' => '#e-AF9',
-    'unicode' => 11015,
+    'unicode' => 
+    array (
+      0 => 11015,
+    ),
     'char_name' => 
     array (
       'title' => 'DOWNWARDS BLACK ARROW',
@@ -18189,26 +25332,38 @@ Temporary Notes: disunified from U+2193 due to source separation rule (Shift_JIS
     'au' => 
     array (
       'number' => '30',
-      'unicode' => 58688,
+      'unicode' => 
+      array (
+        0 => 58688,
+      ),
       'sjis' => 'F75C',
       'jis' => '773D',
     ),
     'softbank' => 
     array (
       'number' => '382',
-      'unicode' => 57907,
+      'unicode' => 
+      array (
+        0 => 57907,
+      ),
       'sjis' => 'F7D3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043193,
+      'unicode' => 
+      array (
+        0 => 1043193,
+      ),
     ),
   ),
   547 => 
   array (
     'mapid' => '#e-AFA',
-    'unicode' => 10145,
+    'unicode' => 
+    array (
+      0 => 10145,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK RIGHTWARDS ARROW',
@@ -18222,26 +25377,38 @@ Temporary Notes: disunified from U+2192 due to source separation rule (Shift_JIS
     'au' => 
     array (
       'number' => '63',
-      'unicode' => 58706,
+      'unicode' => 
+      array (
+        0 => 58706,
+      ),
       'sjis' => 'F76E',
       'jis' => '774F',
     ),
     'softbank' => 
     array (
       'number' => '383',
-      'unicode' => 57908,
+      'unicode' => 
+      array (
+        0 => 57908,
+      ),
       'sjis' => 'F7D4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043194,
+      'unicode' => 
+      array (
+        0 => 1043194,
+      ),
     ),
   ),
   548 => 
   array (
     'mapid' => '#e-AFB',
-    'unicode' => 11013,
+    'unicode' => 
+    array (
+      0 => 11013,
+    ),
     'char_name' => 
     array (
       'title' => 'LEFTWARDS BLACK ARROW',
@@ -18255,26 +25422,38 @@ Temporary Notes: disunified from U+2190 due to source separation rule (Shift_JIS
     'au' => 
     array (
       'number' => '64',
-      'unicode' => 58707,
+      'unicode' => 
+      array (
+        0 => 58707,
+      ),
       'sjis' => 'F76F',
       'jis' => '7750',
     ),
     'softbank' => 
     array (
       'number' => '384',
-      'unicode' => 57909,
+      'unicode' => 
+      array (
+        0 => 57909,
+      ),
       'sjis' => 'F7D5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043195,
+      'unicode' => 
+      array (
+        0 => 1043195,
+      ),
     ),
   ),
   549 => 
   array (
     'mapid' => '#e-AFC',
-    'unicode' => 9654,
+    'unicode' => 
+    array (
+      0 => 9654,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK RIGHT-POINTING TRIANGLE',
@@ -18288,26 +25467,38 @@ Temporary Notes: Play',
     'au' => 
     array (
       'number' => '6',
-      'unicode' => 58670,
+      'unicode' => 
+      array (
+        0 => 58670,
+      ),
       'sjis' => 'F74A',
       'jis' => '772B',
     ),
     'softbank' => 
     array (
       'number' => '385',
-      'unicode' => 57914,
+      'unicode' => 
+      array (
+        0 => 57914,
+      ),
       'sjis' => 'F7DA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043196,
+      'unicode' => 
+      array (
+        0 => 1043196,
+      ),
     ),
   ),
   550 => 
   array (
     'mapid' => '#e-AFD',
-    'unicode' => 9664,
+    'unicode' => 
+    array (
+      0 => 9664,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK LEFT-POINTING TRIANGLE',
@@ -18321,26 +25512,38 @@ Temporary Notes: Reverse',
     'au' => 
     array (
       'number' => '5',
-      'unicode' => 58669,
+      'unicode' => 
+      array (
+        0 => 58669,
+      ),
       'sjis' => 'F749',
       'jis' => '772A',
     ),
     'softbank' => 
     array (
       'number' => '386',
-      'unicode' => 57915,
+      'unicode' => 
+      array (
+        0 => 57915,
+      ),
       'sjis' => 'F7DB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043197,
+      'unicode' => 
+      array (
+        0 => 1043197,
+      ),
     ),
   ),
   551 => 
   array (
     'mapid' => '#e-AFE',
-    'unicode' => 9193,
+    'unicode' => 
+    array (
+      0 => 9193,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK RIGHT-POINTING DOUBLE TRIANGLE',
@@ -18353,26 +25556,38 @@ Temporary Notes: Reverse',
     'au' => 
     array (
       'number' => '8',
-      'unicode' => 58672,
+      'unicode' => 
+      array (
+        0 => 58672,
+      ),
       'sjis' => 'F74C',
       'jis' => '772D',
     ),
     'softbank' => 
     array (
       'number' => '387',
-      'unicode' => 57916,
+      'unicode' => 
+      array (
+        0 => 57916,
+      ),
       'sjis' => 'F7DC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043198,
+      'unicode' => 
+      array (
+        0 => 1043198,
+      ),
     ),
   ),
   552 => 
   array (
     'mapid' => '#e-AFF',
-    'unicode' => 9194,
+    'unicode' => 
+    array (
+      0 => 9194,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK LEFT-POINTING DOUBLE TRIANGLE',
@@ -18385,26 +25600,38 @@ Temporary Notes: Reverse',
     'au' => 
     array (
       'number' => '7',
-      'unicode' => 58671,
+      'unicode' => 
+      array (
+        0 => 58671,
+      ),
       'sjis' => 'F74B',
       'jis' => '772C',
     ),
     'softbank' => 
     array (
       'number' => '388',
-      'unicode' => 57917,
+      'unicode' => 
+      array (
+        0 => 57917,
+      ),
       'sjis' => 'F7DD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043199,
+      'unicode' => 
+      array (
+        0 => 1043199,
+      ),
     ),
   ),
   553 => 
   array (
     'mapid' => '#e-B03',
-    'unicode' => 9195,
+    'unicode' => 
+    array (
+      0 => 9195,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK UP-POINTING DOUBLE TRIANGLE',
@@ -18417,7 +25644,10 @@ Temporary Notes: Reverse',
     'au' => 
     array (
       'number' => '35',
-      'unicode' => 58693,
+      'unicode' => 
+      array (
+        0 => 58693,
+      ),
       'sjis' => 'F761',
       'jis' => '7742',
     ),
@@ -18427,13 +25657,19 @@ Temporary Notes: Reverse',
     ),
     'google' => 
     array (
-      'unicode' => 1043203,
+      'unicode' => 
+      array (
+        0 => 1043203,
+      ),
     ),
   ),
   554 => 
   array (
     'mapid' => '#e-B02',
-    'unicode' => 9196,
+    'unicode' => 
+    array (
+      0 => 9196,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK DOWN-POINTING DOUBLE TRIANGLE',
@@ -18446,7 +25682,10 @@ Temporary Notes: Reverse',
     'au' => 
     array (
       'number' => '34',
-      'unicode' => 58692,
+      'unicode' => 
+      array (
+        0 => 58692,
+      ),
       'sjis' => 'F760',
       'jis' => '7741',
     ),
@@ -18456,13 +25695,19 @@ Temporary Notes: Reverse',
     ),
     'google' => 
     array (
-      'unicode' => 1043202,
+      'unicode' => 
+      array (
+        0 => 1043202,
+      ),
     ),
   ),
   555 => 
   array (
     'mapid' => '#e-B78',
-    'unicode' => 128314,
+    'unicode' => 
+    array (
+      0 => 128314,
+    ),
     'char_name' => 
     array (
       'title' => 'UP-POINTING RED TRIANGLE',
@@ -18476,7 +25721,10 @@ Temporary Notes: Triangle (pointing up). disunified from U+25B2 due to source se
     'au' => 
     array (
       'number' => '88',
-      'unicode' => 58714,
+      'unicode' => 
+      array (
+        0 => 58714,
+      ),
       'sjis' => 'F776',
       'jis' => '7757',
     ),
@@ -18486,13 +25734,19 @@ Temporary Notes: Triangle (pointing up). disunified from U+25B2 due to source se
     ),
     'google' => 
     array (
-      'unicode' => 1043320,
+      'unicode' => 
+      array (
+        0 => 1043320,
+      ),
     ),
   ),
   556 => 
   array (
     'mapid' => '#e-B79',
-    'unicode' => 128315,
+    'unicode' => 
+    array (
+      0 => 128315,
+    ),
     'char_name' => 
     array (
       'title' => 'DOWN-POINTING RED TRIANGLE',
@@ -18506,7 +25760,10 @@ Temporary Notes: Triangle (pointing down). disunified from U+25BC due to source 
     'au' => 
     array (
       'number' => '89',
-      'unicode' => 58715,
+      'unicode' => 
+      array (
+        0 => 58715,
+      ),
       'sjis' => 'F777',
       'jis' => '7758',
     ),
@@ -18516,13 +25773,19 @@ Temporary Notes: Triangle (pointing down). disunified from U+25BC due to source 
     ),
     'google' => 
     array (
-      'unicode' => 1043321,
+      'unicode' => 
+      array (
+        0 => 1043321,
+      ),
     ),
   ),
   557 => 
   array (
     'mapid' => '#e-B01',
-    'unicode' => 128316,
+    'unicode' => 
+    array (
+      0 => 128316,
+    ),
     'char_name' => 
     array (
       'title' => 'UP-POINTING SMALL RED TRIANGLE',
@@ -18537,7 +25800,10 @@ Temporary Notes: disunified from U+25B2 due to source separation rule (Shift_JIS
     'au' => 
     array (
       'number' => '33',
-      'unicode' => 58691,
+      'unicode' => 
+      array (
+        0 => 58691,
+      ),
       'sjis' => 'F75F',
       'jis' => '7740',
     ),
@@ -18547,13 +25813,19 @@ Temporary Notes: disunified from U+25B2 due to source separation rule (Shift_JIS
     ),
     'google' => 
     array (
-      'unicode' => 1043201,
+      'unicode' => 
+      array (
+        0 => 1043201,
+      ),
     ),
   ),
   558 => 
   array (
     'mapid' => '#e-B00',
-    'unicode' => 128317,
+    'unicode' => 
+    array (
+      0 => 128317,
+    ),
     'char_name' => 
     array (
       'title' => 'DOWN-POINTING SMALL RED TRIANGLE',
@@ -18568,7 +25840,10 @@ Temporary Notes: disunified from U+25BC due to source separation rule (Shift_JIS
     'au' => 
     array (
       'number' => '32',
-      'unicode' => 58690,
+      'unicode' => 
+      array (
+        0 => 58690,
+      ),
       'sjis' => 'F75E',
       'jis' => '773F',
     ),
@@ -18578,13 +25853,19 @@ Temporary Notes: disunified from U+25BC due to source separation rule (Shift_JIS
     ),
     'google' => 
     array (
-      'unicode' => 1043200,
+      'unicode' => 
+      array (
+        0 => 1043200,
+      ),
     ),
   ),
   559 => 
   array (
     'mapid' => '#e-B44',
-    'unicode' => 11093,
+    'unicode' => 
+    array (
+      0 => 11093,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAVY LARGE CIRCLE',
@@ -18599,33 +25880,48 @@ Temporary Notes: good; OK, approved; O in tic tac toe; disunified from ○ U+25C
     'docomo' => 
     array (
       'number' => '99',
-      'unicode' => 59040,
+      'unicode' => 
+      array (
+        0 => 59040,
+      ),
       'sjis' => 'F944',
       'jis' => '7E24',
     ),
     'au' => 
     array (
       'number' => '422',
-      'unicode' => 60077,
+      'unicode' => 
+      array (
+        0 => 60077,
+      ),
       'sjis' => 'F381',
       'jis' => '7961',
     ),
     'softbank' => 
     array (
       'number' => '371',
-      'unicode' => 58162,
+      'unicode' => 
+      array (
+        0 => 58162,
+      ),
       'sjis' => 'F9D2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043268,
+      'unicode' => 
+      array (
+        0 => 1043268,
+      ),
     ),
   ),
   560 => 
   array (
     'mapid' => '#e-B45',
-    'unicode' => 10060,
+    'unicode' => 
+    array (
+      0 => 10060,
+    ),
     'char_name' => 
     array (
       'title' => 'CROSS MARK',
@@ -18639,26 +25935,38 @@ Temporary Notes: bad; NO GOOD, not approved; X in tic tac toe. disunified from �
     'au' => 
     array (
       'number' => '61',
-      'unicode' => 58704,
+      'unicode' => 
+      array (
+        0 => 58704,
+      ),
       'sjis' => 'F76C',
       'jis' => '774D',
     ),
     'softbank' => 
     array (
       'number' => '372',
-      'unicode' => 58163,
+      'unicode' => 
+      array (
+        0 => 58163,
+      ),
       'sjis' => 'F9D3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043269,
+      'unicode' => 
+      array (
+        0 => 1043269,
+      ),
     ),
   ),
   561 => 
   array (
     'mapid' => '#e-B46',
-    'unicode' => 10062,
+    'unicode' => 
+    array (
+      0 => 10062,
+    ),
     'char_name' => 
     array (
       'title' => 'NEGATIVE SQUARED CROSS MARK',
@@ -18671,26 +25979,38 @@ Temporary Notes: bad; NO GOOD, not approved; X in tic tac toe. disunified from �
     'au' => 
     array (
       'number' => '62',
-      'unicode' => 58705,
+      'unicode' => 
+      array (
+        0 => 58705,
+      ),
       'sjis' => 'F76D',
       'jis' => '774E',
     ),
     'softbank' => 
     array (
       'number' => '372',
-      'unicode' => 58163,
+      'unicode' => 
+      array (
+        0 => 58163,
+      ),
       'sjis' => 'F9D3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043270,
+      'unicode' => 
+      array (
+        0 => 1043270,
+      ),
     ),
   ),
   562 => 
   array (
     'mapid' => '#e-B04',
-    'unicode' => 10071,
+    'unicode' => 
+    array (
+      0 => 10071,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAVY EXCLAMATION MARK SYMBOL',
@@ -18699,33 +26019,48 @@ Temporary Notes: bad; NO GOOD, not approved; X in tic tac toe. disunified from �
     'docomo' => 
     array (
       'number' => '158',
-      'unicode' => 59138,
+      'unicode' => 
+      array (
+        0 => 59138,
+      ),
       'sjis' => 'F9A7',
       'jis' => '753B',
     ),
     'au' => 
     array (
       'number' => '2',
-      'unicode' => 58498,
+      'unicode' => 
+      array (
+        0 => 58498,
+      ),
       'sjis' => 'F65A',
       'jis' => '753B',
     ),
     'softbank' => 
     array (
       'number' => '42',
-      'unicode' => 57377,
+      'unicode' => 
+      array (
+        0 => 57377,
+      ),
       'sjis' => 'F961',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043204,
+      'unicode' => 
+      array (
+        0 => 1043204,
+      ),
     ),
   ),
   563 => 
   array (
     'mapid' => '#e-B05',
-    'unicode' => 8265,
+    'unicode' => 
+    array (
+      0 => 8265,
+    ),
     'char_name' => 
     array (
       'title' => 'EXCLAMATION QUESTION MARK',
@@ -18734,14 +26069,20 @@ Temporary Notes: bad; NO GOOD, not approved; X in tic tac toe. disunified from �
     'docomo' => 
     array (
       'number' => '159',
-      'unicode' => 59139,
+      'unicode' => 
+      array (
+        0 => 59139,
+      ),
       'sjis' => 'F9A8',
       'jis' => '7A72',
     ),
     'au' => 
     array (
       'number' => '733',
-      'unicode' => 60207,
+      'unicode' => 
+      array (
+        0 => 60207,
+      ),
       'sjis' => 'F3F0',
       'jis' => '7A72',
     ),
@@ -18751,13 +26092,19 @@ Temporary Notes: bad; NO GOOD, not approved; X in tic tac toe. disunified from �
     ),
     'google' => 
     array (
-      'unicode' => 1043205,
+      'unicode' => 
+      array (
+        0 => 1043205,
+      ),
     ),
   ),
   564 => 
   array (
     'mapid' => '#e-B06',
-    'unicode' => 8252,
+    'unicode' => 
+    array (
+      0 => 8252,
+    ),
     'char_name' => 
     array (
       'title' => 'DOUBLE EXCLAMATION MARK',
@@ -18766,14 +26113,20 @@ Temporary Notes: bad; NO GOOD, not approved; X in tic tac toe. disunified from �
     'docomo' => 
     array (
       'number' => '160',
-      'unicode' => 59140,
+      'unicode' => 
+      array (
+        0 => 59140,
+      ),
       'sjis' => 'F9A9',
       'jis' => '7A73',
     ),
     'au' => 
     array (
       'number' => '734',
-      'unicode' => 60208,
+      'unicode' => 
+      array (
+        0 => 60208,
+      ),
       'sjis' => 'F3F1',
       'jis' => '7A73',
     ),
@@ -18783,13 +26136,19 @@ Temporary Notes: bad; NO GOOD, not approved; X in tic tac toe. disunified from �
     ),
     'google' => 
     array (
-      'unicode' => 1043206,
+      'unicode' => 
+      array (
+        0 => 1043206,
+      ),
     ),
   ),
   565 => 
   array (
     'mapid' => '#e-B09',
-    'unicode' => 10067,
+    'unicode' => 
+    array (
+      0 => 10067,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK QUESTION MARK ORNAMENT',
@@ -18802,26 +26161,38 @@ Temporary Notes: bad; NO GOOD, not approved; X in tic tac toe. disunified from �
     'au' => 
     array (
       'number' => '3',
-      'unicode' => 58499,
+      'unicode' => 
+      array (
+        0 => 58499,
+      ),
       'sjis' => 'F65B',
       'jis' => '753C',
     ),
     'softbank' => 
     array (
       'number' => '44',
-      'unicode' => 57376,
+      'unicode' => 
+      array (
+        0 => 57376,
+      ),
       'sjis' => 'F960',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043209,
+      'unicode' => 
+      array (
+        0 => 1043209,
+      ),
     ),
   ),
   566 => 
   array (
     'mapid' => '#e-B0A',
-    'unicode' => 10068,
+    'unicode' => 
+    array (
+      0 => 10068,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE QUESTION MARK ORNAMENT',
@@ -18834,26 +26205,38 @@ Temporary Notes: bad; NO GOOD, not approved; X in tic tac toe. disunified from �
     'au' => 
     array (
       'number' => '3',
-      'unicode' => 58499,
+      'unicode' => 
+      array (
+        0 => 58499,
+      ),
       'sjis' => 'F65B',
       'jis' => '753C',
     ),
     'softbank' => 
     array (
       'number' => '45',
-      'unicode' => 58166,
+      'unicode' => 
+      array (
+        0 => 58166,
+      ),
       'sjis' => 'F9D6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043210,
+      'unicode' => 
+      array (
+        0 => 1043210,
+      ),
     ),
   ),
   567 => 
   array (
     'mapid' => '#e-B0B',
-    'unicode' => 10069,
+    'unicode' => 
+    array (
+      0 => 10069,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE EXCLAMATION MARK ORNAMENT',
@@ -18864,33 +26247,48 @@ Temporary Notes: moving exclamation mark',
     'docomo' => 
     array (
       'number' => '158',
-      'unicode' => 59138,
+      'unicode' => 
+      array (
+        0 => 59138,
+      ),
       'sjis' => 'F9A7',
       'jis' => '753B',
     ),
     'au' => 
     array (
       'number' => '2',
-      'unicode' => 58498,
+      'unicode' => 
+      array (
+        0 => 58498,
+      ),
       'sjis' => 'F65A',
       'jis' => '753B',
     ),
     'softbank' => 
     array (
       'number' => '43',
-      'unicode' => 58167,
+      'unicode' => 
+      array (
+        0 => 58167,
+      ),
       'sjis' => 'F9D7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043211,
+      'unicode' => 
+      array (
+        0 => 1043211,
+      ),
     ),
   ),
   568 => 
   array (
     'mapid' => '#e-B07',
-    'unicode' => 12336,
+    'unicode' => 
+    array (
+      0 => 12336,
+    ),
     'char_name' => 
     array (
       'title' => 'WAVY DASH',
@@ -18899,7 +26297,10 @@ Temporary Notes: moving exclamation mark',
     'docomo' => 
     array (
       'number' => '165',
-      'unicode' => 59145,
+      'unicode' => 
+      array (
+        0 => 59145,
+      ),
       'sjis' => 'F9AE',
       'jis' => '7E2A',
     ),
@@ -18913,13 +26314,19 @@ Temporary Notes: moving exclamation mark',
     ),
     'google' => 
     array (
-      'unicode' => 1043207,
+      'unicode' => 
+      array (
+        0 => 1043207,
+      ),
     ),
   ),
   569 => 
   array (
     'mapid' => '#e-B08',
-    'unicode' => 10160,
+    'unicode' => 
+    array (
+      0 => 10160,
+    ),
     'char_name' => 
     array (
       'title' => 'CURLY LOOP',
@@ -18930,14 +26337,20 @@ Temporary Notes: a line with a loop; new compatibility character, see e-B07=U+30
     'docomo' => 
     array (
       'number' => '166',
-      'unicode' => 59146,
+      'unicode' => 
+      array (
+        0 => 59146,
+      ),
       'sjis' => 'F9AF',
       'jis' => '7A74',
     ),
     'au' => 
     array (
       'number' => '735',
-      'unicode' => 60209,
+      'unicode' => 
+      array (
+        0 => 60209,
+      ),
       'sjis' => 'F3F2',
       'jis' => '7A74',
     ),
@@ -18947,13 +26360,19 @@ Temporary Notes: a line with a loop; new compatibility character, see e-B07=U+30
     ),
     'google' => 
     array (
-      'unicode' => 1043208,
+      'unicode' => 
+      array (
+        0 => 1043208,
+      ),
     ),
   ),
   570 => 
   array (
     'mapid' => '#e-82B',
-    'unicode' => 10175,
+    'unicode' => 
+    array (
+      0 => 10175,
+    ),
     'char_name' => 
     array (
       'title' => 'DOUBLE CURLY LOOP',
@@ -18964,7 +26383,10 @@ Temporary Notes: Original name: FREE DIAL. Two loops. Occurs widely in print in 
     'docomo' => 
     array (
       'number' => '122',
-      'unicode' => 59103,
+      'unicode' => 
+      array (
+        0 => 59103,
+      ),
       'sjis' => 'F984',
       'jis' => '7D5D',
     ),
@@ -18975,19 +26397,28 @@ Temporary Notes: Original name: FREE DIAL. Two loops. Occurs widely in print in 
     'softbank' => 
     array (
       'number' => '468',
-      'unicode' => 57873,
+      'unicode' => 
+      array (
+        0 => 57873,
+      ),
       'sjis' => 'F7B1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042475,
+      'unicode' => 
+      array (
+        0 => 1042475,
+      ),
     ),
   ),
   571 => 
   array (
     'mapid' => '#e-B0C',
-    'unicode' => 10084,
+    'unicode' => 
+    array (
+      0 => 10084,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAVY BLACK HEART',
@@ -18996,33 +26427,48 @@ Temporary Notes: Original name: FREE DIAL. Two loops. Occurs widely in print in 
     'docomo' => 
     array (
       'number' => '136',
-      'unicode' => 59116,
+      'unicode' => 
+      array (
+        0 => 59116,
+      ),
       'sjis' => 'F991',
       'jis' => '7834',
     ),
     'au' => 
     array (
       'number' => '51',
-      'unicode' => 58773,
+      'unicode' => 
+      array (
+        0 => 58773,
+      ),
       'sjis' => 'F7B2',
       'jis' => '7834',
     ),
     'softbank' => 
     array (
       'number' => '33',
-      'unicode' => 57378,
+      'unicode' => 
+      array (
+        0 => 57378,
+      ),
       'sjis' => 'F962',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043212,
+      'unicode' => 
+      array (
+        0 => 1043212,
+      ),
     ),
   ),
   572 => 
   array (
     'mapid' => '#e-B0D',
-    'unicode' => 128147,
+    'unicode' => 
+    array (
+      0 => 128147,
+    ),
     'char_name' => 
     array (
       'title' => 'BEATING HEART',
@@ -19031,33 +26477,48 @@ Temporary Notes: Original name: FREE DIAL. Two loops. Occurs widely in print in 
     'docomo' => 
     array (
       'number' => '137',
-      'unicode' => 59117,
+      'unicode' => 
+      array (
+        0 => 59117,
+      ),
       'sjis' => 'F992',
       'jis' => '7B5A',
     ),
     'au' => 
     array (
       'number' => '803',
-      'unicode' => 60277,
+      'unicode' => 
+      array (
+        0 => 60277,
+      ),
       'sjis' => 'F479',
       'jis' => '7B5A',
     ),
     'softbank' => 
     array (
       'number' => '35',
-      'unicode' => 58151,
+      'unicode' => 
+      array (
+        0 => 58151,
+      ),
       'sjis' => 'F9C7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043213,
+      'unicode' => 
+      array (
+        0 => 1043213,
+      ),
     ),
   ),
   573 => 
   array (
     'mapid' => '#e-B0E',
-    'unicode' => 128148,
+    'unicode' => 
+    array (
+      0 => 128148,
+    ),
     'char_name' => 
     array (
       'title' => 'BROKEN HEART',
@@ -19066,33 +26527,48 @@ Temporary Notes: Original name: FREE DIAL. Two loops. Occurs widely in print in 
     'docomo' => 
     array (
       'number' => '138',
-      'unicode' => 59118,
+      'unicode' => 
+      array (
+        0 => 59118,
+      ),
       'sjis' => 'F993',
       'jis' => '7530',
     ),
     'au' => 
     array (
       'number' => '265',
-      'unicode' => 58487,
+      'unicode' => 
+      array (
+        0 => 58487,
+      ),
       'sjis' => 'F64F',
       'jis' => '7530',
     ),
     'softbank' => 
     array (
       'number' => '34',
-      'unicode' => 57379,
+      'unicode' => 
+      array (
+        0 => 57379,
+      ),
       'sjis' => 'F963',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043214,
+      'unicode' => 
+      array (
+        0 => 1043214,
+      ),
     ),
   ),
   574 => 
   array (
     'mapid' => '#e-B0F',
-    'unicode' => 128149,
+    'unicode' => 
+    array (
+      0 => 128149,
+    ),
     'char_name' => 
     array (
       'title' => 'TWO HEARTS',
@@ -19101,33 +26577,48 @@ Temporary Notes: Original name: FREE DIAL. Two loops. Occurs widely in print in 
     'docomo' => 
     array (
       'number' => '139',
-      'unicode' => 59119,
+      'unicode' => 
+      array (
+        0 => 59119,
+      ),
       'sjis' => 'F994',
       'jis' => '7531',
     ),
     'au' => 
     array (
       'number' => '266',
-      'unicode' => 58488,
+      'unicode' => 
+      array (
+        0 => 58488,
+      ),
       'sjis' => 'F650',
       'jis' => '7531',
     ),
     'softbank' => 
     array (
       'number' => '35',
-      'unicode' => 58151,
+      'unicode' => 
+      array (
+        0 => 58151,
+      ),
       'sjis' => 'F9C7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043215,
+      'unicode' => 
+      array (
+        0 => 1043215,
+      ),
     ),
   ),
   575 => 
   array (
     'mapid' => '#e-B10',
-    'unicode' => 128150,
+    'unicode' => 
+    array (
+      0 => 128150,
+    ),
     'char_name' => 
     array (
       'title' => 'SPARKLING HEART',
@@ -19136,33 +26627,48 @@ Temporary Notes: Original name: FREE DIAL. Two loops. Occurs widely in print in 
     'docomo' => 
     array (
       'number' => '136',
-      'unicode' => 59116,
+      'unicode' => 
+      array (
+        0 => 59116,
+      ),
       'sjis' => 'F991',
       'jis' => '7834',
     ),
     'au' => 
     array (
       'number' => '415',
-      'unicode' => 60070,
+      'unicode' => 
+      array (
+        0 => 60070,
+      ),
       'sjis' => 'F379',
       'jis' => '795A',
     ),
     'softbank' => 
     array (
       'number' => '35',
-      'unicode' => 58151,
+      'unicode' => 
+      array (
+        0 => 58151,
+      ),
       'sjis' => 'F9C7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043216,
+      'unicode' => 
+      array (
+        0 => 1043216,
+      ),
     ),
   ),
   576 => 
   array (
     'mapid' => '#e-B11',
-    'unicode' => 128151,
+    'unicode' => 
+    array (
+      0 => 128151,
+    ),
     'char_name' => 
     array (
       'title' => 'GROWING HEART',
@@ -19171,33 +26677,48 @@ Temporary Notes: Original name: FREE DIAL. Two loops. Occurs widely in print in 
     'docomo' => 
     array (
       'number' => '137',
-      'unicode' => 59117,
+      'unicode' => 
+      array (
+        0 => 59117,
+      ),
       'sjis' => 'F992',
       'jis' => '7B5A',
     ),
     'au' => 
     array (
       'number' => '803',
-      'unicode' => 60277,
+      'unicode' => 
+      array (
+        0 => 60277,
+      ),
       'sjis' => 'F479',
       'jis' => '7B5A',
     ),
     'softbank' => 
     array (
       'number' => '36',
-      'unicode' => 58152,
+      'unicode' => 
+      array (
+        0 => 58152,
+      ),
       'sjis' => 'F9C8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043217,
+      'unicode' => 
+      array (
+        0 => 1043217,
+      ),
     ),
   ),
   577 => 
   array (
     'mapid' => '#e-B12',
-    'unicode' => 128152,
+    'unicode' => 
+    array (
+      0 => 128152,
+    ),
     'char_name' => 
     array (
       'title' => 'HEART WITH ARROW',
@@ -19206,33 +26727,48 @@ Temporary Notes: Original name: FREE DIAL. Two loops. Occurs widely in print in 
     'docomo' => 
     array (
       'number' => '136',
-      'unicode' => 59116,
+      'unicode' => 
+      array (
+        0 => 59116,
+      ),
       'sjis' => 'F991',
       'jis' => '7834',
     ),
     'au' => 
     array (
       'number' => '272',
-      'unicode' => 58602,
+      'unicode' => 
+      array (
+        0 => 58602,
+      ),
       'sjis' => 'F6C3',
       'jis' => '7645',
     ),
     'softbank' => 
     array (
       'number' => '37',
-      'unicode' => 58153,
+      'unicode' => 
+      array (
+        0 => 58153,
+      ),
       'sjis' => 'F9C9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043218,
+      'unicode' => 
+      array (
+        0 => 1043218,
+      ),
     ),
   ),
   578 => 
   array (
     'mapid' => '#e-B13',
-    'unicode' => 128153,
+    'unicode' => 
+    array (
+      0 => 128153,
+    ),
     'char_name' => 
     array (
       'title' => 'BLUE HEART',
@@ -19242,33 +26778,48 @@ Temporary Notes: Heart with blue color',
     'docomo' => 
     array (
       'number' => '136',
-      'unicode' => 59116,
+      'unicode' => 
+      array (
+        0 => 59116,
+      ),
       'sjis' => 'F991',
       'jis' => '7834',
     ),
     'au' => 
     array (
       'number' => '416',
-      'unicode' => 60071,
+      'unicode' => 
+      array (
+        0 => 60071,
+      ),
       'sjis' => 'F37A',
       'jis' => '795B',
     ),
     'softbank' => 
     array (
       'number' => '38',
-      'unicode' => 58154,
+      'unicode' => 
+      array (
+        0 => 58154,
+      ),
       'sjis' => 'F9CA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043219,
+      'unicode' => 
+      array (
+        0 => 1043219,
+      ),
     ),
   ),
   579 => 
   array (
     'mapid' => '#e-B14',
-    'unicode' => 128154,
+    'unicode' => 
+    array (
+      0 => 128154,
+    ),
     'char_name' => 
     array (
       'title' => 'GREEN HEART',
@@ -19278,33 +26829,48 @@ Temporary Notes: Heart with green color',
     'docomo' => 
     array (
       'number' => '136',
-      'unicode' => 59116,
+      'unicode' => 
+      array (
+        0 => 59116,
+      ),
       'sjis' => 'F991',
       'jis' => '7834',
     ),
     'au' => 
     array (
       'number' => '417',
-      'unicode' => 60072,
+      'unicode' => 
+      array (
+        0 => 60072,
+      ),
       'sjis' => 'F37B',
       'jis' => '795C',
     ),
     'softbank' => 
     array (
       'number' => '39',
-      'unicode' => 58155,
+      'unicode' => 
+      array (
+        0 => 58155,
+      ),
       'sjis' => 'F9CB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043220,
+      'unicode' => 
+      array (
+        0 => 1043220,
+      ),
     ),
   ),
   580 => 
   array (
     'mapid' => '#e-B15',
-    'unicode' => 128155,
+    'unicode' => 
+    array (
+      0 => 128155,
+    ),
     'char_name' => 
     array (
       'title' => 'YELLOW HEART',
@@ -19314,33 +26880,48 @@ Temporary Notes: Heart with yellow color',
     'docomo' => 
     array (
       'number' => '136',
-      'unicode' => 59116,
+      'unicode' => 
+      array (
+        0 => 59116,
+      ),
       'sjis' => 'F991',
       'jis' => '7834',
     ),
     'au' => 
     array (
       'number' => '418',
-      'unicode' => 60073,
+      'unicode' => 
+      array (
+        0 => 60073,
+      ),
       'sjis' => 'F37C',
       'jis' => '795D',
     ),
     'softbank' => 
     array (
       'number' => '40',
-      'unicode' => 58156,
+      'unicode' => 
+      array (
+        0 => 58156,
+      ),
       'sjis' => 'F9CC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043221,
+      'unicode' => 
+      array (
+        0 => 1043221,
+      ),
     ),
   ),
   581 => 
   array (
     'mapid' => '#e-B16',
-    'unicode' => 128156,
+    'unicode' => 
+    array (
+      0 => 128156,
+    ),
     'char_name' => 
     array (
       'title' => 'PURPLE HEART',
@@ -19350,33 +26931,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '136',
-      'unicode' => 59116,
+      'unicode' => 
+      array (
+        0 => 59116,
+      ),
       'sjis' => 'F991',
       'jis' => '7834',
     ),
     'au' => 
     array (
       'number' => '419',
-      'unicode' => 60074,
+      'unicode' => 
+      array (
+        0 => 60074,
+      ),
       'sjis' => 'F37D',
       'jis' => '795E',
     ),
     'softbank' => 
     array (
       'number' => '41',
-      'unicode' => 58157,
+      'unicode' => 
+      array (
+        0 => 58157,
+      ),
       'sjis' => 'F9CD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043222,
+      'unicode' => 
+      array (
+        0 => 1043222,
+      ),
     ),
   ),
   582 => 
   array (
     'mapid' => '#e-B17',
-    'unicode' => 128157,
+    'unicode' => 
+    array (
+      0 => 128157,
+    ),
     'char_name' => 
     array (
       'title' => 'HEART WITH RIBBON',
@@ -19385,33 +26981,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '136',
-      'unicode' => 59116,
+      'unicode' => 
+      array (
+        0 => 59116,
+      ),
       'sjis' => 'F991',
       'jis' => '7834',
     ),
     'au' => 
     array (
       'number' => '770',
-      'unicode' => 60244,
+      'unicode' => 
+      array (
+        0 => 60244,
+      ),
       'sjis' => 'F458',
       'jis' => '7B39',
     ),
     'softbank' => 
     array (
       'number' => '309',
-      'unicode' => 58423,
+      'unicode' => 
+      array (
+        0 => 58423,
+      ),
       'sjis' => 'FB77',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043223,
+      'unicode' => 
+      array (
+        0 => 1043223,
+      ),
     ),
   ),
   583 => 
   array (
     'mapid' => '#e-B18',
-    'unicode' => 128158,
+    'unicode' => 
+    array (
+      0 => 128158,
+    ),
     'char_name' => 
     array (
       'title' => 'REVOLVING HEARTS',
@@ -19420,33 +27031,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '137',
-      'unicode' => 59117,
+      'unicode' => 
+      array (
+        0 => 59117,
+      ),
       'sjis' => 'F992',
       'jis' => '7B5A',
     ),
     'au' => 
     array (
       'number' => '328',
-      'unicode' => 58799,
+      'unicode' => 
+      array (
+        0 => 58799,
+      ),
       'sjis' => 'F7CC',
       'jis' => '784E',
     ),
     'softbank' => 
     array (
       'number' => '35',
-      'unicode' => 58151,
+      'unicode' => 
+      array (
+        0 => 58151,
+      ),
       'sjis' => 'F9C7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043224,
+      'unicode' => 
+      array (
+        0 => 1043224,
+      ),
     ),
   ),
   584 => 
   array (
     'mapid' => '#e-B19',
-    'unicode' => 128159,
+    'unicode' => 
+    array (
+      0 => 128159,
+    ),
     'char_name' => 
     array (
       'title' => 'HEART DECORATION',
@@ -19455,33 +27081,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '148',
-      'unicode' => 59128,
+      'unicode' => 
+      array (
+        0 => 59128,
+      ),
       'sjis' => 'F99D',
       'jis' => '7E29',
     ),
     'au' => 
     array (
       'number' => '51',
-      'unicode' => 58773,
+      'unicode' => 
+      array (
+        0 => 58773,
+      ),
       'sjis' => 'F7B2',
       'jis' => '7834',
     ),
     'softbank' => 
     array (
       'number' => '460',
-      'unicode' => 57860,
+      'unicode' => 
+      array (
+        0 => 57860,
+      ),
       'sjis' => 'F7A4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043225,
+      'unicode' => 
+      array (
+        0 => 1043225,
+      ),
     ),
   ),
   585 => 
   array (
     'mapid' => '#e-B1A',
-    'unicode' => 9829,
+    'unicode' => 
+    array (
+      0 => 9829,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK HEART SUIT',
@@ -19490,33 +27131,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '80',
-      'unicode' => 59021,
+      'unicode' => 
+      array (
+        0 => 59021,
+      ),
       'sjis' => 'F8EE',
       'jis' => '7959',
     ),
     'au' => 
     array (
       'number' => '414',
-      'unicode' => 60069,
+      'unicode' => 
+      array (
+        0 => 60069,
+      ),
       'sjis' => 'F378',
       'jis' => '7959',
     ),
     'softbank' => 
     array (
       'number' => '373',
-      'unicode' => 57868,
+      'unicode' => 
+      array (
+        0 => 57868,
+      ),
       'sjis' => 'F7AC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043226,
+      'unicode' => 
+      array (
+        0 => 1043226,
+      ),
     ),
   ),
   586 => 
   array (
     'mapid' => '#e-B1B',
-    'unicode' => 9824,
+    'unicode' => 
+    array (
+      0 => 9824,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK SPADE SUIT',
@@ -19525,33 +27181,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '81',
-      'unicode' => 59022,
+      'unicode' => 
+      array (
+        0 => 59022,
+      ),
       'sjis' => 'F8EF',
       'jis' => '7840',
     ),
     'au' => 
     array (
       'number' => '314',
-      'unicode' => 58785,
+      'unicode' => 
+      array (
+        0 => 58785,
+      ),
       'sjis' => 'F7BE',
       'jis' => '7840',
     ),
     'softbank' => 
     array (
       'number' => '375',
-      'unicode' => 57870,
+      'unicode' => 
+      array (
+        0 => 57870,
+      ),
       'sjis' => 'F7AE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043227,
+      'unicode' => 
+      array (
+        0 => 1043227,
+      ),
     ),
   ),
   587 => 
   array (
     'mapid' => '#e-B1C',
-    'unicode' => 9830,
+    'unicode' => 
+    array (
+      0 => 9830,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK DIAMOND SUIT',
@@ -19560,33 +27231,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '82',
-      'unicode' => 59023,
+      'unicode' => 
+      array (
+        0 => 59023,
+      ),
       'sjis' => 'F8F0',
       'jis' => '7841',
     ),
     'au' => 
     array (
       'number' => '315',
-      'unicode' => 58786,
+      'unicode' => 
+      array (
+        0 => 58786,
+      ),
       'sjis' => 'F7BF',
       'jis' => '7841',
     ),
     'softbank' => 
     array (
       'number' => '374',
-      'unicode' => 57869,
+      'unicode' => 
+      array (
+        0 => 57869,
+      ),
       'sjis' => 'F7AD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043228,
+      'unicode' => 
+      array (
+        0 => 1043228,
+      ),
     ),
   ),
   588 => 
   array (
     'mapid' => '#e-B1D',
-    'unicode' => 9827,
+    'unicode' => 
+    array (
+      0 => 9827,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK CLUB SUIT',
@@ -19595,33 +27281,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '83',
-      'unicode' => 59024,
+      'unicode' => 
+      array (
+        0 => 59024,
+      ),
       'sjis' => 'F8F1',
       'jis' => '7842',
     ),
     'au' => 
     array (
       'number' => '316',
-      'unicode' => 58787,
+      'unicode' => 
+      array (
+        0 => 58787,
+      ),
       'sjis' => 'F7C0',
       'jis' => '7842',
     ),
     'softbank' => 
     array (
       'number' => '376',
-      'unicode' => 57871,
+      'unicode' => 
+      array (
+        0 => 57871,
+      ),
       'sjis' => 'F7AF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043229,
+      'unicode' => 
+      array (
+        0 => 1043229,
+      ),
     ),
   ),
   589 => 
   array (
     'mapid' => '#e-B1E',
-    'unicode' => 128684,
+    'unicode' => 
+    array (
+      0 => 128684,
+    ),
     'char_name' => 
     array (
       'title' => 'SMOKING SYMBOL',
@@ -19630,33 +27331,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '66',
-      'unicode' => 59007,
+      'unicode' => 
+      array (
+        0 => 59007,
+      ),
       'sjis' => 'F8E0',
       'jis' => '7536',
     ),
     'au' => 
     array (
       'number' => '176',
-      'unicode' => 58493,
+      'unicode' => 
+      array (
+        0 => 58493,
+      ),
       'sjis' => 'F655',
       'jis' => '7536',
     ),
     'softbank' => 
     array (
       'number' => '265',
-      'unicode' => 58126,
+      'unicode' => 
+      array (
+        0 => 58126,
+      ),
       'sjis' => 'F9AE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043230,
+      'unicode' => 
+      array (
+        0 => 1043230,
+      ),
     ),
   ),
   590 => 
   array (
     'mapid' => '#e-B1F',
-    'unicode' => 128685,
+    'unicode' => 
+    array (
+      0 => 128685,
+    ),
     'char_name' => 
     array (
       'title' => 'NO SMOKING SYMBOL',
@@ -19665,33 +27381,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '67',
-      'unicode' => 59008,
+      'unicode' => 
+      array (
+        0 => 59008,
+      ),
       'sjis' => 'F8E1',
       'jis' => '7537',
     ),
     'au' => 
     array (
       'number' => '177',
-      'unicode' => 58494,
+      'unicode' => 
+      array (
+        0 => 58494,
+      ),
       'sjis' => 'F656',
       'jis' => '7537',
     ),
     'softbank' => 
     array (
       'number' => '266',
-      'unicode' => 57864,
+      'unicode' => 
+      array (
+        0 => 57864,
+      ),
       'sjis' => 'F7A8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043231,
+      'unicode' => 
+      array (
+        0 => 1043231,
+      ),
     ),
   ),
   591 => 
   array (
     'mapid' => '#e-B20',
-    'unicode' => 9855,
+    'unicode' => 
+    array (
+      0 => 9855,
+    ),
     'char_name' => 
     array (
       'title' => 'WHEELCHAIR SYMBOL',
@@ -19700,33 +27431,48 @@ Temporary Notes: Heart with purple color',
     'docomo' => 
     array (
       'number' => '94',
-      'unicode' => 59035,
+      'unicode' => 
+      array (
+        0 => 59035,
+      ),
       'sjis' => 'F8FC',
       'jis' => '7538',
     ),
     'au' => 
     array (
       'number' => '178',
-      'unicode' => 58495,
+      'unicode' => 
+      array (
+        0 => 58495,
+      ),
       'sjis' => 'F657',
       'jis' => '7538',
     ),
     'softbank' => 
     array (
       'number' => '355',
-      'unicode' => 57866,
+      'unicode' => 
+      array (
+        0 => 57866,
+      ),
       'sjis' => 'F7AA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043232,
+      'unicode' => 
+      array (
+        0 => 1043232,
+      ),
     ),
   ),
   592 => 
   array (
     'mapid' => '#e-B22',
-    'unicode' => 128681,
+    'unicode' => 
+    array (
+      0 => 128681,
+    ),
     'char_name' => 
     array (
       'title' => 'TRIANGULAR FLAG ON POST',
@@ -19736,14 +27482,20 @@ Temporary Notes: Location information, a flag',
     'docomo' => 
     array (
       'number' => '121',
-      'unicode' => 59102,
+      'unicode' => 
+      array (
+        0 => 59102,
+      ),
       'sjis' => 'F983',
       'jis' => '7A6F',
     ),
     'au' => 
     array (
       'number' => '730',
-      'unicode' => 60204,
+      'unicode' => 
+      array (
+        0 => 60204,
+      ),
       'sjis' => 'F3ED',
       'jis' => '7A6F',
     ),
@@ -19753,13 +27505,19 @@ Temporary Notes: Location information, a flag',
     ),
     'google' => 
     array (
-      'unicode' => 1043234,
+      'unicode' => 
+      array (
+        0 => 1043234,
+      ),
     ),
   ),
   593 => 
   array (
     'mapid' => '#e-B23',
-    'unicode' => 9888,
+    'unicode' => 
+    array (
+      0 => 9888,
+    ),
     'char_name' => 
     array (
       'title' => 'WARNING SIGN',
@@ -19768,33 +27526,48 @@ Temporary Notes: Location information, a flag',
     'docomo' => 
     array (
       'number' => 'Exp.44',
-      'unicode' => 59191,
+      'unicode' => 
+      array (
+        0 => 59191,
+      ),
       'sjis' => 'F9DC',
       'jis' => '753A',
     ),
     'au' => 
     array (
       'number' => '1',
-      'unicode' => 58497,
+      'unicode' => 
+      array (
+        0 => 58497,
+      ),
       'sjis' => 'F659',
       'jis' => '753A',
     ),
     'softbank' => 
     array (
       'number' => '349',
-      'unicode' => 57938,
+      'unicode' => 
+      array (
+        0 => 57938,
+      ),
       'sjis' => 'F7F2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043235,
+      'unicode' => 
+      array (
+        0 => 1043235,
+      ),
     ),
   ),
   594 => 
   array (
     'mapid' => '#e-B26',
-    'unicode' => 9940,
+    'unicode' => 
+    array (
+      0 => 9940,
+    ),
     'char_name' => 
     array (
       'title' => 'NO ENTRY',
@@ -19804,33 +27577,48 @@ Temporary Notes: No entrance, no trespassing',
     'docomo' => 
     array (
       'number' => 'Exp.36',
-      'unicode' => 59183,
+      'unicode' => 
+      array (
+        0 => 59183,
+      ),
       'sjis' => 'F9D4',
       'jis' => '7E36',
     ),
     'au' => 
     array (
       'number' => '98',
-      'unicode' => 58500,
+      'unicode' => 
+      array (
+        0 => 58500,
+      ),
       'sjis' => 'F65C',
       'jis' => '753D',
     ),
     'softbank' => 
     array (
       'number' => '350',
-      'unicode' => 57655,
+      'unicode' => 
+      array (
+        0 => 57655,
+      ),
       'sjis' => 'F777',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043238,
+      'unicode' => 
+      array (
+        0 => 1043238,
+      ),
     ),
   ),
   595 => 
   array (
     'mapid' => '#e-B2C',
-    'unicode' => 9851,
+    'unicode' => 
+    array (
+      0 => 9851,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK UNIVERSAL RECYCLING SYMBOL',
@@ -19839,14 +27627,20 @@ Temporary Notes: No entrance, no trespassing',
     'docomo' => 
     array (
       'number' => 'Exp.42',
-      'unicode' => 59189,
+      'unicode' => 
+      array (
+        0 => 59189,
+      ),
       'sjis' => 'F9DA',
       'jis' => '7B5E',
     ),
     'au' => 
     array (
       'number' => '807',
-      'unicode' => 60281,
+      'unicode' => 
+      array (
+        0 => 60281,
+      ),
       'sjis' => 'F47D',
       'jis' => '7B5E',
     ),
@@ -19856,13 +27650,19 @@ Temporary Notes: No entrance, no trespassing',
     ),
     'google' => 
     array (
-      'unicode' => 1043244,
+      'unicode' => 
+      array (
+        0 => 1043244,
+      ),
     ),
   ),
   596 => 
   array (
     'mapid' => '#e-7EB',
-    'unicode' => 128690,
+    'unicode' => 
+    array (
+      0 => 128690,
+    ),
     'char_name' => 
     array (
       'title' => 'BICYCLE',
@@ -19871,33 +27671,48 @@ Temporary Notes: No entrance, no trespassing',
     'docomo' => 
     array (
       'number' => 'Exp.18',
-      'unicode' => 59165,
+      'unicode' => 
+      array (
+        0 => 59165,
+      ),
       'sjis' => 'F9C2',
       'jis' => '7567',
     ),
     'au' => 
     array (
       'number' => '215',
-      'unicode' => 58542,
+      'unicode' => 
+      array (
+        0 => 58542,
+      ),
       'sjis' => 'F687',
       'jis' => '7567',
     ),
     'softbank' => 
     array (
       'number' => '196',
-      'unicode' => 57654,
+      'unicode' => 
+      array (
+        0 => 57654,
+      ),
       'sjis' => 'F776',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042411,
+      'unicode' => 
+      array (
+        0 => 1042411,
+      ),
     ),
   ),
   597 => 
   array (
     'mapid' => '#e-7F0',
-    'unicode' => 128694,
+    'unicode' => 
+    array (
+      0 => 128694,
+    ),
     'char_name' => 
     array (
       'title' => 'PEDESTRIAN',
@@ -19906,33 +27721,48 @@ Temporary Notes: No entrance, no trespassing',
     'docomo' => 
     array (
       'number' => 'Exp.40',
-      'unicode' => 59187,
+      'unicode' => 
+      array (
+        0 => 59187,
+      ),
       'sjis' => 'F9D8',
       'jis' => '7524',
     ),
     'au' => 
     array (
       'number' => '800',
-      'unicode' => 60274,
+      'unicode' => 
+      array (
+        0 => 60274,
+      ),
       'sjis' => 'F476',
       'jis' => '7B57',
     ),
     'softbank' => 
     array (
       'number' => '74',
-      'unicode' => 57857,
+      'unicode' => 
+      array (
+        0 => 57857,
+      ),
       'sjis' => 'F7A1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042416,
+      'unicode' => 
+      array (
+        0 => 1042416,
+      ),
     ),
   ),
   598 => 
   array (
     'mapid' => '#e-B33',
-    'unicode' => 128697,
+    'unicode' => 
+    array (
+      0 => 128697,
+    ),
     'char_name' => 
     array (
       'title' => 'MENS SYMBOL',
@@ -19950,19 +27780,28 @@ Temporary Notes: No entrance, no trespassing',
     'softbank' => 
     array (
       'number' => '357',
-      'unicode' => 57656,
+      'unicode' => 
+      array (
+        0 => 57656,
+      ),
       'sjis' => 'F778',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043251,
+      'unicode' => 
+      array (
+        0 => 1043251,
+      ),
     ),
   ),
   599 => 
   array (
     'mapid' => '#e-B34',
-    'unicode' => 128698,
+    'unicode' => 
+    array (
+      0 => 128698,
+    ),
     'char_name' => 
     array (
       'title' => 'WOMENS SYMBOL',
@@ -19980,19 +27819,28 @@ Temporary Notes: No entrance, no trespassing',
     'softbank' => 
     array (
       'number' => '358',
-      'unicode' => 57657,
+      'unicode' => 
+      array (
+        0 => 57657,
+      ),
       'sjis' => 'F779',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043252,
+      'unicode' => 
+      array (
+        0 => 1043252,
+      ),
     ),
   ),
   600 => 
   array (
     'mapid' => '#e-505',
-    'unicode' => 128704,
+    'unicode' => 
+    array (
+      0 => 128704,
+    ),
     'char_name' => 
     array (
       'title' => 'BATH',
@@ -20001,33 +27849,48 @@ Temporary Notes: No entrance, no trespassing',
     'docomo' => 
     array (
       'number' => '147',
-      'unicode' => 59127,
+      'unicode' => 
+      array (
+        0 => 59127,
+      ),
       'sjis' => 'F99C',
       'jis' => '7575',
     ),
     'au' => 
     array (
       'number' => '369',
-      'unicode' => 58840,
+      'unicode' => 
+      array (
+        0 => 58840,
+      ),
       'sjis' => 'F34B',
       'jis' => '792C',
     ),
     'softbank' => 
     array (
       'number' => '274',
-      'unicode' => 57663,
+      'unicode' => 
+      array (
+        0 => 57663,
+      ),
       'sjis' => 'F780',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041669,
+      'unicode' => 
+      array (
+        0 => 1041669,
+      ),
     ),
   ),
   601 => 
   array (
     'mapid' => '#e-506',
-    'unicode' => 128699,
+    'unicode' => 
+    array (
+      0 => 128699,
+    ),
     'char_name' => 
     array (
       'title' => 'RESTROOM',
@@ -20036,33 +27899,48 @@ Temporary Notes: No entrance, no trespassing',
     'docomo' => 
     array (
       'number' => '49',
-      'unicode' => 58990,
+      'unicode' => 
+      array (
+        0 => 58990,
+      ),
       'sjis' => 'F8CF',
       'jis' => '755E',
     ),
     'au' => 
     array (
       'number' => '207',
-      'unicode' => 58533,
+      'unicode' => 
+      array (
+        0 => 58533,
+      ),
       'sjis' => 'F67D',
       'jis' => '755E',
     ),
     'softbank' => 
     array (
       'number' => '353',
-      'unicode' => 57681,
+      'unicode' => 
+      array (
+        0 => 57681,
+      ),
       'sjis' => 'F792',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041670,
+      'unicode' => 
+      array (
+        0 => 1041670,
+      ),
     ),
   ),
   602 => 
   array (
     'mapid' => '#e-507',
-    'unicode' => 128701,
+    'unicode' => 
+    array (
+      0 => 128701,
+    ),
     'char_name' => 
     array (
       'title' => 'TOILET',
@@ -20071,33 +27949,48 @@ Temporary Notes: No entrance, no trespassing',
     'docomo' => 
     array (
       'number' => '49',
-      'unicode' => 58990,
+      'unicode' => 
+      array (
+        0 => 58990,
+      ),
       'sjis' => 'F8CF',
       'jis' => '755E',
     ),
     'au' => 
     array (
       'number' => '207',
-      'unicode' => 58533,
+      'unicode' => 
+      array (
+        0 => 58533,
+      ),
       'sjis' => 'F67D',
       'jis' => '755E',
     ),
     'softbank' => 
     array (
       'number' => '269',
-      'unicode' => 57664,
+      'unicode' => 
+      array (
+        0 => 57664,
+      ),
       'sjis' => 'F781',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041671,
+      'unicode' => 
+      array (
+        0 => 1041671,
+      ),
     ),
   ),
   603 => 
   array (
     'mapid' => '#e-508',
-    'unicode' => 128702,
+    'unicode' => 
+    array (
+      0 => 128702,
+    ),
     'char_name' => 
     array (
       'title' => 'WATER CLOSET',
@@ -20106,33 +27999,48 @@ Temporary Notes: No entrance, no trespassing',
     'docomo' => 
     array (
       'number' => '49',
-      'unicode' => 58990,
+      'unicode' => 
+      array (
+        0 => 58990,
+      ),
       'sjis' => 'F8CF',
       'jis' => '755E',
     ),
     'au' => 
     array (
       'number' => '207',
-      'unicode' => 58533,
+      'unicode' => 
+      array (
+        0 => 58533,
+      ),
       'sjis' => 'F67D',
       'jis' => '755E',
     ),
     'softbank' => 
     array (
       'number' => '354',
-      'unicode' => 58121,
+      'unicode' => 
+      array (
+        0 => 58121,
+      ),
       'sjis' => 'F9A9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041672,
+      'unicode' => 
+      array (
+        0 => 1041672,
+      ),
     ),
   ),
   604 => 
   array (
     'mapid' => '#e-B35',
-    'unicode' => 128700,
+    'unicode' => 
+    array (
+      0 => 128700,
+    ),
     'char_name' => 
     array (
       'title' => 'BABY SYMBOL',
@@ -20146,26 +28054,38 @@ Temporary Notes: used as a sign for a baby; Crawling Baby',
     'au' => 
     array (
       'number' => '710',
-      'unicode' => 60184,
+      'unicode' => 
+      array (
+        0 => 60184,
+      ),
       'sjis' => 'F3D9',
       'jis' => '7A5B',
     ),
     'softbank' => 
     array (
       'number' => '359',
-      'unicode' => 57658,
+      'unicode' => 
+      array (
+        0 => 57658,
+      ),
       'sjis' => 'F77A',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043253,
+      'unicode' => 
+      array (
+        0 => 1043253,
+      ),
     ),
   ),
   605 => 
   array (
     'mapid' => '#e-4F3',
-    'unicode' => 128682,
+    'unicode' => 
+    array (
+      0 => 128682,
+    ),
     'char_name' => 
     array (
       'title' => 'DOOR',
@@ -20174,7 +28094,10 @@ Temporary Notes: used as a sign for a baby; Crawling Baby',
     'docomo' => 
     array (
       'number' => 'Exp.9',
-      'unicode' => 59156,
+      'unicode' => 
+      array (
+        0 => 59156,
+      ),
       'sjis' => 'F9B9',
       'jis' => '7E32',
     ),
@@ -20188,13 +28111,19 @@ Temporary Notes: used as a sign for a baby; Crawling Baby',
     ),
     'google' => 
     array (
-      'unicode' => 1041651,
+      'unicode' => 
+      array (
+        0 => 1041651,
+      ),
     ),
   ),
   606 => 
   array (
     'mapid' => '#e-B48',
-    'unicode' => 128683,
+    'unicode' => 
+    array (
+      0 => 128683,
+    ),
     'char_name' => 
     array (
       'title' => 'NO ENTRY SIGN',
@@ -20206,14 +28135,20 @@ Temporary Notes: Prohibited (circle with diagonal slash); Do not enter',
     'docomo' => 
     array (
       'number' => 'Exp.45',
-      'unicode' => 59192,
+      'unicode' => 
+      array (
+        0 => 59192,
+      ),
       'sjis' => 'F9DD',
       'jis' => '7E37',
     ),
     'au' => 
     array (
       'number' => '31',
-      'unicode' => 58689,
+      'unicode' => 
+      array (
+        0 => 58689,
+      ),
       'sjis' => 'F75D',
       'jis' => '773E',
     ),
@@ -20223,13 +28158,19 @@ Temporary Notes: Prohibited (circle with diagonal slash); Do not enter',
     ),
     'google' => 
     array (
-      'unicode' => 1043272,
+      'unicode' => 
+      array (
+        0 => 1043272,
+      ),
     ),
   ),
   607 => 
   array (
     'mapid' => '#e-B49',
-    'unicode' => 10004,
+    'unicode' => 
+    array (
+      0 => 10004,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAVY CHECK MARK',
@@ -20242,7 +28183,10 @@ Temporary Notes: Prohibited (circle with diagonal slash); Do not enter',
     'au' => 
     array (
       'number' => '73',
-      'unicode' => 58711,
+      'unicode' => 
+      array (
+        0 => 58711,
+      ),
       'sjis' => 'F773',
       'jis' => '7754',
     ),
@@ -20252,13 +28196,19 @@ Temporary Notes: Prohibited (circle with diagonal slash); Do not enter',
     ),
     'google' => 
     array (
-      'unicode' => 1043273,
+      'unicode' => 
+      array (
+        0 => 1043273,
+      ),
     ),
   ),
   608 => 
   array (
     'mapid' => '#e-B84',
-    'unicode' => 127377,
+    'unicode' => 
+    array (
+      0 => 127377,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CL',
@@ -20269,14 +28219,20 @@ Temporary Notes: Clear ("CL" stamp)',
     'docomo' => 
     array (
       'number' => '118',
-      'unicode' => 59099,
+      'unicode' => 
+      array (
+        0 => 59099,
+      ),
       'sjis' => 'F980',
       'jis' => '784A',
     ),
     'au' => 
     array (
       'number' => '324',
-      'unicode' => 58795,
+      'unicode' => 
+      array (
+        0 => 58795,
+      ),
       'sjis' => 'F7C8',
       'jis' => '784A',
     ),
@@ -20286,13 +28242,19 @@ Temporary Notes: Clear ("CL" stamp)',
     ),
     'google' => 
     array (
-      'unicode' => 1043332,
+      'unicode' => 
+      array (
+        0 => 1043332,
+      ),
     ),
   ),
   609 => 
   array (
     'mapid' => '#e-B38',
-    'unicode' => 127378,
+    'unicode' => 
+    array (
+      0 => 127378,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED COOL',
@@ -20306,26 +28268,38 @@ Temporary Notes: cool!; hip',
     'au' => 
     array (
       'number' => '382',
-      'unicode' => 60037,
+      'unicode' => 
+      array (
+        0 => 60037,
+      ),
       'sjis' => 'F358',
       'jis' => '7939',
     ),
     'softbank' => 
     array (
       'number' => '439',
-      'unicode' => 57876,
+      'unicode' => 
+      array (
+        0 => 57876,
+      ),
       'sjis' => 'F7B4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043256,
+      'unicode' => 
+      array (
+        0 => 1043256,
+      ),
     ),
   ),
   610 => 
   array (
     'mapid' => '#e-B21',
-    'unicode' => 127379,
+    'unicode' => 
+    array (
+      0 => 127379,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED FREE',
@@ -20336,14 +28310,20 @@ Temporary Notes: a letter sign Free of Charge',
     'docomo' => 
     array (
       'number' => '114',
-      'unicode' => 59095,
+      'unicode' => 
+      array (
+        0 => 59095,
+      ),
       'sjis' => 'F97B',
       'jis' => '7775',
     ),
     'au' => 
     array (
       'number' => '299',
-      'unicode' => 58744,
+      'unicode' => 
+      array (
+        0 => 58744,
+      ),
       'sjis' => 'F795',
       'jis' => '7775',
     ),
@@ -20353,13 +28333,19 @@ Temporary Notes: a letter sign Free of Charge',
     ),
     'google' => 
     array (
-      'unicode' => 1043233,
+      'unicode' => 
+      array (
+        0 => 1043233,
+      ),
     ),
   ),
   611 => 
   array (
     'mapid' => '#e-B81',
-    'unicode' => 127380,
+    'unicode' => 
+    array (
+      0 => 127380,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED ID',
@@ -20370,33 +28356,48 @@ Temporary Notes: ID ("ID" stamp)',
     'docomo' => 
     array (
       'number' => '115',
-      'unicode' => 59096,
+      'unicode' => 
+      array (
+        0 => 59096,
+      ),
       'sjis' => 'F97C',
       'jis' => '793C',
     ),
     'au' => 
     array (
       'number' => '385',
-      'unicode' => 60040,
+      'unicode' => 
+      array (
+        0 => 60040,
+      ),
       'sjis' => 'F35B',
       'jis' => '793C',
     ),
     'softbank' => 
     array (
       'number' => '449',
-      'unicode' => 57897,
+      'unicode' => 
+      array (
+        0 => 57897,
+      ),
       'sjis' => 'F7C9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043329,
+      'unicode' => 
+      array (
+        0 => 1043329,
+      ),
     ),
   ),
   612 => 
   array (
     'mapid' => '#e-B36',
-    'unicode' => 127381,
+    'unicode' => 
+    array (
+      0 => 127381,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED NEW',
@@ -20406,33 +28407,48 @@ Temporary Notes: a stamp, seal, sign',
     'docomo' => 
     array (
       'number' => '120',
-      'unicode' => 59101,
+      'unicode' => 
+      array (
+        0 => 59101,
+      ),
       'sjis' => 'F982',
       'jis' => '7867',
     ),
     'au' => 
     array (
       'number' => '334',
-      'unicode' => 58805,
+      'unicode' => 
+      array (
+        0 => 58805,
+      ),
       'sjis' => 'F7E5',
       'jis' => '7867',
     ),
     'softbank' => 
     array (
       'number' => '437',
-      'unicode' => 57874,
+      'unicode' => 
+      array (
+        0 => 57874,
+      ),
       'sjis' => 'F7B2',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043254,
+      'unicode' => 
+      array (
+        0 => 1043254,
+      ),
     ),
   ),
   613 => 
   array (
     'mapid' => '#e-B28',
-    'unicode' => 127382,
+    'unicode' => 
+    array (
+      0 => 127382,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED NG',
@@ -20443,7 +28459,10 @@ Temporary Notes: no good, NG',
     'docomo' => 
     array (
       'number' => 'Exp.36',
-      'unicode' => 59183,
+      'unicode' => 
+      array (
+        0 => 59183,
+      ),
       'sjis' => 'F9D4',
       'jis' => '7E36',
     ),
@@ -20457,13 +28476,19 @@ Temporary Notes: no good, NG',
     ),
     'google' => 
     array (
-      'unicode' => 1043240,
+      'unicode' => 
+      array (
+        0 => 1043240,
+      ),
     ),
   ),
   614 => 
   array (
     'mapid' => '#e-B27',
-    'unicode' => 127383,
+    'unicode' => 
+    array (
+      0 => 127383,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED OK',
@@ -20473,33 +28498,48 @@ Temporary Notes: a stamp, seal, button for approval',
     'docomo' => 
     array (
       'number' => '135',
-      'unicode' => 59147,
+      'unicode' => 
+      array (
+        0 => 59147,
+      ),
       'sjis' => 'F9B0',
       'jis' => '784C',
     ),
     'au' => 
     array (
       'number' => '326',
-      'unicode' => 58797,
+      'unicode' => 
+      array (
+        0 => 58797,
+      ),
       'sjis' => 'F7CA',
       'jis' => '784C',
     ),
     'softbank' => 
     array (
       'number' => '435',
-      'unicode' => 57933,
+      'unicode' => 
+      array (
+        0 => 57933,
+      ),
       'sjis' => 'F7ED',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043239,
+      'unicode' => 
+      array (
+        0 => 1043239,
+      ),
     ),
   ),
   615 => 
   array (
     'mapid' => '#e-B4F',
-    'unicode' => 127384,
+    'unicode' => 
+    array (
+      0 => 127384,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED SOS',
@@ -20513,7 +28553,10 @@ Temporary Notes: a stamp, seal, button for approval',
     'au' => 
     array (
       'number' => '270',
-      'unicode' => 58600,
+      'unicode' => 
+      array (
+        0 => 58600,
+      ),
       'sjis' => 'F6C1',
       'jis' => '7643',
     ),
@@ -20523,13 +28566,19 @@ Temporary Notes: a stamp, seal, button for approval',
     ),
     'google' => 
     array (
-      'unicode' => 1043279,
+      'unicode' => 
+      array (
+        0 => 1043279,
+      ),
     ),
   ),
   616 => 
   array (
     'mapid' => '#e-B37',
-    'unicode' => 127385,
+    'unicode' => 
+    array (
+      0 => 127385,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED UP WITH EXCLAMATION MARK',
@@ -20544,26 +28593,38 @@ Temporary Notes: site renewed, updated, new information',
     'au' => 
     array (
       'number' => '303',
-      'unicode' => 58639,
+      'unicode' => 
+      array (
+        0 => 58639,
+      ),
       'sjis' => 'F6E8',
       'jis' => '766A',
     ),
     'softbank' => 
     array (
       'number' => '438',
-      'unicode' => 57875,
+      'unicode' => 
+      array (
+        0 => 57875,
+      ),
       'sjis' => 'F7B3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043255,
+      'unicode' => 
+      array (
+        0 => 1043255,
+      ),
     ),
   ),
   617 => 
   array (
     'mapid' => '#e-B32',
-    'unicode' => 127386,
+    'unicode' => 
+    array (
+      0 => 127386,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED VS',
@@ -20577,26 +28638,38 @@ Temporary Notes: site renewed, updated, new information',
     'au' => 
     array (
       'number' => '363',
-      'unicode' => 58834,
+      'unicode' => 
+      array (
+        0 => 58834,
+      ),
       'sjis' => 'F345',
       'jis' => '7926',
     ),
     'softbank' => 
     array (
       'number' => '441',
-      'unicode' => 57646,
+      'unicode' => 
+      array (
+        0 => 57646,
+      ),
       'sjis' => 'F76E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043250,
+      'unicode' => 
+      array (
+        0 => 1043250,
+      ),
     ),
   ),
   618 => 
   array (
     'mapid' => '#e-B24',
-    'unicode' => 127489,
+    'unicode' => 
+    array (
+      0 => 127489,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED KATAKANA KOKO',
@@ -20615,19 +28688,28 @@ Temporary Notes: KATAKANA LETTERS KOKO; destination, here',
     'softbank' => 
     array (
       'number' => '440',
-      'unicode' => 57859,
+      'unicode' => 
+      array (
+        0 => 57859,
+      ),
       'sjis' => 'F7A3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043236,
+      'unicode' => 
+      array (
+        0 => 1043236,
+      ),
     ),
   ),
   619 => 
   array (
     'mapid' => '#e-B3F',
-    'unicode' => 127490,
+    'unicode' => 
+    array (
+      0 => 127490,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED KATAKANA SA',
@@ -20643,26 +28725,38 @@ Temporary Notes: サ: KATAKANA LETTER SA; service charge; for free, on the house
     'au' => 
     array (
       'number' => '384',
-      'unicode' => 60039,
+      'unicode' => 
+      array (
+        0 => 60039,
+      ),
       'sjis' => 'F35A',
       'jis' => '793B',
     ),
     'softbank' => 
     array (
       'number' => '446',
-      'unicode' => 57896,
+      'unicode' => 
+      array (
+        0 => 57896,
+      ),
       'sjis' => 'F7C8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043263,
+      'unicode' => 
+      array (
+        0 => 1043263,
+      ),
     ),
   ),
   620 => 
   array (
     'mapid' => '#e-B2E',
-    'unicode' => 127538,
+    'unicode' => 
+    array (
+      0 => 127538,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-7981',
@@ -20673,7 +28767,10 @@ Temporary Notes: 禁: IDEOGRAPH PROHIBITION',
     'docomo' => 
     array (
       'number' => 'Exp.45',
-      'unicode' => 59192,
+      'unicode' => 
+      array (
+        0 => 59192,
+      ),
       'sjis' => 'F9DD',
       'jis' => '7E37',
     ),
@@ -20687,13 +28784,19 @@ Temporary Notes: 禁: IDEOGRAPH PROHIBITION',
     ),
     'google' => 
     array (
-      'unicode' => 1043246,
+      'unicode' => 
+      array (
+        0 => 1043246,
+      ),
     ),
   ),
   621 => 
   array (
     'mapid' => '#e-B2F',
-    'unicode' => 127539,
+    'unicode' => 
+    array (
+      0 => 127539,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-7A7A',
@@ -20704,33 +28807,48 @@ Temporary Notes: 空: IDEOGRAPH EMPTY; Vacant, seats available',
     'docomo' => 
     array (
       'number' => 'Exp.46',
-      'unicode' => 59193,
+      'unicode' => 
+      array (
+        0 => 59193,
+      ),
       'sjis' => 'F9DE',
       'jis' => '793E',
     ),
     'au' => 
     array (
       'number' => '387',
-      'unicode' => 60042,
+      'unicode' => 
+      array (
+        0 => 60042,
+      ),
       'sjis' => 'F35D',
       'jis' => '793E',
     ),
     'softbank' => 
     array (
       'number' => '443',
-      'unicode' => 57899,
+      'unicode' => 
+      array (
+        0 => 57899,
+      ),
       'sjis' => 'F7CB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043247,
+      'unicode' => 
+      array (
+        0 => 1043247,
+      ),
     ),
   ),
   622 => 
   array (
     'mapid' => '#e-B30',
-    'unicode' => 127540,
+    'unicode' => 
+    array (
+      0 => 127540,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-5408',
@@ -20741,7 +28859,10 @@ Temporary Notes: 合: IDEOGRAPH MATCH; approved, passed as in an examination',
     'docomo' => 
     array (
       'number' => 'Exp.47',
-      'unicode' => 59194,
+      'unicode' => 
+      array (
+        0 => 59194,
+      ),
       'sjis' => 'F9DF',
       'jis' => '7E38',
     ),
@@ -20755,13 +28876,19 @@ Temporary Notes: 合: IDEOGRAPH MATCH; approved, passed as in an examination',
     ),
     'google' => 
     array (
-      'unicode' => 1043248,
+      'unicode' => 
+      array (
+        0 => 1043248,
+      ),
     ),
   ),
   623 => 
   array (
     'mapid' => '#e-B31',
-    'unicode' => 127541,
+    'unicode' => 
+    array (
+      0 => 127541,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-6E80',
@@ -20772,33 +28899,48 @@ Temporary Notes: 満: IDEOGRAPH FULL; fully occupied, full tank, etc.',
     'docomo' => 
     array (
       'number' => 'Exp.48',
-      'unicode' => 59195,
+      'unicode' => 
+      array (
+        0 => 59195,
+      ),
       'sjis' => 'F9E0',
       'jis' => '793D',
     ),
     'au' => 
     array (
       'number' => '386',
-      'unicode' => 60041,
+      'unicode' => 
+      array (
+        0 => 60041,
+      ),
       'sjis' => 'F35C',
       'jis' => '793D',
     ),
     'softbank' => 
     array (
       'number' => '442',
-      'unicode' => 57898,
+      'unicode' => 
+      array (
+        0 => 57898,
+      ),
       'sjis' => 'F7CA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043249,
+      'unicode' => 
+      array (
+        0 => 1043249,
+      ),
     ),
   ),
   624 => 
   array (
     'mapid' => '#e-B39',
-    'unicode' => 127542,
+    'unicode' => 
+    array (
+      0 => 127542,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-6709',
@@ -20818,19 +28960,28 @@ Temporary Notes: 有: IDEOGRAPH EXISTENCE; available, in stock; charges apply',
     'softbank' => 
     array (
       'number' => '450',
-      'unicode' => 57877,
+      'unicode' => 
+      array (
+        0 => 57877,
+      ),
       'sjis' => 'F7B5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043257,
+      'unicode' => 
+      array (
+        0 => 1043257,
+      ),
     ),
   ),
   625 => 
   array (
     'mapid' => '#e-B3A',
-    'unicode' => 127514,
+    'unicode' => 
+    array (
+      0 => 127514,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-7121',
@@ -20850,19 +29001,28 @@ Temporary Notes: 無: IDEOGRAPH NON-EXISTENCE; out of stock, unavailable; free',
     'softbank' => 
     array (
       'number' => '451',
-      'unicode' => 57878,
+      'unicode' => 
+      array (
+        0 => 57878,
+      ),
       'sjis' => 'F7B6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043258,
+      'unicode' => 
+      array (
+        0 => 1043258,
+      ),
     ),
   ),
   626 => 
   array (
     'mapid' => '#e-B3B',
-    'unicode' => 127543,
+    'unicode' => 
+    array (
+      0 => 127543,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-6708',
@@ -20882,19 +29042,28 @@ Temporary Notes: 月: IDEOGRAPH MOON; monthly charge, monthly rate; month',
     'softbank' => 
     array (
       'number' => '452',
-      'unicode' => 57879,
+      'unicode' => 
+      array (
+        0 => 57879,
+      ),
       'sjis' => 'F7B7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043259,
+      'unicode' => 
+      array (
+        0 => 1043259,
+      ),
     ),
   ),
   627 => 
   array (
     'mapid' => '#e-B3C',
-    'unicode' => 127544,
+    'unicode' => 
+    array (
+      0 => 127544,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-7533',
@@ -20913,19 +29082,28 @@ Temporary Notes: 申: IDEOGRAPH SAYING "application needed, apply here"',
     'softbank' => 
     array (
       'number' => '453',
-      'unicode' => 57880,
+      'unicode' => 
+      array (
+        0 => 57880,
+      ),
       'sjis' => 'F7B8',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043260,
+      'unicode' => 
+      array (
+        0 => 1043260,
+      ),
     ),
   ),
   628 => 
   array (
     'mapid' => '#e-B3E',
-    'unicode' => 127545,
+    'unicode' => 
+    array (
+      0 => 127545,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-5272',
@@ -20940,26 +29118,38 @@ Temporary Notes: 割: IDEOGRAPH DIVIDE;',
     'au' => 
     array (
       'number' => '383',
-      'unicode' => 60038,
+      'unicode' => 
+      array (
+        0 => 60038,
+      ),
       'sjis' => 'F359',
       'jis' => '793A',
     ),
     'softbank' => 
     array (
       'number' => '445',
-      'unicode' => 57895,
+      'unicode' => 
+      array (
+        0 => 57895,
+      ),
       'sjis' => 'F7C7',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043262,
+      'unicode' => 
+      array (
+        0 => 1043262,
+      ),
     ),
   ),
   629 => 
   array (
     'mapid' => '#e-B40',
-    'unicode' => 127535,
+    'unicode' => 
+    array (
+      0 => 127535,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-6307',
@@ -20976,26 +29166,38 @@ Temporary Notes: 指: IDEOGRAPH POINTING; reserved, designated 指定',
     'au' => 
     array (
       'number' => '388',
-      'unicode' => 60043,
+      'unicode' => 
+      array (
+        0 => 60043,
+      ),
       'sjis' => 'F35E',
       'jis' => '793F',
     ),
     'softbank' => 
     array (
       'number' => '447',
-      'unicode' => 57900,
+      'unicode' => 
+      array (
+        0 => 57900,
+      ),
       'sjis' => 'F7CC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043264,
+      'unicode' => 
+      array (
+        0 => 1043264,
+      ),
     ),
   ),
   630 => 
   array (
     'mapid' => '#e-B41',
-    'unicode' => 127546,
+    'unicode' => 
+    array (
+      0 => 127546,
+    ),
     'char_name' => 
     array (
       'title' => 'SQUARED CJK UNIFIED IDEOGRAPH-55B6',
@@ -21010,26 +29212,38 @@ Temporary Notes: 営: IDEOGRAPH BUSINESS; open for business 営業中; business 
     'au' => 
     array (
       'number' => '389',
-      'unicode' => 60044,
+      'unicode' => 
+      array (
+        0 => 60044,
+      ),
       'sjis' => 'F35F',
       'jis' => '7940',
     ),
     'softbank' => 
     array (
       'number' => '448',
-      'unicode' => 57901,
+      'unicode' => 
+      array (
+        0 => 57901,
+      ),
       'sjis' => 'F7CD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043265,
+      'unicode' => 
+      array (
+        0 => 1043265,
+      ),
     ),
   ),
   631 => 
   array (
     'mapid' => '#e-B2B',
-    'unicode' => 12953,
+    'unicode' => 
+    array (
+      0 => 12953,
+    ),
     'char_name' => 
     array (
       'title' => 'CIRCLED IDEOGRAPH SECRET',
@@ -21039,33 +29253,48 @@ Temporary Notes: 秘: IDEOGRAPH SECRET (TOP SECRET SIGN)',
     'docomo' => 
     array (
       'number' => 'Exp.41',
-      'unicode' => 59188,
+      'unicode' => 
+      array (
+        0 => 59188,
+      ),
       'sjis' => 'F9D9',
       'jis' => '764C',
     ),
     'au' => 
     array (
       'number' => '279',
-      'unicode' => 58609,
+      'unicode' => 
+      array (
+        0 => 58609,
+      ),
       'sjis' => 'F6CA',
       'jis' => '764C',
     ),
     'softbank' => 
     array (
       'number' => '455',
-      'unicode' => 58133,
+      'unicode' => 
+      array (
+        0 => 58133,
+      ),
       'sjis' => 'F9B5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043243,
+      'unicode' => 
+      array (
+        0 => 1043243,
+      ),
     ),
   ),
   632 => 
   array (
     'mapid' => '#e-B43',
-    'unicode' => 12951,
+    'unicode' => 
+    array (
+      0 => 12951,
+    ),
     'char_name' => 
     array (
       'title' => 'CIRCLED IDEOGRAPH CONGRATULATION',
@@ -21078,26 +29307,38 @@ Temporary Notes: 秘: IDEOGRAPH SECRET (TOP SECRET SIGN)',
     'au' => 
     array (
       'number' => '402',
-      'unicode' => 60057,
+      'unicode' => 
+      array (
+        0 => 60057,
+      ),
       'sjis' => 'F36C',
       'jis' => '794D',
     ),
     'softbank' => 
     array (
       'number' => '454',
-      'unicode' => 58125,
+      'unicode' => 
+      array (
+        0 => 58125,
+      ),
       'sjis' => 'F9AD',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043267,
+      'unicode' => 
+      array (
+        0 => 1043267,
+      ),
     ),
   ),
   633 => 
   array (
     'mapid' => '#e-B3D',
-    'unicode' => 127568,
+    'unicode' => 
+    array (
+      0 => 127568,
+    ),
     'char_name' => 
     array (
       'title' => 'CIRCLED IDEOGRAPH ADVANTAGE',
@@ -21112,26 +29353,38 @@ Temporary Notes: 得: IDEOGRAPH ADVANTAGE; good bargain; special tax break on pu
     'au' => 
     array (
       'number' => '285',
-      'unicode' => 58615,
+      'unicode' => 
+      array (
+        0 => 58615,
+      ),
       'sjis' => 'F6D0',
       'jis' => '7652',
     ),
     'softbank' => 
     array (
       'number' => '444',
-      'unicode' => 57894,
+      'unicode' => 
+      array (
+        0 => 57894,
+      ),
       'sjis' => 'F7C6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043261,
+      'unicode' => 
+      array (
+        0 => 1043261,
+      ),
     ),
   ),
   634 => 
   array (
     'mapid' => '#e-B50',
-    'unicode' => 127569,
+    'unicode' => 
+    array (
+      0 => 127569,
+    ),
     'char_name' => 
     array (
       'title' => 'CIRCLED IDEOGRAPH ACCEPT',
@@ -21146,7 +29399,10 @@ Temporary Notes: Han character 可; accepted, acceptable',
     'au' => 
     array (
       'number' => '506',
-      'unicode' => 60161,
+      'unicode' => 
+      array (
+        0 => 60161,
+      ),
       'sjis' => 'F7D8',
       'jis' => '785A',
     ),
@@ -21156,13 +29412,19 @@ Temporary Notes: Han character 可; accepted, acceptable',
     ),
     'google' => 
     array (
-      'unicode' => 1043280,
+      'unicode' => 
+      array (
+        0 => 1043280,
+      ),
     ),
   ),
   635 => 
   array (
     'mapid' => '#e-B51',
-    'unicode' => 10133,
+    'unicode' => 
+    array (
+      0 => 10133,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAVY PLUS SIGN',
@@ -21175,7 +29437,10 @@ Temporary Notes: Han character 可; accepted, acceptable',
     'au' => 
     array (
       'number' => '26',
-      'unicode' => 58684,
+      'unicode' => 
+      array (
+        0 => 58684,
+      ),
       'sjis' => 'F758',
       'jis' => '7739',
     ),
@@ -21185,13 +29450,19 @@ Temporary Notes: Han character 可; accepted, acceptable',
     ),
     'google' => 
     array (
-      'unicode' => 1043281,
+      'unicode' => 
+      array (
+        0 => 1043281,
+      ),
     ),
   ),
   636 => 
   array (
     'mapid' => '#e-B52',
-    'unicode' => 10134,
+    'unicode' => 
+    array (
+      0 => 10134,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAVY MINUS SIGN',
@@ -21204,7 +29475,10 @@ Temporary Notes: Han character 可; accepted, acceptable',
     'au' => 
     array (
       'number' => '27',
-      'unicode' => 58685,
+      'unicode' => 
+      array (
+        0 => 58685,
+      ),
       'sjis' => 'F759',
       'jis' => '773A',
     ),
@@ -21214,13 +29488,19 @@ Temporary Notes: Han character 可; accepted, acceptable',
     ),
     'google' => 
     array (
-      'unicode' => 1043282,
+      'unicode' => 
+      array (
+        0 => 1043282,
+      ),
     ),
   ),
   637 => 
   array (
     'mapid' => '#e-B53',
-    'unicode' => 10006,
+    'unicode' => 
+    array (
+      0 => 10006,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAVY MULTIPLICATION X',
@@ -21233,26 +29513,38 @@ Temporary Notes: Han character 可; accepted, acceptable',
     'au' => 
     array (
       'number' => '55',
-      'unicode' => 58703,
+      'unicode' => 
+      array (
+        0 => 58703,
+      ),
       'sjis' => 'F76B',
       'jis' => '774C',
     ),
     'softbank' => 
     array (
       'number' => '372',
-      'unicode' => 58163,
+      'unicode' => 
+      array (
+        0 => 58163,
+      ),
       'sjis' => 'F9D3',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043283,
+      'unicode' => 
+      array (
+        0 => 1043283,
+      ),
     ),
   ),
   638 => 
   array (
     'mapid' => '#e-B54',
-    'unicode' => 10135,
+    'unicode' => 
+    array (
+      0 => 10135,
+    ),
     'char_name' => 
     array (
       'title' => 'HEAVY DIVISION SIGN',
@@ -21265,7 +29557,10 @@ Temporary Notes: Han character 可; accepted, acceptable',
     'au' => 
     array (
       'number' => '66',
-      'unicode' => 58708,
+      'unicode' => 
+      array (
+        0 => 58708,
+      ),
       'sjis' => 'F770',
       'jis' => '7751',
     ),
@@ -21275,13 +29570,19 @@ Temporary Notes: Han character 可; accepted, acceptable',
     ),
     'google' => 
     array (
-      'unicode' => 1043284,
+      'unicode' => 
+      array (
+        0 => 1043284,
+      ),
     ),
   ),
   639 => 
   array (
     'mapid' => '#e-B55',
-    'unicode' => 128160,
+    'unicode' => 
+    array (
+      0 => 128160,
+    ),
     'char_name' => 
     array (
       'title' => 'DIAMOND SHAPE WITH A DOT INSIDE',
@@ -21291,7 +29592,10 @@ Temporary Notes: Cute (pink diamond shaped thing)',
     'docomo' => 
     array (
       'number' => '148',
-      'unicode' => 59128,
+      'unicode' => 
+      array (
+        0 => 59128,
+      ),
       'sjis' => 'F99D',
       'jis' => '7E29',
     ),
@@ -21305,13 +29609,19 @@ Temporary Notes: Cute (pink diamond shaped thing)',
     ),
     'google' => 
     array (
-      'unicode' => 1043285,
+      'unicode' => 
+      array (
+        0 => 1043285,
+      ),
     ),
   ),
   640 => 
   array (
     'mapid' => '#e-B56',
-    'unicode' => 128161,
+    'unicode' => 
+    array (
+      0 => 128161,
+    ),
     'char_name' => 
     array (
       'title' => 'ELECTRIC LIGHT BULB',
@@ -21320,33 +29630,48 @@ Temporary Notes: Cute (pink diamond shaped thing)',
     'docomo' => 
     array (
       'number' => '151',
-      'unicode' => 59131,
+      'unicode' => 
+      array (
+        0 => 59131,
+      ),
       'sjis' => 'F9A0',
       'jis' => '752F',
     ),
     'au' => 
     array (
       'number' => '77',
-      'unicode' => 58486,
+      'unicode' => 
+      array (
+        0 => 58486,
+      ),
       'sjis' => 'F64E',
       'jis' => '752F',
     ),
     'softbank' => 
     array (
       'number' => '144',
-      'unicode' => 57615,
+      'unicode' => 
+      array (
+        0 => 57615,
+      ),
       'sjis' => 'F74F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043286,
+      'unicode' => 
+      array (
+        0 => 1043286,
+      ),
     ),
   ),
   641 => 
   array (
     'mapid' => '#e-B57',
-    'unicode' => 128162,
+    'unicode' => 
+    array (
+      0 => 128162,
+    ),
     'char_name' => 
     array (
       'title' => 'ANGER SYMBOL',
@@ -21356,33 +29681,48 @@ Temporary Notes: Angry (comic book style symbol where a punch lands)',
     'docomo' => 
     array (
       'number' => '152',
-      'unicode' => 59132,
+      'unicode' => 
+      array (
+        0 => 59132,
+      ),
       'sjis' => 'F9A1',
       'jis' => '7640',
     ),
     'au' => 
     array (
       'number' => '262',
-      'unicode' => 58597,
+      'unicode' => 
+      array (
+        0 => 58597,
+      ),
       'sjis' => 'F6BE',
       'jis' => '7640',
     ),
     'softbank' => 
     array (
       'number' => '79',
-      'unicode' => 58164,
+      'unicode' => 
+      array (
+        0 => 58164,
+      ),
       'sjis' => 'F9D4',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043287,
+      'unicode' => 
+      array (
+        0 => 1043287,
+      ),
     ),
   ),
   642 => 
   array (
     'mapid' => '#e-B58',
-    'unicode' => 128163,
+    'unicode' => 
+    array (
+      0 => 128163,
+    ),
     'char_name' => 
     array (
       'title' => 'BOMB',
@@ -21391,33 +29731,48 @@ Temporary Notes: Angry (comic book style symbol where a punch lands)',
     'docomo' => 
     array (
       'number' => '154',
-      'unicode' => 59134,
+      'unicode' => 
+      array (
+        0 => 59134,
+      ),
       'sjis' => 'F9A3',
       'jis' => '7533',
     ),
     'au' => 
     array (
       'number' => '268',
-      'unicode' => 58490,
+      'unicode' => 
+      array (
+        0 => 58490,
+      ),
       'sjis' => 'F652',
       'jis' => '7533',
     ),
     'softbank' => 
     array (
       'number' => '149',
-      'unicode' => 58129,
+      'unicode' => 
+      array (
+        0 => 58129,
+      ),
       'sjis' => 'F9B1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043288,
+      'unicode' => 
+      array (
+        0 => 1043288,
+      ),
     ),
   ),
   643 => 
   array (
     'mapid' => '#e-B59',
-    'unicode' => 128164,
+    'unicode' => 
+    array (
+      0 => 128164,
+    ),
     'char_name' => 
     array (
       'title' => 'SLEEPING SYMBOL',
@@ -21427,33 +29782,48 @@ Temporary Notes: Sleepy ("zzz")',
     'docomo' => 
     array (
       'number' => '157',
-      'unicode' => 59137,
+      'unicode' => 
+      array (
+        0 => 59137,
+      ),
       'sjis' => 'F9A6',
       'jis' => '752E',
     ),
     'au' => 
     array (
       'number' => '261',
-      'unicode' => 58485,
+      'unicode' => 
+      array (
+        0 => 58485,
+      ),
       'sjis' => 'F64D',
       'jis' => '752E',
     ),
     'softbank' => 
     array (
       'number' => '78',
-      'unicode' => 57660,
+      'unicode' => 
+      array (
+        0 => 57660,
+      ),
       'sjis' => 'F77C',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043289,
+      'unicode' => 
+      array (
+        0 => 1043289,
+      ),
     ),
   ),
   644 => 
   array (
     'mapid' => '#e-B5A',
-    'unicode' => 128165,
+    'unicode' => 
+    array (
+      0 => 128165,
+    ),
     'char_name' => 
     array (
       'title' => 'COLLISION SYMBOL',
@@ -21462,14 +29832,20 @@ Temporary Notes: Sleepy ("zzz")',
     'docomo' => 
     array (
       'number' => '161',
-      'unicode' => 59141,
+      'unicode' => 
+      array (
+        0 => 59141,
+      ),
       'sjis' => 'F9AA',
       'jis' => '784F',
     ),
     'au' => 
     array (
       'number' => '329',
-      'unicode' => 58800,
+      'unicode' => 
+      array (
+        0 => 58800,
+      ),
       'sjis' => 'F7CD',
       'jis' => '784F',
     ),
@@ -21479,13 +29855,19 @@ Temporary Notes: Sleepy ("zzz")',
     ),
     'google' => 
     array (
-      'unicode' => 1043290,
+      'unicode' => 
+      array (
+        0 => 1043290,
+      ),
     ),
   ),
   645 => 
   array (
     'mapid' => '#e-B5B',
-    'unicode' => 128166,
+    'unicode' => 
+    array (
+      0 => 128166,
+    ),
     'char_name' => 
     array (
       'title' => 'SPLASHING SWEAT SYMBOL',
@@ -21495,33 +29877,48 @@ Temporary Notes: Sweat',
     'docomo' => 
     array (
       'number' => '162',
-      'unicode' => 59142,
+      'unicode' => 
+      array (
+        0 => 59142,
+      ),
       'sjis' => 'F9AB',
       'jis' => '7850',
     ),
     'au' => 
     array (
       'number' => '330',
-      'unicode' => 58801,
+      'unicode' => 
+      array (
+        0 => 58801,
+      ),
       'sjis' => 'F7CE',
       'jis' => '7850',
     ),
     'softbank' => 
     array (
       'number' => '77',
-      'unicode' => 58161,
+      'unicode' => 
+      array (
+        0 => 58161,
+      ),
       'sjis' => 'F9D1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043291,
+      'unicode' => 
+      array (
+        0 => 1043291,
+      ),
     ),
   ),
   646 => 
   array (
     'mapid' => '#e-B5C',
-    'unicode' => 128167,
+    'unicode' => 
+    array (
+      0 => 128167,
+    ),
     'char_name' => 
     array (
       'title' => 'DROPLET',
@@ -21532,33 +29929,48 @@ Temporary Notes: sweat drip; tear drop',
     'docomo' => 
     array (
       'number' => '163',
-      'unicode' => 59143,
+      'unicode' => 
+      array (
+        0 => 59143,
+      ),
       'sjis' => 'F9AC',
       'jis' => '7641',
     ),
     'au' => 
     array (
       'number' => '263',
-      'unicode' => 58598,
+      'unicode' => 
+      array (
+        0 => 58598,
+      ),
       'sjis' => 'F6BF',
       'jis' => '7641',
     ),
     'softbank' => 
     array (
       'number' => '77',
-      'unicode' => 58161,
+      'unicode' => 
+      array (
+        0 => 58161,
+      ),
       'sjis' => 'F9D1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043292,
+      'unicode' => 
+      array (
+        0 => 1043292,
+      ),
     ),
   ),
   647 => 
   array (
     'mapid' => '#e-B5D',
-    'unicode' => 128168,
+    'unicode' => 
+    array (
+      0 => 128168,
+    ),
     'char_name' => 
     array (
       'title' => 'DASH SYMBOL',
@@ -21568,33 +29980,48 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'docomo' => 
     array (
       'number' => '164',
-      'unicode' => 59144,
+      'unicode' => 
+      array (
+        0 => 59144,
+      ),
       'sjis' => 'F9AD',
       'jis' => '764F',
     ),
     'au' => 
     array (
       'number' => '282',
-      'unicode' => 58612,
+      'unicode' => 
+      array (
+        0 => 58612,
+      ),
       'sjis' => 'F6CD',
       'jis' => '764F',
     ),
     'softbank' => 
     array (
       'number' => '76',
-      'unicode' => 58160,
+      'unicode' => 
+      array (
+        0 => 58160,
+      ),
       'sjis' => 'F9D0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043293,
+      'unicode' => 
+      array (
+        0 => 1043293,
+      ),
     ),
   ),
   648 => 
   array (
     'mapid' => '#e-4F4',
-    'unicode' => 128169,
+    'unicode' => 
+    array (
+      0 => 128169,
+    ),
     'char_name' => 
     array (
       'title' => 'PILE OF POO',
@@ -21608,26 +30035,38 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'au' => 
     array (
       'number' => '283',
-      'unicode' => 58613,
+      'unicode' => 
+      array (
+        0 => 58613,
+      ),
       'sjis' => 'F6CE',
       'jis' => '7650',
     ),
     'softbank' => 
     array (
       'number' => '302',
-      'unicode' => 57434,
+      'unicode' => 
+      array (
+        0 => 57434,
+      ),
       'sjis' => 'F99B',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041652,
+      'unicode' => 
+      array (
+        0 => 1041652,
+      ),
     ),
   ),
   649 => 
   array (
     'mapid' => '#e-B5E',
-    'unicode' => 128170,
+    'unicode' => 
+    array (
+      0 => 128170,
+    ),
     'char_name' => 
     array (
       'title' => 'FLEXED BICEPS',
@@ -21640,26 +30079,38 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'au' => 
     array (
       'number' => '271',
-      'unicode' => 58601,
+      'unicode' => 
+      array (
+        0 => 58601,
+      ),
       'sjis' => 'F6C2',
       'jis' => '7644',
     ),
     'softbank' => 
     array (
       'number' => '62',
-      'unicode' => 57676,
+      'unicode' => 
+      array (
+        0 => 57676,
+      ),
       'sjis' => 'F78D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043294,
+      'unicode' => 
+      array (
+        0 => 1043294,
+      ),
     ),
   ),
   650 => 
   array (
     'mapid' => '#e-B5F',
-    'unicode' => 128171,
+    'unicode' => 
+    array (
+      0 => 128171,
+    ),
     'char_name' => 
     array (
       'title' => 'DIZZY SYMBOL',
@@ -21672,26 +30123,38 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'au' => 
     array (
       'number' => '778',
-      'unicode' => 60252,
+      'unicode' => 
+      array (
+        0 => 60252,
+      ),
       'sjis' => 'F460',
       'jis' => '7B41',
     ),
     'softbank' => 
     array (
       'number' => '19',
-      'unicode' => 58375,
+      'unicode' => 
+      array (
+        0 => 58375,
+      ),
       'sjis' => 'FB47',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043295,
+      'unicode' => 
+      array (
+        0 => 1043295,
+      ),
     ),
   ),
   651 => 
   array (
     'mapid' => '#e-532',
-    'unicode' => 128172,
+    'unicode' => 
+    array (
+      0 => 128172,
+    ),
     'char_name' => 
     array (
       'title' => 'SPEECH BALLOON',
@@ -21704,7 +30167,10 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'au' => 
     array (
       'number' => '86',
-      'unicode' => 58621,
+      'unicode' => 
+      array (
+        0 => 58621,
+      ),
       'sjis' => 'F6D6',
       'jis' => '7658',
     ),
@@ -21714,13 +30180,19 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     ),
     'google' => 
     array (
-      'unicode' => 1041714,
+      'unicode' => 
+      array (
+        0 => 1041714,
+      ),
     ),
   ),
   652 => 
   array (
     'mapid' => '#e-B60',
-    'unicode' => 10024,
+    'unicode' => 
+    array (
+      0 => 10024,
+    ),
     'char_name' => 
     array (
       'title' => 'SPARKLES',
@@ -21729,33 +30201,48 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'docomo' => 
     array (
       'number' => '150',
-      'unicode' => 59130,
+      'unicode' => 
+      array (
+        0 => 59130,
+      ),
       'sjis' => 'F99F',
       'jis' => '795F',
     ),
     'au' => 
     array (
       'number' => '420',
-      'unicode' => 60075,
+      'unicode' => 
+      array (
+        0 => 60075,
+      ),
       'sjis' => 'F37E',
       'jis' => '795F',
     ),
     'softbank' => 
     array (
       'number' => '48',
-      'unicode' => 58158,
+      'unicode' => 
+      array (
+        0 => 58158,
+      ),
       'sjis' => 'F9CE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043296,
+      'unicode' => 
+      array (
+        0 => 1043296,
+      ),
     ),
   ),
   653 => 
   array (
     'mapid' => '#e-B61',
-    'unicode' => 10036,
+    'unicode' => 
+    array (
+      0 => 10036,
+    ),
     'char_name' => 
     array (
       'title' => 'EIGHT POINTED BLACK STAR',
@@ -21764,33 +30251,48 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'docomo' => 
     array (
       'number' => '148',
-      'unicode' => 59128,
+      'unicode' => 
+      array (
+        0 => 59128,
+      ),
       'sjis' => 'F99D',
       'jis' => '7E29',
     ),
     'au' => 
     array (
       'number' => '267',
-      'unicode' => 58489,
+      'unicode' => 
+      array (
+        0 => 58489,
+      ),
       'sjis' => 'F651',
       'jis' => '7532',
     ),
     'softbank' => 
     array (
       'number' => '461',
-      'unicode' => 57861,
+      'unicode' => 
+      array (
+        0 => 57861,
+      ),
       'sjis' => 'F7A5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043297,
+      'unicode' => 
+      array (
+        0 => 1043297,
+      ),
     ),
   ),
   654 => 
   array (
     'mapid' => '#e-B62',
-    'unicode' => 10035,
+    'unicode' => 
+    array (
+      0 => 10035,
+    ),
     'char_name' => 
     array (
       'title' => 'EIGHT SPOKED ASTERISK',
@@ -21799,33 +30301,48 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'docomo' => 
     array (
       'number' => '148',
-      'unicode' => 59128,
+      'unicode' => 
+      array (
+        0 => 59128,
+      ),
       'sjis' => 'F99D',
       'jis' => '7E29',
     ),
     'au' => 
     array (
       'number' => '28',
-      'unicode' => 58686,
+      'unicode' => 
+      array (
+        0 => 58686,
+      ),
       'sjis' => 'F75A',
       'jis' => '773B',
     ),
     'softbank' => 
     array (
       'number' => '462',
-      'unicode' => 57862,
+      'unicode' => 
+      array (
+        0 => 57862,
+      ),
       'sjis' => 'F7A6',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043298,
+      'unicode' => 
+      array (
+        0 => 1043298,
+      ),
     ),
   ),
   655 => 
   array (
     'mapid' => '#e-B65',
-    'unicode' => 9898,
+    'unicode' => 
+    array (
+      0 => 9898,
+    ),
     'char_name' => 
     array (
       'title' => 'MEDIUM WHITE CIRCLE',
@@ -21834,33 +30351,48 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'docomo' => 
     array (
       'number' => '95',
-      'unicode' => 59036,
+      'unicode' => 
+      array (
+        0 => 59036,
+      ),
       'sjis' => 'F940',
       'jis' => '7847',
     ),
     'au' => 
     array (
       'number' => '23',
-      'unicode' => 58682,
+      'unicode' => 
+      array (
+        0 => 58682,
+      ),
       'sjis' => 'F756',
       'jis' => '7737',
     ),
     'softbank' => 
     array (
       'number' => '459',
-      'unicode' => 57881,
+      'unicode' => 
+      array (
+        0 => 57881,
+      ),
       'sjis' => 'F7B9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043301,
+      'unicode' => 
+      array (
+        0 => 1043301,
+      ),
     ),
   ),
   656 => 
   array (
     'mapid' => '#e-B66',
-    'unicode' => 9899,
+    'unicode' => 
+    array (
+      0 => 9899,
+    ),
     'char_name' => 
     array (
       'title' => 'MEDIUM BLACK CIRCLE',
@@ -21869,33 +30401,48 @@ Temporary Notes: Dash (running dash … the cloud of dust left behind)',
     'docomo' => 
     array (
       'number' => '95',
-      'unicode' => 59036,
+      'unicode' => 
+      array (
+        0 => 59036,
+      ),
       'sjis' => 'F940',
       'jis' => '7847',
     ),
     'au' => 
     array (
       'number' => '24',
-      'unicode' => 58683,
+      'unicode' => 
+      array (
+        0 => 58683,
+      ),
       'sjis' => 'F757',
       'jis' => '7738',
     ),
     'softbank' => 
     array (
       'number' => '459',
-      'unicode' => 57881,
+      'unicode' => 
+      array (
+        0 => 57881,
+      ),
       'sjis' => 'F7B9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043302,
+      'unicode' => 
+      array (
+        0 => 1043302,
+      ),
     ),
   ),
   657 => 
   array (
     'mapid' => '#e-B63',
-    'unicode' => 128308,
+    'unicode' => 
+    array (
+      0 => 128308,
+    ),
     'char_name' => 
     array (
       'title' => 'LARGE RED CIRCLE',
@@ -21908,33 +30455,48 @@ Design Note: Same basic shape as for ⬤ U+2B24 BLACK LARGE CIRCLE.',
     'docomo' => 
     array (
       'number' => '95',
-      'unicode' => 59036,
+      'unicode' => 
+      array (
+        0 => 59036,
+      ),
       'sjis' => 'F940',
       'jis' => '7847',
     ),
     'au' => 
     array (
       'number' => '40',
-      'unicode' => 58698,
+      'unicode' => 
+      array (
+        0 => 58698,
+      ),
       'sjis' => 'F766',
       'jis' => '7747',
     ),
     'softbank' => 
     array (
       'number' => '459',
-      'unicode' => 57881,
+      'unicode' => 
+      array (
+        0 => 57881,
+      ),
       'sjis' => 'F7B9',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043299,
+      'unicode' => 
+      array (
+        0 => 1043299,
+      ),
     ),
   ),
   658 => 
   array (
     'mapid' => '#e-B64',
-    'unicode' => 128309,
+    'unicode' => 
+    array (
+      0 => 128309,
+    ),
     'char_name' => 
     array (
       'title' => 'LARGE BLUE CIRCLE',
@@ -21947,33 +30509,48 @@ Design Note: Same basic shape as for ⬤ U+2B24 BLACK LARGE CIRCLE.',
     'docomo' => 
     array (
       'number' => '95',
-      'unicode' => 59036,
+      'unicode' => 
+      array (
+        0 => 59036,
+      ),
       'sjis' => 'F940',
       'jis' => '7847',
     ),
     'au' => 
     array (
       'number' => '41',
-      'unicode' => 58699,
+      'unicode' => 
+      array (
+        0 => 58699,
+      ),
       'sjis' => 'F767',
       'jis' => '7748',
     ),
     'softbank' => 
     array (
       'number' => '463',
-      'unicode' => 57882,
+      'unicode' => 
+      array (
+        0 => 57882,
+      ),
       'sjis' => 'F7BA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043300,
+      'unicode' => 
+      array (
+        0 => 1043300,
+      ),
     ),
   ),
   659 => 
   array (
     'mapid' => '#e-BA3',
-    'unicode' => 128306,
+    'unicode' => 
+    array (
+      0 => 128306,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK SQUARE BUTTON',
@@ -21983,33 +30560,48 @@ Design Note: Same shapes for e-BA3 and e-B67.',
     'docomo' => 
     array (
       'number' => '95',
-      'unicode' => 59036,
+      'unicode' => 
+      array (
+        0 => 59036,
+      ),
       'sjis' => 'F940',
       'jis' => '7847',
     ),
     'au' => 
     array (
       'number' => '41',
-      'unicode' => 58699,
+      'unicode' => 
+      array (
+        0 => 58699,
+      ),
       'sjis' => 'F767',
       'jis' => '7748',
     ),
     'softbank' => 
     array (
       'number' => '463',
-      'unicode' => 57882,
+      'unicode' => 
+      array (
+        0 => 57882,
+      ),
       'sjis' => 'F7BA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043300,
+      'unicode' => 
+      array (
+        0 => 1043300,
+      ),
     ),
   ),
   660 => 
   array (
     'mapid' => '#e-B67',
-    'unicode' => 128307,
+    'unicode' => 
+    array (
+      0 => 128307,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE SQUARE BUTTON',
@@ -22019,33 +30611,48 @@ Design Note: Same shapes for e-BA3 and e-B67.',
     'docomo' => 
     array (
       'number' => '95',
-      'unicode' => 59036,
+      'unicode' => 
+      array (
+        0 => 59036,
+      ),
       'sjis' => 'F940',
       'jis' => '7847',
     ),
     'au' => 
     array (
       'number' => '41',
-      'unicode' => 58699,
+      'unicode' => 
+      array (
+        0 => 58699,
+      ),
       'sjis' => 'F767',
       'jis' => '7748',
     ),
     'softbank' => 
     array (
       'number' => '464',
-      'unicode' => 57883,
+      'unicode' => 
+      array (
+        0 => 57883,
+      ),
       'sjis' => 'F7BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043303,
+      'unicode' => 
+      array (
+        0 => 1043303,
+      ),
     ),
   ),
   661 => 
   array (
     'mapid' => '#e-B68',
-    'unicode' => 11088,
+    'unicode' => 
+    array (
+      0 => 11088,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE MEDIUM STAR',
@@ -22058,26 +30665,38 @@ Design Note: Same shapes for e-BA3 and e-B67.',
     'au' => 
     array (
       'number' => '69',
-      'unicode' => 58507,
+      'unicode' => 
+      array (
+        0 => 58507,
+      ),
       'sjis' => 'F663',
       'jis' => '7544',
     ),
     'softbank' => 
     array (
       'number' => '49',
-      'unicode' => 58159,
+      'unicode' => 
+      array (
+        0 => 58159,
+      ),
       'sjis' => 'F9CF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043304,
+      'unicode' => 
+      array (
+        0 => 1043304,
+      ),
     ),
   ),
   662 => 
   array (
     'mapid' => '#e-B6B',
-    'unicode' => 11036,
+    'unicode' => 
+    array (
+      0 => 11036,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE LARGE SQUARE',
@@ -22090,26 +30709,38 @@ Design Note: Same shapes for e-BA3 and e-B67.',
     'au' => 
     array (
       'number' => '38',
-      'unicode' => 58696,
+      'unicode' => 
+      array (
+        0 => 58696,
+      ),
       'sjis' => 'F764',
       'jis' => '7745',
     ),
     'softbank' => 
     array (
       'number' => '464',
-      'unicode' => 57883,
+      'unicode' => 
+      array (
+        0 => 57883,
+      ),
       'sjis' => 'F7BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043307,
+      'unicode' => 
+      array (
+        0 => 1043307,
+      ),
     ),
   ),
   663 => 
   array (
     'mapid' => '#e-B6C',
-    'unicode' => 11035,
+    'unicode' => 
+    array (
+      0 => 11035,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK LARGE SQUARE',
@@ -22123,26 +30754,38 @@ Temporary Notes: Extra large square (green). disunified from U+25A0 due to sourc
     'au' => 
     array (
       'number' => '39',
-      'unicode' => 58697,
+      'unicode' => 
+      array (
+        0 => 58697,
+      ),
       'sjis' => 'F765',
       'jis' => '7746',
     ),
     'softbank' => 
     array (
       'number' => '463',
-      'unicode' => 57882,
+      'unicode' => 
+      array (
+        0 => 57882,
+      ),
       'sjis' => 'F7BA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043308,
+      'unicode' => 
+      array (
+        0 => 1043308,
+      ),
     ),
   ),
   664 => 
   array (
     'mapid' => '#e-B6D',
-    'unicode' => 9643,
+    'unicode' => 
+    array (
+      0 => 9643,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE SMALL SQUARE',
@@ -22155,26 +30798,38 @@ Temporary Notes: Extra large square (green). disunified from U+25A0 due to sourc
     'au' => 
     array (
       'number' => '9',
-      'unicode' => 58673,
+      'unicode' => 
+      array (
+        0 => 58673,
+      ),
       'sjis' => 'F74D',
       'jis' => '772E',
     ),
     'softbank' => 
     array (
       'number' => '464',
-      'unicode' => 57883,
+      'unicode' => 
+      array (
+        0 => 57883,
+      ),
       'sjis' => 'F7BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043309,
+      'unicode' => 
+      array (
+        0 => 1043309,
+      ),
     ),
   ),
   665 => 
   array (
     'mapid' => '#e-B6E',
-    'unicode' => 9642,
+    'unicode' => 
+    array (
+      0 => 9642,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK SMALL SQUARE',
@@ -22187,26 +30842,38 @@ Temporary Notes: Extra large square (green). disunified from U+25A0 due to sourc
     'au' => 
     array (
       'number' => '10',
-      'unicode' => 58674,
+      'unicode' => 
+      array (
+        0 => 58674,
+      ),
       'sjis' => 'F74E',
       'jis' => '772F',
     ),
     'softbank' => 
     array (
       'number' => '463',
-      'unicode' => 57882,
+      'unicode' => 
+      array (
+        0 => 57882,
+      ),
       'sjis' => 'F7BA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043310,
+      'unicode' => 
+      array (
+        0 => 1043310,
+      ),
     ),
   ),
   666 => 
   array (
     'mapid' => '#e-B6F',
-    'unicode' => 9725,
+    'unicode' => 
+    array (
+      0 => 9725,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE MEDIUM SMALL SQUARE',
@@ -22219,26 +30886,38 @@ Temporary Notes: Extra large square (green). disunified from U+25A0 due to sourc
     'au' => 
     array (
       'number' => '17',
-      'unicode' => 58676,
+      'unicode' => 
+      array (
+        0 => 58676,
+      ),
       'sjis' => 'F750',
       'jis' => '7731',
     ),
     'softbank' => 
     array (
       'number' => '464',
-      'unicode' => 57883,
+      'unicode' => 
+      array (
+        0 => 57883,
+      ),
       'sjis' => 'F7BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043311,
+      'unicode' => 
+      array (
+        0 => 1043311,
+      ),
     ),
   ),
   667 => 
   array (
     'mapid' => '#e-B70',
-    'unicode' => 9726,
+    'unicode' => 
+    array (
+      0 => 9726,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK MEDIUM SMALL SQUARE',
@@ -22251,26 +30930,38 @@ Temporary Notes: Extra large square (green). disunified from U+25A0 due to sourc
     'au' => 
     array (
       'number' => '18',
-      'unicode' => 58677,
+      'unicode' => 
+      array (
+        0 => 58677,
+      ),
       'sjis' => 'F751',
       'jis' => '7732',
     ),
     'softbank' => 
     array (
       'number' => '463',
-      'unicode' => 57882,
+      'unicode' => 
+      array (
+        0 => 57882,
+      ),
       'sjis' => 'F7BA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043312,
+      'unicode' => 
+      array (
+        0 => 1043312,
+      ),
     ),
   ),
   668 => 
   array (
     'mapid' => '#e-B71',
-    'unicode' => 9723,
+    'unicode' => 
+    array (
+      0 => 9723,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE MEDIUM SQUARE',
@@ -22283,26 +30974,38 @@ Temporary Notes: Extra large square (green). disunified from U+25A0 due to sourc
     'au' => 
     array (
       'number' => '21',
-      'unicode' => 58680,
+      'unicode' => 
+      array (
+        0 => 58680,
+      ),
       'sjis' => 'F754',
       'jis' => '7735',
     ),
     'softbank' => 
     array (
       'number' => '464',
-      'unicode' => 57883,
+      'unicode' => 
+      array (
+        0 => 57883,
+      ),
       'sjis' => 'F7BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043313,
+      'unicode' => 
+      array (
+        0 => 1043313,
+      ),
     ),
   ),
   669 => 
   array (
     'mapid' => '#e-B72',
-    'unicode' => 9724,
+    'unicode' => 
+    array (
+      0 => 9724,
+    ),
     'char_name' => 
     array (
       'title' => 'BLACK MEDIUM SQUARE',
@@ -22315,26 +31018,38 @@ Temporary Notes: Extra large square (green). disunified from U+25A0 due to sourc
     'au' => 
     array (
       'number' => '22',
-      'unicode' => 58681,
+      'unicode' => 
+      array (
+        0 => 58681,
+      ),
       'sjis' => 'F755',
       'jis' => '7736',
     ),
     'softbank' => 
     array (
       'number' => '463',
-      'unicode' => 57882,
+      'unicode' => 
+      array (
+        0 => 57882,
+      ),
       'sjis' => 'F7BA',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043314,
+      'unicode' => 
+      array (
+        0 => 1043314,
+      ),
     ),
   ),
   670 => 
   array (
     'mapid' => '#e-B73',
-    'unicode' => 128310,
+    'unicode' => 
+    array (
+      0 => 128310,
+    ),
     'char_name' => 
     array (
       'title' => 'LARGE ORANGE DIAMOND',
@@ -22348,26 +31063,38 @@ Temporary Notes: Large diamond (orange). disunified from ◇ U+25C7 WHITE DIAMON
     'au' => 
     array (
       'number' => '36',
-      'unicode' => 58694,
+      'unicode' => 
+      array (
+        0 => 58694,
+      ),
       'sjis' => 'F762',
       'jis' => '7743',
     ),
     'softbank' => 
     array (
       'number' => '464',
-      'unicode' => 57883,
+      'unicode' => 
+      array (
+        0 => 57883,
+      ),
       'sjis' => 'F7BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043315,
+      'unicode' => 
+      array (
+        0 => 1043315,
+      ),
     ),
   ),
   671 => 
   array (
     'mapid' => '#e-B74',
-    'unicode' => 128311,
+    'unicode' => 
+    array (
+      0 => 128311,
+    ),
     'char_name' => 
     array (
       'title' => 'LARGE BLUE DIAMOND',
@@ -22381,26 +31108,38 @@ Temporary Notes: Large diamond (blue). disunified from ◆ U+25C6 BLACK DIAMOND 
     'au' => 
     array (
       'number' => '37',
-      'unicode' => 58695,
+      'unicode' => 
+      array (
+        0 => 58695,
+      ),
       'sjis' => 'F763',
       'jis' => '7744',
     ),
     'softbank' => 
     array (
       'number' => '464',
-      'unicode' => 57883,
+      'unicode' => 
+      array (
+        0 => 57883,
+      ),
       'sjis' => 'F7BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043316,
+      'unicode' => 
+      array (
+        0 => 1043316,
+      ),
     ),
   ),
   672 => 
   array (
     'mapid' => '#e-B75',
-    'unicode' => 128312,
+    'unicode' => 
+    array (
+      0 => 128312,
+    ),
     'char_name' => 
     array (
       'title' => 'SMALL ORANGE DIAMOND',
@@ -22415,26 +31154,38 @@ Design Note: Same basic shape as ⬩ U+2B29 BLACK SMALL DIAMOND',
     'au' => 
     array (
       'number' => '19',
-      'unicode' => 58678,
+      'unicode' => 
+      array (
+        0 => 58678,
+      ),
       'sjis' => 'F752',
       'jis' => '7733',
     ),
     'softbank' => 
     array (
       'number' => '464',
-      'unicode' => 57883,
+      'unicode' => 
+      array (
+        0 => 57883,
+      ),
       'sjis' => 'F7BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043317,
+      'unicode' => 
+      array (
+        0 => 1043317,
+      ),
     ),
   ),
   673 => 
   array (
     'mapid' => '#e-B76',
-    'unicode' => 128313,
+    'unicode' => 
+    array (
+      0 => 128313,
+    ),
     'char_name' => 
     array (
       'title' => 'SMALL BLUE DIAMOND',
@@ -22449,26 +31200,38 @@ Design Note: Same basic shape as ⬩ U+2B29 BLACK SMALL DIAMOND',
     'au' => 
     array (
       'number' => '20',
-      'unicode' => 58679,
+      'unicode' => 
+      array (
+        0 => 58679,
+      ),
       'sjis' => 'F753',
       'jis' => '7734',
     ),
     'softbank' => 
     array (
       'number' => '464',
-      'unicode' => 57883,
+      'unicode' => 
+      array (
+        0 => 57883,
+      ),
       'sjis' => 'F7BB',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043318,
+      'unicode' => 
+      array (
+        0 => 1043318,
+      ),
     ),
   ),
   674 => 
   array (
     'mapid' => '#e-B77',
-    'unicode' => 10055,
+    'unicode' => 
+    array (
+      0 => 10055,
+    ),
     'char_name' => 
     array (
       'title' => 'SPARKLE',
@@ -22477,33 +31240,48 @@ Design Note: Same basic shape as ⬩ U+2B29 BLACK SMALL DIAMOND',
     'docomo' => 
     array (
       'number' => '150',
-      'unicode' => 59130,
+      'unicode' => 
+      array (
+        0 => 59130,
+      ),
       'sjis' => 'F99F',
       'jis' => '795F',
     ),
     'au' => 
     array (
       'number' => '76',
-      'unicode' => 58476,
+      'unicode' => 
+      array (
+        0 => 58476,
+      ),
       'sjis' => 'F644',
       'jis' => '7525',
     ),
     'softbank' => 
     array (
       'number' => '48',
-      'unicode' => 58158,
+      'unicode' => 
+      array (
+        0 => 58158,
+      ),
       'sjis' => 'F9CE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043319,
+      'unicode' => 
+      array (
+        0 => 1043319,
+      ),
     ),
   ),
   675 => 
   array (
     'mapid' => '#e-B7A',
-    'unicode' => 128174,
+    'unicode' => 
+    array (
+      0 => 128174,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE FLOWER',
@@ -22517,7 +31295,10 @@ Temporary Notes: ❀ U+2740 WHITE FLORETTE?; Symbol that a teacher writes on hom
     'au' => 
     array (
       'number' => '278',
-      'unicode' => 58608,
+      'unicode' => 
+      array (
+        0 => 58608,
+      ),
       'sjis' => 'F6C9',
       'jis' => '764B',
     ),
@@ -22527,13 +31308,19 @@ Temporary Notes: ❀ U+2740 WHITE FLORETTE?; Symbol that a teacher writes on hom
     ),
     'google' => 
     array (
-      'unicode' => 1043322,
+      'unicode' => 
+      array (
+        0 => 1043322,
+      ),
     ),
   ),
   676 => 
   array (
     'mapid' => '#e-B7B',
-    'unicode' => 128175,
+    'unicode' => 
+    array (
+      0 => 128175,
+    ),
     'char_name' => 
     array (
       'title' => 'HUNDRED POINTS SYMBOL',
@@ -22547,7 +31334,10 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     'au' => 
     array (
       'number' => '280',
-      'unicode' => 58610,
+      'unicode' => 
+      array (
+        0 => 58610,
+      ),
       'sjis' => 'F6CB',
       'jis' => '764D',
     ),
@@ -22557,13 +31347,19 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     ),
     'google' => 
     array (
-      'unicode' => 1043323,
+      'unicode' => 
+      array (
+        0 => 1043323,
+      ),
     ),
   ),
   677 => 
   array (
     'mapid' => '#e-B83',
-    'unicode' => 8617,
+    'unicode' => 
+    array (
+      0 => 8617,
+    ),
     'char_name' => 
     array (
       'title' => 'LEFTWARDS ARROW WITH HOOK',
@@ -22572,14 +31368,20 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     'docomo' => 
     array (
       'number' => '117',
-      'unicode' => 59098,
+      'unicode' => 
+      array (
+        0 => 59098,
+      ),
       'sjis' => 'F97E',
       'jis' => '775A',
     ),
     'au' => 
     array (
       'number' => '118',
-      'unicode' => 58717,
+      'unicode' => 
+      array (
+        0 => 58717,
+      ),
       'sjis' => 'F779',
       'jis' => '775A',
     ),
@@ -22589,13 +31391,19 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     ),
     'google' => 
     array (
-      'unicode' => 1043331,
+      'unicode' => 
+      array (
+        0 => 1043331,
+      ),
     ),
   ),
   678 => 
   array (
     'mapid' => '#e-B88',
-    'unicode' => 8618,
+    'unicode' => 
+    array (
+      0 => 8618,
+    ),
     'char_name' => 
     array (
       'title' => 'RIGHTWARDS ARROW WITH HOOK',
@@ -22608,7 +31416,10 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     'au' => 
     array (
       'number' => '117',
-      'unicode' => 58716,
+      'unicode' => 
+      array (
+        0 => 58716,
+      ),
       'sjis' => 'F778',
       'jis' => '7759',
     ),
@@ -22618,13 +31429,19 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     ),
     'google' => 
     array (
-      'unicode' => 1043336,
+      'unicode' => 
+      array (
+        0 => 1043336,
+      ),
     ),
   ),
   679 => 
   array (
     'mapid' => '#e-B91',
-    'unicode' => 128259,
+    'unicode' => 
+    array (
+      0 => 128259,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS',
@@ -22634,14 +31451,20 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     'docomo' => 
     array (
       'number' => 'Exp.42',
-      'unicode' => 59189,
+      'unicode' => 
+      array (
+        0 => 59189,
+      ),
       'sjis' => 'F9DA',
       'jis' => '7B5E',
     ),
     'au' => 
     array (
       'number' => '518',
-      'unicode' => 60173,
+      'unicode' => 
+      array (
+        0 => 60173,
+      ),
       'sjis' => 'F7E4',
       'jis' => '7866',
     ),
@@ -22651,13 +31474,19 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     ),
     'google' => 
     array (
-      'unicode' => 1043345,
+      'unicode' => 
+      array (
+        0 => 1043345,
+      ),
     ),
   ),
   680 => 
   array (
     'mapid' => '#e-821',
-    'unicode' => 128266,
+    'unicode' => 
+    array (
+      0 => 128266,
+    ),
     'char_name' => 
     array (
       'title' => 'SPEAKER WITH THREE SOUND WAVES',
@@ -22670,26 +31499,38 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     'au' => 
     array (
       'number' => '13',
-      'unicode' => 58641,
+      'unicode' => 
+      array (
+        0 => 58641,
+      ),
       'sjis' => 'F6EA',
       'jis' => '766C',
     ),
     'softbank' => 
     array (
       'number' => '250',
-      'unicode' => 57665,
+      'unicode' => 
+      array (
+        0 => 57665,
+      ),
       'sjis' => 'F782',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1042465,
+      'unicode' => 
+      array (
+        0 => 1042465,
+      ),
     ),
   ),
   681 => 
   array (
     'mapid' => '#e-4FC',
-    'unicode' => 128267,
+    'unicode' => 
+    array (
+      0 => 128267,
+    ),
     'char_name' => 
     array (
       'title' => 'BATTERY',
@@ -22702,7 +31543,10 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     'au' => 
     array (
       'number' => '135',
-      'unicode' => 58756,
+      'unicode' => 
+      array (
+        0 => 58756,
+      ),
       'sjis' => 'F7A1',
       'jis' => '7823',
     ),
@@ -22712,13 +31556,19 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     ),
     'google' => 
     array (
-      'unicode' => 1041660,
+      'unicode' => 
+      array (
+        0 => 1041660,
+      ),
     ),
   ),
   682 => 
   array (
     'mapid' => '#e-4FE',
-    'unicode' => 128268,
+    'unicode' => 
+    array (
+      0 => 128268,
+    ),
     'char_name' => 
     array (
       'title' => 'ELECTRIC PLUG',
@@ -22731,7 +31581,10 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     'au' => 
     array (
       'number' => '162',
-      'unicode' => 58761,
+      'unicode' => 
+      array (
+        0 => 58761,
+      ),
       'sjis' => 'F7A6',
       'jis' => '7828',
     ),
@@ -22741,13 +31594,19 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     ),
     'google' => 
     array (
-      'unicode' => 1041662,
+      'unicode' => 
+      array (
+        0 => 1041662,
+      ),
     ),
   ),
   683 => 
   array (
     'mapid' => '#e-B85',
-    'unicode' => 128269,
+    'unicode' => 
+    array (
+      0 => 128269,
+    ),
     'char_name' => 
     array (
       'title' => 'LEFT-POINTING MAGNIFYING GLASS',
@@ -22756,33 +31615,48 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     'docomo' => 
     array (
       'number' => '119',
-      'unicode' => 59100,
+      'unicode' => 
+      array (
+        0 => 59100,
+      ),
       'sjis' => 'F981',
       'jis' => '7673',
     ),
     'au' => 
     array (
       'number' => '119',
-      'unicode' => 58648,
+      'unicode' => 
+      array (
+        0 => 58648,
+      ),
       'sjis' => 'F6F1',
       'jis' => '7673',
     ),
     'softbank' => 
     array (
       'number' => '143',
-      'unicode' => 57620,
+      'unicode' => 
+      array (
+        0 => 57620,
+      ),
       'sjis' => 'F754',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043333,
+      'unicode' => 
+      array (
+        0 => 1043333,
+      ),
     ),
   ),
   684 => 
   array (
     'mapid' => '#e-B8D',
-    'unicode' => 128270,
+    'unicode' => 
+    array (
+      0 => 128270,
+    ),
     'char_name' => 
     array (
       'title' => 'RIGHT-POINTING MAGNIFYING GLASS',
@@ -22791,33 +31665,48 @@ Temporary Notes: 100 (perfect score), e.g. school exam',
     'docomo' => 
     array (
       'number' => '119',
-      'unicode' => 59100,
+      'unicode' => 
+      array (
+        0 => 59100,
+      ),
       'sjis' => 'F981',
       'jis' => '7673',
     ),
     'au' => 
     array (
       'number' => '510',
-      'unicode' => 60165,
+      'unicode' => 
+      array (
+        0 => 60165,
+      ),
       'sjis' => 'F7DC',
       'jis' => '785E',
     ),
     'softbank' => 
     array (
       'number' => '143',
-      'unicode' => 57620,
+      'unicode' => 
+      array (
+        0 => 57620,
+      ),
       'sjis' => 'F754',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043341,
+      'unicode' => 
+      array (
+        0 => 1043341,
+      ),
     ),
   ),
   685 => 
   array (
     'mapid' => '#e-B86',
-    'unicode' => 128274,
+    'unicode' => 
+    array (
+      0 => 128274,
+    ),
     'char_name' => 
     array (
       'title' => 'LOCK',
@@ -22827,33 +31716,48 @@ Temporary Notes: Lock (closed padlock)',
     'docomo' => 
     array (
       'number' => '116',
-      'unicode' => 59097,
+      'unicode' => 
+      array (
+        0 => 59097,
+      ),
       'sjis' => 'F97D',
       'jis' => '7674',
     ),
     'au' => 
     array (
       'number' => '138',
-      'unicode' => 58652,
+      'unicode' => 
+      array (
+        0 => 58652,
+      ),
       'sjis' => 'F6F5',
       'jis' => '7677',
     ),
     'softbank' => 
     array (
       'number' => '233',
-      'unicode' => 57668,
+      'unicode' => 
+      array (
+        0 => 57668,
+      ),
       'sjis' => 'F785',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043334,
+      'unicode' => 
+      array (
+        0 => 1043334,
+      ),
     ),
   ),
   686 => 
   array (
     'mapid' => '#e-B87',
-    'unicode' => 128275,
+    'unicode' => 
+    array (
+      0 => 128275,
+    ),
     'char_name' => 
     array (
       'title' => 'OPEN LOCK',
@@ -22862,33 +31766,48 @@ Temporary Notes: Lock (closed padlock)',
     'docomo' => 
     array (
       'number' => '116',
-      'unicode' => 59097,
+      'unicode' => 
+      array (
+        0 => 59097,
+      ),
       'sjis' => 'F97D',
       'jis' => '7674',
     ),
     'au' => 
     array (
       'number' => '138',
-      'unicode' => 58652,
+      'unicode' => 
+      array (
+        0 => 58652,
+      ),
       'sjis' => 'F6F5',
       'jis' => '7677',
     ),
     'softbank' => 
     array (
       'number' => '234',
-      'unicode' => 57669,
+      'unicode' => 
+      array (
+        0 => 57669,
+      ),
       'sjis' => 'F786',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043335,
+      'unicode' => 
+      array (
+        0 => 1043335,
+      ),
     ),
   ),
   687 => 
   array (
     'mapid' => '#e-B90',
-    'unicode' => 128271,
+    'unicode' => 
+    array (
+      0 => 128271,
+    ),
     'char_name' => 
     array (
       'title' => 'LOCK WITH INK PEN',
@@ -22898,33 +31817,48 @@ Temporary Notes: (padlock with ink pen)',
     'docomo' => 
     array (
       'number' => '116',
-      'unicode' => 59097,
+      'unicode' => 
+      array (
+        0 => 59097,
+      ),
       'sjis' => 'F97D',
       'jis' => '7674',
     ),
     'au' => 
     array (
       'number' => '517',
-      'unicode' => 60172,
+      'unicode' => 
+      array (
+        0 => 60172,
+      ),
       'sjis' => 'F7E3',
       'jis' => '7865',
     ),
     'softbank' => 
     array (
       'number' => '233',
-      'unicode' => 57668,
+      'unicode' => 
+      array (
+        0 => 57668,
+      ),
       'sjis' => 'F785',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043344,
+      'unicode' => 
+      array (
+        0 => 1043344,
+      ),
     ),
   ),
   688 => 
   array (
     'mapid' => '#e-B8A',
-    'unicode' => 128272,
+    'unicode' => 
+    array (
+      0 => 128272,
+    ),
     'char_name' => 
     array (
       'title' => 'CLOSED LOCK WITH KEY',
@@ -22934,33 +31868,48 @@ Temporary Notes: (lock with certificate)',
     'docomo' => 
     array (
       'number' => '116',
-      'unicode' => 59097,
+      'unicode' => 
+      array (
+        0 => 59097,
+      ),
       'sjis' => 'F97D',
       'jis' => '7674',
     ),
     'au' => 
     array (
       'number' => '501',
-      'unicode' => 60156,
+      'unicode' => 
+      array (
+        0 => 60156,
+      ),
       'sjis' => 'F7D3',
       'jis' => '7855',
     ),
     'softbank' => 
     array (
       'number' => '233',
-      'unicode' => 57668,
+      'unicode' => 
+      array (
+        0 => 57668,
+      ),
       'sjis' => 'F785',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043338,
+      'unicode' => 
+      array (
+        0 => 1043338,
+      ),
     ),
   ),
   689 => 
   array (
     'mapid' => '#e-B82',
-    'unicode' => 128273,
+    'unicode' => 
+    array (
+      0 => 128273,
+    ),
     'char_name' => 
     array (
       'title' => 'KEY',
@@ -22969,33 +31918,48 @@ Temporary Notes: (lock with certificate)',
     'docomo' => 
     array (
       'number' => '116',
-      'unicode' => 59097,
+      'unicode' => 
+      array (
+        0 => 59097,
+      ),
       'sjis' => 'F97D',
       'jis' => '7674',
     ),
     'au' => 
     array (
       'number' => '120',
-      'unicode' => 58649,
+      'unicode' => 
+      array (
+        0 => 58649,
+      ),
       'sjis' => 'F6F2',
       'jis' => '7674',
     ),
     'softbank' => 
     array (
       'number' => '232',
-      'unicode' => 57407,
+      'unicode' => 
+      array (
+        0 => 57407,
+      ),
       'sjis' => 'F980',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043330,
+      'unicode' => 
+      array (
+        0 => 1043330,
+      ),
     ),
   ),
   690 => 
   array (
     'mapid' => '#e-4F2',
-    'unicode' => 128276,
+    'unicode' => 
+    array (
+      0 => 128276,
+    ),
     'char_name' => 
     array (
       'title' => 'BELL',
@@ -23004,33 +31968,48 @@ Temporary Notes: (lock with certificate)',
     'docomo' => 
     array (
       'number' => 'Exp.8',
-      'unicode' => 59155,
+      'unicode' => 
+      array (
+        0 => 59155,
+      ),
       'sjis' => 'F9B8',
       'jis' => '766D',
     ),
     'au' => 
     array (
       'number' => '48',
-      'unicode' => 58642,
+      'unicode' => 
+      array (
+        0 => 58642,
+      ),
       'sjis' => 'F6EB',
       'jis' => '766D',
     ),
     'softbank' => 
     array (
       'number' => '142',
-      'unicode' => 58149,
+      'unicode' => 
+      array (
+        0 => 58149,
+      ),
       'sjis' => 'F9C5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1041650,
+      'unicode' => 
+      array (
+        0 => 1041650,
+      ),
     ),
   ),
   691 => 
   array (
     'mapid' => '#e-B8B',
-    'unicode' => 9745,
+    'unicode' => 
+    array (
+      0 => 9745,
+    ),
     'char_name' => 
     array (
       'title' => 'BALLOT BOX WITH CHECK',
@@ -23043,7 +32022,10 @@ Temporary Notes: (lock with certificate)',
     'au' => 
     array (
       'number' => '507',
-      'unicode' => 60162,
+      'unicode' => 
+      array (
+        0 => 60162,
+      ),
       'sjis' => 'F7D9',
       'jis' => '785B',
     ),
@@ -23053,13 +32035,19 @@ Temporary Notes: (lock with certificate)',
     ),
     'google' => 
     array (
-      'unicode' => 1043339,
+      'unicode' => 
+      array (
+        0 => 1043339,
+      ),
     ),
   ),
   692 => 
   array (
     'mapid' => '#e-B8C',
-    'unicode' => 128280,
+    'unicode' => 
+    array (
+      0 => 128280,
+    ),
     'char_name' => 
     array (
       'title' => 'RADIO BUTTON',
@@ -23072,7 +32060,10 @@ Temporary Notes: (lock with certificate)',
     'au' => 
     array (
       'number' => '509',
-      'unicode' => 60164,
+      'unicode' => 
+      array (
+        0 => 60164,
+      ),
       'sjis' => 'F7DB',
       'jis' => '785D',
     ),
@@ -23082,13 +32073,19 @@ Temporary Notes: (lock with certificate)',
     ),
     'google' => 
     array (
-      'unicode' => 1043340,
+      'unicode' => 
+      array (
+        0 => 1043340,
+      ),
     ),
   ),
   693 => 
   array (
     'mapid' => '#e-B8F',
-    'unicode' => 128278,
+    'unicode' => 
+    array (
+      0 => 128278,
+    ),
     'char_name' => 
     array (
       'title' => 'BOOKMARK',
@@ -23101,7 +32098,10 @@ Temporary Notes: (lock with certificate)',
     'au' => 
     array (
       'number' => '512',
-      'unicode' => 60167,
+      'unicode' => 
+      array (
+        0 => 60167,
+      ),
       'sjis' => 'F7DE',
       'jis' => '7860',
     ),
@@ -23111,13 +32111,19 @@ Temporary Notes: (lock with certificate)',
     ),
     'google' => 
     array (
-      'unicode' => 1043343,
+      'unicode' => 
+      array (
+        0 => 1043343,
+      ),
     ),
   ),
   694 => 
   array (
     'mapid' => '#e-B4B',
-    'unicode' => 128279,
+    'unicode' => 
+    array (
+      0 => 128279,
+    ),
     'char_name' => 
     array (
       'title' => 'LINK SYMBOL',
@@ -23130,7 +32136,10 @@ Temporary Notes: (lock with certificate)',
     'au' => 
     array (
       'number' => '164',
-      'unicode' => 58762,
+      'unicode' => 
+      array (
+        0 => 58762,
+      ),
       'sjis' => 'F7A7',
       'jis' => '7829',
     ),
@@ -23140,13 +32149,19 @@ Temporary Notes: (lock with certificate)',
     ),
     'google' => 
     array (
-      'unicode' => 1043275,
+      'unicode' => 
+      array (
+        0 => 1043275,
+      ),
     ),
   ),
   695 => 
   array (
     'mapid' => '#e-B8E',
-    'unicode' => 128281,
+    'unicode' => 
+    array (
+      0 => 128281,
+    ),
     'char_name' => 
     array (
       'title' => 'BACK WITH LEFTWARDS ARROW ABOVE',
@@ -23160,26 +32175,38 @@ Temporary Notes: Back (left arrow with "BACK")',
     'au' => 
     array (
       'number' => '511',
-      'unicode' => 60166,
+      'unicode' => 
+      array (
+        0 => 60166,
+      ),
       'sjis' => 'F7DD',
       'jis' => '785F',
     ),
     'softbank' => 
     array (
       'number' => '384',
-      'unicode' => 57909,
+      'unicode' => 
+      array (
+        0 => 57909,
+      ),
       'sjis' => 'F7D5',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043342,
+      'unicode' => 
+      array (
+        0 => 1043342,
+      ),
     ),
   ),
   696 => 
   array (
     'mapid' => '#e-01A',
-    'unicode' => 128282,
+    'unicode' => 
+    array (
+      0 => 128282,
+    ),
     'char_name' => 
     array (
       'title' => 'END WITH LEFTWARDS ARROW ABOVE',
@@ -23188,7 +32215,10 @@ Temporary Notes: Back (left arrow with "BACK")',
     'docomo' => 
     array (
       'number' => '175',
-      'unicode' => 59065,
+      'unicode' => 
+      array (
+        0 => 59065,
+      ),
       'sjis' => 'F95D',
       'jis' => '7E2F',
     ),
@@ -23202,13 +32232,19 @@ Temporary Notes: Back (left arrow with "BACK")',
     ),
     'google' => 
     array (
-      'unicode' => 1040410,
+      'unicode' => 
+      array (
+        0 => 1040410,
+      ),
     ),
   ),
   697 => 
   array (
     'mapid' => '#e-019',
-    'unicode' => 128283,
+    'unicode' => 
+    array (
+      0 => 128283,
+    ),
     'char_name' => 
     array (
       'title' => 'ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE',
@@ -23217,7 +32253,10 @@ Temporary Notes: Back (left arrow with "BACK")',
     'docomo' => 
     array (
       'number' => '174',
-      'unicode' => 59064,
+      'unicode' => 
+      array (
+        0 => 59064,
+      ),
       'sjis' => 'F95C',
       'jis' => '7E2E',
     ),
@@ -23231,13 +32270,19 @@ Temporary Notes: Back (left arrow with "BACK")',
     ),
     'google' => 
     array (
-      'unicode' => 1040409,
+      'unicode' => 
+      array (
+        0 => 1040409,
+      ),
     ),
   ),
   698 => 
   array (
     'mapid' => '#e-018',
-    'unicode' => 128284,
+    'unicode' => 
+    array (
+      0 => 128284,
+    ),
     'char_name' => 
     array (
       'title' => 'SOON WITH RIGHTWARDS ARROW ABOVE',
@@ -23247,7 +32292,10 @@ Temporary Notes: soon',
     'docomo' => 
     array (
       'number' => '173',
-      'unicode' => 59063,
+      'unicode' => 
+      array (
+        0 => 59063,
+      ),
       'sjis' => 'F95B',
       'jis' => '7E2D',
     ),
@@ -23261,13 +32309,19 @@ Temporary Notes: soon',
     ),
     'google' => 
     array (
-      'unicode' => 1040408,
+      'unicode' => 
+      array (
+        0 => 1040408,
+      ),
     ),
   ),
   699 => 
   array (
     'mapid' => '#e-B42',
-    'unicode' => 128285,
+    'unicode' => 
+    array (
+      0 => 128285,
+    ),
     'char_name' => 
     array (
       'title' => 'TOP WITH UPWARDS ARROW ABOVE',
@@ -23285,19 +32339,28 @@ Temporary Notes: soon',
     'softbank' => 
     array (
       'number' => '436',
-      'unicode' => 57932,
+      'unicode' => 
+      array (
+        0 => 57932,
+      ),
       'sjis' => 'F7EC',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043266,
+      'unicode' => 
+      array (
+        0 => 1043266,
+      ),
     ),
   ),
   700 => 
   array (
     'mapid' => '#e-B4C',
-    'unicode' => 8195,
+    'unicode' => 
+    array (
+      0 => 8195,
+    ),
     'char_name' => 
     array (
       'title' => 'EM SPACE',
@@ -23310,7 +32373,10 @@ Temporary Notes: soon',
     'au' => 
     array (
       'number' => '173',
-      'unicode' => 58764,
+      'unicode' => 
+      array (
+        0 => 58764,
+      ),
       'sjis' => 'F7A9',
       'jis' => '782B',
     ),
@@ -23320,13 +32386,19 @@ Temporary Notes: soon',
     ),
     'google' => 
     array (
-      'unicode' => 1043276,
+      'unicode' => 
+      array (
+        0 => 1043276,
+      ),
     ),
   ),
   701 => 
   array (
     'mapid' => '#e-B4D',
-    'unicode' => 8194,
+    'unicode' => 
+    array (
+      0 => 8194,
+    ),
     'char_name' => 
     array (
       'title' => 'EN SPACE',
@@ -23339,7 +32411,10 @@ Temporary Notes: soon',
     'au' => 
     array (
       'number' => '174',
-      'unicode' => 58765,
+      'unicode' => 
+      array (
+        0 => 58765,
+      ),
       'sjis' => 'F7AA',
       'jis' => '782C',
     ),
@@ -23349,13 +32424,19 @@ Temporary Notes: soon',
     ),
     'google' => 
     array (
-      'unicode' => 1043277,
+      'unicode' => 
+      array (
+        0 => 1043277,
+      ),
     ),
   ),
   702 => 
   array (
     'mapid' => '#e-B4E',
-    'unicode' => 8197,
+    'unicode' => 
+    array (
+      0 => 8197,
+    ),
     'char_name' => 
     array (
       'title' => 'FOUR-PER-EM SPACE',
@@ -23368,7 +32449,10 @@ Temporary Notes: soon',
     'au' => 
     array (
       'number' => '175',
-      'unicode' => 58766,
+      'unicode' => 
+      array (
+        0 => 58766,
+      ),
       'sjis' => 'F7AB',
       'jis' => '782D',
     ),
@@ -23378,13 +32462,19 @@ Temporary Notes: soon',
     ),
     'google' => 
     array (
-      'unicode' => 1043278,
+      'unicode' => 
+      array (
+        0 => 1043278,
+      ),
     ),
   ),
   703 => 
   array (
     'mapid' => '#e-B4A',
-    'unicode' => 9989,
+    'unicode' => 
+    array (
+      0 => 9989,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE HEAVY CHECK MARK',
@@ -23399,7 +32489,10 @@ Design Note: Should look like a hollow version (that is, without fill) of ✔ U+
     'au' => 
     array (
       'number' => '132',
-      'unicode' => 58718,
+      'unicode' => 
+      array (
+        0 => 58718,
+      ),
       'sjis' => 'F77A',
       'jis' => '775B',
     ),
@@ -23409,13 +32502,19 @@ Design Note: Should look like a hollow version (that is, without fill) of ✔ U+
     ),
     'google' => 
     array (
-      'unicode' => 1043274,
+      'unicode' => 
+      array (
+        0 => 1043274,
+      ),
     ),
   ),
   704 => 
   array (
     'mapid' => '#e-B93',
-    'unicode' => 9994,
+    'unicode' => 
+    array (
+      0 => 9994,
+    ),
     'char_name' => 
     array (
       'title' => 'RAISED FIST',
@@ -23427,33 +32526,48 @@ Design Note: Harmonize design with ✌ U+270C VICTORY HAND Dingbat.',
     'docomo' => 
     array (
       'number' => '86',
-      'unicode' => 59027,
+      'unicode' => 
+      array (
+        0 => 59027,
+      ),
       'sjis' => 'F8F4',
       'jis' => '7B68',
     ),
     'au' => 
     array (
       'number' => '817',
-      'unicode' => 60291,
+      'unicode' => 
+      array (
+        0 => 60291,
+      ),
       'sjis' => 'F488',
       'jis' => '7B68',
     ),
     'softbank' => 
     array (
       'number' => '51',
-      'unicode' => 57360,
+      'unicode' => 
+      array (
+        0 => 57360,
+      ),
       'sjis' => 'F950',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043347,
+      'unicode' => 
+      array (
+        0 => 1043347,
+      ),
     ),
   ),
   705 => 
   array (
     'mapid' => '#e-B95',
-    'unicode' => 9995,
+    'unicode' => 
+    array (
+      0 => 9995,
+    ),
     'char_name' => 
     array (
       'title' => 'RAISED HAND',
@@ -23465,33 +32579,48 @@ Design Note: Harmonize design with ✌ U+270C VICTORY HAND Dingbat.',
     'docomo' => 
     array (
       'number' => '88',
-      'unicode' => 59029,
+      'unicode' => 
+      array (
+        0 => 59029,
+      ),
       'sjis' => 'F8F6',
       'jis' => '7846',
     ),
     'au' => 
     array (
       'number' => '320',
-      'unicode' => 58791,
+      'unicode' => 
+      array (
+        0 => 58791,
+      ),
       'sjis' => 'F7C4',
       'jis' => '7846',
     ),
     'softbank' => 
     array (
       'number' => '53',
-      'unicode' => 57362,
+      'unicode' => 
+      array (
+        0 => 57362,
+      ),
       'sjis' => 'F952',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043349,
+      'unicode' => 
+      array (
+        0 => 1043349,
+      ),
     ),
   ),
   706 => 
   array (
     'mapid' => '#e-B94',
-    'unicode' => 9996,
+    'unicode' => 
+    array (
+      0 => 9996,
+    ),
     'char_name' => 
     array (
       'title' => 'VICTORY HAND',
@@ -23503,33 +32632,48 @@ x (raised hand - 270B)',
     'docomo' => 
     array (
       'number' => '87',
-      'unicode' => 59028,
+      'unicode' => 
+      array (
+        0 => 59028,
+      ),
       'sjis' => 'F8F5',
       'jis' => '7845',
     ),
     'au' => 
     array (
       'number' => '319',
-      'unicode' => 58790,
+      'unicode' => 
+      array (
+        0 => 58790,
+      ),
       'sjis' => 'F7C3',
       'jis' => '7845',
     ),
     'softbank' => 
     array (
       'number' => '52',
-      'unicode' => 57361,
+      'unicode' => 
+      array (
+        0 => 57361,
+      ),
       'sjis' => 'F951',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043348,
+      'unicode' => 
+      array (
+        0 => 1043348,
+      ),
     ),
   ),
   707 => 
   array (
     'mapid' => '#e-B96',
-    'unicode' => 128074,
+    'unicode' => 
+    array (
+      0 => 128074,
+    ),
     'char_name' => 
     array (
       'title' => 'FISTED HAND SIGN',
@@ -23539,33 +32683,48 @@ x (raised hand - 270B)',
     'docomo' => 
     array (
       'number' => '153',
-      'unicode' => 59133,
+      'unicode' => 
+      array (
+        0 => 59133,
+      ),
       'sjis' => 'F9A2',
       'jis' => '764E',
     ),
     'au' => 
     array (
       'number' => '281',
-      'unicode' => 58611,
+      'unicode' => 
+      array (
+        0 => 58611,
+      ),
       'sjis' => 'F6CC',
       'jis' => '764E',
     ),
     'softbank' => 
     array (
       'number' => '55',
-      'unicode' => 57357,
+      'unicode' => 
+      array (
+        0 => 57357,
+      ),
       'sjis' => 'F94D',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043350,
+      'unicode' => 
+      array (
+        0 => 1043350,
+      ),
     ),
   ),
   708 => 
   array (
     'mapid' => '#e-B97',
-    'unicode' => 128077,
+    'unicode' => 
+    array (
+      0 => 128077,
+    ),
     'char_name' => 
     array (
       'title' => 'THUMBS UP SIGN',
@@ -23574,33 +32733,48 @@ x (raised hand - 270B)',
     'docomo' => 
     array (
       'number' => 'Exp.28',
-      'unicode' => 59175,
+      'unicode' => 
+      array (
+        0 => 59175,
+      ),
       'sjis' => 'F9CC',
       'jis' => '7654',
     ),
     'au' => 
     array (
       'number' => '287',
-      'unicode' => 58617,
+      'unicode' => 
+      array (
+        0 => 58617,
+      ),
       'sjis' => 'F6D2',
       'jis' => '7654',
     ),
     'softbank' => 
     array (
       'number' => '54',
-      'unicode' => 57358,
+      'unicode' => 
+      array (
+        0 => 57358,
+      ),
       'sjis' => 'F94E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043351,
+      'unicode' => 
+      array (
+        0 => 1043351,
+      ),
     ),
   ),
   709 => 
   array (
     'mapid' => '#e-B98',
-    'unicode' => 9757,
+    'unicode' => 
+    array (
+      0 => 9757,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE UP POINTING INDEX',
@@ -23613,26 +32787,38 @@ x (raised hand - 270B)',
     'au' => 
     array (
       'number' => '284',
-      'unicode' => 58614,
+      'unicode' => 
+      array (
+        0 => 58614,
+      ),
       'sjis' => 'F6CF',
       'jis' => '7651',
     ),
     'softbank' => 
     array (
       'number' => '56',
-      'unicode' => 57359,
+      'unicode' => 
+      array (
+        0 => 57359,
+      ),
       'sjis' => 'F94F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043352,
+      'unicode' => 
+      array (
+        0 => 1043352,
+      ),
     ),
   ),
   710 => 
   array (
     'mapid' => '#e-B99',
-    'unicode' => 128070,
+    'unicode' => 
+    array (
+      0 => 128070,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE UP POINTING BACKHAND INDEX',
@@ -23646,26 +32832,38 @@ Design Note: Similar to ☝ U+261D WHITE UP POINTING INDEX but showing the back 
     'au' => 
     array (
       'number' => '390',
-      'unicode' => 60045,
+      'unicode' => 
+      array (
+        0 => 60045,
+      ),
       'sjis' => 'F360',
       'jis' => '7941',
     ),
     'softbank' => 
     array (
       'number' => '389',
-      'unicode' => 57902,
+      'unicode' => 
+      array (
+        0 => 57902,
+      ),
       'sjis' => 'F7CE',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043353,
+      'unicode' => 
+      array (
+        0 => 1043353,
+      ),
     ),
   ),
   711 => 
   array (
     'mapid' => '#e-B9A',
-    'unicode' => 128071,
+    'unicode' => 
+    array (
+      0 => 128071,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE DOWN POINTING BACKHAND INDEX',
@@ -23679,26 +32877,38 @@ Design Note: Similar to ☟ U+261F WHITE DOWN POINTING INDEX but showing the bac
     'au' => 
     array (
       'number' => '391',
-      'unicode' => 60046,
+      'unicode' => 
+      array (
+        0 => 60046,
+      ),
       'sjis' => 'F361',
       'jis' => '7942',
     ),
     'softbank' => 
     array (
       'number' => '390',
-      'unicode' => 57903,
+      'unicode' => 
+      array (
+        0 => 57903,
+      ),
       'sjis' => 'F7CF',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043354,
+      'unicode' => 
+      array (
+        0 => 1043354,
+      ),
     ),
   ),
   712 => 
   array (
     'mapid' => '#e-B9B',
-    'unicode' => 128072,
+    'unicode' => 
+    array (
+      0 => 128072,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE LEFT POINTING BACKHAND INDEX',
@@ -23712,26 +32922,38 @@ Design Note: Similar to ☜ U+261C WHITE LEFT POINTING INDEX but showing the bac
     'au' => 
     array (
       'number' => '140',
-      'unicode' => 58623,
+      'unicode' => 
+      array (
+        0 => 58623,
+      ),
       'sjis' => 'F6D8',
       'jis' => '765A',
     ),
     'softbank' => 
     array (
       'number' => '391',
-      'unicode' => 57904,
+      'unicode' => 
+      array (
+        0 => 57904,
+      ),
       'sjis' => 'F7D0',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043355,
+      'unicode' => 
+      array (
+        0 => 1043355,
+      ),
     ),
   ),
   713 => 
   array (
     'mapid' => '#e-B9C',
-    'unicode' => 128073,
+    'unicode' => 
+    array (
+      0 => 128073,
+    ),
     'char_name' => 
     array (
       'title' => 'WHITE RIGHT POINTING BACKHAND INDEX',
@@ -23745,26 +32967,38 @@ Design Note: Similar to ☞ U+261E WHITE RIGHT POINTING INDEX but showing the ba
     'au' => 
     array (
       'number' => '141',
-      'unicode' => 58624,
+      'unicode' => 
+      array (
+        0 => 58624,
+      ),
       'sjis' => 'F6D9',
       'jis' => '765B',
     ),
     'softbank' => 
     array (
       'number' => '392',
-      'unicode' => 57905,
+      'unicode' => 
+      array (
+        0 => 57905,
+      ),
       'sjis' => 'F7D1',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043356,
+      'unicode' => 
+      array (
+        0 => 1043356,
+      ),
     ),
   ),
   714 => 
   array (
     'mapid' => '#e-B9D',
-    'unicode' => 128075,
+    'unicode' => 
+    array (
+      0 => 128075,
+    ),
     'char_name' => 
     array (
       'title' => 'WAVING HAND SIGN',
@@ -23774,33 +33008,48 @@ Temporary Notes: Waving hello',
     'docomo' => 
     array (
       'number' => '88',
-      'unicode' => 59029,
+      'unicode' => 
+      array (
+        0 => 59029,
+      ),
       'sjis' => 'F8F6',
       'jis' => '7846',
     ),
     'au' => 
     array (
       'number' => '463',
-      'unicode' => 60118,
+      'unicode' => 
+      array (
+        0 => 60118,
+      ),
       'sjis' => 'F3AA',
       'jis' => '7A2C',
     ),
     'softbank' => 
     array (
       'number' => '60',
-      'unicode' => 58398,
+      'unicode' => 
+      array (
+        0 => 58398,
+      ),
       'sjis' => 'FB5E',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043357,
+      'unicode' => 
+      array (
+        0 => 1043357,
+      ),
     ),
   ),
   715 => 
   array (
     'mapid' => '#e-B9E',
-    'unicode' => 128079,
+    'unicode' => 
+    array (
+      0 => 128079,
+    ),
     'char_name' => 
     array (
       'title' => 'CLAPPING HANDS SIGN',
@@ -23814,26 +33063,38 @@ Temporary Notes: Clapping',
     'au' => 
     array (
       'number' => '460',
-      'unicode' => 60115,
+      'unicode' => 
+      array (
+        0 => 60115,
+      ),
       'sjis' => 'F3A7',
       'jis' => '7A29',
     ),
     'softbank' => 
     array (
       'number' => '61',
-      'unicode' => 58399,
+      'unicode' => 
+      array (
+        0 => 58399,
+      ),
       'sjis' => 'FB5F',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043358,
+      'unicode' => 
+      array (
+        0 => 1043358,
+      ),
     ),
   ),
   716 => 
   array (
     'mapid' => '#e-B9F',
-    'unicode' => 128076,
+    'unicode' => 
+    array (
+      0 => 128076,
+    ),
     'char_name' => 
     array (
       'title' => 'OK HAND SIGN',
@@ -23842,33 +33103,48 @@ Temporary Notes: Clapping',
     'docomo' => 
     array (
       'number' => '135',
-      'unicode' => 59147,
+      'unicode' => 
+      array (
+        0 => 59147,
+      ),
       'sjis' => 'F9B0',
       'jis' => '784C',
     ),
     'au' => 
     array (
       'number' => '461',
-      'unicode' => 60116,
+      'unicode' => 
+      array (
+        0 => 60116,
+      ),
       'sjis' => 'F3A8',
       'jis' => '7A2A',
     ),
     'softbank' => 
     array (
       'number' => '57',
-      'unicode' => 58400,
+      'unicode' => 
+      array (
+        0 => 58400,
+      ),
       'sjis' => 'FB60',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043359,
+      'unicode' => 
+      array (
+        0 => 1043359,
+      ),
     ),
   ),
   717 => 
   array (
     'mapid' => '#e-BA0',
-    'unicode' => 128078,
+    'unicode' => 
+    array (
+      0 => 128078,
+    ),
     'char_name' => 
     array (
       'title' => 'THUMBS DOWN SIGN',
@@ -23877,33 +33153,48 @@ Temporary Notes: Clapping',
     'docomo' => 
     array (
       'number' => '156',
-      'unicode' => 59136,
+      'unicode' => 
+      array (
+        0 => 59136,
+      ),
       'sjis' => 'F9A5',
       'jis' => '7A71',
     ),
     'au' => 
     array (
       'number' => '462',
-      'unicode' => 60117,
+      'unicode' => 
+      array (
+        0 => 60117,
+      ),
       'sjis' => 'F3A9',
       'jis' => '7A2B',
     ),
     'softbank' => 
     array (
       'number' => '58',
-      'unicode' => 58401,
+      'unicode' => 
+      array (
+        0 => 58401,
+      ),
       'sjis' => 'FB61',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043360,
+      'unicode' => 
+      array (
+        0 => 1043360,
+      ),
     ),
   ),
   718 => 
   array (
     'mapid' => '#e-BA1',
-    'unicode' => 128080,
+    'unicode' => 
+    array (
+      0 => 128080,
+    ),
     'char_name' => 
     array (
       'title' => 'OPEN HANDS SIGN',
@@ -23913,27 +33204,39 @@ Temporary Notes: Ohhaa! Good morning gesture. Open hands with the money sign',
     'docomo' => 
     array (
       'number' => '88',
-      'unicode' => 59029,
+      'unicode' => 
+      array (
+        0 => 59029,
+      ),
       'sjis' => 'F8F6',
       'jis' => '7846',
     ),
     'au' => 
     array (
       'number' => '463',
-      'unicode' => 60118,
+      'unicode' => 
+      array (
+        0 => 60118,
+      ),
       'sjis' => 'F3AA',
       'jis' => '7A2C',
     ),
     'softbank' => 
     array (
       'number' => '69',
-      'unicode' => 58402,
+      'unicode' => 
+      array (
+        0 => 58402,
+      ),
       'sjis' => 'FB62',
       'jis' => NULL,
     ),
     'google' => 
     array (
-      'unicode' => 1043361,
+      'unicode' => 
+      array (
+        0 => 1043361,
+      ),
     ),
   ),
 ); ?>

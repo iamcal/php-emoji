@@ -74,11 +74,11 @@
 	# names are accessed by the unified codepoint (which makes it tricky for 2-codepoint unicode symbols)
 	#
 
-	is(emoji_get_name(0x2600),	'BLACK SUN WITH RAYS',		"name U+2600");
-	is(emoji_get_name(0x26EA),	'CHURCH',			"name U+26EA");
-	is(emoji_get_name(0x1F480),	'SKULL',			"name U+1F480");
-	is(emoji_get_name(0x1F450),	'OPEN HANDS SIGN',		"name U+1F450");
-	is(emoji_get_name(0x1F52B),	'PISTOL',			"name U+1F52B");
+	is(emoji_get_name(utf8_bytes(0x2600)),	'BLACK SUN WITH RAYS',		"name U+2600");
+	is(emoji_get_name(utf8_bytes(0x26EA)),	'CHURCH',			"name U+26EA");
+	is(emoji_get_name(utf8_bytes(0x1F480)),	'SKULL',			"name U+1F480");
+	is(emoji_get_name(utf8_bytes(0x1F450)),	'OPEN HANDS SIGN',		"name U+1F450");
+	is(emoji_get_name(utf8_bytes(0x1F52B)),	'PISTOL',			"name U+1F52B");
 
 
 	#

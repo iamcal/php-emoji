@@ -111,7 +111,7 @@ function parse_mapid($elt) {
 
 function parse_unicode($elt) {
 	//like U+1F469
-	return get_unicode_char($elt);
+	return get_unicode_chars($elt);
 }
 
 function parse_char_name($elt) {
@@ -127,25 +127,26 @@ function parse_char_name($elt) {
 	return null;
 }
 
-function parse_mobile($elt) {
-	if(!has_image($elt)) {
+function parse_mobile($elt){
+
+	if (!has_image($elt)){
+
 		return array(
 			'kaomoji' => trim($elt->textContent)
 		);
-	}
-	else {
+	}else{
 		return array(
-			'number' => get_number_char($elt) ,
-			'unicode'=> get_unicode_char($elt),
-			'sjis' => get_sjis_char($elt),
-			'jis' => get_jis_char($elt),
-			);
+			'number'	=> get_number_char($elt),
+			'unicode'	=> get_unicode_chars($elt),
+			'sjis'		=> get_sjis_char($elt),
+			'jis'		=> get_jis_char($elt),
+		);
 	}
 }
 
-function parse_google($elt) {
+function parse_google($elt){
 	return array(
-		'unicode' => get_unicode_char($elt)
+		'unicode' => get_unicode_chars($elt),
 	);
 }
 
@@ -153,9 +154,18 @@ function has_image($elt) {
 	return count(get_elts_by_tag($elt, 'img')) > 0;
 }
 
-function get_unicode_char($elt) {
-	$r = preg_match('/(?:.*)U\+(\w{4,5})/u', $elt->textContent, $match);
-	return $r ? intval($match[1], 16) : null;
+function get_unicode_chars($elt){
+
+	$out = array();
+
+	if (preg_match_all('!U\+(\w{4,5})!u', $elt->textContent, $m)){
+
+		foreach ($m[1] as $n){
+			$out[] =  intval($n, 16);
+		}
+	}
+
+	return $out;
 }
 
 function get_sjis_char($elt) {
