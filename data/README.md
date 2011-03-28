@@ -24,4 +24,4 @@ You can then use the catalog to build the PHP map and the CSS file:
 
     php build_map.php > ../emoji.php
     php build_css.php > ../emoji.css
-    php build_table.php > ../table.html
+    php build_table.php > ../table.htm
