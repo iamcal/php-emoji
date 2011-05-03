@@ -1,4 +1,3 @@
-
 This is a PHP library for dealing with mobile device Emoji.
 
 It is based on a Ruby library here:<br>
@@ -37,6 +36,13 @@ USAGE
         # to format the emoji.
 
         $data = emoji_unified_to_html($data);
+
+        # if you want to use an editor(i.e:wysiwyg) to create the content, 
+        # you can use html_to_unified to store the unified value.
+
+        $data = emoji_html_to_unified(emoji_unified_to_html($data));
+
+
     ?>
 
 When using the HTML format, you'll also need to include the <code>emoji.css</code> file, which points 
