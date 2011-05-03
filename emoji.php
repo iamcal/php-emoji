@@ -2037,9 +2037,7 @@
 		),
 	);
 
-  $GLOBALS['emoji_maps']['html_to_unified'] = array();
-	$unified_to_html_keys = array_keys($GLOBALS['emoji_maps']['unified_to_html']);
-  $GLOBALS['emoji_maps']['html_to_unified'] = array_combine($GLOBALS['emoji_maps']['unified_to_html'], $unified_to_html_keys);
+	$GLOBALS['emoji_maps']['html_to_unified'] = array_flip($GLOBALS['emoji_maps']['unified_to_html']);
 
 	#
 	# functions to convert incoming data into the unified format
