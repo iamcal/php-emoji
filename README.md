@@ -41,8 +41,6 @@ USAGE
         # you can use html_to_unified to store the unified value.
 
         $data = emoji_html_to_unified(emoji_unified_to_html($data));
-
-
     ?>
 
 When using the HTML format, you'll also need to include the <code>emoji.css</code> file, which points 
