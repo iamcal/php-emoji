@@ -2037,6 +2037,9 @@
 		),
 	);
 
+  $GLOBALS['emoji_maps']['html_to_unified'] = array();
+	$unified_to_html_keys = array_keys($GLOBALS['emoji_maps']['unified_to_html']);
+  $GLOBALS['emoji_maps']['html_to_unified'] = array_combine($GLOBALS['emoji_maps']['unified_to_html'], $unified_to_html_keys);
 
 	#
 	# functions to convert incoming data into the unified format
@@ -2057,7 +2060,7 @@
 	function emoji_unified_to_softbank(	$text){ return emoji_convert($text, 'unified_to_softbank'); }
 	function emoji_unified_to_google(	$text){ return emoji_convert($text, 'unified_to_google'); }
 	function emoji_unified_to_html(		$text){ return emoji_convert($text, 'unified_to_html'); }
-
+	function emoji_html_to_unified(		$text){ return emoji_convert($text, 'html_to_unified'); }
 
 
 	function emoji_convert($text, $map){
