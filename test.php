@@ -40,6 +40,7 @@
 	echo "#------------------\n";
 
 	is(emoji_unified_to_html($test_unified),	$test_html,	"Unified -> HTML");
+	is(emoji_html_to_unified($test_html),		$test_unified,	"HTML -> Unified");
 
 	echo "#------------------\n";
 
@@ -74,6 +75,7 @@
 	echo "#------------------\n";
 
 	is(emoji_unified_to_html($test_unified),	$test_html,	"Unified -> HTML");
+	is(emoji_html_to_unified($test_html),		$test_unified,	"HTML -> Unified");
 
 	echo "#------------------\n";
 	

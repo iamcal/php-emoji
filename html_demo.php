@@ -18,6 +18,7 @@
 		<th>Name</th>
 		<th>Unified Text</th>
 		<th>HTML</th>
+		<th>HTML to Unified</th>
 	</tr>
 <?
 	$src = array(
@@ -68,6 +69,7 @@
 		echo "<td>".HtmlSpecialChars(emoji_get_name($bytes))."</td>\n";
 		echo "<td>$str</td>\n";
 		echo "<td>".emoji_unified_to_html($str)."</td>\n";
+		echo "<td>".emoji_html_to_unified(emoji_unified_to_html($str))."</td>\n";
 		echo "</tr>\n";
 	}
 ?>
