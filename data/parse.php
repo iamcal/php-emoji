@@ -53,7 +53,7 @@
 
 		$tds = get_elts_by_tag($tr, 'td');
 
-		$items[] = array(
+		$item = array(
 			'mapid'		=> parse_mapid($tds[0]),
 			'unicode'	=> parse_unicode($tds[1]),
 			'char_name'	=> parse_char_name($tds[2]),
@@ -62,6 +62,8 @@
 			'softbank'	=> parse_mobile($tds[5]),
 			'google'	=> parse_google($tds[6]),
 		);
+
+		$items[] = $item;
 	}
 
 	fprintf(STDERR, "codepoint count:".count($items)."\n");
@@ -73,10 +75,6 @@
 
 	fprintf(STDERR, "filter only_kaomoji ; like e-554 -> [A] -> [A] -> [A] -> [A]\n");
 	$items = filter_only_kaomoji($items);
-	fprintf(STDERR, "codepoint count:".count($items)."\n");
-
-	fprintf(STDERR, "filter chars-group ; like #44+#139\n");
-	$items = filter_chars_group($items);
 	fprintf(STDERR, "codepoint count:".count($items)."\n");
 
 
@@ -136,10 +134,11 @@ function parse_mobile($elt){
 		);
 	}else{
 		return array(
-			'number'	=> get_number_char($elt),
+			'number'	=> get_number_chars($elt),
+			'number_old'	=> get_old_num_chars($elt),
 			'unicode'	=> get_unicode_chars($elt),
-			'sjis'		=> get_sjis_char($elt),
-			'jis'		=> get_jis_char($elt),
+			'sjis'		=> get_sjis_chars($elt),
+			'jis'		=> get_jis_chars($elt),
 		);
 	}
 }
@@ -154,36 +153,25 @@ function has_image($elt) {
 	return count(get_elts_by_tag($elt, 'img')) > 0;
 }
 
-function get_unicode_chars($elt){
+function get_unicode_chars($elt){ return get_some_chars($elt, '!U\+(\w{4,5})!u', 16); }
+function get_sjis_chars($elt){     return get_some_chars($elt, '/\bSJIS-(\w{4})/u', 16); }
+function get_jis_chars($elt){      return get_some_chars($elt, '/\bJIS-(\w{4})/u', 16); }
+function get_number_chars($elt){   return get_some_chars($elt, '/\#([0-9]{1,})/'); }
+function get_old_num_chars($elt){   return get_some_chars($elt, '/\#old([0-9]{1,})/'); }
+
+function get_some_chars($elt, $rx, $base=10){
 
 	$out = array();
 
-	if (preg_match_all('!U\+(\w{4,5})!u', $elt->textContent, $m)){
+	if (preg_match_all($rx, $elt->textContent, $m)){
 
 		foreach ($m[1] as $n){
-			$out[] =  intval($n, 16);
+			$out[] = intval($n, $base);
 		}
 	}
 
 	return $out;
 }
-
-function get_sjis_char($elt) {
-	$r = preg_match('/\bSJIS-(\w{4})/u', $elt->textContent, $match);
-	return $r ? $match[1] : null;
-}
-
-function get_jis_char($elt) {
-	$r = preg_match('/\bJIS-(\w{4})/u', $elt->textContent, $match);
-	return $r ? $match[1] : null;
-}
-
-function get_number_char($elt) {
-	$r = preg_match('/\#([a-zA-Z0-9\.+-]{1,})/', $elt->textContent, $match);
-	return $r ? $match[1] : null;
-}
-
-
 
 function filter_only_kaomoji($mapping) {
 	$result = array();
