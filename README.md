@@ -6,6 +6,9 @@ It is based on a Ruby library here:<br>
 And data from Unicode here:<br>
 <a href="http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html">http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html</a>
 
+**Important note:** As of iOS 6, the iPhone uses unified codepoints. You no longer need to do any conversion at input/output time, unless
+you want to convert it to HTML for viewing on PCs, Android phones, older Macs, etc.
+
 
 USAGE
 -----
@@ -44,8 +47,8 @@ USAGE
     ?>
 
 When using the HTML format, you'll also need to include the <code>emoji.css</code> file, which points 
-to the <code>iphone_emoji.png</code> image. These images come from the iPhone, so don't cover every
-DoCoMo/KDDI/Google emoji (they fall back to a question mark).
+to the <code>emoji.png</code> image. These images come from the <a href="https://github.com/github/gemoji">gemoji</a> 
+project and cover all current codepoints.
 
 IMPORTANT NOTE: This library currently only deals with UTF-8. If your source data is JIS
 or Shift-JIS, you're out of luck for the moment.
@@ -59,5 +62,7 @@ By Cal Henderson <cal@iamcal.com>
 Parser rewrite based on a fork by <a href="https://github.com/dulao5">&#26460;&#24535;&#21018;</a>
 
 This work is licensed under the GPL v3
+
+Image copyrights: https://github.com/github/gemoji/blob/master/LICENSE
 
 Version 1 released on 2009-10-20
