@@ -1,17 +1,20 @@
 Just looking for the library?
 =============================
 
-You don't need to worry about the contents of this directory - just use <code>emoji.php</code> and <code>emoji.css</code> in the parent directory.
+You don't need to worry about the contents of this directory - just use `emoji.php`,
+`emoji.css` and `emoji.png` in the parent directory.
 
 
 I'm a developer, tell me more...
 ================================
 
-The scripts in this directory allow you to build the library from the unicode.org source materials.
+The scripts in this directory allow you to build the library from the unicode.org source materials
+and the images from the gemoji project.
 
-The catalog contains an array of Emoji, each record containing the different codepoints, names, etc.
+The main catalog contains an array of Emoji, each record containing the different codepoints, names, etc.
+The CSS catalog contains a mapping of codepoints to positions within the spritesheet image.
 
-We use this intermediate mapping to create the end-user PHP and CSS files.
+We use these intermediate mappings to create the end-user PHP and CSS files.
 
 
 To rebuild the catalog from the original data tables:
@@ -20,7 +23,12 @@ To rebuild the catalog from the original data tables:
     patch < source_html.patch
     php parse.php full.html > catalog.php
 
-You can then use the catalog to build the PHP map and the CSS file:
+To rebuild the spritesheet image and its catalog, from the gemoji source files (this step requires 
+ImageMagick or GraphicsMagick for the compositing):
+
+    php build_image.php
+
+You can then use the catalogs to build the PHP map and the CSS file:
 
     php build_map.php > ../emoji.php
     php build_css.php > ../emoji.css
