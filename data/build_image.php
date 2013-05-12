@@ -60,6 +60,6 @@
 
 
 	echo "Moving final images ";
-	move("{$temp}/sheet.png", dirname(__FILE__).'/../emoji.png');
+	rename("{$temp}/sheet.png", dirname(__FILE__).'/../emoji.png');
 	shell_exec("rm -rf {$temp}/");
 	echo " DONE\n";
