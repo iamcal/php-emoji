@@ -26,7 +26,7 @@ you want to convert it to HTML for viewing on PCs, Android phones, older Macs, e
 
         $data = emoji_docomo_to_unified($data);   # DoCoMo devices
         $data = emoji_kddi_to_unified($data);     # KDDI & Au devices
-        $data = emoji_softbank_to_unified($data); # Softbank & (iPhone) Apple devices
+        $data = emoji_softbank_to_unified($data); # Softbank & pre-iOS6 Apple devices
         $data = emoji_google_to_unified($data);   # Google Android devices
 
 
@@ -35,7 +35,7 @@ you want to convert it to HTML for viewing on PCs, Android phones, older Macs, e
 
         $data = emoji_unified_docomo($data);   # DoCoMo devices
         $data = emoji_unified_kddi($data);     # KDDI & Au devices
-        $data = emoji_unified_softbank($data); # Softbank & (iPhone) Apple devices
+        $data = emoji_unified_softbank($data); # Softbank & pre-iOS6 Apple devices
         $data = emoji_unified_google($data);   # Google Android devices
 
 
