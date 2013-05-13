@@ -75,8 +75,9 @@
 	}
 	echo " DONE\n";
 
+	echo shell_exec("convert {$temp}/sheet.png png32:{$temp}/sheet2.png");
 
 	echo "Moving final images ";
-	rename("{$temp}/sheet.png", dirname(__FILE__).'/../emoji.png');
+	rename("{$temp}/sheet2.png", dirname(__FILE__).'/../emoji.png');
 	shell_exec("rm -rf {$temp}/");
 	echo " DONE\n";
