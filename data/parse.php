@@ -75,6 +75,8 @@
 
 	fprintf(STDERR, "filter only_kaomoji ; like e-554 -> [A] -> [A] -> [A] -> [A]\n");
 	$items = filter_only_kaomoji($items);
+	fprintf(STDERR, "filter invisibles\n");
+	$items = filter_invisibles($items);
 	fprintf(STDERR, "codepoint count:".count($items)."\n");
 
 
@@ -254,4 +256,22 @@ function get_all_kaomoji($mapping) {
 	}
 
 	return array_keys($arr);
+}
+
+function filter_invisibles($items){
+
+	$out = array();
+
+	foreach ($items as $item){
+
+		if (count($item['unicode']) == 1){
+			if ($item['unicode'][0] == 0x2003) continue; # em space
+			if ($item['unicode'][0] == 0x2002) continue; # en space
+			if ($item['unicode'][0] == 0x2005) continue; # four-per-em space
+		}
+
+		$out[] = $item;
+	}
+
+	return $out;
 }

@@ -51965,156 +51965,6 @@ Temporary Notes: soon',
   ),
   704 => 
   array (
-    'mapid' => '#e-B4C',
-    'unicode' => 
-    array (
-      0 => 8195,
-    ),
-    'char_name' => 
-    array (
-      'title' => 'EM SPACE',
-      'desc' => 'Temporary Notes: Note: KDDI\'s Full blank (mapped to EM SPACE)',
-    ),
-    'docomo' => 
-    array (
-      'kaomoji' => '〓',
-    ),
-    'au' => 
-    array (
-      'number' => 
-      array (
-        0 => 173,
-      ),
-      'number_old' => 
-      array (
-      ),
-      'unicode' => 
-      array (
-        0 => 58764,
-      ),
-      'sjis' => 
-      array (
-        0 => 63401,
-      ),
-      'jis' => 
-      array (
-        0 => 30763,
-      ),
-    ),
-    'softbank' => 
-    array (
-      'kaomoji' => '〓',
-    ),
-    'google' => 
-    array (
-      'unicode' => 
-      array (
-        0 => 1043276,
-      ),
-    ),
-  ),
-  705 => 
-  array (
-    'mapid' => '#e-B4D',
-    'unicode' => 
-    array (
-      0 => 8194,
-    ),
-    'char_name' => 
-    array (
-      'title' => 'EN SPACE',
-      'desc' => 'Temporary Notes: Note: KDDI\'s Half blank (mapped to EN SPACE)',
-    ),
-    'docomo' => 
-    array (
-      'kaomoji' => '〓',
-    ),
-    'au' => 
-    array (
-      'number' => 
-      array (
-        0 => 174,
-      ),
-      'number_old' => 
-      array (
-      ),
-      'unicode' => 
-      array (
-        0 => 58765,
-      ),
-      'sjis' => 
-      array (
-        0 => 63402,
-      ),
-      'jis' => 
-      array (
-        0 => 30764,
-      ),
-    ),
-    'softbank' => 
-    array (
-      'kaomoji' => '〓',
-    ),
-    'google' => 
-    array (
-      'unicode' => 
-      array (
-        0 => 1043277,
-      ),
-    ),
-  ),
-  706 => 
-  array (
-    'mapid' => '#e-B4E',
-    'unicode' => 
-    array (
-      0 => 8197,
-    ),
-    'char_name' => 
-    array (
-      'title' => 'FOUR-PER-EM SPACE',
-      'desc' => 'Temporary Notes: Note: KDDI\'s Quarter blank (mapped to FOUR-PER-EM SQUARE)',
-    ),
-    'docomo' => 
-    array (
-      'kaomoji' => '〓',
-    ),
-    'au' => 
-    array (
-      'number' => 
-      array (
-        0 => 175,
-      ),
-      'number_old' => 
-      array (
-      ),
-      'unicode' => 
-      array (
-        0 => 58766,
-      ),
-      'sjis' => 
-      array (
-        0 => 63403,
-      ),
-      'jis' => 
-      array (
-        0 => 30765,
-      ),
-    ),
-    'softbank' => 
-    array (
-      'kaomoji' => '〓',
-    ),
-    'google' => 
-    array (
-      'unicode' => 
-      array (
-        0 => 1043278,
-      ),
-    ),
-  ),
-  707 => 
-  array (
     'mapid' => '#e-B4A',
     'unicode' => 
     array (
@@ -52165,7 +52015,7 @@ Design Note: Should look like a hollow version (that is, without fill) of ✔ U+
       ),
     ),
   ),
-  708 => 
+  705 => 
   array (
     'mapid' => '#e-B93',
     'unicode' => 
@@ -52254,7 +52104,7 @@ Design Note: Harmonize design with ✌ U+270C VICTORY HAND Dingbat.',
       ),
     ),
   ),
-  709 => 
+  706 => 
   array (
     'mapid' => '#e-B95',
     'unicode' => 
@@ -52343,7 +52193,7 @@ Design Note: Harmonize design with ✌ U+270C VICTORY HAND Dingbat.',
       ),
     ),
   ),
-  710 => 
+  707 => 
   array (
     'mapid' => '#e-B94',
     'unicode' => 
@@ -52432,7 +52282,7 @@ x (raised hand - 270B)',
       ),
     ),
   ),
-  711 => 
+  708 => 
   array (
     'mapid' => '#e-B96',
     'unicode' => 
@@ -52519,7 +52369,7 @@ x (raised hand - 270B)',
       ),
     ),
   ),
-  712 => 
+  709 => 
   array (
     'mapid' => '#e-B97',
     'unicode' => 
@@ -52604,7 +52454,7 @@ x (raised hand - 270B)',
       ),
     ),
   ),
-  713 => 
+  710 => 
   array (
     'mapid' => '#e-B98',
     'unicode' => 
@@ -52672,7 +52522,7 @@ x (raised hand - 270B)',
       ),
     ),
   ),
-  714 => 
+  711 => 
   array (
     'mapid' => '#e-B99',
     'unicode' => 
@@ -52741,7 +52591,7 @@ Design Note: Similar to ☝ U+261D WHITE UP POINTING INDEX but showing the back 
       ),
     ),
   ),
-  715 => 
+  712 => 
   array (
     'mapid' => '#e-B9A',
     'unicode' => 
@@ -52810,7 +52660,7 @@ Design Note: Similar to ☟ U+261F WHITE DOWN POINTING INDEX but showing the bac
       ),
     ),
   ),
-  716 => 
+  713 => 
   array (
     'mapid' => '#e-B9B',
     'unicode' => 
@@ -52879,7 +52729,7 @@ Design Note: Similar to ☜ U+261C WHITE LEFT POINTING INDEX but showing the bac
       ),
     ),
   ),
-  717 => 
+  714 => 
   array (
     'mapid' => '#e-B9C',
     'unicode' => 
@@ -52948,7 +52798,7 @@ Design Note: Similar to ☞ U+261E WHITE RIGHT POINTING INDEX but showing the ba
       ),
     ),
   ),
-  718 => 
+  715 => 
   array (
     'mapid' => '#e-B9D',
     'unicode' => 
@@ -53035,7 +52885,7 @@ Temporary Notes: Waving hello',
       ),
     ),
   ),
-  719 => 
+  716 => 
   array (
     'mapid' => '#e-B9E',
     'unicode' => 
@@ -53104,7 +52954,7 @@ Temporary Notes: Clapping',
       ),
     ),
   ),
-  720 => 
+  717 => 
   array (
     'mapid' => '#e-B9F',
     'unicode' => 
@@ -53190,7 +53040,7 @@ Temporary Notes: Clapping',
       ),
     ),
   ),
-  721 => 
+  718 => 
   array (
     'mapid' => '#e-BA0',
     'unicode' => 
@@ -53276,7 +53126,7 @@ Temporary Notes: Clapping',
       ),
     ),
   ),
-  722 => 
+  719 => 
   array (
     'mapid' => '#e-BA1',
     'unicode' => 
