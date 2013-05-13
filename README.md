@@ -1,4 +1,9 @@
+# php-emoji - Process Emoji in PHP and display them as HTML
+
 This is a PHP library for dealing with mobile device Emoji.
+
+You can read more about it and see a demo here:<br>
+<a href="http://code.iamcal.com/php/emoji/">http://code.iamcal.com/php/emoji/</a>
 
 It is based on a Ruby library here:<br>
 <a href="http://www.bitcontrol.org/2009/10/18/emoji-rubygem-for-iphone-softbank-ntt-docomo-kddi/">http://www.bitcontrol.org/2009/10/18/emoji-rubygem-for-iphone-softbank-ntt-docomo-kddi/</a>
@@ -10,8 +15,7 @@ And data from Unicode here:<br>
 you want to convert it to HTML for viewing on PCs, Android phones, older Macs, etc.
 
 
-USAGE
------
+## USAGE
 
     <?php
         include('emoji.php');
@@ -54,8 +58,7 @@ IMPORTANT NOTE: This library currently only deals with UTF-8. If your source dat
 or Shift-JIS, you're out of luck for the moment.
 
 
-CREDITS
--------
+## CREDITS
 
 By Cal Henderson <cal@iamcal.com>
 
