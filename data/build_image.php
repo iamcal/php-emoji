@@ -9,8 +9,6 @@
 
 	echo "Resizing images ";
 	$images = array();
-	$map = array();
-	$y = 0;
 	foreach ($files as $file){
 
 		if (!preg_match('!\.png$!', $file)) continue;
@@ -25,12 +23,30 @@
 			echo '.';
 		}
 
-		$images[] = array($last, $y);
-		$map[pathinfo($last, PATHINFO_FILENAME)] = $y;
-		$y += 20;
+		$images[] = array($last);
 		#echo "$file -> $target\n";
 	}
 	echo " DONE\n";
+
+
+	# quick step - decide on images dimensions and icon
+	# positions
+	$map = array();
+	$y = 0;
+	$x = 0;
+	$num = ceil(sqrt(count($images)));
+	foreach ($images as $k => $v){
+		$images[$k][1] = $x * 20;
+		$images[$k][2] = $y * 20;
+		$map[pathinfo($v[0], PATHINFO_FILENAME)] = array($x*20, $y*20);
+
+		$y++;
+		if ($y == $num){
+			$x++;
+			$y = 0;
+		}
+	}
+
 
 	echo "Writing image map ... ";
 	$fh = fopen('css_catalog.php', 'w');
@@ -43,15 +59,16 @@
 
 
 	echo "Compositing images ";
-	$pw = 20;
-	$ph = 20 * count($images);
+	$pw = 20 * $num;
+	$ph = 20 * $num;
+
 	#echo shell_exec("convert -size {$pw}x{$ph} xc:red {$temp}/sheet.png");
 	echo shell_exec("convert -size {$pw}x{$ph} null: -matte -compose Clear -composite -compose Over {$temp}/sheet.png");
 
 	foreach ($images as $image){
 
-		$px = 0;
-		$py = $image[1];
+		$px = $image[1];
+		$py = $image[2];
 
 		echo shell_exec("composite -geometry +{$px}+{$py} {$temp}/{$image[0]} {$temp}/sheet.png {$temp}/sheet.png");
 		echo '.';
