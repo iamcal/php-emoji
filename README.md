@@ -48,7 +48,7 @@ USAGE
 
 When using the HTML format, you'll also need to include the <code>emoji.css</code> file, which points 
 to the <code>emoji.png</code> image. These images come from the <a href="https://github.com/github/gemoji">gemoji</a> 
-project and cover all current codepoints.
+project and cover all current codepoints, except U+1F320, Shooting Star.
 
 IMPORTANT NOTE: This library currently only deals with UTF-8. If your source data is JIS
 or Shift-JIS, you're out of luck for the moment.
