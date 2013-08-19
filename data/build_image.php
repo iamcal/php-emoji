@@ -16,7 +16,7 @@
 		$last = basename($file);
 		$target = $temp.'/'.$last;
 
-		exec("convert {$file} -resize 20x20 {$target}", $out, $code);
+		exec("convert {$file} -define filter:blur=0.4 -filter Gaussian -resize 20x20 -quality 100 {$target}", $out, $code);
 		if ($code){
 			echo 'x';
 		}else{
