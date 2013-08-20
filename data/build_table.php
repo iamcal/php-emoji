@@ -1,4 +1,4 @@
-<?
+<?php
 	include('catalog.php');
 
 
@@ -15,11 +15,11 @@
 		$out[] = array(
 			'name'		=> $row['char_name']['title'],
 
-			'unified'	=> $row['unicode'],
-			'docomo'	=> $row['docomo']['unicode'],
-			'kddi'		=> $row['au']['unicode'],
-			'softbank'	=> $row['softbank']['unicode'],
-			'google'	=> $row['google']['unicode'],
+			'unified'	=> (!empty($row['unicode'])) ? $row['unicode'] : false,
+			'docomo'	=> (!empty($row['docomo']['unicode'])) ? $row['docomo']['unicode'] : false,
+			'kddi'		=> (!empty($row['au']['unicode'])) ? $row['au']['unicode'] : false,
+			'softbank'	=> (!empty($row['softbank']['unicode'])) ? $row['softbank']['unicode'] : false,
+			'google'	=> (!empty($row['google']['unicode'])) ? $row['google']['unicode'] : false,
 
 			'html'		=> $html,
 		);
@@ -27,7 +27,7 @@
 
 	function format_codepoints($us){
 
-		if (!count($us)) return '-';
+		if ($us === false || !count($us)) return '-';
 
 		$out = array();
 
@@ -97,7 +97,7 @@ table tbody td {
 	</tr>
 	<tbody>
 
-<?
+<?php
 	foreach ($out as $row){
 
 		echo "\t<tr>\n";

@@ -1,7 +1,12 @@
 <?php
+    # handle CLI param(s)
+    $is_vertical = (in_array('--grid',$argv) || in_array('-g',$argv)) ? false : true;
+
 	# find all input images
 	$path = dirname(__FILE__).'/gemoji/images/emoji/unicode';
 	$files = glob("$path/*");
+
+    $icon_size = 20;
 
 	# create small versions of each image
 	$temp = dirname(__FILE__).'/temp';
@@ -16,7 +21,7 @@
 		$last = basename($file);
 		$target = $temp.'/'.$last;
 
-		exec("convert {$file} -resize 20x20 {$target}", $out, $code);
+		exec("convert {$file} -define filter:blur=0.4 -filter Gaussian -resize {$icon_size}x{$icon_size} {$target}", $out, $code);
 		if ($code){
 			echo 'x';
 		}else{
@@ -36,15 +41,15 @@
 	$x = 0;
 	$num = ceil(sqrt(count($images)));
 	foreach ($images as $k => $v){
-		$images[$k][1] = $x * 20;
-		$images[$k][2] = $y * 20;
-		$map[pathinfo($v[0], PATHINFO_FILENAME)] = array($x*20, $y*20);
+		$images[$k][1] = $x * $icon_size;
+		$images[$k][2] = $y * $icon_size;
+		$map[pathinfo($v[0], PATHINFO_FILENAME)] = array($x*$icon_size, $y*$icon_size);
 
 		$y++;
-		if ($y == $num){
-			$x++;
-			$y = 0;
-		}
+        if (!$is_vertical && $y == $num) {
+            $x++;
+            $y = 0;
+        }
 	}
 
 
@@ -59,11 +64,11 @@
 
 
 	echo "Compositing images ";
-	$pw = 20 * $num;
-	$ph = 20 * $num;
+	$pw = ($is_vertical) ? $icon_size : $num*$icon_size;
+	$ph = ($is_vertical) ? $y*$icon_size : $num*$icon_size;
 
-	#echo shell_exec("convert -size {$pw}x{$ph} xc:red {$temp}/sheet.png");
-	echo shell_exec("convert -size {$pw}x{$ph} null: -matte -compose Clear -composite -compose Over {$temp}/sheet.png");
+	echo shell_exec("convert -size {$pw}x{$ph} xc:none {$temp}/sheet.png"); // easier, didn't throw errors with default IM install
+	//echo shell_exec("convert -size {$pw}x{$ph} null: -matte -compose Clear -composite -compose Over {$temp}/sheet.png");
 
 	foreach ($images as $image){
 
@@ -75,7 +80,7 @@
 	}
 	echo " DONE\n";
 
-	echo shell_exec("convert {$temp}/sheet.png png32:{$temp}/sheet2.png");
+	echo shell_exec("convert -quality 90 {$temp}/sheet.png png32:{$temp}/sheet2.png");
 
 	echo "Moving final images ";
 	rename("{$temp}/sheet2.png", dirname(__FILE__).'/../emoji.png');
