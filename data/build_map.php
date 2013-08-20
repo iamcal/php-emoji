@@ -47,7 +47,7 @@
 
 	echo "\t\t'names' => array(\n";
 
-	foreach ($maps[names] as $k => $v){
+	foreach ($maps['names'] as $k => $v){
 
 		$key_enc = format_string($k);
 		$name_enc = "'".AddSlashes($v)."'";
@@ -140,7 +140,7 @@
 
 			$src_char = unicode_bytes($map['unicode']);
 
-			if (is_array($map[$dest]['unicode']) && count($map[$dest]['unicode'])){
+			if (!empty($map[$dest]['unicode']) && is_array($map[$dest]['unicode']) && count($map[$dest]['unicode'])){
 
 				$dest_char = unicode_bytes($map[$dest]['unicode']);
 			}else{
