@@ -64,7 +64,7 @@ By Cal Henderson <cal@iamcal.com>
 
 Parser rewrite based on a fork by <a href="https://github.com/dulao5">&#26460;&#24535;&#21018;</a>
 
-This work is licensed under the GPL v3
+This work is dual-licensed under the GPL v3 and the MIT license.
 
 Image copyrights: https://github.com/github/gemoji/blob/master/LICENSE
 
