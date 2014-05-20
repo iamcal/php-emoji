@@ -23,7 +23,7 @@
 	$test_kddi	= "Hello ".utf8_bytes(0xE490);
 	$test_google	= "Hello ".utf8_bytes(0xFE02C);
 
-	$test_html	= "Hello <span class=\"emoji emoji2649\"></span>";
+	$test_html	= "Hello <span class=\"emoji-outer\"><span class=\"emoji-inner emoji2649\"></span></span>";
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
 	is(emoji_kddi_to_unified($test_kddi),		$test_unified, "KDDI -> Unified");
@@ -57,7 +57,7 @@
 	$test_kddi	= "Hello ".utf8_bytes(0xE527);
 	$test_google	= "Hello ".utf8_bytes(0xFE833);
 
-	$test_html	= "Hello <span class=\"emoji emoji3620e3\"></span>";
+	$test_html	= "Hello <span class=\"emoji-outer\"><span class=\"emoji-inner emoji3620e3\"></span></span>";
 
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
