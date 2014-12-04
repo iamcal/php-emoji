@@ -34,6 +34,9 @@
 	# we could just use var_dump, but we get 'better' output this way
 	#
 
+	$newFilePath = '../emoji_new.php';
+
+	ob_start();
 	echo "<"."?php\n";
 
 	echo "\n";
@@ -79,7 +82,10 @@
 
 	echo file_get_contents('core_functions.php');
 
-
+	$emoji_new_data = ob_get_contents();
+	ob_end_clean();
+	file_put_contents($newFilePath,$emoji_new_data);
+	echo "Now, u have a new file for emoji.php,its named emoji_new.php\n";
 
 	##########################################################################################
 

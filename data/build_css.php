@@ -4,6 +4,8 @@
 	include('catalog.php');
 	include('css_catalog.php');
 
+	$newFilePath = '../emoji_new.css';
+	ob_start();
 	echo ".emoji { background: url(\"emoji.png\") top left no-repeat; width: 20px; height: 20px; display: -moz-inline-stack; display: inline-block; vertical-align: top; zoom: 1; *display: inline; }\n";
 
 	foreach ($catalog as $item){
@@ -27,4 +29,9 @@
 
 		echo ".emoji$unilow { background-position: -{$pos[0]}px -{$pos[1]}px; }\n";
 	}
+
+	$newFileData = ob_get_contents();
+	ob_end_flush();
+	file_put_contents($newFilePath,$newFileData);
+	echo "Now ,u have a new file for emoji.css ,its named emoji_new.css\n";
 ?>
