@@ -1,18 +1,10 @@
-# php-emoji - Process Emoji in PHP and display them as HTML
+# php-emoji - Process Emoji in PHP
 
-This is a PHP library for dealing with mobile device Emoji.
+This is a PHP library for dealing with Emoji, allowing you to convert between various native formats and displaying them using HTML.
 
-You can read more about it and see a demo here:<br>
-<a href="http://code.iamcal.com/php/emoji/">http://code.iamcal.com/php/emoji/</a>
+You can read more about it and see a demo here: http://www.iamcal.com/emoji-in-web-apps/
 
-It is based on a Ruby library here:<br>
-<a href="http://www.bitcontrol.org/2009/10/18/emoji-rubygem-for-iphone-softbank-ntt-docomo-kddi/">http://www.bitcontrol.org/2009/10/18/emoji-rubygem-for-iphone-softbank-ntt-docomo-kddi/</a>
-
-And data from Unicode here:<br>
-<a href="http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html">http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html</a>
-
-**Important note:** As of iOS 6, the iPhone uses unified codepoints. You no longer need to do any conversion at input/output time, unless
-you want to convert it to HTML for viewing on PCs, Android phones, older Macs, etc.
+The data this library is based on comes from another GitHub project: https://github.com/iamcal/emoji-data
 
 
 ## USAGE
@@ -48,7 +40,7 @@ you want to convert it to HTML for viewing on PCs, Android phones, older Macs, e
         # you can use html_to_unified to store the unified value.
 
         $data = emoji_html_to_unified(emoji_unified_to_html($data));
-    ?>
+
 
 When using the HTML format, you'll also need to include the <code>emoji.css</code> file, which points 
 to the <code>emoji.png</code> image.
@@ -57,7 +49,7 @@ IMPORTANT NOTE: This library currently only deals with UTF-8. If your source dat
 or Shift-JIS, you're out of luck for the moment.
 
 
-## CREDITS
+## Credits
 
 By Cal Henderson <cal@iamcal.com>
 
@@ -65,4 +57,10 @@ Images and Emoji data come from <a href="https://github.com/iamcal/emoji-data">e
 
 This work is dual-licensed under the GPL v3 and the MIT license.
 
-Version 1 released on 2009-10-20
+
+## Version History
+
+* v1.0.0 - 2009-10-20 : First release
+* v1.2.0 - 2011-03-27 : ?
+* v1.3.0 - 2011-07-27 : ?
+* V1.4.0 - 2016-02-15 : Switch to using emoji-data as the backend, at v2.4.0
