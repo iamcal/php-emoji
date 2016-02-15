@@ -61,14 +61,9 @@
 
 		echo "\t\t'$k' => array(\n";
 
-		$count = 0;
-		echo "\t\t\t";
 		foreach ($v as $k2 => $v2){
-			$count++;
-			if ($count % 5 == 0) echo "\n\t\t\t";
-			echo format_string($k2).'=>'.format_string($v2).', ';
+			echo "\t\t\t".format_string($k2).'=>'.format_string($v2).",\n";
 		}
-		echo "\n";
 
 		echo "\t\t),\n";
 	}
