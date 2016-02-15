@@ -13,6 +13,9 @@
 	}
 	$fact = 100 / $max;
 
+	$sheet_size = $max + 1;
+	echo "span.emoji-inner { background-size: {$sheet_size}00%; }\n";
+
 	foreach ($catalog as $item){
 
 		$unilow = unicode_hex_chars($item['unified']);

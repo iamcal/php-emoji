@@ -1,5 +1,5 @@
 <?
-	include('emoji.php');
+	include('../lib/emoji.php');
 
 	header('Content-type: text/plain; charset=UTF-8');
 
@@ -23,7 +23,7 @@
 	$test_kddi	= "Hello ".utf8_bytes(0xE490);
 	$test_google	= "Hello ".utf8_bytes(0xFE02C);
 
-	$test_html	= "Hello <span class=\"emoji-outer\"><span class=\"emoji-inner emoji2649\"></span></span>";
+	$test_html	= "Hello <span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji2649\"></span></span>";
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
 	is(emoji_kddi_to_unified($test_kddi),		$test_unified, "KDDI -> Unified");
@@ -57,7 +57,7 @@
 	$test_kddi	= "Hello ".utf8_bytes(0xE527);
 	$test_google	= "Hello ".utf8_bytes(0xFE833);
 
-	$test_html	= "Hello <span class=\"emoji-outer\"><span class=\"emoji-inner emoji3620e3\"></span></span>";
+	$test_html	= "Hello <span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji3620e3\"></span></span>";
 
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");

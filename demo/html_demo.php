@@ -1,14 +1,14 @@
 <?
 	header('Content-type: text/html; charset=UTF-8');
 
-	include('emoji.php');
+	include('../lib/emoji.php');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<title>Emoji HTML Test</title>
-	<link href="emoji.css" rel="stylesheet" type="text/css" />
+	<link href="../lib/emoji.css?cb=<?=time()?>" rel="stylesheet" type="text/css" />
 </head>
 <body>
 

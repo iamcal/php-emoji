@@ -1,5 +1,5 @@
 <?php
-	include('../emoji.php');
+	include('../lib/emoji.php');
 
 	function format_bytes($bytes){
 		$out = '';
@@ -13,7 +13,7 @@
 <head>
 
 <title>PHP Emoji Catalog</title>
-<link rel="stylesheet" type="text/css" media="all" href="emoji.css" />
+<link rel="stylesheet" type="text/css" media="all" href="../lib/emoji.css" />
 <style type="text/css">
 
 body {
