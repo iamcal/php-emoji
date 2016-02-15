@@ -51,8 +51,7 @@ you want to convert it to HTML for viewing on PCs, Android phones, older Macs, e
     ?>
 
 When using the HTML format, you'll also need to include the <code>emoji.css</code> file, which points 
-to the <code>emoji.png</code> image. These images come from the <a href="https://github.com/github/gemoji">gemoji</a> 
-project and cover all current codepoints, except U+1F320, Shooting Star.
+to the <code>emoji.png</code> image.
 
 IMPORTANT NOTE: This library currently only deals with UTF-8. If your source data is JIS
 or Shift-JIS, you're out of luck for the moment.
@@ -62,10 +61,8 @@ or Shift-JIS, you're out of luck for the moment.
 
 By Cal Henderson <cal@iamcal.com>
 
-Parser rewrite based on a fork by <a href="https://github.com/dulao5">&#26460;&#24535;&#21018;</a>
+Images and Emoji data come from <a href="https://github.com/iamcal/emoji-data">emoji-data</a>.
 
 This work is dual-licensed under the GPL v3 and the MIT license.
-
-Image copyrights: https://github.com/github/gemoji/blob/master/LICENSE
 
 Version 1 released on 2009-10-20

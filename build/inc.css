@@ -1,0 +1,25 @@
+span.emoji-sizer {
+	line-height: 1.013em;
+	font-size: 1.375em;
+ 	margin: -0.05em 0;
+}
+
+span.emoji-outer {
+	display: -moz-inline-box;
+	display: inline-block;
+	*display: inline;
+	height: 1em;
+	width: 1em;
+}
+
+span.emoji-inner {
+	background: url(emoji.png);
+	display: -moz-inline-box;
+	display: inline-block;
+	text-indent: -9999px;
+	width: 100%;
+	height: 100%;
+	vertical-align: baseline;
+	*vertical-align: auto;
+	*zoom: 1;
+}
