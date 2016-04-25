@@ -25,10 +25,10 @@ The data this library is based on comes from another GitHub project: https://git
         # when sending data back to mobile devices, you can
         # convert back to their native format.
 
-        $data = emoji_unified_docomo($data);   # DoCoMo devices
-        $data = emoji_unified_kddi($data);     # KDDI & Au devices
-        $data = emoji_unified_softbank($data); # Softbank & pre-iOS6 Apple devices
-        $data = emoji_unified_google($data);   # Google Android devices
+        $data = emoji_unified_to_docomo($data);   # DoCoMo devices
+        $data = emoji_unified_to_kddi($data);     # KDDI & Au devices
+        $data = emoji_unified_to_softbank($data); # Softbank & pre-iOS6 Apple devices
+        $data = emoji_unified_to_google($data);   # Google Android devices
 
 
         # when displaying data to anyone else, you can use HTML
