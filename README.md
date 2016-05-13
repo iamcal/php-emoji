@@ -8,39 +8,39 @@ The data this library is based on comes from another GitHub project: https://git
 
 
 ## USAGE
-
-    <?php
-        include('emoji.php');
-
-
-        # when you recieve text from a mobile device, convert it
-        # to the unified format.
-
-        $data = emoji_docomo_to_unified($data);   # DoCoMo devices
-        $data = emoji_kddi_to_unified($data);     # KDDI & Au devices
-        $data = emoji_softbank_to_unified($data); # Softbank & pre-iOS6 Apple devices
-        $data = emoji_google_to_unified($data);   # Google Android devices
+```php
+<?php
+include('emoji.php');
 
 
-        # when sending data back to mobile devices, you can
-        # convert back to their native format.
+# when you recieve text from a mobile device, convert it
+# to the unified format.
 
-        $data = emoji_unified_to_docomo($data);   # DoCoMo devices
-        $data = emoji_unified_to_kddi($data);     # KDDI & Au devices
-        $data = emoji_unified_to_softbank($data); # Softbank & pre-iOS6 Apple devices
-        $data = emoji_unified_to_google($data);   # Google Android devices
+$data = emoji_docomo_to_unified($data);   # DoCoMo devices
+$data = emoji_kddi_to_unified($data);     # KDDI & Au devices
+$data = emoji_softbank_to_unified($data); # Softbank & pre-iOS6 Apple devices
+$data = emoji_google_to_unified($data);   # Google Android devices
 
 
-        # when displaying data to anyone else, you can use HTML
-        # to format the emoji.
+# when sending data back to mobile devices, you can
+# convert back to their native format.
 
-        $data = emoji_unified_to_html($data);
+$data = emoji_unified_to_docomo($data);   # DoCoMo devices
+$data = emoji_unified_to_kddi($data);     # KDDI & Au devices
+$data = emoji_unified_to_softbank($data); # Softbank & pre-iOS6 Apple devices
+$data = emoji_unified_to_google($data);   # Google Android devices
 
-        # if you want to use an editor(i.e:wysiwyg) to create the content, 
-        # you can use html_to_unified to store the unified value.
 
-        $data = emoji_html_to_unified(emoji_unified_to_html($data));
+# when displaying data to anyone else, you can use HTML
+# to format the emoji.
 
+$data = emoji_unified_to_html($data);
+
+# if you want to use an editor(i.e:wysiwyg) to create the content, 
+# you can use html_to_unified to store the unified value.
+
+$data = emoji_html_to_unified(emoji_unified_to_html($data));
+```
 
 When using the HTML format, you'll also need to include the <code>emoji.css</code> file, which points 
 to the <code>emoji.png</code> image.
