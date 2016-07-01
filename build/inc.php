@@ -10,6 +10,7 @@
 	function emoji_kddi_to_unified(		$text){ return emoji_convert($text, 'kddi_to_unified'); }
 	function emoji_softbank_to_unified(	$text){ return emoji_convert($text, 'softbank_to_unified'); }
 	function emoji_google_to_unified(	$text){ return emoji_convert($text, 'google_to_unified'); }
+	function emoji_shortname_to_unified(	$text){ return emoji_convert($text, 'shortname_to_unified'); }
 
 
 	#
@@ -20,6 +21,7 @@
 	function emoji_unified_to_kddi(		$text){ return emoji_convert($text, 'unified_to_kddi'); }
 	function emoji_unified_to_softbank(	$text){ return emoji_convert($text, 'unified_to_softbank'); }
 	function emoji_unified_to_google(	$text){ return emoji_convert($text, 'unified_to_google'); }
+	function emoji_unified_to_shortname(	$text){ return emoji_convert($text, 'unified_to_shortname'); }
 	function emoji_unified_to_html(		$text){ return emoji_convert($text, 'unified_to_html'); }
 	function emoji_html_to_unified(		$text){ return emoji_convert($text, 'html_to_unified'); }
 
