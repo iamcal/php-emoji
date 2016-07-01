@@ -15,15 +15,15 @@
 	#fprintf(STDERR, "fix Geta Mark ()  '〓' (U+3013)\n");
 	#$catalog = fix_geta_mark($catalog);
 
-	$maps["unified_to_docomo"]	= make_mapping($catalog, 'docomo');
-	$maps["unified_to_kddi"]	= make_mapping($catalog, 'au');
-	$maps["unified_to_softbank"]	= make_mapping($catalog, 'softbank');
-	$maps["unified_to_google"]	= make_mapping($catalog, 'google');
+	$maps["unified_to_docomo"]	= make_mapping($catalog, 'unified', 'docomo');
+	$maps["unified_to_kddi"]	= make_mapping($catalog, 'unified', 'au');
+	$maps["unified_to_softbank"]	= make_mapping($catalog, 'unified', 'softbank');
+	$maps["unified_to_google"]	= make_mapping($catalog, 'unified', 'google');
 
-	$maps["docomo_to_unified"]	= make_mapping_flip($catalog, 'docomo');
-	$maps["kddi_to_unified"]	= make_mapping_flip($catalog, 'au');
-	$maps["softbank_to_unified"]	= make_mapping_flip($catalog, 'softbank');
-	$maps["google_to_unified"]	= make_mapping_flip($catalog, 'google');
+	$maps["docomo_to_unified"]	= make_mapping($catalog, 'docomo', 'unified');
+	$maps["kddi_to_unified"]	= make_mapping($catalog, 'au', 'unified');
+	$maps["softbank_to_unified"]	= make_mapping($catalog, 'softbank', 'unified');
+	$maps["google_to_unified"]	= make_mapping($catalog, 'google', 'unified');
 
 	$maps["unified_to_html"]	= make_html_map($catalog);
 
@@ -124,13 +124,15 @@
 		return $out;
 	}
 
-	function make_mapping($mapping, $dest){
+	function make_mapping($mapping, $src, $dest){
 
 		$result = array();
 
 		foreach ($mapping as $map){
+			if (empty($map[$src]))
+				continue;
 
-			$src_char = unicode_bytes($map['unified']);
+			$src_char = unicode_bytes($map[$src]);
 
 			if (!empty($map[$dest])){
 
@@ -142,13 +144,6 @@
 			$result[$src_char] = $dest_char;
 		}
 
-		return $result;
-	}
-
-	function make_mapping_flip($mapping, $src){
-		$result = make_mapping($mapping, $src);
-		$result = array_flip($result);
-		unset($result[""]);
 		return $result;
 	}
 
