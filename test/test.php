@@ -1,4 +1,4 @@
-<?
+<?php
 	include('../lib/emoji.php');
 
 	header('Content-type: text/plain; charset=UTF-8');
@@ -23,7 +23,7 @@
 	$test_kddi	= "Hello ".utf8_bytes(0xE490);
 	$test_google	= "Hello ".utf8_bytes(0xFE02C);
 
-	$test_html	= "Hello <span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji2649\"></span></span>";
+	$test_html	= "Hello <span class=\"emoji-outer emoji-sizer\"><img alt=\"".utf8_bytes(0x2649)."\" draggable=\"false\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"emoji-inner emoji2649\"/></span>";
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
 	is(emoji_kddi_to_unified($test_kddi),		$test_unified, "KDDI -> Unified");
@@ -57,7 +57,7 @@
 	$test_kddi	= "Hello ".utf8_bytes(0xE527);
 	$test_google	= "Hello ".utf8_bytes(0xFE833);
 
-	$test_html	= "Hello <span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji3620e3\"></span></span>";
+	$test_html	= "Hello <span class=\"emoji-outer emoji-sizer\"><img alt=\"".utf8_bytes(0x36).utf8_bytes(0x20E3)."\" draggable=\"false\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"emoji-inner emoji3620e3\"/></span>";
 
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");

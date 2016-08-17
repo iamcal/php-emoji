@@ -118,7 +118,7 @@
 			$hex = unicode_hex_chars($row['unified']);
 			$bytes = unicode_bytes($row['unified']);
 
-			$out[$bytes] = "<span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji$hex\"></span></span>";
+			$out[$bytes] = "<span class=\"emoji-outer emoji-sizer\"><img alt=\"$bytes\" draggable=\"false\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"emoji-inner emoji$hex\"/></span>";
 		}
 
 		return $out;

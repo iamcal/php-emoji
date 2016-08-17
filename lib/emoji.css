@@ -1,10 +1,10 @@
-span.emoji-sizer {
+.emoji-sizer {
 	line-height: 1.013em;
 	font-size: 1.375em;
  	margin: -0.05em 0;
 }
 
-span.emoji-outer {
+.emoji-outer {
 	display: -moz-inline-box;
 	display: inline-block;
 	*display: inline;
@@ -12,7 +12,7 @@ span.emoji-outer {
 	width: 1em;
 }
 
-span.emoji-inner {
+.emoji-inner {
 	background: url(emoji.png);
 	display: -moz-inline-box;
 	display: inline-block;
@@ -23,7 +23,7 @@ span.emoji-inner {
 	*vertical-align: auto;
 	*zoom: 1;
 }
-span.emoji-inner { background-size: 4100%; }
+.emoji-inner { background-size: 4100%; }
 .emojia9 { background-position: 0% 0% !important; }
 .emojiae { background-position: 0% 2.5% !important; }
 .emoji203c { background-position: 0% 5% !important; }
