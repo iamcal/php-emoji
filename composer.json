@@ -1,0 +1,20 @@
+{
+    "name": "iamcal/php-emoji",
+    "description": "This is a PHP library for dealing with Emoji, allowing you to convert between various native formats and displaying them using HTML.",
+    "keywords": ["emoji", "convert", "converter"],
+    "homepage": "https://github.com/iamcal/php-emoji",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cal Henderson",
+            "email": "cal@iamcal.com",
+            "homepage": "http://www.iamcal.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.0"
+    },
+    "autoload": {
+        "files": ["lib/emoji.php"]
+    }
+}
