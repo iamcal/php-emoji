@@ -34,3 +34,10 @@
 
 		return $GLOBALS['emoji_maps']['names'][$unified_cp] ? $GLOBALS['emoji_maps']['names'][$unified_cp] : '?';
 	}
+
+	function emoji_check_text($text){
+
+		$count = 0;
+		str_replace($GLOBALS['emoji_maps']['prefixes'], '00', $text, $count);
+		return $count > 0;
+	}

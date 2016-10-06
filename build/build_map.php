@@ -27,6 +27,7 @@
 
 	$maps["unified_to_html"]	= make_html_map($catalog);
 
+	$maps["prefixes"] = fetch_prefixes($maps['names']);
 
 	#
 	# output
@@ -62,7 +63,11 @@
 		echo "\t\t'$k' => array(\n";
 
 		foreach ($v as $k2 => $v2){
-			echo "\t\t\t".format_string($k2).'=>'.format_string($v2).",\n";
+			if (strpos($k, 'prefixes') === 0) {
+				echo "\t\t\t" . format_string($v2) . ",\n";
+			} else {
+				echo "\t\t\t" . format_string($k2) . '=>' . format_string($v2) . ",\n";
+			}
 		}
 
 		echo "\t\t),\n";
@@ -212,3 +217,10 @@
 		return '"'.$out.'"';
 	}   
 
+	function fetch_prefixes($map, $length = 2){
+		$result = [];
+		foreach ($map as $symbol => $_) {
+			$result[mb_substr($symbol, 0, $length, 'ASCII')] = 1;
+		}
+		return array_keys($result);
+	}
