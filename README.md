@@ -1,5 +1,7 @@
 # php-emoji - Process Emoji in PHP
 
+[![Build Status](https://travis-ci.org/iamcal/php-emoji.svg?branch=master)](https://travis-ci.org/iamcal/php-emoji)
+
 This is a PHP library for dealing with Emoji, allowing you to convert between various native formats and displaying them using HTML.
 
 You can read more about it and see a demo here: http://www.iamcal.com/emoji-in-web-apps/
