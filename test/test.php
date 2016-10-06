@@ -1,5 +1,5 @@
-<?
-	include('../lib/emoji.php');
+<?php
+	include(dirname(__FILE__).'/../lib/emoji.php');
 
 	header('Content-type: text/plain; charset=UTF-8');
 
@@ -78,7 +78,7 @@
 	is(emoji_html_to_unified($test_html),		$test_unified,	"HTML -> Unified");
 
 	echo "#------------------\n";
-	
+
 
 	#
 	# names are accessed by the unified codepoint (which makes it tricky for 2-codepoint unicode symbols)
@@ -144,4 +144,3 @@
 			return chr($cp);
 		}
 	}
-?>

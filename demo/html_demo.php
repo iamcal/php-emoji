@@ -1,4 +1,4 @@
-<?
+<?php
 	header('Content-type: text/html; charset=UTF-8');
 
 	include('../lib/emoji.php');
@@ -8,7 +8,7 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<title>Emoji HTML Test</title>
-	<link href="../lib/emoji.css?cb=<?=time()?>" rel="stylesheet" type="text/css" />
+	<link href="../lib/emoji.css?cb=<?php echo time(); ?>" rel="stylesheet" type="text/css" />
 </head>
 <body>
 
@@ -20,7 +20,7 @@
 		<th>HTML</th>
 		<th>HTML to Unified</th>
 	</tr>
-<?
+<?php
 	$src = array(
 		array(0x2600),		# BLACK SUN WITH RAYS
 		array(0x1F494),		# BROKEN HEART (was U+1F493)
