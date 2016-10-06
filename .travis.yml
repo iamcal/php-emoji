@@ -2,4 +2,10 @@ language: php
 
 sudo: false
 
+before_install:
+  - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+  - git submodule update --init
+  - sed -i 's/git@github.com:/https:\/\/github.com\//' build/emoji-data/.gitmodules
+  - git submodule update --init --recursive
+
 script: php test/test.php
