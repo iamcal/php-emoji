@@ -91,6 +91,18 @@
 	is(emoji_get_name(utf8_bytes(0x1F52B)),	'PISTOL',			"name U+1F52B");
 	is(emoji_get_name(utf8_bytes(0x36).utf8_bytes(0x20E3)),	'KEYCAP 6',	"name U+36 U+20E3");
 
+	echo "#------------------\n";
+
+
+	#
+	# finding emoji works correctly
+	#
+
+	is(emoji_contains_emoji('test '.utf8_bytes(0x2600).' test'),			true, "contains simple emoji");
+	is(emoji_contains_emoji('test '.utf8_bytes(0x36).utf8_bytes(0x20E3).' test'),	true, "contains compound emoji");
+	is(emoji_contains_emoji('hello world'),						false, "does not contain emoji");
+
+
 
 	#
 	# below here are the test helper functions
