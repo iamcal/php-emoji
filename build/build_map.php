@@ -27,7 +27,8 @@
 
 	$maps["unified_to_html"]	= make_html_map($catalog);
 
-	$maps["prefixes"] = fetch_prefixes($maps['names']);
+	$maps["prefixes"]		= fetch_prefixes($maps['names']);
+
 
 	#
 	# output
@@ -63,9 +64,9 @@
 		echo "\t\t'$k' => array(\n";
 
 		foreach ($v as $k2 => $v2){
-			if (strpos($k, 'prefixes') === 0) {
+			if (strpos($k, 'prefixes') === 0){
 				echo "\t\t\t" . format_string($v2) . ",\n";
-			} else {
+			}else{
 				echo "\t\t\t" . format_string($k2) . '=>' . format_string($v2) . ",\n";
 			}
 		}
@@ -205,22 +206,22 @@
 	}
 
 	function format_string($s){
-		$out = ''; 
+		$out = '';
 		for ($i=0; $i<strlen($s); $i++){
 			$c = ord(substr($s,$i,1));
 			if ($c >= 0x20 && $c < 0x80 && !in_array($c, array(34, 39, 92))){
 				$out .= chr($c);
 			}else{
 				$out .= sprintf('\\x%02x', $c);
-			}   
-		}   
+			}
+		}
 		return '"'.$out.'"';
-	}   
+	}
 
 	function fetch_prefixes($map, $length = 2){
-		$result = [];
-		foreach ($map as $symbol => $_) {
-			$result[mb_substr($symbol, 0, $length, 'ASCII')] = 1;
+		$result = array();
+		foreach ($map as $symbol => $junk){
+			$result[substr($symbol, 0, $length)] = 1;
 		}
 		return array_keys($result);
 	}

@@ -35,7 +35,7 @@
 		return $GLOBALS['emoji_maps']['names'][$unified_cp] ? $GLOBALS['emoji_maps']['names'][$unified_cp] : '?';
 	}
 
-	function emoji_check_text($text){
+	function emoji_contains_emoji($text){
 
 		$count = 0;
 		str_replace($GLOBALS['emoji_maps']['prefixes'], '00', $text, $count);
