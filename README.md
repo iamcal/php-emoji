@@ -66,3 +66,4 @@ This work is dual-licensed under the GPL v3 and the MIT license.
 * v1.2.0 - 2011-03-27 : ?
 * v1.3.0 - 2011-07-27 : ?
 * v1.4.0 - 2016-02-15 : Switch to using emoji-data as the backend, at v2.4.0
+* v1.4.1 - 2016-10-06 : Added `emoji_contains_emoji()`, added travis
