@@ -9892,6 +9892,44 @@
 			"\xf0\x9f\x91\xa9\xe2\x80\x8d\xe2\x9d\xa4\xef\xb8\x8f\xe2\x80\x8d\xf0\x9f\x91\xa9"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji1f469200d2764fe0f200d1f469\x22></span></span>",
 			"\xf0\x9f\x91\xa9\xe2\x80\x8d\xe2\x9d\xa4\xef\xb8\x8f\xe2\x80\x8d\xf0\x9f\x92\x8b\xe2\x80\x8d\xf0\x9f\x91\xa9"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji1f469200d2764fe0f200d1f48b200d1f469\x22></span></span>",
 		),
+		'prefixes' => array(
+			"\xc2\xa9",
+			"\xc2\xae",
+			"\xe2\x80",
+			"\xe2\x81",
+			"\xe2\x84",
+			"\xe2\x86",
+			"\xe2\x8c",
+			"\xe2\x8f",
+			"\xe2\x93",
+			"\xe2\x96",
+			"\xe2\x97",
+			"\xe2\x98",
+			"\xe2\x99",
+			"\xe2\x9a",
+			"\xe2\x9b",
+			"\xe2\x9c",
+			"\xe2\x9d",
+			"\xe2\x9e",
+			"\xe2\xa4",
+			"\xe2\xac",
+			"\xe2\xad",
+			"\xe3\x80",
+			"\xe3\x8a",
+			"\xf0\x9f",
+			"#\xe2",
+			"*\xe2",
+			"0\xe2",
+			"1\xe2",
+			"2\xe2",
+			"3\xe2",
+			"4\xe2",
+			"5\xe2",
+			"6\xe2",
+			"7\xe2",
+			"8\xe2",
+			"9\xe2",
+		),
 	);
 
 	$GLOBALS['emoji_maps']['html_to_unified'] = array_flip($GLOBALS['emoji_maps']['unified_to_html']);
@@ -9928,4 +9966,11 @@
 	function emoji_get_name($unified_cp){
 
 		return $GLOBALS['emoji_maps']['names'][$unified_cp] ? $GLOBALS['emoji_maps']['names'][$unified_cp] : '?';
+	}
+
+	function emoji_contains_emoji($text){
+
+		$count = 0;
+		str_replace($GLOBALS['emoji_maps']['prefixes'], '00', $text, $count);
+		return $count > 0;
 	}
