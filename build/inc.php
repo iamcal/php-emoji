@@ -35,9 +35,15 @@
 		return $GLOBALS['emoji_maps']['names'][$unified_cp] ? $GLOBALS['emoji_maps']['names'][$unified_cp] : '?';
 	}
 
-	function emoji_contains_emoji($text){
+	function emoji_contains_emoji($text, $search_for_unified = true){
+
+		if ($search_for_unified) {
+			$path = 'prefixes_unified';
+		} else {
+			$path = 'prefixes_not_unified';
+		}
 
 		$count = 0;
-		str_replace($GLOBALS['emoji_maps']['prefixes'], '00', $text, $count);
+		str_replace($GLOBALS['emoji_maps'][$path], '00', $text, $count);
 		return $count > 0;
 	}
