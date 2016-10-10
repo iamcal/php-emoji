@@ -24,6 +24,7 @@
 			"\xe2\x8c\x9a" => 'WATCH',
 			"\xe2\x8c\x9b" => 'HOURGLASS',
 			"\xe2\x8c\xa8" => 'KEYBOARD',
+			"\xe2\x8f\x8f" => 'EJECT SYMBOL',
 			"\xe2\x8f\xa9" => 'BLACK RIGHT-POINTING DOUBLE TRIANGLE',
 			"\xe2\x8f\xaa" => 'BLACK LEFT-POINTING DOUBLE TRIANGLE',
 			"\xe2\x8f\xab" => 'BLACK UP-POINTING DOUBLE TRIANGLE',
@@ -1327,6 +1328,7 @@
 			"\xe2\x8c\x9a"=>"\xee\x9c\x9f",
 			"\xe2\x8c\x9b"=>"\xee\x9c\x9c",
 			"\xe2\x8c\xa8"=>"",
+			"\xe2\x8f\x8f"=>"",
 			"\xe2\x8f\xa9"=>"",
 			"\xe2\x8f\xaa"=>"",
 			"\xe2\x8f\xab"=>"",
@@ -2628,6 +2630,7 @@
 			"\xe2\x8c\x9a"=>"\xee\x95\xba",
 			"\xe2\x8c\x9b"=>"\xee\x95\xbb",
 			"\xe2\x8c\xa8"=>"",
+			"\xe2\x8f\x8f"=>"",
 			"\xe2\x8f\xa9"=>"\xee\x94\xb0",
 			"\xe2\x8f\xaa"=>"\xee\x94\xaf",
 			"\xe2\x8f\xab"=>"\xee\x95\x85",
@@ -3929,6 +3932,7 @@
 			"\xe2\x8c\x9a"=>"",
 			"\xe2\x8c\x9b"=>"",
 			"\xe2\x8c\xa8"=>"",
+			"\xe2\x8f\x8f"=>"",
 			"\xe2\x8f\xa9"=>"\xee\x88\xbc",
 			"\xe2\x8f\xaa"=>"\xee\x88\xbd",
 			"\xe2\x8f\xab"=>"",
@@ -5230,6 +5234,7 @@
 			"\xe2\x8c\x9a"=>"\xf3\xbe\x80\x9d",
 			"\xe2\x8c\x9b"=>"\xf3\xbe\x80\x9c",
 			"\xe2\x8c\xa8"=>"",
+			"\xe2\x8f\x8f"=>"",
 			"\xe2\x8f\xa9"=>"\xf3\xbe\xab\xbe",
 			"\xe2\x8f\xaa"=>"\xf3\xbe\xab\xbf",
 			"\xe2\x8f\xab"=>"\xf3\xbe\xac\x83",
@@ -8609,6 +8614,7 @@
 			"\xe2\x8c\x9a"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji231a\x22></span></span>",
 			"\xe2\x8c\x9b"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji231b\x22></span></span>",
 			"\xe2\x8c\xa8"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji2328\x22></span></span>",
+			"\xe2\x8f\x8f"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji23cf\x22></span></span>",
 			"\xe2\x8f\xa9"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji23e9\x22></span></span>",
 			"\xe2\x8f\xaa"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji23ea\x22></span></span>",
 			"\xe2\x8f\xab"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji23eb\x22></span></span>",
@@ -9892,7 +9898,7 @@
 			"\xf0\x9f\x91\xa9\xe2\x80\x8d\xe2\x9d\xa4\xef\xb8\x8f\xe2\x80\x8d\xf0\x9f\x91\xa9"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji1f469200d2764fe0f200d1f469\x22></span></span>",
 			"\xf0\x9f\x91\xa9\xe2\x80\x8d\xe2\x9d\xa4\xef\xb8\x8f\xe2\x80\x8d\xf0\x9f\x92\x8b\xe2\x80\x8d\xf0\x9f\x91\xa9"=>"<span class=\x22emoji-outer emoji-sizer\x22><span class=\x22emoji-inner emoji1f469200d2764fe0f200d1f48b200d1f469\x22></span></span>",
 		),
-		'prefixes' => array(
+		'prefixes_unified' => array(
 			"\xc2\xa9",
 			"\xc2\xae",
 			"\xe2\x80",
@@ -9929,6 +9935,36 @@
 			"7\xe2",
 			"8\xe2",
 			"9\xe2",
+		),
+		'prefixes_not_unified' => array(
+			"\xee\x9c",
+			"\xee\x9a",
+			"\xee\x99",
+			"\xee\x9b",
+			"\xee\x98",
+			"\xee\x9d",
+			"\xee\x95",
+			"\xee\xac",
+			"\xee\x94",
+			"\xee\xad",
+			"\xee\x96",
+			"\xee\x91",
+			"\xee\x92",
+			"\xee\x93",
+			"\xee\xaa",
+			"\xee\x97",
+			"\xee\xae",
+			"\xee\xab",
+			"\xee\x89",
+			"\xee\x88",
+			"\xee\x80",
+			"\xee\x90",
+			"\xee\x81",
+			"\xee\x84",
+			"\xee\x8c",
+			"\xee\x85",
+			"\xee\x8d",
+			"\xf3\xbe",
 		),
 	);
 
@@ -9968,9 +10004,15 @@
 		return $GLOBALS['emoji_maps']['names'][$unified_cp] ? $GLOBALS['emoji_maps']['names'][$unified_cp] : '?';
 	}
 
-	function emoji_contains_emoji($text){
+	function emoji_contains_emoji($text, $search_for_unified = true){
+
+		if ($search_for_unified) {
+			$path = 'prefixes_unified';
+		} else {
+			$path = 'prefixes_not_unified';
+		}
 
 		$count = 0;
-		str_replace($GLOBALS['emoji_maps']['prefixes'], '00', $text, $count);
+		str_replace($GLOBALS['emoji_maps'][$path], '00', $text, $count);
 		return $count > 0;
 	}

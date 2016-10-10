@@ -27,8 +27,13 @@
 
 	$maps["unified_to_html"]	= make_html_map($catalog);
 
-	$maps["prefixes"]		= fetch_prefixes($maps['names']);
-
+	$maps["prefixes_unified"] = fetch_prefixes($maps['names']);
+	$maps["prefixes_not_unified"] = fetch_prefixes(array_merge(
+		$maps["docomo_to_unified"],
+		$maps["kddi_to_unified"],
+		$maps["softbank_to_unified"],
+		$maps["google_to_unified"]
+	));
 
 	#
 	# output
