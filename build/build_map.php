@@ -9,21 +9,23 @@
 
 	$maps = array();
 
-	$maps['names']		= make_names_map($catalog);
+	$maps['names']		= make_mapping($catalog, 'unified', 'name');
 	$maps['kaomoji']	= get_all_kaomoji($catalog);
 
 	#fprintf(STDERR, "fix Geta Mark ()  '〓' (U+3013)\n");
 	#$catalog = fix_geta_mark($catalog);
 
-	$maps["unified_to_docomo"]	= make_mapping($catalog, 'docomo');
-	$maps["unified_to_kddi"]	= make_mapping($catalog, 'au');
-	$maps["unified_to_softbank"]	= make_mapping($catalog, 'softbank');
-	$maps["unified_to_google"]	= make_mapping($catalog, 'google');
+	$maps["unified_to_docomo"]	= make_mapping($catalog, 'unified', 'docomo');
+	$maps["unified_to_kddi"]	= make_mapping($catalog, 'unified', 'au');
+	$maps["unified_to_softbank"]	= make_mapping($catalog, 'unified', 'softbank');
+	$maps["unified_to_google"]	= make_mapping($catalog, 'unified', 'google');
+	$maps["unified_to_shortname"]	= make_mapping($catalog, 'unified', 'short_name');
 
-	$maps["docomo_to_unified"]	= make_mapping_flip($catalog, 'docomo');
-	$maps["kddi_to_unified"]	= make_mapping_flip($catalog, 'au');
-	$maps["softbank_to_unified"]	= make_mapping_flip($catalog, 'softbank');
-	$maps["google_to_unified"]	= make_mapping_flip($catalog, 'google');
+	$maps["docomo_to_unified"]	= make_mapping($catalog, 'docomo', 'unified');
+	$maps["kddi_to_unified"]	= make_mapping($catalog, 'au', 'unified');
+	$maps["softbank_to_unified"]	= make_mapping($catalog, 'softbank', 'unified');
+	$maps["google_to_unified"]	= make_mapping($catalog, 'google', 'unified');
+	$maps["shortname_to_unified"]	= make_mapping($catalog, 'short_names', 'unified');
 
 	$maps["unified_to_html"]	= make_html_map($catalog);
 
@@ -103,19 +105,6 @@
 		return array_keys($arr);
 	}
 
-	function make_names_map($map){
-
-		$out = array();
-		foreach ($map as $row){
-
-			$bytes = unicode_bytes($row['unified']);
-
-			$out[$bytes] = $row['name'];
-		}
-
-		return $out;
-	}
-
 	function make_html_map($map){
 
 		$out = array();
@@ -130,31 +119,37 @@
 		return $out;
 	}
 
-	function make_mapping($mapping, $dest){
+	function is_codepoint_field($field_name){
+		return in_array($field_name, array('unified', 'variations', 'docomo', 'au', 'softbank', 'google'));
+	}
+
+	function make_mapping($mapping, $src, $dest){
 
 		$result = array();
 
 		foreach ($mapping as $map){
+			if (empty($map[$src]))
+				continue;
 
-			$src_char = unicode_bytes($map['unified']);
+			$src_chars = is_array($map[$src]) ? $map[$src] : array($map[$src]);
 
-			if (!empty($map[$dest])){
+			foreach ($src_chars as $src_char){
 
-				$dest_char = unicode_bytes($map[$dest]);
-			}else{
-				$dest_char = '';
+				if (is_codepoint_field($src))
+					$src_char = unicode_bytes($src_char);
+
+				if (!empty($map[$dest])){
+
+					$dest_char = is_codepoint_field($dest) ? unicode_bytes($map[$dest]) : $map[$dest];
+				}else{
+					$dest_char = '';
+				}
+
+				$result[$src_char] = $dest_char;
+
 			}
-
-			$result[$src_char] = $dest_char;
 		}
 
-		return $result;
-	}
-
-	function make_mapping_flip($mapping, $src){
-		$result = make_mapping($mapping, $src);
-		$result = array_flip($result);
-		unset($result[""]);
 		return $result;
 	}
 
