@@ -25,7 +25,7 @@
 	$test_kddi	= "Hello ".utf8_bytes(0xE490);
 	$test_google	= "Hello ".utf8_bytes(0xFE02C);
 
-	$test_html	= "Hello <span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji2649\"></span></span>";
+	$test_html	= "Hello ".test_html(2649);
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
 	is(emoji_kddi_to_unified($test_kddi),		$test_unified, "KDDI -> Unified");
@@ -105,6 +105,17 @@
 	is(emoji_contains_emoji('hello world'),						false, "does not contain emoji");
 
 
+	echo "#------------------\n";
+
+
+	#
+	# deal with modifiers correctly
+	#
+
+	is(emoji_unified_to_html("\xE2\x9D\xA4"),		test_html('2764'),		"no modifier");
+	is(emoji_unified_to_html("\xE2\x9D\xA4\xEF\xB8\x8F"),	test_html('2764'),		"image modifier");
+	is(emoji_unified_to_html("\xE2\x9D\xA4\xEF\xB8\x8E"),	"\xE2\x9D\xA4\xEF\xB8\x8E",	"text modifier");
+
 
 
 	#
@@ -167,4 +178,8 @@
 			# 1 byte
 			return chr($cp);
 		}
+	}
+
+	function test_html($codepoint){
+		return "<span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji{$codepoint}\"></span></span>";
 	}
