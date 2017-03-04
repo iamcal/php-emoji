@@ -71,7 +71,7 @@ table tbody td {
 	foreach ($GLOBALS['emoji_maps']['names'] as $unified => $name){
 
 		echo "\t<tr>\n";
-		echo "\t\t<td>{$GLOBALS['emoji_maps']['unified_to_html'][$unified]}</td>\n";
+		echo "\t\t<td><span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji{$GLOBALS['emoji_maps']['unified_to_html'][$unified]}\"></span></span></td>\n";
 		echo "\t\t<td>".HtmlSpecialChars(StrToLower($name))."</td>\n";
 		echo "\t\t<td>".format_bytes($unified)."</td>\n";
 		echo "\t\t<td>".format_bytes($GLOBALS['emoji_maps']['unified_to_docomo'][$unified])."</td>\n";

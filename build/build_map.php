@@ -26,6 +26,7 @@
 	$maps["google_to_unified"]	= make_mapping_flip($catalog, 'google');
 
 	$maps["unified_to_html"]	= make_html_map($catalog);
+	$maps["unified_rx"]		= make_html_rx($maps["unified_to_html"]);
 
 	$maps["prefixes"]		= fetch_prefixes($maps['names']);
 
@@ -60,6 +61,7 @@
 	foreach ($maps as $k => $v){
 
 		if ($k == 'names') continue;
+		if ($k == 'unified_rx') continue;
 
 		echo "\t\t'$k' => array(\n";
 
@@ -73,6 +75,8 @@
 
 		echo "\t\t),\n";
 	}
+
+	echo "\t\t'unified_rx' => " . var_export($maps['unified_rx'], true) . ",\n";
 
 	echo "\t);\n";
 
@@ -119,15 +123,34 @@
 	function make_html_map($map){
 
 		$out = array();
+
 		foreach ($map as $row){
 
 			$hex = unicode_hex_chars($row['unified']);
 			$bytes = unicode_bytes($row['unified']);
 
-			$out[$bytes] = "<span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji$hex\"></span></span>";
+			$out[$bytes] = $hex;
 		}
 
 		return $out;
+	}
+
+	function make_html_rx($map){
+
+		$rx_bits = array();
+
+		foreach ($map as $bytes => $hex){
+
+			$out = '';
+			for ($i=0; $i<strlen($bytes); $i++){
+				$c = ord(substr($bytes,$i,1));
+				$out .= sprintf('\\x%02x', $c);
+			}
+
+			$rx_bits[] = $out;
+		}
+
+		return '!('.implode('|', $rx_bits).')(\\xEF\\xB8\\x8E|\\xEF\\xB8\\x8F)?!';
 	}
 
 	function make_mapping($mapping, $dest){
