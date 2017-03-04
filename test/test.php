@@ -3,6 +3,8 @@
 
 	header('Content-type: text/plain; charset=UTF-8');
 
+	$GLOBALS['failures'] = 0;
+
 
 	#
 	# this code point was picked on purpose. the conversion from unified to
@@ -104,6 +106,14 @@
 
 
 
+
+	#
+	# exit badly if we didn't pass
+	#
+
+	exit($GLOBALS['failures'] ? 1 : 0);
+
+
 	#
 	# below here are the test helper functions
 	#
@@ -118,6 +128,8 @@
 			echo "not ok # $name\n";
 			echo "# expected : ".byteify($expected)."\n";
 			echo "# got      : ".byteify($got)."\n";
+
+			$GLOBALS['failures']++;
 		}
 	}
 
