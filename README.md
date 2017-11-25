@@ -1,6 +1,7 @@
 # php-emoji - Process Emoji in PHP
 
 [![Build Status](https://travis-ci.org/iamcal/php-emoji.svg?branch=master)](https://travis-ci.org/iamcal/php-emoji)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fiamcal%2Fphp-emoji.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fiamcal%2Fphp-emoji?ref=badge_shield)
 
 This is a PHP library for dealing with Emoji, allowing you to convert between various native formats and displaying them using HTML.
 
@@ -68,3 +69,7 @@ This work is dual-licensed under the GPL v3 and the MIT license.
 * v1.4.0 - 2016-02-15 : Switch to using emoji-data as the backend, at v2.4.0
 * v1.4.1 - 2016-10-06 : Added `emoji_contains_emoji()`, added travis
 * v1.4.2 - 2017-03-03 : Support for unified modifiers when converting to/from HTML only (issue #34)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fiamcal%2Fphp-emoji.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fiamcal%2Fphp-emoji?ref=badge_large)
