@@ -11,3 +11,6 @@ before_install:
   - git submodule update --init --recursive
 
 script: php test/test.php
+
+notifications:
+  webhooks: https://app.fossa.io/hooks/travisci
