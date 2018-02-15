@@ -22,10 +22,14 @@
 	</tr>
 <?php
 	$src = array(
-		array(0x2600),		# BLACK SUN WITH RAYS
+	    array(0x2600),		# BLACK SUN WITH RAYS
+		array(0x2600, 0xFE0F),		# BLACK SUN WITH RAYS
 		array(0x1F494),		# BROKEN HEART (was U+1F493)
 		array(0x1F197),		# OK SIGN (was U+1F502)
-		array(0x32, 0x20E3),	# KEYCAP 2
+	    array(0x32, 0xFE0F, 0x20E3),	# KEYCAP 2
+	    array(0x1F467, 0x1F3FF), #Girl: Dark Skin Tone
+	    array(0x1F468, 0x200D, 0x1F469, 0x200D, 0x1F466, 0x200D, 0x1F466), #Family: Man, Woman, Boy, Boy
+	    array(0x1F469, 0x200D, 0x2764, 0xFE0F, 0x200D, 0x1F48B, 0x200D, 0x1F469) #Kiss: Woman, Woman
 	);
 
 	function utf8_bytes($cp){
