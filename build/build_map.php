@@ -125,11 +125,25 @@
 		$out = array();
 
 		foreach ($map as $row){
-
+		    if(isset($row['skin_variations'])) {
+		        foreach ($row['skin_variations'] as $variation) {
+		            $hex = unicode_hex_chars($variation['unified']);
+		            $bytes = unicode_bytes($variation['unified']);
+		            
+		            $out[$bytes] = $hex;
+		        }
+		    }
+		    
 			$hex = unicode_hex_chars($row['unified']);
 			$bytes = unicode_bytes($row['unified']);
 
 			$out[$bytes] = $hex;
+			
+			if($row['non_qualified']) {
+			    $bytes = unicode_bytes($row['non_qualified']);
+			    
+			    $out[$bytes] = $hex;
+			}
 		}
 
 		return $out;
@@ -149,7 +163,13 @@
 
 			$rx_bits[] = $out;
 		}
-
+		usort($rx_bits, function($a,$b) {
+		   $a = strlen($a);
+		   $b = strlen($b);
+		   if($a == $b) return 0;
+		   if($a < $b) return 1;
+		   if($a > $b) return  -1;
+		});
 		return '!('.implode('|', $rx_bits).')(\\xEF\\xB8\\x8E|\\xEF\\xB8\\x8F)?!';
 	}
 
