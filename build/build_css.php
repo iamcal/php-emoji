@@ -8,6 +8,12 @@
 
 	$max = 0;
 	foreach ($catalog as $item){
+	    if(isset($item['skin_variations'])) {
+	        foreach ($item['skin_variations'] as $variation) {
+	            $max = max($variation['sheet_x'], $max);
+	            $max = max($variation['sheet_y'], $max);
+	        }
+	    }
 		$max = max($item['sheet_x'], $max);
 		$max = max($item['sheet_y'], $max);
 	}
@@ -24,6 +30,17 @@
 		$pos_y = $item['sheet_y'] * $fact;
 
 		echo ".emoji$unilow { background-position: {$pos_x}% {$pos_y}% !important; }\n";
+
+		if(isset($item['skin_variations'])) {
+		    foreach ($item['skin_variations'] as $variation) {
+		        $unilow = unicode_hex_chars($variation['unified']);
+
+		        $pos_x = $variation['sheet_x'] * $fact;
+		        $pos_y = $variation['sheet_y'] * $fact;
+
+		        echo ".emoji$unilow { background-position: {$pos_x}% {$pos_y}% !important; }\n";
+		    }
+		}
 	}
 
 	function unicode_hex_chars($str){
