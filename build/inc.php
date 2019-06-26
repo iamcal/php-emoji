@@ -37,7 +37,7 @@
 	}
 
 	function emoji_html_to_unified($text){
-		return preg_replace_callback("!<span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji([0-9a-f]+)\" data-code=".+?"></span></span>!", function($m){
+		return preg_replace_callback("!<span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji([0-9a-f]+)\" data-code=\".+?\"></span></span>!", function($m){
 			if (isset($GLOBALS['emoji_maps']['html_to_unified'][$m[1]])){
 				return $GLOBALS['emoji_maps']['html_to_unified'][$m[1]];
 			}
