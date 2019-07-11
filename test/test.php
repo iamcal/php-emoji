@@ -25,7 +25,7 @@
 	$test_kddi	= "Hello ".utf8_bytes(0xE490);
 	$test_google	= "Hello ".utf8_bytes(0xFE02C);
 
-	$test_html	= "Hello ".test_html(2649);
+	$test_html	= "Hello ".test_html(2649, "0xe2 0x99 0x89 ");
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
 	is(emoji_kddi_to_unified($test_kddi),		$test_unified, "KDDI -> Unified");
@@ -59,7 +59,7 @@
 	$test_kddi	= "Hello ".utf8_bytes(0xE527);
 	$test_google	= "Hello ".utf8_bytes(0xFE833);
 
-	$test_html	= "Hello <span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji3620e3\"></span></span>";
+	$test_html	= "Hello <span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji36fe0f20e3\" data-code=\"60xe2 0x83 0xa3 \"></span></span>";
 
 
 	is(emoji_docomo_to_unified($test_docomo),	$test_unified, "DoCoMo -> Unified");
@@ -112,8 +112,8 @@
 	# deal with modifiers correctly
 	#
 
-	is(emoji_unified_to_html("\xE2\x9D\xA4"),		test_html('2764'),		"no modifier");
-	is(emoji_unified_to_html("\xE2\x9D\xA4\xEF\xB8\x8F"),	test_html('2764'),		"image modifier");
+	is(emoji_unified_to_html("\xE2\x9D\xA4"),		test_html('2764fe0f', '0xe2 0x9d 0xa4 '),		"no modifier");
+	is(emoji_unified_to_html("\xE2\x9D\xA4\xEF\xB8\x8F"),	test_html('2764fe0f', '0xe2 0x9d 0xa4 0xef 0xb8 0x8f '),		"image modifier");
 	is(emoji_unified_to_html("\xE2\x9D\xA4\xEF\xB8\x8E"),	"\xE2\x9D\xA4\xEF\xB8\x8E",	"text modifier");
 
 
@@ -131,7 +131,7 @@
 
 	function is($got, $expected, $name){
 
-		$passed = ($got === $expected) ? 1 : 0;
+		$passed = ($got == $expected) ? 1 : 0;
 
 		if ($passed){
 			echo "ok # $name\n";
@@ -180,6 +180,7 @@
 		}
 	}
 
-	function test_html($codepoint){
-		return "<span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji{$codepoint}\"></span></span>";
+	function test_html($codepoint, $dataCode){
+//	    $dataCode = utf8_bytes($dataCode);
+		return "<span class=\"emoji-outer emoji-sizer\"><span class=\"emoji-inner emoji{$codepoint}\" data-code=\"{$dataCode}\"></span></span>";
 	}

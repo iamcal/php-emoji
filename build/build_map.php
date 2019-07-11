@@ -114,6 +114,15 @@
 		$out = array();
 		foreach ($map as $row){
 
+            if (!empty($row['skin_variations'])) {
+                foreach ($row['skin_variations'] as $skin_variation) {
+
+                    $bytes = unicode_bytes($skin_variation['unified']);
+
+                    $out[$bytes] = !empty($skin_variation['name']) ? $skin_variation['name'] : $row['name'];
+                }
+            }
+
 			$bytes = unicode_bytes($row['unified']);
 
 			$out[$bytes] = $row['name'];
@@ -180,6 +189,22 @@
 		$result = array();
 
 		foreach ($mapping as $map){
+
+            if (!empty($map['skin_variations'])) {
+                foreach ($map['skin_variations'] as $skin_variation) {
+
+                    $src_char = unicode_bytes($skin_variation['unified']);
+
+                    if (!empty($skin_variation[$dest])){
+
+                        $dest_char = unicode_bytes($skin_variation[$dest]);
+                    }else{
+                        $dest_char = '';
+                    }
+
+                    $result[$src_char] = $dest_char;
+                }
+            }
 
 			$src_char = unicode_bytes($map['unified']);
 
