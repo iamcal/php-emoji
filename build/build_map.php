@@ -19,11 +19,13 @@
 	$maps["unified_to_kddi"]	= make_mapping($catalog, 'au');
 	$maps["unified_to_softbank"]	= make_mapping($catalog, 'softbank');
 	$maps["unified_to_google"]	= make_mapping($catalog, 'google');
+    $maps["unified_to_non_qualified"]  = make_mapping($catalog, 'non_qualified');
 
 	$maps["docomo_to_unified"]	= make_mapping_flip($catalog, 'docomo');
 	$maps["kddi_to_unified"]	= make_mapping_flip($catalog, 'au');
 	$maps["softbank_to_unified"]	= make_mapping_flip($catalog, 'softbank');
 	$maps["google_to_unified"]	= make_mapping_flip($catalog, 'google');
+    $maps["non_qualified_to_unified"]  = make_mapping_flip($catalog, 'non_qualified');
 
 	$maps["unified_to_html"]	= make_html_map($catalog);
 	$maps["unified_rx"]		= make_html_rx($maps["unified_to_html"]);
@@ -112,6 +114,15 @@
 		$out = array();
 		foreach ($map as $row){
 
+            if (!empty($row['skin_variations'])) {
+                foreach ($row['skin_variations'] as $skin_variation) {
+
+                    $bytes = unicode_bytes($skin_variation['unified']);
+
+                    $out[$bytes] = !empty($skin_variation['name']) ? $skin_variation['name'] : $row['name'];
+                }
+            }
+
 			$bytes = unicode_bytes($row['unified']);
 
 			$out[$bytes] = $row['name'];
@@ -125,11 +136,25 @@
 		$out = array();
 
 		foreach ($map as $row){
+		    if(isset($row['skin_variations'])) {
+		        foreach ($row['skin_variations'] as $variation) {
+		            $hex = unicode_hex_chars($variation['unified']);
+		            $bytes = unicode_bytes($variation['unified']);
+
+		            $out[$bytes] = $hex;
+		        }
+		    }
 
 			$hex = unicode_hex_chars($row['unified']);
 			$bytes = unicode_bytes($row['unified']);
 
 			$out[$bytes] = $hex;
+
+			if($row['non_qualified']) {
+			    $bytes = unicode_bytes($row['non_qualified']);
+
+			    $out[$bytes] = $hex;
+			}
 		}
 
 		return $out;
@@ -149,7 +174,13 @@
 
 			$rx_bits[] = $out;
 		}
-
+		usort($rx_bits, function($a,$b) {
+		   $a = strlen($a);
+		   $b = strlen($b);
+		   if($a == $b) return 0;
+		   if($a < $b) return 1;
+		   if($a > $b) return  -1;
+		});
 		return '!('.implode('|', $rx_bits).')(\\xEF\\xB8\\x8E|\\xEF\\xB8\\x8F)?!';
 	}
 
@@ -158,6 +189,22 @@
 		$result = array();
 
 		foreach ($mapping as $map){
+
+            if (!empty($map['skin_variations'])) {
+                foreach ($map['skin_variations'] as $skin_variation) {
+
+                    $src_char = unicode_bytes($skin_variation['unified']);
+
+                    if (!empty($skin_variation[$dest])){
+
+                        $dest_char = unicode_bytes($skin_variation[$dest]);
+                    }else{
+                        $dest_char = '';
+                    }
+
+                    $result[$src_char] = $dest_char;
+                }
+            }
 
 			$src_char = unicode_bytes($map['unified']);
 
