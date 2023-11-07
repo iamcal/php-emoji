@@ -12,7 +12,8 @@
         }
     ],
     "require": {
-        "php": ">=5.0"
+        "php": ">=5.0",
+        "ext-json": "*"
     },
     "autoload": {
         "files": ["lib/emoji.php"]
